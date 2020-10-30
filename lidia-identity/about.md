@@ -37,6 +37,3 @@ You can find a sample implementation of the scenario above [here](usage/code-sam
 If you have questions or you need help, please use the link below to reach possible communication channels.
 
 {% page-ref page="../support.md" %}
-
-
-

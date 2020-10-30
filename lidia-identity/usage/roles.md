@@ -81,6 +81,7 @@ The status of the role. Possible values are:
 {% endapi-method-request %}
 
 {% api-method-response %}
+Test test
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 Cake successfully retrieved.
