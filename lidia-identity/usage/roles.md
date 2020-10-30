@@ -84,21 +84,21 @@ The status of the role. Possible values are:
 Test test
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+Role successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+{    "name": "Role1"}
 ```
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}
 {% api-method-response-example-description %}
-Could not find a cake matching this query.
+Operation failed.
 {% endapi-method-response-example-description %}
 
 ```
-{    "message": "Ain't no cake like that."}
+{    "message": "Role could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -182,11 +182,15 @@ The status of the role to be updated. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
+{% endapi-method-response-example-description %}
 
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Operation failed.
 {% endapi-method-response-example-description %}
 
 ```
-
+{    "message": "Role could not updated. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -199,27 +203,35 @@ Remove Role
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+This endpoint allows you to remove roles.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RoleId" type="integer" required=true %}
 
 {% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
 {% endapi-method-response-example-description %}
+{% endapi-method-response-example %}
 
-```
-
-```
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Operation failed.
+{% endapi-method-response-example-description %}
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
