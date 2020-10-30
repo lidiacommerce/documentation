@@ -81,21 +81,15 @@ The status of the role. Possible values are:
 {% endapi-method-request %}
 
 {% api-method-response %}
-Test test
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Role successfully retrieved.
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
-
 ```
-{    "name": "Role1"}
+{"name": "Role1"}
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Operation failed.
-{% endapi-method-response-example-description %}
 
 ```
 {    "message": "Role could not received. Try again."}
