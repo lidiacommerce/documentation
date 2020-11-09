@@ -178,7 +178,7 @@ The status of the role to be updated. Possible values are:
 {% api-method-response-example-description %}
 {% endapi-method-response-example-description %}
 
-{% api-method-response-example httpCode=404 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 Operation failed.
 {% endapi-method-response-example-description %}
