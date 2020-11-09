@@ -211,21 +211,27 @@ Identifies the client \(your application\). By using this parameter we know who 
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="RoleId" type="integer" required=true %}
-
+{% api-method-parameter name="RoleId" type="int" required=true %}
+This is your Role Id to be deleted. \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
+```
+The role deleted successfully
+```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Operation failed.
-{% endapi-method-response-example-description %}
+
+```
+{    "message": "Role could not deleted. Try again."}
+```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
