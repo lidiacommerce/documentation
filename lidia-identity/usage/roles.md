@@ -67,24 +67,26 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 ```
 {"name": "Role1"}
 ```
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{    "message": "Role could not updated. Try again."}
+```
 {% endapi-method-response-example %}
 
-
-```
-{    "message": "Role could not received. Try again."}
-```
-{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/create" %}
 {% api-method-summary %}
-Update Role
+Create Role
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to update roles.
+This endpoint allows you to create roles.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -92,6 +94,10 @@ This endpoint allows you to update roles.
 {% api-method-form-data-parameters %}
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedRoleId" type="int" required=true %}
+Identifies the related role id.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="AppKey" type="string" required=true %}
@@ -108,10 +114,6 @@ The name of the environment on your side \(mainly used to separate calls of your
 
 {% api-method-parameter name="SourceRoleCode" type="string" required=false %}
 If you have an Id for this role on your side please provide it here.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="RoleId" type="int" required=true %}
-The related role id.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="Name" type="string" required=true %}
@@ -134,17 +136,20 @@ The status of the role. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
-
+```
+{"name": "Role1"}
+```
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Operation failed.
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
-
 ```
 {    "message": "Role could not updated. Try again."}
 ```
 {% endapi-method-response-example %}
+
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -186,9 +191,12 @@ The role deleted successfully
 ```
 {% endapi-method-response-example %}
 
-
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
 ```
-{    "message": "Role could not deleted. Try again."}
+The role coudn't delete
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
