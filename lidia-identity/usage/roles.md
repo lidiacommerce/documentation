@@ -78,13 +78,13 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/create" %}
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
 {% api-method-summary %}
-Create Role
+Update Role
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to create roles.
+This endpoint allows you to update roles.
 {% endapi-method-description %}
 
 {% api-method-spec %}
