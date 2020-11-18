@@ -67,15 +67,13 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 ```
 {"name": "Role1"}
 ```
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
-{% endapi-method-response-example-description %}
-```
-{    "message": "Role could not updated. Try again."}
-```
 {% endapi-method-response-example %}
 
+
+```
+{    "message": "Role could not received. Try again."}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -139,17 +137,16 @@ The status of the role. Possible values are:
 All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
 ```
-{"name": "Role1"}
-```
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
-{% endapi-method-response-example-description %}
-```
-{    "message": "Role could not updated. Try again."}
+{    "message": "Role updated succesfully."}
+
 ```
 {% endapi-method-response-example %}
 
+
+```
+{    "message": "Role could not received. Try again."}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -187,16 +184,14 @@ This is your Role Id to be deleted. \(or application secret you might have seen 
 All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
 ```
-The role deleted successfully
+{    "message": "Role deleted succesfully."}
+
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
-{% endapi-method-response-example-description %}
+
 ```
-The role coudn't delete
+{    "message": "Role could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
