@@ -81,14 +81,18 @@ FirstName of the user.
 The Password of the user.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Status" type="string" required=false %}
+{% api-method-parameter name="TimeStamp" type="datetime" required=true %}
+The TimeStamp 
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Status" type="string" required=true %}
 The status of the consent. Possible values are:  
 -1 - Passive   
  0 - Draft  
  1 - Active
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Activity" type="string" required=false %}
+{% api-method-parameter name="Activity" type="string" required=true %}
 The status of the consent. Possible values are:  
  100 - Given   
  -100 - Revoked
@@ -127,10 +131,6 @@ This endpoint allows you to update consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="ConsentId" type="int" required=true %}
-Identifies the related consent id.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -147,11 +147,19 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
+{% api-method-parameter name="ConsentId" type="int" required=true %}
+Related Consent Id
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserId" type="int" required=true %}
 Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="RelatedUserToken" type="string" required=false %}
+{% api-method-parameter name="RelatedUserToken" type="string" required=true %}
+Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserIp" type="string" required=true %}
 Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
 {% endapi-method-parameter %}
 
@@ -185,11 +193,21 @@ FirstName of the user.
 The Password of the user.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Status" type="string" required=false %}
+{% api-method-parameter name="TimeStamp" type="datetime" required=true %}
+The TimeStamp 
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Status" type="string" required=true %}
 The status of the consent. Possible values are:  
 -1 - Passive   
  0 - Draft  
  1 - Active
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Activity" type="string" required=true %}
+The status of the consent. Possible values are:  
+ 100 - Given   
+ -100 - Revoked
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -239,6 +257,10 @@ This is your unique application key \(or application secret you might have seen 
 
 {% api-method-parameter name="ConsentId" type="int" required=true %}
 This is related consent Id.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserId" type="int" required=true %}
+This is related user id.
 {% endapi-method-parameter %}
 
 {% endapi-method-form-data-parameters %}

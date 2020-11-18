@@ -38,40 +38,19 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="UserId" type="string" required=false %}
-Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="UserToken" type="string" required=false %}
-Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="UserIP" type="string" required=false %}
-The IP of the user triggering this API call.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
-Details about why and how to use **ThreadId** you can find here.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="SourceRoleCode" type="string" required=false %}
 If you have an Id for this role on your side please provide it here.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Name" type="string" required=false %}
+{% api-method-parameter name="Name" type="string" required=true %}
 The name of the role
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Description" type="string" required=false %}
+{% api-method-parameter name="Description" type="string" required=true %}
 The description of the role
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Status" type="string" required=false %}
+{% api-method-parameter name="Status" type="string" required=true %}
 The status of the role. Possible values are:  
 -1 - Passive   
  0 - Draft  
@@ -127,46 +106,25 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="UserId" type="string" required=false %}
-Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="UserToken" type="string" required=false %}
-Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="UserIP" type="string" required=false %}
-The IP of the user triggering this API call.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
-Details about why and how to use **ThreadId** you can find here.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="SourceRoleCode" type="string" required=false %}
-
+If you have an Id for this role on your side please provide it here.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="RoleId" type="integer" required=true %}
-
+{% api-method-parameter name="RoleId" type="int" required=true %}
+The related role id.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Name" type="string" required=false %}
-The name of the role to be updated.
+{% api-method-parameter name="Name" type="string" required=true %}
+The name of the role
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Description" type="string" required=false %}
-The description of the role to be updated.
+{% api-method-parameter name="Description" type="string" required=true %}
+The description of the role
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Status" type="string" required=false %}
-The status of the role to be updated. Possible values are:  
--1 - Passive  
+{% api-method-parameter name="Status" type="string" required=true %}
+The status of the role. Possible values are:  
+-1 - Passive   
  0 - Draft  
  1 - Active
 {% endapi-method-parameter %}
