@@ -107,7 +107,7 @@ Update User
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to update users.
+This endpoint allows you to create users.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -129,11 +129,12 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="UserId" type="string" required=false %}
-Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
-{% endapi-method-parameter %}
 
 {% api-method-parameter name="CitizenId" type="int" required=false %}
+CitizenId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserId" type="int" required=true %}
 CitizenId
 {% endapi-method-parameter %}
 
@@ -179,15 +180,16 @@ The status of the role to be updated. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
 {% endapi-method-response-example-description %}
+```
+{"name": "User1"}
+```
+{% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Operation failed.
-{% endapi-method-response-example-description %}
 
 ```
-{    "message": "User could not updated. Try again."}
+{    "message": "User could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -243,7 +245,7 @@ The user deleted successfully
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-//////////////////////////////////////////////////////////////////////////////////////////////////////
+
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/role/add" %}
 {% api-method-summary %}
 Add User Role
@@ -308,7 +310,7 @@ The userrole added successfully!
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-----------------------------------------------------------------------------------------------------------------
+
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/role/delete" %}
 {% api-method-summary %}
 Delete User Role
