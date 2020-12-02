@@ -503,8 +503,6 @@ The document deleted successfully
 {% endapi-method-spec %}
 {% endapi-method %}
 
--------------
-
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consents/document/publisher/create" %}
 {% api-method-summary %}
 Create Consent Document Publisher
