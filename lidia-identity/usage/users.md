@@ -721,3 +721,64 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 {% endapi-method %}
 
 
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/adress/remove" %}
+{% api-method-summary %}
+Remove User Adress
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to remove user adress.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=false %}
+The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserIP" type="string" required=false %}
+The IP of the user triggering this API call.
+{% endapi-method-parameter %}
+
+
+{% api-method-parameter name="AdressId" type="int" required=true %}
+Adress Id to be deleted.
+{% endapi-method-parameter %}
+
+
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{"The user adress deleted successfully"}
+```
+{% endapi-method-response-example %}
+
+
+```
+{    "message": "User adress could not deleted. Try again."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
