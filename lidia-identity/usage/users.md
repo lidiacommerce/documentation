@@ -452,4 +452,137 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 {% endapi-method-spec %}
 {% endapi-method %}
 
+-----
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/adress/add" %}
+{% api-method-summary %}
+Create User Adress
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to create user adress.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=false %}
+The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserIP" type="string" required=false %}
+The IP of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserId" type="int" required=true %}
+User Id making the request
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="FirstName" type="string" required=true %}
+The related user's first name.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="LastName" type="string" required=true %}
+The related user's last name.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SourceRelatedUserCode" type="string" required=true %}
+SourceRelatedUserCode
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Title" type="string" required=true %}
+The title of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Name" type="string" required=true %}
+The name of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Neighborhood" type="string" required=true %}
+The neighborhood of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="City" type="string" required=true %}
+The city of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="StreetAddress" type="string" required=true %}
+The streetaddress of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="District" type="string" required=true %}
+The district of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Region" type="string" required=true %}
+The region of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Country" type="string" required=true %}
+The country of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Phone" type="string" required=true %}
+The phone of the related user.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ZipCode" type="string" required=true %}
+The country of the new adress.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=false %}
+The session Id of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ThreadId" type="string" required=false %}
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+Details about why and how to use **ThreadId** you can find here.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="TimeStamp" type="datetime" required=false %}
+TimeStamp
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Status" type="string" required=false %}
+The status of the user adress to be created. Possible values are:  
+-1 - Passive  
+ 0 - Draft  
+ 1 - Active
+{% endapi-method-parameter %}
+
+
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{"The user adress added successfully"}
+```
+{% endapi-method-response-example %}
+
+
+```
+{    "message": "User adress could not added. Try again."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 
