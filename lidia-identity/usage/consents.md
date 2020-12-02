@@ -695,7 +695,6 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 {% endapi-method-spec %}
 {% endapi-method %}
 
--------------------------
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consents/document/publisher/remove" %}
 {% api-method-summary %}
