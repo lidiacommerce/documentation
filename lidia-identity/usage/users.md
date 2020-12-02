@@ -782,3 +782,84 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 {% endapi-method %}
 
 
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/logins/add" %}
+{% api-method-summary %}
+Create User Login
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to create users logins.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Token" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=false %}
+The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserId" type="int" required=true %}
+The related user id.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SourceRelatedUserCode" type="string" required=true %}
+SourceRelatedUserCode
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Provider" type="string" required=true %}
+Provider
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ProviderKey" type="string" required=true %}
+ProviderKey
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=false %}
+The session Id of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ThreadId" type="string" required=false %}
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+Details about why and how to use **ThreadId** you can find here.
+{% endapi-method-parameter %}
+
+
+{% api-method-parameter name="Status" type="string" required=false %}
+The status of the userlogin to be created. Possible values are:  
+-1 - Passive  
+ 0 - Draft  
+ 1 - Active
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{"name": "UserLogin1"}
+```
+{% endapi-method-response-example %}
+
+
+```
+{    "message": "UserLogin could not received. Try again."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
