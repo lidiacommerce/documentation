@@ -373,3 +373,83 @@ The userrole deleted successfully!
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/password/update" %}
+{% api-method-summary %}
+Update User Password
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to update user password.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=false %}
+The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserIP" type="string" required=false %}
+The IP of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserId" type="int" required=true %}
+User Id making the request
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserId" type="int" required=true %}
+UserId to be updated.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=false %}
+The session Id of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ThreadId" type="string" required=false %}
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+Details about why and how to use **ThreadId** you can find here.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="TimeStamp" type="datetime" required=false %}
+TimeStamp
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="PasswordHash" type="string" required=true %}
+Encrypted user password to be updated
+{% endapi-method-parameter %}
+
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{"The password updated successfully"}
+```
+{% endapi-method-response-example %}
+
+
+```
+{    "message": "User password could not updated. Try again."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
