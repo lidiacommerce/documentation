@@ -22,6 +22,10 @@ This endpoint allows you to create users.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="Email" type="string" required=false %}
+Email of the new user.
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
