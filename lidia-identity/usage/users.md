@@ -103,7 +103,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -209,7 +209,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -340,7 +340,7 @@ The userrole added successfully!
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -406,7 +406,7 @@ The userrole deleted successfully!
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -489,7 +489,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -619,7 +619,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -753,7 +753,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -901,7 +901,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1096,7 +1096,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1222,7 +1222,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1383,7 +1383,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1465,7 +1465,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1543,7 +1543,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
@@ -1614,7 +1614,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=302 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 
 {% endapi-method-response-example-description %}
