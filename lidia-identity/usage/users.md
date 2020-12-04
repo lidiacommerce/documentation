@@ -436,6 +436,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"The password updated successfully"}
+{"Error try again"}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
