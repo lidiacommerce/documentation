@@ -522,10 +522,6 @@ The phone of the related user.
 The country of the new adress.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ThreadId" type="string" required=false %}
 The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
@@ -648,10 +644,6 @@ The phone of the related user.
 
 {% api-method-parameter name="ZipCode" type="string" required=true %}
 The zipcode of the adress to be updated.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
@@ -971,10 +963,6 @@ The Phone of the new billing info.
 The Phone of the new billing info.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ThreadId" type="string" required=false %}
 The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
@@ -1089,10 +1077,6 @@ The Phone of the new billing info.
 
 {% api-method-parameter name="ZipCode" type="string" required=true %}
 The Phone of the new billing info.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
@@ -1236,10 +1220,6 @@ The extras of property
 The User Id to be matched
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ThreadId" type="string" required=false %}
 The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
@@ -1312,10 +1292,6 @@ The SourcePropertCode
 The User Id to be matched
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ThreadId" type="string" required=false %}
 The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
@@ -1384,10 +1360,6 @@ The value of tag
 The User Id to be matched
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="ThreadId" type="string" required=false %}
 The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
@@ -1454,10 +1426,6 @@ The Related Tag Id.
 
 {% api-method-parameter name="RelatedUserId" type="int" required=true %}
 The User Id to be matched
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="SessionId" type="string" required=false %}
-The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
