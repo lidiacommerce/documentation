@@ -34,12 +34,19 @@ This is your unique application key \(or application secret you might have seen 
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Environment" type="string" required=false %}
+{% api-method-parameter name="Environment" type="string" required=true %}
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
+{% api-method-parameter name="Firstname" type="string" required=true %}
+This is Firstname of user to be created.
+{% endapi-method-parameter %}
 
-{% api-method-parameter name="CitizenId" type="int" required=false %}
+{% api-method-parameter name="Lastname" type="string" required=true %}
+This is Lastname of user to be created.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="CitizenId" type="string" required=false %}
 CitizenId
 {% endapi-method-parameter %}
 
@@ -129,13 +136,21 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
+{% api-method-parameter name="Firstname" type="string" required=true %}
+This is Firstname of user to be created.
+{% endapi-method-parameter %}
 
-{% api-method-parameter name="CitizenId" type="int" required=false %}
+{% api-method-parameter name="Lastname" type="string" required=true %}
+This is Lastname of user to be created.
+{% endapi-method-parameter %}
+
+
+{% api-method-parameter name="CitizenId" type="string" required=false %}
 CitizenId
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="RelatedUserId" type="int" required=true %}
-CitizenId
+Related user's id
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="Phone Number" type="string" required=false %}
@@ -939,6 +954,128 @@ All Lidia Commerce API responses (including the ones with errors/problems) use H
 
 ```
 {    "message": "UserLogin could not deleted. Try again."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/billinginfo/add" %}
+{% api-method-summary %}
+Create User Billing Ýnfo
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint allows you to create users billing infos.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ClientId" type="string" required=true %}
+Identifies the client \(your application\). By using this parameter we know who is calling our API function.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Token" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=false %}
+The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SourceRelatedUserCode" type="string" required=false %}
+SourceRelatedUserCode
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SourceBillingInfoCode" type="string" required=false %}
+SourceBillingInfoCode
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SourceBillingInfoCode" type="string" required=false %}
+SourceBillingInfoCode
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="RelatedUserId" type="int" required=true %}
+The User Id to be matched
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Name" type="string" required=true %}
+The name of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Title" type="string" required=true %}
+The title of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="StreetAdress" type="string" required=true %}
+The StreetAdress of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="District" type="string" required=true %}
+The District of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Neighborhood" type="string" required=true %}
+The Neighborhood of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="City" type="string" required=true %}
+The City of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Region" type="string" required=true %}
+The Region of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Country" type="string" required=true %}
+The Country of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Phone" type="string" required=true %}
+The Phone of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ZipCode" type="string" required=true %}
+The Phone of the new billing info.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=false %}
+The session Id of the user triggering this API call.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ThreadId" type="string" required=false %}
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+Details about why and how to use **ThreadId** you can find here.
+{% endapi-method-parameter %}
+
+
+{% api-method-parameter name="Status" type="string" required=false %}
+The status of the billinginfo to be created. Possible values are:  
+-1 - Passive  
+ 0 - Draft  
+ 1 - Active
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+{% endapi-method-response-example-description %}
+```
+{"name": "Bill1ngInfo1"}
+```
+{% endapi-method-response-example %}
+
+
+```
+{    "message": "Billing info could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
