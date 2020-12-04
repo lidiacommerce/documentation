@@ -102,6 +102,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "User1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -198,6 +208,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "User1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -240,6 +260,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 The user deleted successfully
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -309,6 +339,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 The userrole added successfully!
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -363,6 +403,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 The userrole deleted successfully!
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -436,6 +486,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"The password updated successfully"}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -556,6 +616,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"The user adress added successfully"}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -682,6 +752,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"The user adress updated successfully"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -732,6 +812,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"The user adress deleted successfully"}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -808,6 +898,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"name": "UserLogin1"}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -995,6 +1095,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "Bill1ngInfo1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -1111,6 +1221,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "Bill1ngInfo1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -1178,6 +1298,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"Billing info deleted successfully."}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -1252,6 +1382,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "Property1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -1324,6 +1464,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "Property1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -1392,6 +1542,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {"name": "Tag1"}
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -1451,6 +1611,16 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"The tag deleted successfully."}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
