@@ -258,6 +258,14 @@ This endpoint allows you to add user roles.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+UserToken
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Environment" type="string" required=true %}
+Environment
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -270,7 +278,7 @@ This is your unique application key \(or application secret you might have seen 
 This is your User Id to be matched.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="RelatedRoleId" type="int" required=true %}
+{% api-method-parameter name="RoleId" type="int" required=true %}
 This is your Role Id to be matched.
 {% endapi-method-parameter %}
 
