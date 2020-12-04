@@ -1399,7 +1399,7 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/tags/add" %}
 {% api-method-summary %}
-Add User Tag
+Remove User Tag
 {% endapi-method-summary %}
 
 {% api-method-description %}
