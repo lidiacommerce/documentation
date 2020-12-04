@@ -6,9 +6,9 @@ description: 'Lidia Identity manages roles, users, authentication and consents'
 
 Lidia Identity is an API-first product exposing functions to manage roles, users and consents. Details about these concepts you can find [here](concepts.md).
 
-In order to use Lidia Identity you should create a new account on [Lidia Commerce Platform website](https://www.lidiacommerce.com) and start a subscription for this product. After a successful registration you will get an e-mail confirming your login credentials for the [Lidia Commerce Platform Administration Interface](https://app.lidiacommerce.com). 
+In order to use Lidia Identity you should create a new account on [Lidia Commerce Platform website](https://www.lidiacommerce.com) and start a subscription for this product. After a successful registration you will get an e-mail confirming your login credentials for the [Lidia Commerce Platform Administration Interface](https://app.lidiacommerce.com).
 
-Before using Lidia Identity API, you have to log in to the Lidia Commerce Administration Interface with your credentials, **create your application** and get your **ClientId** and **AppKey**. 
+Before using Lidia Identity API, you have to log in to the Lidia Commerce Administration Interface with your credentials, **create your application** and get your **ClientId** and **AppKey**.
 
 For more details about registration and creating your applications please click the link below:
 
@@ -37,3 +37,4 @@ You can find a sample implementation of the scenario above [here](usage/code-sam
 If you have questions or you need help, please use the link below to reach possible communication channels.
 
 {% page-ref page="../support.md" %}
+

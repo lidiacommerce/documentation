@@ -75,16 +75,15 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the role to be updated. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -92,16 +91,11 @@ The status of the role to be updated. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "User1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -144,7 +138,6 @@ This is Firstname of user to be created.
 This is Lastname of user to be created.
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="CitizenId" type="string" required=false %}
 CitizenId
 {% endapi-method-parameter %}
@@ -178,16 +171,15 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the role to be updated. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -195,16 +187,11 @@ The status of the role to be updated. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "User1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -238,23 +225,17 @@ This is your User Id to be deleted. \(or application secret you might have seen 
 {% api-method-parameter name="SourceRelatedUserCode" type="string" required=false %}
 SourceRelatedUserCode
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 The user deleted successfully
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -300,26 +281,20 @@ Extra
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the userrole to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 The userrole added successfully!
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User Role could not created. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -365,23 +340,17 @@ SourceRoleCode
 {% api-method-parameter name="RoleName" type="string" required=false %}
 RoleName
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 The userrole deleted successfully!
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User Role could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -433,7 +402,7 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
 
@@ -444,29 +413,22 @@ TimeStamp
 {% api-method-parameter name="PasswordHash" type="string" required=true %}
 Encrypted user password to be updated
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"The password updated successfully"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User password could not updated. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/adress/add" %}
 {% api-method-summary %}
@@ -561,7 +523,7 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
 
@@ -572,33 +534,25 @@ TimeStamp
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the user adress to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
-
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"The user adress added successfully"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User adress could not added. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/adress/update" %}
 {% api-method-summary %}
@@ -661,7 +615,7 @@ The name of the adress to be updated.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="Neighborhood" type="string" required=true %}
-The neighborhood  adress to be updated.
+The neighborhood adress to be updated.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="City" type="string" required=true %}
@@ -697,7 +651,7 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
 
@@ -708,33 +662,25 @@ TimeStamp
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the user adress to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
-
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"The user adress updated successfully"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User adress could not updated. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/adress/remove" %}
 {% api-method-summary %}
@@ -768,34 +714,25 @@ The name of the environment on your side \(mainly used to separate calls of your
 The IP of the user triggering this API call.
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="AdressId" type="int" required=true %}
 Adress Id to be deleted.
 {% endapi-method-parameter %}
-
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"The user adress deleted successfully"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "User adress could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/logins/add" %}
 {% api-method-summary %}
@@ -846,16 +783,15 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the userlogin to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -863,23 +799,16 @@ The status of the userlogin to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "UserLogin1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "UserLogin could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/logins/remove" %}
 {% api-method-summary %}
@@ -934,26 +863,20 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"User login deleted successfully"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "UserLogin could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -1049,16 +972,15 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the billinginfo to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -1066,22 +988,16 @@ The status of the billinginfo to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "Bill1ngInfo1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Billing info could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/billinginfo/update" %}
 {% api-method-summary %}
@@ -1176,16 +1092,15 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the billinginfo to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -1193,22 +1108,16 @@ The status of the billinginfo to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "Bill1ngInfo1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Billing info could not updated. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/billinginfo/remove" %}
 {% api-method-summary %}
@@ -1259,32 +1168,25 @@ The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"Billing info deleted successfully."}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Billing info could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/properties/add" %}
 {% api-method-summary %}
@@ -1330,22 +1232,20 @@ The extras of property
 The User Id to be matched
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="SessionId" type="string" required=false %}
 The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the property to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -1353,22 +1253,16 @@ The status of the property to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "Property1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Property could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/properties/remove" %}
 {% api-method-summary %}
@@ -1398,7 +1292,6 @@ The authentication token returned to you if you use the OAuth2 protocol \(curren
 The name of the environment on your side \(mainly used to separate calls of your dev, staging or prod environments\).
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="RelatedUserId" type="int" required=true %}
 The User Id to be matched
 {% endapi-method-parameter %}
@@ -1415,23 +1308,20 @@ The SourcePropertCode
 The User Id to be matched
 {% endapi-method-parameter %}
 
-
-
 {% api-method-parameter name="SessionId" type="string" required=false %}
 The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the property to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -1439,23 +1329,16 @@ The status of the property to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "Property1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Property could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/tags/add" %}
 {% api-method-summary %}
@@ -1497,22 +1380,20 @@ The value of tag
 The User Id to be matched
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="SessionId" type="string" required=false %}
 The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="Status" type="string" required=false %}
 The status of the tag to be created. Possible values are:  
 -1 - Passive  
- 0 - Draft  
- 1 - Active
+0 - Draft  
+1 - Active
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
@@ -1520,22 +1401,16 @@ The status of the tag to be created. Possible values are:
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"name": "Tag1"}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Tag could not received. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
 
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/users/tags/add" %}
 {% api-method-summary %}
@@ -1573,41 +1448,32 @@ The User Id to be matched
 The Related Tag Id.
 {% endapi-method-parameter %}
 
-
 {% api-method-parameter name="RelatedUserId" type="int" required=true %}
 The User Id to be matched
 {% endapi-method-parameter %}
-
 
 {% api-method-parameter name="SessionId" type="string" required=false %}
 The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ThreadId" type="string" required=false %}
-The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.   
+The unique thread Id to observe sub function calls of the same process. If you do not provide this, the API will create a new one and use it.  
 Details about why and how to use **ThreadId** you can find here.
 {% endapi-method-parameter %}
-
-
-
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-All Lidia Commerce API responses (including the ones with errors/problems) use HTTP 200 by default. 
+All Lidia Commerce API responses \(including the ones with errors/problems\) use HTTP 200 by default.
 {% endapi-method-response-example-description %}
-```
+
+```text
 {"The tag deleted successfully."}
-```
-{% endapi-method-response-example %}
-
-
-```
-{    "message": "Tag could not deleted. Try again."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
