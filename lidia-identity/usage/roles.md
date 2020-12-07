@@ -156,6 +156,10 @@ This endpoint allows you to remove roles.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="UserId" type="string" required=false %}
+The auth user id
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserToken" type="string" required=true %}
 The authentication token
 {% endapi-method-parameter %}
