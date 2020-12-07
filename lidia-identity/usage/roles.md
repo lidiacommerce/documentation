@@ -30,7 +30,7 @@ Identifies the client \(your application\). By using this parameter we know who 
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Token" type="string" required=false %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
@@ -50,7 +50,7 @@ The name of the role
 The description of the role
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Status" type="string" required=true %}
+{% api-method-parameter name="Status" type="string" required=false %}
 The status of the role. Possible values are:  
 -1 - Passive  
 0 - Draft  
@@ -85,6 +85,10 @@ This endpoint allows you to update roles.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The session Id
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -97,7 +101,7 @@ Identifies the related role id.
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Token" type="string" required=false %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
@@ -152,6 +156,10 @@ This endpoint allows you to remove roles.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The authentication token
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -174,6 +182,134 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {    "message": "Role deleted succesfully."}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/roles/update" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=false %}
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
