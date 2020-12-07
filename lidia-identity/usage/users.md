@@ -22,7 +22,11 @@ This endpoint allows you to create users.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="Email" type="string" required=false %}
+{% api-method-parameter name="MobileNumber" type="string" required=false %}
+The mobile number of new user
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Email" type="string" required=true %}
 Email of the new user.
 {% endapi-method-parameter %}
 
@@ -34,7 +38,7 @@ Identifies the client \(your application\). By using this parameter we know who 
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Token" type="string" required=false %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
