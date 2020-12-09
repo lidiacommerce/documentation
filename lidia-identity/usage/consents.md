@@ -330,7 +330,7 @@ Version of document
 Validity start date of the document
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="ValidTo" type="datetime" required=false %}
+{% api-method-parameter name="ValidTo" type="datetime" required=true %}
 Validity end date of the document
 {% endapi-method-parameter %}
 
