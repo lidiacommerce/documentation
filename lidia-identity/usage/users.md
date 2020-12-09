@@ -222,6 +222,10 @@ This endpoint allows you to remove users.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The user token 
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
