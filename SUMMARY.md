@@ -24,6 +24,7 @@
 * [Concepts](lidia-metadata/concepts.md)
 * [Installation](lidia-metadata/installation.md)
 * [Usage](lidia-metadata/usage/README.md)
+  * [Metadata](lidia-metadata/usage/metadata.md)
   * [Pool](lidia-metadata/usage/pool.md)
   * [Live](lidia-metadata/usage/live.md)
   * [Presentation](lidia-metadata/usage/presentation.md)
