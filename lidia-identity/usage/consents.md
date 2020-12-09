@@ -116,8 +116,6 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
-
 {% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consent/update" %}
 {% api-method-summary %}
 Update Consent
@@ -130,6 +128,10 @@ This endpoint allows you to update consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="ValidUntil" type="string" required=true %}
+The valid until of related consent
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -166,7 +168,7 @@ Identifies the application user triggering this API call. If the user is **not**
 Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="ValidForm" type="string" required=false %}
+{% api-method-parameter name="ValidForm" type="string" required=true %}
 Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
 {% endapi-method-parameter %}
 
@@ -174,7 +176,7 @@ Identifies the application user triggering this API call. If the user is **not**
 The IP of the user triggering this API call.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="SessionId" type="string" required=false %}
+{% api-method-parameter name="SessionId" type="string" required=true %}
 The session Id of the user triggering this API call.
 {% endapi-method-parameter %}
 
@@ -236,6 +238,10 @@ This endpoint allows you to remove consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The SessionId
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserToken" type="string" required=true %}
 The UserToken
 {% endapi-method-parameter %}
