@@ -10,7 +10,7 @@ Below you will find all you need to manage user consents in your application.
 Please note that in order to use these API functions you will need a valid **ClientId** and **AppKey** which you can get after you sign up on Lidia Commerce Platform website and subscribe for
 {% endhint %}
 
-{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consents/create" %}
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consents/add" %}
 {% api-method-summary %}
 Create User Consents
 {% endapi-method-summary %}
@@ -22,6 +22,14 @@ This endpoint allows you to create user consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="ValidUntil" type="string" required=true %}
+The valid until date of the userconsent
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ValidFrom" type="string" required=true %}
+The valid from date of the userconsent
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -30,7 +38,7 @@ Identifies the client \(your application\). By using this parameter we know who 
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Token" type="string" required=true %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
@@ -40,10 +48,6 @@ The name of the environment on your side \(mainly used to separate calls of your
 
 {% api-method-parameter name="UserId" type="int" required=true %}
 Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="RelatedUserToken" type="string" required=false %}
-Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="RelatedUserIp" type="string" required=false %}
@@ -106,6 +110,38 @@ All Lidia Commerce API responses \(including the ones with errors/problems\) use
 
 ```text
 {"name": "Consent1"}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-identity.lidiacommerce.com" path="/consents/add" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="ValidFrom" type="string" required=true %}
+The valid from date of the userconsent
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
