@@ -22,13 +22,6 @@ This endpoint allows you to create user consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="ValidUntil" type="string" required=true %}
-The valid until date of the userconsent
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="ValidFrom" type="string" required=true %}
-The valid from date of the userconsent
-{% endapi-method-parameter %}
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
@@ -52,6 +45,14 @@ Identifies the application user triggering this API call. For For audit purposes
 
 {% api-method-parameter name="RelatedUserIp" type="string" required=false %}
 Identifies the application user triggering this API call. If the user is **not** authenticated please provide a unique token which should be the same across different API calls triggered by the same user. If the user if authenticated please use UserId field.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ValidUntil" type="string" required=true %}
+The valid until date of the userconsent
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ValidFrom" type="string" required=true %}
+The valid from date of the userconsent
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="Scope" type="string" required=false %}
@@ -128,9 +129,6 @@ This endpoint allows you to update consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="ValidUntil" type="string" required=true %}
-The valid until of related consent
-{% endapi-method-parameter %}
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
@@ -140,7 +138,7 @@ Identifies the client \(your application\). By using this parameter we know who 
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="Token" type="string" required=true %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
 The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
@@ -154,6 +152,10 @@ Related Consent Id
 
 {% api-method-parameter name="UserId" type="int" required=true %}
 Identifies the application user triggering this API call. For For audit purposes please provide the ID of the user currently logged in to your application.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ValidUntil" type="string" required=true %}
+The valid until of related consent
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="RelatedUserToken" type="string" required=true %}
@@ -252,6 +254,14 @@ Identifies the client \(your application\). By using this parameter we know who 
 
 {% api-method-parameter name="AppKey" type="string" required=true %}
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The SessionId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ConsentId" type="int" required=true %}
@@ -460,9 +470,7 @@ This endpoint allows you to update consent documents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
-{% endapi-method-parameter %}
+
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
@@ -470,6 +478,10 @@ Identifies the client \(your application\). By using this parameter we know who 
 
 {% api-method-parameter name="AppKey" type="string" required=true %}
 This is your unique application key \(or application secret you might have seen on other API documents\) which we provide you once your are successful subscribed to Lidia Identity.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="DocumentId" type="int" required=true %}
