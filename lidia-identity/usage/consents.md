@@ -245,7 +245,7 @@ The SessionId
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
@@ -261,7 +261,7 @@ The SessionId
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ConsentId" type="int" required=true %}
@@ -301,7 +301,7 @@ This endpoint allows you to create consent documents.
 {% api-method-request %}
 {% api-method-form-data-parameters %}
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
@@ -384,7 +384,7 @@ This endpoint allows you to update consent documents.
 {% api-method-request %}
 {% api-method-form-data-parameters %}
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="ClientId" type="string" required=true %}
@@ -481,7 +481,7 @@ This is your unique application key \(or application secret you might have seen 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="DocumentId" type="int" required=true %}

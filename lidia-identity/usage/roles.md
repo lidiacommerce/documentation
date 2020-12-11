@@ -175,7 +175,7 @@ The auth user id
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The authentication token
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="RoleId" type="int" required=true %}

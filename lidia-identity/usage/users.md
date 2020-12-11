@@ -283,7 +283,7 @@ This is your unique application key \(or application secret you might have seen 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="Environment" type="string" required=true %}
@@ -352,7 +352,7 @@ This is your unique application key \(or application secret you might have seen 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The user token
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="RelatedUserId" type="int" required=true %}
@@ -414,7 +414,7 @@ This is your unique application key \(or application secret you might have seen 
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=true %}
-The UserToken
+The authentication token returned to you if you use the OAuth2 protocol \(currently not in use\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="UserToken" type="string" required=false %}
