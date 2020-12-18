@@ -85,14 +85,14 @@ The ShortDescription
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="LongDescription" type="string" required=false %}
-
+The LongDescription
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="CategoryType" type="string" required=false %}
 The Category type
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="ProductId" type="integer" required=false %}
+{% api-method-parameter name="CategoryId" type="integer" required=false %}
 Related product's Id
 {% endapi-method-parameter %}
 
@@ -132,9 +132,9 @@ The UserToken
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://api-metadata.lidiacommerce.com/categories/update" path="" %}
+{% api-method method="post" host="https://api-metadata.lidiacommerce.com/categories/delete" path="" %}
 {% api-method-summary %}
-
+Delete Category
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -144,6 +144,22 @@ The UserToken
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="CategoryId" type="integer" required=false %}
+The related Category Id
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ClientId" type="string" required=true %}
+The ClientId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+The AppKey
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="ShortDescription" type="string" required=false %}
 The ShortDescription
 {% endapi-method-parameter %}

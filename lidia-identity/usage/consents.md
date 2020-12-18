@@ -22,7 +22,6 @@ This endpoint allows you to create user consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -129,7 +128,6 @@ This endpoint allows you to update consents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
@@ -470,8 +468,6 @@ This endpoint allows you to update consent documents.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-
-
 {% api-method-parameter name="ClientId" type="string" required=true %}
 Identifies the client \(your application\). By using this parameter we know who is calling our API function.
 {% endapi-method-parameter %}
