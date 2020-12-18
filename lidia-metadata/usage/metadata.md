@@ -12,6 +12,10 @@ This endpoint allows you to create new category.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="Environment" type="string" required=false %}
+The Environment
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="LongDescription" type="string" required=false %}
 The long description of new product.
 {% endapi-method-parameter %}
@@ -158,10 +162,6 @@ The ClientId
 
 {% api-method-parameter name="AppKey" type="string" required=true %}
 The AppKey
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="ShortDescription" type="string" required=false %}
-The ShortDescription
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
