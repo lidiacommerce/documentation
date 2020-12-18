@@ -84,6 +84,10 @@ This endpoint allows you to update categories.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="ERPCODE" type="string" required=false %}
+The related product's erp code.
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="Environment" type="string" required=false %}
 The Environment
 {% endapi-method-parameter %}
