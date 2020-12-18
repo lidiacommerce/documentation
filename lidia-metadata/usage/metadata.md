@@ -152,6 +152,10 @@ Delete Category
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="Environment" type="string" required=true %}
+The Environment
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserToken" type="string" required=true %}
 The UserToken
 {% endapi-method-parameter %}
