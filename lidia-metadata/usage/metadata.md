@@ -312,3 +312,149 @@ The related product's id.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+
+{% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/products/delete" path="" %}
+{% api-method-summary %}
+Delete Product
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The SessionId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ClientId" type="string" required=true %}
+The ClientId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+The AppKey
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ProductId" type="integer" required=true %}
+The related product's id.
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/products/delete" path="" %}
+{% api-method-summary %}
+Delete Product
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The SessionId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ClientId" type="string" required=true %}
+The ClientId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+The AppKey
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ProductId" type="integer" required=true %}
+The related product's id.
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
+{% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/products/delete" path="" %}
+{% api-method-summary %}
+Delete Product
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-form-data-parameters %}
+{% api-method-parameter name="UserToken" type="string" required=true %}
+The UserToken
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="SessionId" type="string" required=true %}
+The SessionId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ClientId" type="string" required=true %}
+The ClientId
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="AppKey" type="string" required=true %}
+The AppKey
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ProductId" type="integer" required=true %}
+The related product's id.
+{% endapi-method-parameter %}
+{% endapi-method-form-data-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
