@@ -472,7 +472,6 @@ The related categoryproduct id.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
 {% api-method method="post" host="https://api-metadata.lidiacommerce.com/categories/product/delete" path="" %}
 {% api-method-summary %}
 Create Product Variant
@@ -485,6 +484,10 @@ Create Product Variant
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="VariantId" type="integer" required=true %}
+The related variant id
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserToken" type="string" required=true %}
 The UserToken
 {% endapi-method-parameter %}
@@ -501,8 +504,8 @@ The ClientId
 The AppKey
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="CategoryProductId" type="integer" required=true %}
-The related categoryproduct id.
+{% api-method-parameter name="ProductId" type="integer" required=true %}
+The related product id
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
