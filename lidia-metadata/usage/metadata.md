@@ -314,7 +314,7 @@ The related product's id.
 
 {% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/categories/product/create" path="" %}
 {% api-method-summary %}
-Update Category Status
+Create Categoy Product
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -324,7 +324,11 @@ Update Category Status
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
-{% api-method-parameter name="ProductId" type="string" required=false %}
+{% api-method-parameter name="Category Product Id" type="string" required=false %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="ProductId" type="string" required=true %}
 The Related ProductId
 {% endapi-method-parameter %}
 
@@ -366,7 +370,7 @@ The related product's id.
 
 {% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/products/delete" path="" %}
 {% api-method-summary %}
-Delete Product
+Update Category Product
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -376,6 +380,14 @@ Delete Product
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-form-data-parameters %}
+{% api-method-parameter name="CategoryProductId" type="string" required=true %}
+The related category product id
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Category Id" type="string" required=true %}
+The Related Category Id
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="UserToken" type="string" required=true %}
 The UserToken
 {% endapi-method-parameter %}
@@ -412,9 +424,9 @@ The related product's id.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://api-metadata.lidiacommerce.com/metadatas/products/delete" path="" %}
+{% api-method method="post" host="https://api-metadata.lidiacommerce.com/categories/product/delete" path="" %}
 {% api-method-summary %}
-Delete Product
+Delete Category Product
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -440,8 +452,8 @@ The ClientId
 The AppKey
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="ProductId" type="integer" required=true %}
-The related product's id.
+{% api-method-parameter name="CategoryProductId" type="integer" required=true %}
+The related categoryproduct id.
 {% endapi-method-parameter %}
 {% endapi-method-form-data-parameters %}
 {% endapi-method-request %}
