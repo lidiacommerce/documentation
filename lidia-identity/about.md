@@ -12,8 +12,8 @@ Before using Lidia Identity API, you have to log in to the Lidia Commerce Admini
 
 For more details about registration and creating your applications please click the link below:
 
-{% content-ref url="../platform/onboarding.md" %}
-[onboarding.md](../platform/onboarding.md)
+{% content-ref url="../on-boarding.md" %}
+[on-boarding.md](../on-boarding.md)
 {% endcontent-ref %}
 
 If you have a valid Lidia Identity subscription, you will the following options when you log in to the administration interface of Lidia Commerce Platform:

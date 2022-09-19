@@ -6,7 +6,7 @@
 ## Platform
 
 * [About](platform/about.md)
-* [On-boarding](platform/onboarding.md)
+* [On-boarding](on-boarding.md)
 * [Documentation](platform/documentation.md)
 
 ## Lidia Console
@@ -15,7 +15,8 @@
 * [Features](lidia-console/features.md)
 * [Roadmap](lidia-console/roadmap.md)
 * [Documentation](lidia-console/documentation/README.md)
-  * [Türkçe](lidia-console/documentation/turkce.md)
+  * [Türkçe](lidia-console/documentation/turkce/README.md)
+    * [Hızlı Başlangıç](lidia-console/documentation/turkce/hizli-baslangic.md)
   * [English](lidia-console/documentation/english.md)
 
 ## Lidia Merchant Console
