@@ -1,12 +1,36 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Overview](overview.md)
+* [Quick guide](quick-guide.md)
+* [Methodology](methodology/README.md)
+  * [Techie Store Inc.](methodology/techie-store-inc..md)
 * [Support](support.md)
 
 ## Platform
 
 * [About](platform/about.md)
 * [On-boarding](on-boarding.md)
+* [Architecture](platform/architecture/README.md)
+  * [Services](platform/architecture/services/README.md)
+    * [Lidia Identity](platform/architecture/services/lidia-identity.md)
+    * [Lidia Metadata](platform/architecture/services/lidia-metadata.md)
+    * [Lidia Inventory](platform/architecture/services/lidia-inventory.md)
+    * [Lidia Content](platform/architecture/services/lidia-content.md)
+    * [Lidia Order](platform/architecture/services/lidia-order.md)
+    * [Lidia Marketing](platform/architecture/services/lidia-marketing.md)
+    * [Lidia Organization](platform/architecture/services/lidia-organization.md)
+    * [Lidia Subscription](platform/architecture/services/lidia-subscription.md)
+    * [Lidia Case](platform/architecture/services/lidia-case.md)
+    * [Lidia Search](platform/architecture/services/lidia-search.md)
+    * [Lidia Social](platform/architecture/services/lidia-social.md)
+    * [Lidia Procurement](platform/architecture/services/lidia-procurement.md)
+    * [Lidia Analytics](platform/architecture/services/lidia-analytics.md)
+    * [Lidia Commander](platform/architecture/services/lidia-commander.md)
+    * [Lidia Delivery](platform/architecture/services/lidia-delivery.md)
+    * [Lidia Notification](platform/architecture/services/lidia-notification.md)
+    * [Lidia Collector](platform/architecture/services/lidia-collector.md)
+    * [Lidia Document](platform/architecture/services/lidia-document.md)
 * [Documentation](platform/documentation.md)
 
 ## Lidia Console
@@ -36,9 +60,3 @@
 * [Documentation](lidia-pim/documentation/README.md)
   * [Türkçe](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)
-
-## Lidia Identity
-
-* [About](lidia-identity/about.md)
-* [Versions](lidia-identity/versions.md)
-* [Concepts](lidia-identity/concepts.md)

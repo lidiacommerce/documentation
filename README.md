@@ -1,6 +1,6 @@
 ---
-description: Welcome to Lidia Commerce Platform developer website
+description: Welcome to Lidia Commerce Platform documentation.
 ---
 
-# Lidia Commerce Platform
+# Welcome
 
