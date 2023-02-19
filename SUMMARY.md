@@ -2,7 +2,6 @@
 
 * [Welcome](README.md)
 * [Overview](overview.md)
-* [Quick guide](quick-guide.md)
 * [Methodology](methodology/README.md)
   * [Techie Store Inc.](methodology/techie-store-inc..md)
 * [Support](support.md)
@@ -13,7 +12,7 @@
 * [On-boarding](on-boarding.md)
 * [Architecture](platform/architecture/README.md)
   * [Services](platform/architecture/services/README.md)
-    * [Lidia Identity](platform/architecture/services/lidia-identity.md)
+    * [Lidia Identity](lidia-identity/about.md)
     * [Lidia Metadata](platform/architecture/services/lidia-metadata.md)
     * [Lidia Inventory](platform/architecture/services/lidia-inventory.md)
     * [Lidia Content](platform/architecture/services/lidia-content.md)
