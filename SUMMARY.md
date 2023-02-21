@@ -30,8 +30,13 @@
     * [Lidia Notification](platform/architecture/services/lidia-notification.md)
     * [Lidia Collector](platform/architecture/services/lidia-collector.md)
     * [Lidia Document](platform/architecture/services/lidia-document.md)
-* [Documentation](platform/documentation/README.md)
+* [Documentation](platform/documentation.md)
   * [Türkçe](platform/documentation/tuerkce.md)
+  * [English](platform/documentation/english/README.md)
+    * [Data Model](platform/documentation/english/data-model.md)
+    * [Provider Selection](platform/documentation/english/provider-selection.md)
+    * [Deployment Models](platform/documentation/english/deployment-models.md)
+    * [High Level Architecture](platform/documentation/english/high-level-architecture.md)
 
 ## Lidia Console
 
