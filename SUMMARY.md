@@ -30,7 +30,8 @@
     * [Lidia Notification](platform/architecture/services/lidia-notification.md)
     * [Lidia Collector](platform/architecture/services/lidia-collector.md)
     * [Lidia Document](platform/architecture/services/lidia-document.md)
-* [Documentation](platform/documentation.md)
+* [Documentation](platform/documentation/README.md)
+  * [Türkçe](platform/documentation/tuerkce.md)
 
 ## Lidia Console
 
