@@ -45,6 +45,7 @@
 ## Lidia Merchant Console
 
 * [About](lidia-merchant-console/about.md)
+* [Dashboard](lidia-merchant-console/dashboard.md)
 * [Features](lidia-merchant-console/features.md)
 * [Roadmap](lidia-merchant-console/roadmap.md)
 * [Documentation](lidia-merchant-console/documentation/README.md)
