@@ -37,6 +37,7 @@
     * [Provider Selection](platform/documentation/english/provider-selection.md)
     * [Deployment Models](platform/documentation/english/deployment-models.md)
     * [High Level Architecture](platform/documentation/english/high-level-architecture.md)
+    * [Licensing Flow](platform/documentation/english/licensing-flow.md)
 
 ## Lidia Console
 
