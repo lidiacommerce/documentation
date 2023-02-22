@@ -1,3 +1,7 @@
+---
+description: This article describes Licensing Flow of Lidia Platform.
+---
+
 # Licensing Flow
 
 ## 1. Application Unit

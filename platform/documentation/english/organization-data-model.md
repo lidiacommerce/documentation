@@ -1,3 +1,7 @@
+---
+description: This article describes organization data model.
+---
+
 # Organization- Data Model
 
 ## Organizations
