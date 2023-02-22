@@ -32,14 +32,7 @@
     * [Lidia Document](platform/architecture/services/lidia-document.md)
 * [Documentation](platform/documentation.md)
   * [Türkçe](platform/documentation/tuerkce.md)
-  * [English](platform/documentation/english/README.md)
-    * [Licensing Flow](platform/documentation/english/licensing-flow.md)
-    * [Document-Data Model](platform/documentation/english/document-data-model.md)
-    * [Organization- Data Model](platform/documentation/english/organization-data-model.md)
-    * [Provider Selection](platform/documentation/english/provider-selection.md)
-    * [Deployment Models](platform/documentation/english/deployment-models.md)
-    * [High Level Architecture](platform/documentation/english/high-level-architecture.md)
-    * [Microservice Structure](platform/documentation/english/microservice-structure.md)
+  * [English](platform/documentation/english.md)
 
 ## Lidia Console
 
