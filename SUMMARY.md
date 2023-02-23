@@ -37,7 +37,8 @@
 ## Lidia Console
 
 * [About](lidia-console/about.md)
-* [Features](lidia-console/features.md)
+* [Features](lidia-console/features/README.md)
+  * [Merchant Features Overview](lidia-console/features/merchant-features-overview.md)
 * [Roadmap](lidia-console/roadmap.md)
 * [Documentation](lidia-console/documentation/README.md)
   * [Türkçe](lidia-console/documentation/turkce/README.md)
