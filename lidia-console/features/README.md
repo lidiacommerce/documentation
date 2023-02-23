@@ -37,6 +37,6 @@ When you log in to the Lidia console with the e-mail and password you received w
 
 4. **Use the Application Development Interface (API)**
 
-* Developer Documentation ([https://dev.lidiacommerce.com](../../lidia-merchant-console/about.md))
+* Developer Documentation ([https://dev.lidiacommerce.com](../../overview.md))
 * Code Sample
 * API Key
