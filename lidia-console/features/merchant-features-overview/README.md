@@ -1,5 +1,5 @@
 ---
-description: In this document describes the features for merchant in Lidia Console.
+description: This document describes the features of Merchant Console.
 ---
 
 # Merchant Features Overview
