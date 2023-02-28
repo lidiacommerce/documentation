@@ -39,7 +39,7 @@ You can check all the listing criteria in the system from this page. You can add
 
 The page where you can manage all the products in the system. On this page, you can add new products, edit and delete the products you have added. You can also manage product features, images, basic information and other products related to the product while editing products.
 
-<figure><img src="../../../.gitbook/assets/product (2).png" alt=""><figcaption><p>Example Products Screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/product.png" alt=""><figcaption><p>Example Products Screen</p></figcaption></figure>
 
 ## <mark style="color:blue;">6. Variants</mark>
 

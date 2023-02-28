@@ -23,7 +23,7 @@ The page where we can view all product categories in the system. On this page, y
 
 <figure><img src="../../.gitbook/assets/categories.png" alt=""><figcaption><p>Categories Management Screen </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_1 (1).png" alt=""><figcaption><p>Categories Edit Screen </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>Categories Edit Screen </p></figcaption></figure>
 
 ## Brands
 
@@ -41,7 +41,7 @@ You can check all the listing criteria in the system from this page. You can add
 
 The page where you can manage all the products in the system. On this page, you can add new products, edit and delete the products you have added. You can also manage product features, images, basic information and other products related to the product while editing products.
 
-<figure><img src="../../.gitbook/assets/product.png" alt=""><figcaption><p>Products Management Screen </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/product (1).png" alt=""><figcaption><p>Products Management Screen </p></figcaption></figure>
 
 ## Variants
 

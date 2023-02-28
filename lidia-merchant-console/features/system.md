@@ -64,7 +64,7 @@ You might display delivery channels such as cargo and logistic firms.
 * **Product Families**\
   The section where you can manage the data schemes related to the data of the products entered into the system. In this section you can create, edit and delete a new data scheme for each different product.
 
-<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Product Families Drafts**\
   You can create the data schemes that we add in the product families section as a draft in this section.
