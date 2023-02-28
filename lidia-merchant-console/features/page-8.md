@@ -20,6 +20,8 @@ The page where you can manage the warehouses used by the stores in the system. O
 
 <figure><img src="../../.gitbook/assets/warehouses.png" alt=""><figcaption><p>Warehouses Screen</p></figcaption></figure>
 
+You can add new warehouses.
+
 <figure><img src="../../.gitbook/assets/new-warehouses.png" alt=""><figcaption><p>New Warehouse Adding</p></figcaption></figure>
 
 ## Price and Stock
