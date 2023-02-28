@@ -15,7 +15,7 @@ In this section, 4 different operations can be performed.
 
 Sub-headings such as Application ID, Organization, Role and Status can be viewed with the applicant customers and member businesses.
 
-<figure><img src="../../../.gitbook/assets/applications.png" alt=""><figcaption><p>Applications Screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/applications (1).png" alt=""><figcaption><p>Applications Screen</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Merchants</mark>
 
