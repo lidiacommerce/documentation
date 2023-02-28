@@ -39,7 +39,7 @@ You can check the payment options you encounter while making a payment in the sy
 
 This section is where Bank Identification Numbers might be displayed. Helps merchants and payment processors verify the legitimacy of a payment card and ensure that transactions are routed to the correct bank or financial institution for processing.
 
-<figure><img src="../../../.gitbook/assets/bin codes.png" alt=""><figcaption><p>BIN Codes Screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bin codes (1).png" alt=""><figcaption><p>BIN Codes Screen</p></figcaption></figure>
 
 ## <mark style="color:blue;">Logistic Settings</mark>
 
@@ -105,7 +105,7 @@ A page where you can manage the groups where the option values in the system are
 
 On this page, you can add new tags, edit and delete added tags.
 
-<figure><img src="../../../.gitbook/assets/tag management.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tag management (1).png" alt=""><figcaption></figcaption></figure>
 
 5. **Product Relations**
 6. **Data Locks**
