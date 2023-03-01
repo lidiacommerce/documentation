@@ -36,13 +36,12 @@
 
 ## Lidia Console
 
-* [About](lidia-console/about.md)
 * [Features](lidia-console/features.md)
-* [Roadmap](lidia-console/roadmap.md)
 * [Documentation](lidia-console/documentation/README.md)
   * [Türkçe](lidia-console/documentation/turkce/README.md)
     * [Hızlı Başlangıç](lidia-console/documentation/turkce/hizli-baslangic.md)
   * [English](lidia-console/documentation/english.md)
+* [About](lidia-console/about.md)
 
 ## Lidia Merchant Console
 
@@ -62,7 +61,6 @@
   * [Payment Management](lidia-merchant-console/features/page-3.md)
   * [Logistic Management](lidia-merchant-console/features/page-2.md)
   * [Reports](lidia-merchant-console/features/page-1.md)
-* [Roadmap](lidia-merchant-console/roadmap.md)
 * [Documentation](lidia-merchant-console/documentation/README.md)
   * [Türkçe](lidia-merchant-console/documentation/turkce.md)
   * [English](lidia-merchant-console/documentation/english.md)
@@ -71,7 +69,6 @@
 
 * [About](lidia-pim/about.md)
 * [Features](lidia-pim/features.md)
-* [Roadmap](lidia-pim/roadmap.md)
 * [Documentation](lidia-pim/documentation/README.md)
   * [Türkçe](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)
