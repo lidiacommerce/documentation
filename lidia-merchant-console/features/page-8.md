@@ -22,6 +22,10 @@ The page where the stores in the system are listed. On this page, you can view t
 
 The page where you can manage the warehouses used by the stores in the system. On this page, you can create the repository required to create a store, edit and delete previously created repositories.
 
+Warehouse management involves arranging and supervising all aspects of the warehouse to ensure it functions in the most effective way possible.
+
+Typical activities include organizing the warehouse layout, managing inventory and new stock, fulfilling orders through activities such as picking, packing and shipping, and monitoring and enhancing the overall performance of the warehouse.
+
 <figure><img src="../../.gitbook/assets/warehouses.png" alt=""><figcaption><p>Warehouses Screen</p></figcaption></figure>
 
 You can add new warehouses.
