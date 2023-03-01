@@ -1,5 +1,9 @@
 # Inventory Management
 
+Effective inventory management is crucial for businesses to fulfill customer demand. Upon the arrival of goods, inventory management involves receiving, counting, sorting, and organizing stock in an efficient manner.
+
+Having the appropriate inventory management system is vital in preventing the unnecessary storage of surplus inventory, which can lower holding costs. Tracking inventory can be a tedious process if lacking automated and efficient inventory control software.
+
 There are sections where you can manage these inventories. It consists of 3 main parts. These are:
 
 1. Stores

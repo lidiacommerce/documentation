@@ -36,12 +36,12 @@
 
 ## Lidia Console
 
+* [About](lidia-console/about.md)
 * [Quick Start Guide](lidia-console/documentation/turkce/hizli-baslangic.md)
 * [Features](lidia-console/features.md)
 * [Documentation](lidia-console/documentation/README.md)
   * [Türkçe](lidia-console/documentation/turkce/README.md)
   * [English](lidia-console/documentation/english.md)
-* [About](lidia-console/about.md)
 
 ## Lidia Merchant Console
 
