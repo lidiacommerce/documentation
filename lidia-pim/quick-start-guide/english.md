@@ -42,4 +42,33 @@ After logging in, you will be redirected to the homepage.
 
 &#x20;
 
+## Media Management&#x20;
+
+You can manage media in PIM from the media section in the left menu. In this section you can organize your images, videos and documentation.
+
+In the images section you can add new files, rename, delete and view details for the image.
+
+Especially when uploading products, we will use the names of the images we have uploaded as image codes.\
+
+
+<figure><img src="https://lh3.googleusercontent.com/y1RMca_WjFOx1ulqVHDWrSIyCJ-psdBpkN446q0TQo9IPqqy6TumS8cwCjcnYoZ2pIMCkCtPcoiYxNrHcKNlrdr7zJkQoUY7P0CZY8hgGvn9qVAdcVjvl9RePIRNnsjbojgbIpHIe51kBI1v2EGEmVA" alt=""><figcaption><p>Images Screen</p></figcaption></figure>
+
+You can manage all your documents in PIM under **media > documents**.
+
+<figure><img src="https://lh6.googleusercontent.com/hmm9zUBp9nEe_6XECBheLD1azR1ZoS5wmj3qok5mHacgSd6P_JhA2kyLjejxo5tGTq1uzDQYtoK8XMmR052fC7ndh8jsBKs4w1M78OTifDaLFV0sf2zBxHIT3mEY9gE2qTMa4368bxqYNZftJhroXNo" alt=""><figcaption><p>Documents Screen</p></figcaption></figure>
+
+<figure><img src="https://lh4.googleusercontent.com/f1yjNeUVp9DDkTGlcfaEtWuPuLMLE8gXi48OSLlKJFGkJdiwP9mKZJTgu4tejuMng386WZGY2-pegMWoKpQIoNdvIxi5Wew8I1be13X6M5k0mvbI5pQ25GtIwP_EfUd7lcW0BErcFtTTYjHQdd-zAf4" alt=""><figcaption><p>Videos Screen</p></figcaption></figure>
+
+## Adding Products
+
+Before proceeding to the product addition step, we need to define options and option values. **Configuration > catalog > option management > options** from here we add the necessary options such as size and color.\
+\
+
+
+<figure><img src="https://lh3.googleusercontent.com/7mXGLnY_wx1Hyok8q5g_rX4i4-j8OyZ33nVfShyTan8gyufGUatIE3oB4fAADCh6MYX0HcMUo7GhoWga--rn7eNcaLEXWYgFllOJjdrrYgNIOfEFcgIfGv30aMClp75DyXOEj4gmAAs4bUeVgMuWm-o" alt=""><figcaption><p>Options Screen</p></figcaption></figure>
+
+
+
+<figure><img src="https://lh5.googleusercontent.com/GSGVzDhNtaRNkjlk78jyORddjxOdsKcvqxW_gp66bTq_Bu8xlzOAvBKGzumzMnaJqoD5Eb6IiLV1-ivjOsL_NQGxufrsm7kRb6Ls8HyukclkWMvNJH80Enqy4Cl6KSqSk6pGWm-Xa8GrM48Wmtwzh04" alt=""><figcaption><p>Adding New Options Screen </p></figcaption></figure>
+
 \
