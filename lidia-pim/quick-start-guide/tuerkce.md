@@ -14,7 +14,7 @@ Hızlı Başgıç dokümanını aşağıdaki başlıklar halinde inceleyeceğiz:
 6. Yayınlanan Havuzu Kontrol Etme\
 
 
-Giriş
+## Giriş
 
 Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün açıklamaları, özellikler, teknik özellikler, resimler, videolar, fiyatlandırma, ürün belgeleri gibi veriler dahil olmak üzere ürün bilgilerini toplamak, düzenlemek ve işlemek için kullanılır.
 
