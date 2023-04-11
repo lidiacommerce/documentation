@@ -71,4 +71,110 @@ Before proceeding to the product addition step, we need to define options and op
 
 <figure><img src="https://lh5.googleusercontent.com/GSGVzDhNtaRNkjlk78jyORddjxOdsKcvqxW_gp66bTq_Bu8xlzOAvBKGzumzMnaJqoD5Eb6IiLV1-ivjOsL_NQGxufrsm7kRb6Ls8HyukclkWMvNJH80Enqy4Cl6KSqSk6pGWm-Xa8GrM48Wmtwzh04" alt=""><figcaption><p>Adding New Options Screen </p></figcaption></figure>
 
+When adding a product, you must first add the product category and product brand of the product you will add. In the Brands section, you can view and edit the brands you have added before and add new brands.
+
+<figure><img src="https://lh6.googleusercontent.com/43VzcSN6NSoIVe_gYphR4RcVy16WgKnyrT11zm4E7nqSypRbNUPJPRkPoWzHm4WGGkCs2GkD8cTQlGJ1BzxUXjjRclRsz_-HZqWmBr-_pWDDAgZw5HEv8A0EiLp2IaRmI4h_pPj4y5ed6j3TfKDAddo" alt=""><figcaption><p>Brands Screen</p></figcaption></figure>
+
+To add a product brand: **catalog > brands > add new brand** you can add a new brand or you can use the brand you have already added.
+
+
+
+<figure><img src="https://lh5.googleusercontent.com/Cr1FFcH_cjrxpM3BnldRUzRRHvvivj1TvPfbPcgVxz7vze0r_oY3kbJM1VtaNT7H7slVFq13RcOrdF9BRj-tVvZpRq_-dtRuQ3F11fqbzSHh9M0jKRU2igcLJ-qED_0uIs4jnP4TaHmB6j49QRoGhxY" alt=""><figcaption><p>Adding New Brand</p></figcaption></figure>
+
+Another important element when adding a new product is adding a category. When adding a product, you can use an existing category or add a new category.
+
+&#x20;To view categories, you can view, edit and add new categories from: **catalog > categories**.\
+
+
+<figure><img src="https://lh6.googleusercontent.com/VltEhdJiiIMOJTRmMDAUhOXpmvyFLujrLyX3JLqN26lj075fGcstmvLGu3jiuSNbaUj4L0VMDQ30ZEnzXaxxQXpSz0CSCGt1ZPYZgyj4eYJ2lLzDmdlGD86H7rnbjyck6dOBg_Xhq9DYuGzQqbWpQms" alt=""><figcaption><p>Categories Screen</p></figcaption></figure>
+
+
+
+To add a new category: **catalog > categories > add category**. When adding a category, you need to link the category you are adding to a data schema. For example, you should link a computer or a cell phone to the electronics category.
+
+\
+
+
+<figure><img src="https://lh3.googleusercontent.com/UjDSXQTsy69BQX6cE-3RO2lEkP9QoGEBBLCAdaU-W7ajmSWN9KZbATvufo5nOKPkb-LjdjzHDjcjTiLaSM6sRJFARlINO3TDZrs5Rfs7lUqyiKBLdEFMmAJ2KojuBfCYLIa4RUOB6uELL9PaZyLt--A" alt=""><figcaption><p>Adding New Categories</p></figcaption></figure>
+
+Then we add a new data schema from the **configuration > catalog > data schemas** tab. Then we add the fields of the data schema we added. We click on the new field section and after adding the field name and all the necessary information, we create our data schema. After creating our data schema, we can proceed to the product upload step.\
+
+
+<figure><img src="https://lh6.googleusercontent.com/4SbDiadQPW-ES-KGD4K6cz0xZ4_Am17wHDlDyu5OQFRzLbI4ElUsYaYFwHbcSzGE_BZIig3L0dANaHhZaWKSCCcDPJWnwRSvqvbV-VmvteDLkvBqRfGXjvuEEoyqPwLOumfC43l6HNzaCEXBhTxxJI4" alt=""><figcaption><p>Data Schemas Screen</p></figcaption></figure>
+
+
+
+<figure><img src="https://lh5.googleusercontent.com/_8yS7-F5FOm7zFFpBaZlwKp_D6_dfxdmSqufQXeWIs5F7v3kSTOR7D9AWgQzy9D9GnZxYmEg-Axl0mWPzoRs8KeOKf2Rj9aQSWQeVte2Jn8cCSkZtfi5QKs2JERsFNZKMjpW72M_GbGfUY3eY8U_lmE" alt=""><figcaption><p>Adding New Data Schemas</p></figcaption></figure>
+
+After creating the data schema, we go to the **new field** section by clicking on the **edit** section and after adding the fieldf name and all the necessary information, we create our data schema. After creating our data schema, we can proceed to the product upload step.
+
+<figure><img src="https://lh6.googleusercontent.com/rQX8ronH1A1bEppvOY1FMIBUNfAJye3WMUO1xo0nyhflDTR2oAghrsQ4MMK5jxFB2AoqxRvn9UzDNmbJUG7Qeepg4EqG4__l7ZnuTMUtecDmZy7wlZRMcqrPSLPDvVOuQkSluobMaGIZR4GHxT_WwcE" alt=""><figcaption><p>Adding New Fields Section</p></figcaption></figure>
+
+After doing all this, you can view and edit your existing products when you switch to the **catalog > products** section.
+
+<figure><img src="https://lh4.googleusercontent.com/AbL8iYAWeMaRZuzY7plUucmlGoS7r6AN-dqBwnLQvZYYoDOcjQf7z5ZcmW3wTcYAgqxdhL81fuXp6HA77YVGaqe5PiZmZxay6ipyPgFjIK5E40JEPJn_F2jPK_ytqpc5wqSrixdxmwfTgOT5l0pYoDw" alt=""><figcaption><p>Products Screen</p></figcaption></figure>
+
+To add a new product: You can create the new product after adding the necessary information from the **catalog > products > new product** section.
+
+
+
+<figure><img src="https://lh6.googleusercontent.com/VvZH7E3H65hLjWMSop2jopqSIoJUbzg-vAPar1d8I_2avcm-roxWTdGLKapyi3Xv5lEH-089Xdy9vlsWa5Bq3u4px6t2NG3NFiUdEN3HWXpw1rXYxzmhtaJaa4ZqSiK6QdeDeiIdCmjTLD08dYcCszQ" alt=""><figcaption><p>Adding New Product Screen</p></figcaption></figure>
+
+Another method when adding products is to open the **services > pools** tab and log in to the pools. Then we open the pool we want to add a product to. Click on the Edit section.\
+
+
+<figure><img src="https://lh4.googleusercontent.com/IXCvyXLuCskDnoCs9MxK_0W_nv91jS27LJ3bxbw9GHKn3TJHsTM12JWIDKPkd2fpc9CQYo8hCH2maCMalZ8igopgPRWMVBMIFHSuW57eJVx4ca-yD-aWIzFRe30KDOVCaUEJEGS5_T4-R_ChOPNehVg" alt=""><figcaption><p>Pool Lists Screen</p></figcaption></figure>
+
+When we click on the Edit button, the section for importing excel data opens.
+
+<figure><img src="https://lh3.googleusercontent.com/7nXJkyi-xJUjcVejHhqj-LauqwbUnN4zC7UdMmDF0FDiWnhCKG6tuQ-lxr6UKWaVBOl0G0ZOUoohdBIL46bVwRJu6v4RShFhBPJ9LxIgKDDK_JkF9Jg5KpzVLoAz15S4Zf55qXXHGDguyDVNAF7Dw7A" alt=""><figcaption><p>Draft Scheme Download Screen</p></figcaption></figure>
+
+\
+
+
+Click Import data and download the draft data schema. When we open the excel we have downloaded, we are greeted with information about the columns of the excel on the first page. Mandatory and optional fields are displayed here. Mandatory fields are especially important when adding products.
+
+<figure><img src="https://lh4.googleusercontent.com/kN1Kd2l4dMUq1RDdq4bcYzf5uJaEEDqswSjYrY2wYYpxLmwYGCvKgHoqFt8pegG4azVYJiFzMOVtqCEIwXS2PDD_Jey_W80FnBOHOjWG9RdbNVJMPYRDX868iUjKZkWbihrWbDf-NiotbFQzf85N2ow" alt=""><figcaption><p>Draft Schema Informations</p></figcaption></figure>
+
+On page 2, there is a field where we will add product information. On page 2, we fill in the information of the product we will add. Here, the mandatory fields on the first page are indicated in red.
+
+<figure><img src="https://lh5.googleusercontent.com/EwRwKNjJgC4WlNTAKyv13pc3fCztAFYySDUly1ThoWAHwACSFitYnGE2t2MRcPv98EY6IMJs2YT9Y3jC9Gxtiv1mMzW06EEp6fB5g70fEKcmNyIEtVlyHDdUY4rpGplpcnbrz5PFwg3gLspb7PvPo-s" alt=""><figcaption><p>Excel Section Adding Product Information</p></figcaption></figure>
+
+Another important element here is that the size, color code, category and brand information must be defined in the system in advance. After filling in the necessary information, we save the excel and open the PIM pools page. We say import data, then select the excel we have edited.
+
+Click on the Import Excel data section. It will switch to the screen where you view the contents of the file we have uploaded. After checking this screen and deciding that your data is as desired, click confirm.
+
+<figure><img src="https://lh6.googleusercontent.com/6i64co4Qe9BRk7xS2ZvppUfntV56hAlPShGb_6f9T-aHvHevOAvGB0g3PbS7g6_PAD2KB8ymGBfplqQ7VnNnNe1MW0Nht1f3_6349VhOM79fGG9SSTtZeNRLisrynTMVtKnFZQSjcdKNUeMUfTMijBM" alt=""><figcaption><p>Importing Excel Data</p></figcaption></figure>
+
+<figure><img src="https://lh3.googleusercontent.com/BCVLuZhPeFafgeEAYg33u9jYOHk7yTzshsdtMqKlq2XIo6VPZAwStX_W2Iwb2Igl5f559MCjBhqv05vvSgpYALw9fNiYr1VW8rWntM944jKrk6ljf182IbCHvXPaufhbdbQrJgyX59QllgCyr_G-vb0" alt=""><figcaption><p>Data Evaluation Screen</p></figcaption></figure>
+
+## Publish Pool
+
+
+
+When you want to publish the pool you have prepared, go to services > pools > edit tab. Select the products you want to publish. There are 2 methods to select products:&#x20;
+
+1. Holding Ctrl and selecting the products you want to publish&#x20;
+2. Writing 1 to the product status when uploading products with Excel. All products you type 1 will be published.
+
+Then, when you click publish pool, your pool will be published.
+
+\
+
+
+<figure><img src="https://lh3.googleusercontent.com/FQ0Du2DmVZWjg8QdLlq-TMVS5Bzt9qyVYBYV9uhnYBvb2Yly_fl1oiQVyLYwXmosiqESsKqJPax8sopZeyvfDblsUc42F6PLi8dKhUfRroWH2Ia7LX6vKyGng4MOKBRVgD5uq_07gIg6BzjtNk4CBus" alt=""><figcaption><p>Publishing Pool Screen</p></figcaption></figure>
+
+
+
+## Checking the Published Pool
+
+When you want to check the published pool, you can go to the **catalog > products** tab and check whether the products you have selected have been published.\
+
+
+<figure><img src="https://lh3.googleusercontent.com/XsVAPhO5tFIg6P390avdtKkbZh3xpahM6mYWk4e2NWglc2LoZno6HlE-sNg3YsZPKFoO9jYShV3X5elt0GDpccETt9JjD9gmy0J9HdFkdeV1SdHDOjqSYUb-VfKQ9iBsKx5pCqlI0WSHdPDWlSptQU0" alt=""><figcaption><p>Product Publication Control Screen</p></figcaption></figure>
+
+\
+
+
+\
 \
