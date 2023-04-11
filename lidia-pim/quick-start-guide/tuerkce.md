@@ -1,4 +1,10 @@
+---
+description: Bu sayfada Lidia PIM hızlı başlangıç dokümanı okuyabilirsiniz.
+---
+
 # Türkçe
+
+Hızlı Başgıç dokümanını aşağıdaki başlıklar halinde inceleyeceğiz:
 
 1. Giriş
 2. Başlangıç
@@ -8,7 +14,7 @@
 6. Yayınlanan Havuzu Kontrol Etme\
 
 
-## Giriş
+Giriş
 
 Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün açıklamaları, özellikler, teknik özellikler, resimler, videolar, fiyatlandırma, ürün belgeleri gibi veriler dahil olmak üzere ürün bilgilerini toplamak, düzenlemek ve işlemek için kullanılır.
 
@@ -156,8 +162,6 @@ Hazırladığınız havuzu yayınlamak istediğinizde **servisler > havuzlar > d
 
 1. Ctrl basılı tutarak yayına almak istediğiniz ürünleri seçmek
 2. Excel ile ürün yüklerken ürün durumuna 1 yazmak. 1 yazdığınız bütün ürünler yayına alınacaktır.
-
-
 
 <figure><img src="https://lh4.googleusercontent.com/el8GSDJeJLEXawVjljRPfUnH9z0oZs5GyX1Aucq5hpCd2uTM7RKDLfvXxTsABEHeqcCd7BCN1SRLbL8rwI4npoXeFgj7jjyXFdoGlwdBeOMT4IKfMiZzLaLvsS4SZzkB_cmCGn0UouP3GchaVKdCmYg" alt=""><figcaption><p>Havuz Yayınlama Ekranı</p></figcaption></figure>
 
