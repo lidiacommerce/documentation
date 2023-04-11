@@ -51,25 +51,7 @@ Giriş yaptıktan sonra anasayfaya yönlendirileceksiniz. \
 
 <figure><img src="https://lh6.googleusercontent.com/u3ixduiE0QyGAvaN4DRdWD5D6_9SDh3MiPuUvxHJWSvTsuCSJImiSmKs4ReE4ZtDYQVRl-4Lfh2a2-7Qx2qDI0rlZE7i3j4kr6vMTARxyEFmT3OO1AjKGqEnH14CGsJ4uh4GtCM7Nb9p_siowl1ZTlk" alt=""><figcaption><p>Pim Ana Sayfa</p></figcaption></figure>
 
-## Medya Yönetimi
-
-PIM’de medya yönetimini sol menüde medyalar bölümünden yapabilirsiniz. Bu bölümde görselleri, videoları ve dokümantasyon larınızı düzenleyebilirsiniz.&#x20;
-
-Görseller bölümünde görsel için yeni dosya ekleyebilir,yeniden adlandırılabilir, silebilir ve ayrıntıları görüntüleyebilirsiniz.&#x20;
-
-Özellikle ürün yüklerken, yüklemiş olduğumuz görsellerin isimlerini resim kodu olarak kullanacağız.
-
-&#x20;
-
-<figure><img src="https://lh6.googleusercontent.com/sIBASLWinouVLHvuJaHp8UA-x78OJIVtT3y2AHPp8ZXJo3cHlmLZ9r6NC2cdqryh9V_--YTXtBXUInRdGThysTCemSbYptqtMw9DbhgOXg2oFg94U2ww_zJtufyWJNbS1IWdDj3kOuf4CVe34orq0xY" alt=""><figcaption><p>Görseller Ekranı </p></figcaption></figure>
-
-PIM’de **medya > dokümanlar** bölümünden bütün dokümanlarınızı yönetebilirsiniz.
-
-<figure><img src="https://lh3.googleusercontent.com/-1vN5_aRtCUibE_yZNYKIMgY7Zm3aXpaAbRb2ay_3XjqyyBOslt5vNWbmaDabZirR0YkHWDkNHDvnqPlTYmYWMYp6nucqiSi5G6X7v8yE0beksnYtNV76ZYWj8pvkjUjyRaJMgq0fbqCbHgcEa2O5JU" alt=""><figcaption><p>Dokümanlar Ekranı</p></figcaption></figure>
-
-<figure><img src="https://lh6.googleusercontent.com/X3kZ6_pZvUjaYKPKmiEfADltH9eLi4mLgg1_Vn5hwpCI1BKf69T3nDSaW5DQ2y5gq_byDe4AV2SQL2O-15bkQWggBcuMOoqbpP1W6YKx5WxssgHH3CjwjsbeNjTqz-Mdfr_kFg14PSWzaPG8HvqzwpQ" alt=""><figcaption><p>Videolar Ekranı </p></figcaption></figure>
-
-## Ürün Ekleme
+## Toplu Ürün Ekleme
 
 Ürün ekleme adımına geçmeden önce seçenek ve seçenek değerleri tanımlamamız gerekiyor. **Konfigürasyon > katalog > seçenek yönetimi > seçenekler** buradan ebat ve renk gibi gerekli olan seçenekleri ekliyoruz.&#x20;
 
@@ -155,6 +137,28 @@ Burada diğer önemli unsur, ebat, renk kodu, kategori ve marka bilgisi önceden
 
 
 Excel verisini içe aktar bölümüne tıklıyoruz. Yüklemiş olduğumuz dosyanın içeriğini görüntülediğiniz ekrana geçiş yapılacaktır. Bu ekranı kontrol edilip, verilerinizin istenilen şekilde olduğuna karar verdikten sonra onaylaya tıklıyoruz.
+
+## Medya Yönetimi
+
+PIM’de medya yönetimini sol menüde medyalar bölümünden yapabilirsiniz. Bu bölümde görselleri, videoları ve dokümantasyon larınızı düzenleyebilirsiniz.&#x20;
+
+Görseller bölümünde görsel için yeni dosya ekleyebilir,yeniden adlandırılabilir, silebilir ve ayrıntıları görüntüleyebilirsiniz.\
+
+
+Özellikle ürün yüklerken, yüklemiş olduğumuz görsellerin isimlerini resim kodu olarak kullanacağız.
+
+&#x20;
+
+<figure><img src="https://lh3.googleusercontent.com/y1RMca_WjFOx1ulqVHDWrSIyCJ-psdBpkN446q0TQo9IPqqy6TumS8cwCjcnYoZ2pIMCkCtPcoiYxNrHcKNlrdr7zJkQoUY7P0CZY8hgGvn9qVAdcVjvl9RePIRNnsjbojgbIpHIe51kBI1v2EGEmVA" alt=""><figcaption><p>Görseller Ekranı</p></figcaption></figure>
+
+PIM’de **medya > dokümanla**r bölümünden bütün dokümanlarınızı yönetebilirsiniz.\
+
+
+<figure><img src="https://lh6.googleusercontent.com/hmm9zUBp9nEe_6XECBheLD1azR1ZoS5wmj3qok5mHacgSd6P_JhA2kyLjejxo5tGTq1uzDQYtoK8XMmR052fC7ndh8jsBKs4w1M78OTifDaLFV0sf2zBxHIT3mEY9gE2qTMa4368bxqYNZftJhroXNo" alt=""><figcaption><p>Dokümanlar Ekranı</p></figcaption></figure>
+
+<figure><img src="https://lh4.googleusercontent.com/f1yjNeUVp9DDkTGlcfaEtWuPuLMLE8gXi48OSLlKJFGkJdiwP9mKZJTgu4tejuMng386WZGY2-pegMWoKpQIoNdvIxi5Wew8I1be13X6M5k0mvbI5pQ25GtIwP_EfUd7lcW0BErcFtTTYjHQdd-zAf4" alt=""><figcaption><p>Videolar Ekranı </p></figcaption></figure>
+
+
 
 ## Havuzu Yayınlama
 
