@@ -1,10 +1,16 @@
-# Turkish
+# Türkçe
+
+1. Giriş
+2. Başlangıç
+3. Medya Yönetimi
+4. Ürün Ekleme
+5. Havuzu Yayınlama
+6. Yayınlanan Havuzu Kontrol Etme\
+
 
 ## Giriş
 
 Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün açıklamaları, özellikler, teknik özellikler, resimler, videolar, fiyatlandırma, ürün belgeleri gibi veriler dahil olmak üzere ürün bilgilerini toplamak, düzenlemek ve işlemek için kullanılır.
-
-
 
 Aşağıda PIM yazılımının bir kuruluş içinde nasıl işlediği şu şekilde özetleyebiliriz:
 
@@ -13,11 +19,9 @@ Aşağıda PIM yazılımının bir kuruluş içinde nasıl işlediği şu şekil
 * Bu değişiklikleri inceleyen ürün yönetimi ekibi, ürünün fiyatını PIM sisteminde ekip  tarafından yapılan değişikliklere göre ayarlar ve PIM sistemi daha sonra tüm dağıtım kanallarındaki fiyatı otomatik olarak günceller.
 * Ürün ekibi, doğruluğu konusunda endişe duymadan merkezi PIM sisteminden güncellenmiş bilgilere erişebilir ve ardından PIM sistemindeki ürün açıklamasını güncelleyebilir. PIM sistemi daha sonra tüm dağıtım kanallarındaki ürün açıklamasını otomatik olarak günceller.
 
-<figure><img src="https://lh3.googleusercontent.com/dOmEL5I5b3iy-2FEMn4jbsaH5j8fjk6RNPBo0XRGCOa1j9rm6n_faisJ_Nr26Sj9Vbpe6W4OYfzycn-htdexT9QPE1YcLadzosXa0iHTHmmSvffDV-QFls5EJBix6TJ0kYydjeXfd_Fr8LhBNdDL3sM" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh3.googleusercontent.com/dOmEL5I5b3iy-2FEMn4jbsaH5j8fjk6RNPBo0XRGCOa1j9rm6n_faisJ_Nr26Sj9Vbpe6W4OYfzycn-htdexT9QPE1YcLadzosXa0iHTHmmSvffDV-QFls5EJBix6TJ0kYydjeXfd_Fr8LhBNdDL3sM" alt=""><figcaption><p>PIM Yönetim </p></figcaption></figure>
 
 Lidia PIM sisteminin temel özellikleri tipik olarak aşağıdakileri içerir:
-
-
 
 * Merkezi ürün bilgisi depolama
 * E-ticaret platformları, pazaryerleri, SAP ve ERP'ler gibi çeşitli sistemlerle entegrasyon
@@ -32,7 +36,6 @@ Lidia PIM sisteminin temel özellikleri tipik olarak aşağıdakileri içerir:
 ## Başlangıç &#x20;
 
 İlk olarak [https://pim.lidiacommerce.com/](https://pim.lidiacommerce.com/) adresine girdiğinizde sizi giriş ekranı karşılıyor. Burada size tanımlanan email ve şifre ile giriş yapabilirsiniz.\
-\
 
 
 <figure><img src="https://lh6.googleusercontent.com/dwxknO1Fsmojg2ZkK_Xy87bli3lVsi3DhpX_8bvwU3NNKNoUnohVqIzV3MCCbENq7IEu587VW_RwcthHXEztu-p2xJuV0m9b9XDRUT5lXp4gqsejR_wnMBt8zkzHaI1T1FDMJKmCZQcaQ2Tl2St0xnI" alt=""><figcaption><p>Ana Giriş Ekranı </p></figcaption></figure>
@@ -41,10 +44,6 @@ Giriş yaptıktan sonra anasayfaya yönlendirileceksiniz. \
 
 
 <figure><img src="https://lh6.googleusercontent.com/u3ixduiE0QyGAvaN4DRdWD5D6_9SDh3MiPuUvxHJWSvTsuCSJImiSmKs4ReE4ZtDYQVRl-4Lfh2a2-7Qx2qDI0rlZE7i3j4kr6vMTARxyEFmT3OO1AjKGqEnH14CGsJ4uh4GtCM7Nb9p_siowl1ZTlk" alt=""><figcaption><p>Pim Ana Sayfa</p></figcaption></figure>
-
-&#x20;
-
-
 
 ## Medya Yönetimi
 
@@ -74,11 +73,7 @@ PIM’de **medya > dokümanlar** bölümünden bütün dokümanlarınızı yöne
 
 <figure><img src="https://lh5.googleusercontent.com/c4KX_e-KIVhNNhZ2ylGjbRoou63SxP7DV4FeRjTCDHi9WawjaM5I6dX0wBQ9l15MT3W5hL815EQAoyTGy202kCgKjq355D3PET1DG8mbCt9WN6Z6GC3YOhXrSh9DCbEuw84fqtpWD6VTf5zwcYgm2r0" alt=""><figcaption><p>Yeni Seçenek Ekleme Ekranı</p></figcaption></figure>
 
-Ürün eklerken öncelikle ekleyeceğiniz ürüne ait ürün kategorisi ve ürün markası eklemelisiniz.&#x20;
-
-Markalar bölümünde daha önce eklediğiniz markaları görüntüleyebilir, düzenleyebilir ve yeni marka ekleyebilirsiniz.&#x20;
-
-
+Ürün eklerken öncelikle ekleyeceğiniz ürüne ait ürün kategorisi ve ürün markası eklemelisiniz. Markalar bölümünde daha önce eklediğiniz markaları görüntüleyebilir, düzenleyebilir ve yeni marka ekleyebilirsiniz.&#x20;
 
 <figure><img src="https://lh5.googleusercontent.com/rXin_dfO-8oHp1RReFcToRMqdoz61-6CvFQueZv5K9-ib9Uq41J7tC-fbw6M_A6eLFa7jTPIUOtTe27IHhSsfwYS2hSNcDhJTRaTJYXj8jexOT3J3PstyldqjDesnpIYHz-iBSEOqRhTxRH4b-6gobQ" alt=""><figcaption><p>Markalar Ekranı</p></figcaption></figure>
 
@@ -99,11 +94,11 @@ Kategorileri görüntülemek için: **katalog > kategoriler** bölümünden gör
 
 <figure><img src="https://lh5.googleusercontent.com/GlXgZtofffiHix1aBILqYlfrqeUpendfey4P1JeV0PflbY4DA1ypxMNaKuHHVMfF6oJWPh4R3xQd1qQH_ZFtxpTeRA3XKF7Epw29CE8NM_1xLyKIJ3xF2X1IC0dq9FhdFguat6AaYFdb9z5qttTLsBM" alt=""><figcaption><p>Kategoriler Ekranı </p></figcaption></figure>
 
-Yeni kategori eklemek için: katalog > kategoriler > kategori ekle. Kategori eklerken eklediğiniz kategoriyi bir veri şemasına bağlamanız gerekli. Örneğin; bilgisayar ya da cep telefonunu elektronik kategorise bağlamalısınız.
+Yeni kategori eklemek için: **katalog > kategoriler > kategori ekle**. Kategori eklerken eklediğiniz kategoriyi bir veri şemasına bağlamanız gerekli. Örneğin; bilgisayar ya da cep telefonunu elektronik kategorise bağlamalısınız.
 
 <figure><img src="https://lh5.googleusercontent.com/PHbSJL_o5GoG0gU0EZ6JTPgV31Y4gLkeGGP5ABwZWeyXcNsrrqJ8UHvhytXCSo1x0RfI3CGni498nNEtcLufxIyyfnBiSBUnNKOhHpwWVPF1_WMGJzu-UHq9zIA2ntpkt2hi0uiTNPaQtMmDZLeSV3w" alt=""><figcaption><p>Kategori Ekleme</p></figcaption></figure>
 
-Ardından konfigürasyon > katalog > veri şemaları sekmesinden buradan yeni veri şeması ekliyoruz. Ardından eklediğimiz veri şemasının alanlarını ekliyoruz. Yeni alan bölümüne tıklıyoruz ve alan adı ve gerekli bütün bilgileri ekledikten sonra veri şemamızı oluşturuyoruz. Veri şemamızı oluşturduktan sonra ürün yükleme adımına geçebiliriz.\
+Ardından **konfigürasyon > katalog > veri şemaları** sekmesinden buradan yeni veri şeması ekliyoruz. Ardından eklediğimiz veri şemasının alanlarını ekliyoruz. Yeni alan bölümüne tıklıyoruz ve alan adı ve gerekli bütün bilgileri ekledikten sonra veri şemamızı oluşturuyoruz. Veri şemamızı oluşturduktan sonra ürün yükleme adımına geçebiliriz.\
 
 
 <figure><img src="https://lh4.googleusercontent.com/vis2_waAEwnh_KoIxPXHfSKTvCm5Dq1lJS0KMkyZ61P8N5O7_iC7aE2AvDuNSSYbCrw7LWEYMapB_pahoO5o2J93OpHoyZG5PqFeJldzzvvr2sC-8kUOQH4K0H8oclLJoHEbVOdZfqk5VXCPLXiF-2Y" alt=""><figcaption><p>Veri Şemaları Ekranı </p></figcaption></figure>
@@ -157,7 +152,7 @@ Excel verisini içe aktar bölümüne tıklıyoruz. Yüklemiş olduğumuz dosyan
 
 ## Havuzu Yayınlama
 
-Hazırladığınız havuzu yayınlamak istediğinizde servisler > havuzlar > düzenle sekmesine geliyoruz. Yayınlamak istediğiniz ürünleri seçiyorsunuz. Ürünleri seçmek için 2 yöntem var:
+Hazırladığınız havuzu yayınlamak istediğinizde **servisler > havuzlar > düzenle** sekmesine geliyoruz. Yayınlamak istediğiniz ürünleri seçiyorsunuz. Ürünleri seçmek için 2 yöntem var:
 
 1. Ctrl basılı tutarak yayına almak istediğiniz ürünleri seçmek
 2. Excel ile ürün yüklerken ürün durumuna 1 yazmak. 1 yazdığınız bütün ürünler yayına alınacaktır.

@@ -70,7 +70,7 @@
 * [About](lidia-pim/about.md)
 * [Quick Start Guide](lidia-pim/quick-start-guide/README.md)
   * [English](lidia-pim/quick-start-guide/english.md)
-  * [Turkish](lidia-pim/quick-start-guide/turkish.md)
+  * [Türkçe](lidia-pim/quick-start-guide/tuerkce.md)
 * [Features](lidia-pim/features.md)
 * [Documentation](lidia-pim/documentation/README.md)
   * [Türkçe](lidia-pim/documentation/turkce.md)

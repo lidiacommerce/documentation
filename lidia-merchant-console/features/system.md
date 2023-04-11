@@ -103,7 +103,7 @@ On this page, you can add new tags, edit and delete added tags.
 
 **Data Locks**
 
-****
+
 
 ## Object Settings
 
