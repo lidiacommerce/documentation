@@ -6,7 +6,7 @@ It is the section where media management such as editing images, files and video
 
 You can manage all the images used in the system. On this page, you can separate the images with files according to their usage, add a new image, rename the added image, change its location and delete it.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Images Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Images Screen</p></figcaption></figure>
 
 ## Files
 

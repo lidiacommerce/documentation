@@ -34,11 +34,11 @@ Key features of the Lidia PIM system typically include the following:
 First, when you enter https://pim.lidiacommerce.com/  the login screen welcomes you. Here you can log in with the email and password defined to you.\
 
 
-<figure><img src="https://lh6.googleusercontent.com/WTz_3dDHCRkmlRlHQUqedKELhyf6OhjgBXLtkjYfGxIBclt1TYXQqeWFI38fGuqK759PVSNhig83Qb1k-E013xO8Njbl1V0GdakvPyr6gb84Iqlo3KZBd2P23A1oiGBdrc-SyPbAAJ1315jYFmN1jnI" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
 
 After logging in, you will be redirected to the homepage.
 
-<figure><img src="https://lh4.googleusercontent.com/6bExNYp7lWkAPS1w41BMqEy7m0VuHodgnY413vQ34jasvK1Zv1R1gt6nN8AppCiIwVJhJuU8cE7vHF9NrZGDMYHywziTbIde0DeX6uDCfIHbZHbsMTSTWbnMo_Oa1CBdITBrIvkA0g1jaZ-PBmrc17I" alt=""><figcaption><p>Homepage Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Home Screen </p></figcaption></figure>
 
 &#x20;
 
