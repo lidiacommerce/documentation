@@ -11,7 +11,8 @@ Hızlı Başgıç dokümanını aşağıdaki başlıklar halinde inceleyeceğiz:
 3. Medya Yönetimi
 4. Ürün Ekleme
 5. Havuzu Yayınlama
-6. Yayınlanan Havuzu Kontrol Etme\
+6. Yayınlanan Havuzu Kontrol Etme
+7. Ürün Verisini Dışarı Besleme\
 
 
 ## Giriş
@@ -178,4 +179,8 @@ Yayınlanan havuzu kontrol etmek istediğinizde **katalog > ürünler** sekmesin
 
 <figure><img src="https://lh5.googleusercontent.com/Dqqe2JQU_ypYiEE5jyYsRg7NrJEpQT5nrwIX639z0_8_pm_efLm0iRe4gvYpdYmegljehumk3ODI-K3Sx4W0Xk92rKGqrzh0gfO3RqYx-NojH6hS1V6kXHnovrgFeeakQYZOOi9iVbDAdFAPOzOLSv8" alt=""><figcaption><p>Ürün Yayın Kontrolü Ekranı</p></figcaption></figure>
 
-\
+## Ürün Verisini Dışarı Besleme&#x20;
+
+Ürün verisinin dış paydaşlara teknik destek ihtiyacı olmadan aktarabilme imkanı (Product publication)&#x20;
+
+Lidia PIM uygulaması yardımı ile ürün verisi ile beslenecek kanallar oluşturulabilmekte, bu kanallar için akışlar (feed) kurulabilmektedir. Akışların içereceği ürünlere dair filtreler eklenebilmekte, filtre sonucu dışa beslemesi yapılacak ürünlerin nasıl bir zarfla (hangi alanlar dahil / hariç) sunulacağı ayarlanabilmektedir.\
