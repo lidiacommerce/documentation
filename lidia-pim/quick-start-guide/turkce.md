@@ -190,4 +190,6 @@ Lidia PIM uygulaması yardımı ile ürün verisi ile beslenecek kanallar oluşt
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Yeni Erişim Anahtarı Ekleme </p></figcaption></figure>
 
+Yeni akış eklediğinizde bunu eklenen akışının ayrıntılarınan görüntüleyebilirisiniz.
+
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
