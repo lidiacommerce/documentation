@@ -6,6 +6,17 @@ description: >-
 
 # Türkçe
 
+Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
+
+1. Anasayfa
+2. Konfigürasyon&#x20;
+3. Organizasyonum
+4. Katalog&#x20;
+5. Envanter
+6. Medya
+7. Servisler
+8. Raporlar
+
 ## Giriş
 
 Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün bilgileri, özellikler, teknik özellikler, resimler, videolar, fiyatlandırma, ürün belgeleri gibi veriler dahil olmak üzere ürün bilgilerini toplamak, düzenlemek ve işlemek için kullanılır.
