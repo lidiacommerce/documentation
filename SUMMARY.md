@@ -73,5 +73,5 @@
   * [Türkçe](lidia-pim/quick-start-guide/turkce.md)
 * [Features](lidia-pim/features.md)
 * [Documentation](lidia-pim/documentation/README.md)
-  * [Türkçe](lidia-pim/documentation/turkce.md)
+  * [Lidia PIM Türkçe Dokumantasyon](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)

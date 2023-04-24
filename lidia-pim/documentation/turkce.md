@@ -4,7 +4,7 @@ description: >-
   kılavuzudur.
 ---
 
-# Türkçe
+# Lidia PIM Türkçe Dokumantasyon
 
 Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
 
@@ -17,11 +17,11 @@ Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
 7. Servisler
 8. Raporlar
 
-## Giriş
+### Giriş
 
 Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün bilgileri, özellikler, teknik özellikler, resimler, videolar, fiyatlandırma, ürün belgeleri gibi veriler dahil olmak üzere ürün bilgilerini toplamak, düzenlemek ve işlemek için kullanılır.
 
-## Anasayfa
+### Anasayfa
 
 Anasayfa Lidia PIM’e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekranda sol menüde yönetim süreçlerini yapabilir, hesap bilgileri ve organizasyonlar görüntülenebilir dil değişikliği yapılabilir.\
 
