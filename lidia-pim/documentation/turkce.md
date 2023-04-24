@@ -8,8 +8,8 @@ description: >-
 
 Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
 
-1. Anasayfa
-2. Konfigürasyon&#x20;
+1. [Anasayfa](turkce.md#anasayfa)
+2. [Konfigürasyon ](turkce.md#konfiguerasyon)
 3. Organizasyonum
 4. Katalog&#x20;
 5. Envanter
