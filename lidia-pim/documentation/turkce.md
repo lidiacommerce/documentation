@@ -4,18 +4,18 @@ description: >-
   kılavuzudur.
 ---
 
-# Lidia PIM Türkçe Dokumantasyon
+# Türkçe Dokumantasyon
 
 Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
 
 1. [Anasayfa](turkce.md#anasayfa)
 2. [Konfigürasyon ](turkce.md#konfiguerasyon)
-3. Organizasyonum
-4. Katalog&#x20;
-5. Envanter
-6. Medya
-7. Servisler
-8. Raporlar
+3. [Organizasyonum](turkce.md#organizasyonum)
+4. [Katalog ](turkce.md#katalog-1)
+5. [Envanter](turkce.md#envanter)
+6. [Medya](turkce.md#medya)
+7. [Servisler](turkce.md#servisler)
+8. [Raporlar](turkce.md#raporlar)
 
 ### Giriş
 
@@ -78,13 +78,13 @@ Hesap Bilgileri, organizasyonlarınızı ya da kullandığınız dili değiştir
 * Organizasyon kullanıcılarının yönetimi (Sadece “Uygulama Yöneticisi” rolüne sahip kullanıcılar yaratılabilir ve güncellenebilir)
 * Mevcut Lidia uygulamalarının (console, merchant console vb.) görüntülenmesi
 
-## Konfigürasyon
+### Konfigürasyon
 
-### Genel&#x20;
+#### Genel&#x20;
 
 <figure><img src="https://lh3.googleusercontent.com/IRH8bF5wsEHIkfx-fxa74vQDGWkDstp6VnQlJbZWSN4vYvNEbnKE5UQ2XmqwDxBMYcr3ttHFw5htRdbk2n8oXlzl8hsn2C1m7nRi1ltQ9G2Xseldjkrni9vJPgnkP2n_7C90deOuTIfXTJT_BbrdduY" alt=""><figcaption><p>Konfigürasyonlar Yönetim Ekranı  </p></figcaption></figure>
 
-### Katalog
+#### Katalog
 
 #### Kanallar
 
@@ -271,9 +271,9 @@ Abonelikler yönetimi kapsamında var olan abonelikler görüntülenebilir, düz
 
 <figure><img src="https://lh5.googleusercontent.com/qo7f0vs21nRGWyQ7Q9ywAiIBiYtWFeA1fN9aY-iW1SwGvvG1VkHo_JfUuyhqJAbxqUmdf1qoQ3Wq_sXPDXTzRBEJT3w4byrEdOPBvYn4sJ7gT56GDiGBMrHFdmrWgTpO0YnfbJzutIaMYE_gseBFwGo" alt=""><figcaption><p>Kullanıcı Yönetim Ekranı </p></figcaption></figure>
 
-## Katalog
+### Katalog
 
-### Kategoriler
+#### Kategoriler
 
 Kategoriler, bir PIM sistemi içinde ürünlerin sınıflandırıldığı ve organize edildiği gruplardır. Kategoriler, benzer özelliklere, özellik gruplarına veya kullanım amacına sahip ürünlerin bir araya getirildiği etiketlerdir. Kategoriler, PIM sistemi kullanıcılarına ürün verilerini daha yönetilebilir ve kullanıcı dostu bir şekilde sunma imkanı sağlar.
 
@@ -288,7 +288,7 @@ Kategoriler, ürünlerin doğru bir şekilde sınıflandırılmasını ve müşt
 
 <figure><img src="https://lh4.googleusercontent.com/gQPDknw_O6wsYzABKgvfNu87-ufxp25KTpyCiBwrrvPv3A8JVQ67ShJECvZ_zrkQTddtj0qBHuuaSN-3SEjK1Yh4rT_2H3RQR3lbu3QDCba9LstzgQLlUczSDrQfb0U6RcX9-y2EMKiT_oCLwnQFQK0" alt=""><figcaption><p>Kategori Yönetim Ekranı </p></figcaption></figure>
 
-### Markalar
+#### Markalar
 
 PIM markalar bölümü, bir şirketin veya bir ürünün marka yönetimini gerçekleştirdiği bir alanı içerebilir. Bu bölüm, markaların yönetimini ve kullanımını kolaylaştıran bir dizi özellik ve fonksiyonlar sunabilir.
 
@@ -303,17 +303,17 @@ PIM’de ürün yüklemeden önce kategori, marka gibi özellikleri tanımlanmal
 
 ### Özel Listeler
 
-### Ürünler
+#### Ürünler
 
 <figure><img src="https://lh4.googleusercontent.com/_6f0OHmm46eFhnyqIA8EKJJkMfz_1s27PaOWqxiZ3DJt7gmWqOhAPVoTO0gsemTI4Nzr-2moaFsEBb74SVH4ruLHWMopu-HxKnDPEJRizE50xyXoMsB0ho5QCLJAMxbYsSrb80tN10UGZTs83mHsRkY" alt=""><figcaption><p>Ürünler Yönetim Ekranı </p></figcaption></figure>
 
-### Varyantlar&#x20;
+#### Varyantlar&#x20;
 
 Ürünlerin varyantları renk ve beden gibi farklı özelliklere sahip bir ürün, çeşitleriyle birlikte tek bir ürün sayfasında gruplandığında kullanılır.
 
 <figure><img src="https://lh6.googleusercontent.com/KJKeT-6w4aobr0iJTgWKfopsCunPYU0lw8MPaGo_6jv1XAWtsTJuX8cn7de7kgTCx0a8tVwQhrjT3IBpDxcF7aQ31Yek_2OwFSAIOSMwz9BXLCDWR7JCAQURHsKvzfkZO7cs2K7tvov2imnkc_OYfAY" alt=""><figcaption><p>Varyanlar Yönetim Ekranı</p></figcaption></figure>
 
-### Veri Kilitleri
+#### Veri Kilitleri
 
 Veri kilitleri, bir PIM (Product Information Management) sistemi içinde ürün verilerinin güvenliğini sağlamak ve değişikliklerin kontrol altında tutulmasını sağlamak için kullanılan mekanizmalardır. Veri kilitleri, kullanıcıların belirli ürün veya ürün grubu verilerini güncellerken, başka kullanıcıların aynı verilere aynı anda erişmelerini engelleyerek çakışmaları önler.
 
@@ -328,13 +328,13 @@ Veri kilitleri, aşağıdaki durumlarda kullanışlıdır:
 
 PIM’de kullanım sektörüne, ihtiyaçlarına ve iş gereksinimlerine göre farklı veri kilitleri kullanabilir ve veri kilitlerini kendi veri yönetimi süreçlerine uygun olarak özelleştirebilir.
 
-## Envanter
+### Envanter
 
-### Fiyat Listeleri&#x20;
+#### Fiyat Listeleri&#x20;
 
 <figure><img src="https://lh5.googleusercontent.com/L8GkGsL7Up5L3GDLODVv7TQnjf5hgNTFmPITxq9mnWXwVaw7iLgKpBUQXu0lWLZVzBtimMJlkg_90KBkuF3gMFSY8eVj3O58bqAX6uutKfvOuAzZ5mcfZToEps0vbQ1q12_pFNOAB6vOCCVvG5BP5WE" alt=""><figcaption><p>Fiyat Listeleri Yönetim Ekranı</p></figcaption></figure>
 
-## Medya
+### Medya
 
 Lidia PIM üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya ögeleri de yönetilebilmektedir:
 
@@ -344,13 +344,13 @@ Lidia PIM üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya ö
 
 <figure><img src="https://lh5.googleusercontent.com/QWFPAotAk7UWJkHRvggjCOBD2mp2f5Emaxs8ebfrypHLTjN8MscxSbETwDT3gZv6ZNZROEQkPj_AecIWlAhPUerQzNsumf-hzZM4byebJyG5O9dF6EwdQ91CnnpuCxgsYP6eJgbHeQF6WteEvB6t6kU" alt=""><figcaption><p>Görsel yönetimi ekranı</p></figcaption></figure>
 
-## Servisler&#x20;
+### Servisler&#x20;
 
-### Havuzlar
+#### Havuzlar
 
 <figure><img src="https://lh6.googleusercontent.com/Bu4gfky5EDjDUvTPsimJ9u1CsXRfInbGcF2jO1yS_hG0u2sYr08e_MdiOWd5ayGOW8CccXQcDx42o2_arljNXw19j8ndSMs8fJP1SfbmhqKtI0MXyzznaVm_LbXFjmLUwNxzDh8_kw-Myj1qZxqvryg" alt=""><figcaption><p>Havuz Listesi Yönetim Ekranı </p></figcaption></figure>
 
-### Akışlar
+#### Akışlar
 
 Lidia PIM uygulamasının ana yeteneklerinden biri canlı sisteme alınan ürün verilerinin istenen 3.parti kanallara beslenebilmesidir. Ürün verisinin dış dünyaya Akış (Feed) ismi verilen yapılar üzerinden aktarılabilmektedir.&#x20;
 
@@ -371,7 +371,7 @@ PIM kullanıcıları, bir akışın filtre kurulumu yapılarak dahil edilecek ü
 * Bu ürünlerin herhangi bir koleksiyona dahil edilmemiş özellikleri, seçenekleri ve etiketleri ürün çıktısına eklenir
 * İlgili akışa eklenmiş koleksiyon bulunuyorsa bu koleksiyon kapsamında yer alan özellikler, seçenekler ve etiketler de ürün çıktısına eklenir
 
-## Raporlar
+### Raporlar
 
 Raporlar, bir PIM sistemi tarafından kullanıcıların iş verilerini analiz etmek, performanslarını değerlendirmek ve kararlarını desteklemek için sunulan özet veya ayrıntılı bilgilerin sunulduğu belgelerdir. PIM sistemi, ürün verileriyle ilgili çeşitli raporlar sunarak kullanıcılara veri odaklı görüşler ve bilgiler sağlar.
 
