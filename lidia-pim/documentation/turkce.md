@@ -237,16 +237,16 @@ Lokalizasyon, bir ürünün veya hizmetin, belirli bir hedef pazar veya bölge i
 
 * Ölçü birimleri yönetimi: PIM üzerinde yönetilen ürün bilgileri kapsamında ürünlere ait ölçüler de bulunmaktadır. Bu ölçülere ait birimler merkezi olarak yönetilebilmektedir.
 
-## Organizasyonum
+### Organizasyonum
 
-### Detaylar
+#### Detaylar
 
 Organizasyonum detaylar sayfasında organizasyonlar ile ilgili ayrıntılı bilgiler (şirket adı, organizasyon tipi, organizasyon alan adı, organizasyon kodu ve açıklama) görüntülenebilir ve düzenlenebilir. \
 
 
 <figure><img src="https://lh5.googleusercontent.com/JHauzHjwewjcRjtS24Y8dYVjZFJwp0O5LtWYfp_z25CcG90Ojdb9eI8uVWTr2rqU7ZDsWThCKZ7jcapUW34xDHjPjfIq62Eqp3JQcPC2XtPWbNY2rSmfpBsn5NAD1C-d-gu-x6oqPktbasBWyBR35X8" alt=""><figcaption><p>Organizasyon Yönetim Ekranı</p></figcaption></figure>
 
-### Abonelikler
+#### Abonelikler
 
 Abonelikler yönetimi kapsamında var olan abonelikler görüntülenebilir, düzenlenebilir.&#x20;
 
@@ -261,7 +261,7 @@ Abonelikler yönetimi kapsamında var olan abonelikler görüntülenebilir, düz
 
 <figure><img src="https://lh4.googleusercontent.com/raSjnGkOwoHZKxqEWBDCpFXnnVjiFfa4_jRQ2kWrt-KZ9AseMHCQIN0WAe66dpDq0JCGzvcPxKinoHuwA5M3l0EgcvZow_GfIbcfxsv7v2EeOMJrmYZKGWOh7LSkRwn_YzCNAkfRxOOY6CaWfaF1k84" alt=""><figcaption><p>Uygulamalar Yönetim Ekranı </p></figcaption></figure>
 
-### Üyeler
+#### Üyeler
 
 * Kullanıcı yönetimi kapsamında aşağıda belirtilen roller dışında yeni rol tanımı mevcut sürümde yapılamamaktadır:
   * Organizasyon sahibi
