@@ -108,6 +108,12 @@ Veri şemaları, bir PIM sistemi içindeki ürün verilerinin organizasyonunu, y
 
 Lidia PIM kullanıcıları veri uzayını yukarıda başlıklarda tanımladıktan sonra, bu tanımlar kullanılarak yönetilecek ürün verisinin doğruluğunu kalitesinin kontrol altında tutulmasını sağlayacak olan veri şemaları oluşturulabilmektedir.
 
+#### Koleksiyonlar
+
+PIM'de koleksiyonlar, benzer ürünleri bir araya getirmek için kullanılan bir özelliktir. Koleksiyonlar, bir ürün kategorisi veya tema altında bulunan benzer ürünleri gruplandırmak için kullanılabilir. Bu, ürün verilerini daha etkili bir şekilde yönetmeye ve organize etmeye yardımcı olur. Koleksiyonlar, ürün verilerini daha kolay filtreleme, sıralama, güncelleme ve raporlama imkanı sağlar.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Koleksiyonlar Ekranı</p></figcaption></figure>
+
 **Özellik Yönetimi**&#x20;
 
 **Özellikler**&#x20;

@@ -6,13 +6,13 @@ description: Bu sayfada Lidia PIM hızlı başlangıç dokümanı okuyabilirsini
 
 Hızlı Başgıç dokümanını aşağıdaki başlıklar halinde inceleyeceğiz:
 
-1. Giriş
-2. Başlangıç
-3. Medya Yönetimi
-4. Ürün Ekleme
-5. Havuzu Yayınlama
-6. Yayınlanan Havuzu Kontrol Etme
-7. Ürün Verisini Dışarı Besleme\
+1. [Giriş](turkce.md#giris)
+2. [Başlangıç](turkce.md#baslangic)
+3. [Medya Yönetimi](turkce.md#medya-yoenetimi)
+4. [Ürün Ekleme](turkce.md#toplu-ueruen-ekleme)
+5. [Havuzu Yayınlama](turkce.md#havuzu-yayinlama)
+6. [Yayınlanan Havuzu Kontrol Etme](turkce.md#yayinlanan-havuzu-kontrol-etme)
+7. [Ürün Verisini Dışarı Besleme](turkce.md#ueruen-verisini-disari-besleme)\
 
 
 ## Giriş
@@ -186,7 +186,7 @@ Yayınlanan havuzu kontrol etmek istediğinizde **katalog > ürünler** sekmesin
 Lidia PIM uygulaması yardımı ile ürün verisi ile beslenecek kanallar oluşturulabilmekte, bu kanallar için akışlar (feed) kurulabilmektedir. Akışların içereceği ürünlere dair filtreler eklenebilmekte, filtre sonucu dışa beslemesi yapılacak ürünlerin nasıl bir zarfla (hangi alanlar dahil / hariç) sunulacağı ayarlanabilmektedir.\
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Akışlar Ekranı</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Akışlar Ekranı</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Yeni Erişim Anahtarı Ekleme </p></figcaption></figure>
 
