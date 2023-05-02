@@ -68,10 +68,10 @@
 ## Lidia PIM
 
 * [About](lidia-pim/about.md)
+* [Features](lidia-pim/features.md)
 * [Quick Start Guide](lidia-pim/quick-start-guide/README.md)
   * [English](lidia-pim/quick-start-guide/english.md)
   * [Türkçe](lidia-pim/quick-start-guide/turkce.md)
-* [Features](lidia-pim/features.md)
 * [Documentation](lidia-pim/documentation/README.md)
   * [Türkçe Dokumantasyon](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)
