@@ -6,7 +6,7 @@ description: >-
 
 # Türkçe Dokumantasyon
 
-Kullanıcı dokümantası 8 anabaşlıkta incelenecektir.
+Kullanıcı dokümantasyonu 8 ana başlıkta incelenecektir.
 
 1. [Anasayfa](turkce.md#anasayfa)
 2. [Konfigürasyon ](turkce.md#konfiguerasyon)
