@@ -466,11 +466,17 @@ Talep yönetimi sayfalarından müşterilerin önyüzden gönderdikleri iade ve 
 
 
 
-* Talep sisteme düştüyse, _Yeni,_
+* İade talebi sisteme düştüyse, _Yeni,_
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 16.09.47.png" alt=""><figcaption></figcaption></figure>
 
-* Merchant ürünler için kargo kodu girişi yaparsa veya ürünleri teslim aldım derse, _İşleme Alındı,_
+* İptal talebi sisteme düştüyse (Yeni statüsüne düşmemektedir), _Kabul Edildi,_
+
+
+
+
+
+* Merchant ürünler için kargo kodu girişi yaparsa veya ürünleri teslim aldım der ise, _İşleme Alındı,_
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 16.10.12.png" alt=""><figcaption></figcaption></figure>
 
@@ -482,7 +488,7 @@ Talep yönetimi sayfalarından müşterilerin önyüzden gönderdikleri iade ve 
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 16.10.31.png" alt=""><figcaption></figcaption></figure>
 
-* Merchant ile müşteri arasındaki tüm süreç tamamlandığında, _Kapandı,_
+* Merchant ile müşteri arasındaki para akışı süreci tamamlandığında, _Kapandı,_
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 16.10.47.png" alt=""><figcaption></figcaption></figure>
 
