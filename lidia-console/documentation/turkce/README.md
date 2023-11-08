@@ -35,7 +35,7 @@ Lidia Console, platformumuzun ürün yönetimi için özel olarak tasarlanmış 
 
 Ayarlar bölümünde, console yöneticilerinin tüm konsol içeriğini etkili bir şekilde yönetmelerini sağlayan birimlerin ayarlarının düzenlendiği ve eklemelerin yapılabildiği sayfaları bulabilirsiniz.
 
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-06 17.21.20 (2).png" alt=""><figcaption><p>Ayarlar </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-06 16.47.37.png" alt=""><figcaption><p>Ayarlar </p></figcaption></figure>
 
 
 
@@ -45,9 +45,9 @@ Ayarlar bölümünde, console yöneticilerinin tüm konsol içeriğini etkili bi
 
 Yetkilendirme bölümü, kullanıcılarımızın console üzerinde kullanıcılar ve sistem üzerinde tanımlanan kullanıcı rollerinin belirlenebildiği ve listelendiği sayfaları içermektedir.
 
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-06 17.37.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-06 17.37.42.png" alt=""><figcaption><p>Yetkilendirme</p></figcaption></figure>
 
-Yetkilendirme bölümünde Kullanıcılar ve Roller olmak üzere iki kategori bulunmaktadır. \
+_Yetkilendirme bölümünde Kullanıcılar ve Roller olmak üzere iki kategori bulunmaktadır._ \
 \
 Kullanıcılar sayfasında, console'u kullanacak kullanıcılarımızın listesi görüntülenir. Kullanıcılar bölümünde eklenmiş kullanıcılar detay sayfalarında görüntülenebilir; orada güncellenebilir, kullanıcı silinebilir, liste içerisinde durumuna göre listelenebilir ve ID'si, ismi ve rollerine göre arama bölümünden arama yapılabilir.
 
@@ -94,10 +94,6 @@ Roller sayfasında ise belirlenen roller ve bunları kullanan aktif kullanıcı 
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.59.45 (1).png" alt=""><figcaption><p>Roller</p></figcaption></figure>
-
- 
-
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 14.56.45.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
 
  
@@ -118,18 +114,13 @@ Yasal bölümü console yöneticilerinin, console’a sistemdeki yasal kullanıc
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.07.24.png" alt=""><figcaption><p>Yasal</p></figcaption></figure>
 
-Yasal bölümünde Sorumlular ve Yasal Dökümanlar olmak üzere iki kategori bulunmaktadır. \
-
-
-
-
-
+_Yasal bölümünde Sorumlular ve Yasal Dökümanlar olmak üzere iki kategori bulunmaktadır._&#x20;
 
 Sorumlular sayfasında, veri sorumlusunu tanımlayarak, sorumlunun console üzerinde belirtmesi gereken bilgileri ekleyebilirsiniz. Console yöneticisi ayrıca yasal belgeler olarak sorumlu olduğu belgeleri inceleyebilir ve bunları güncel tutmak için gerekli değişiklikleri yapabilir.
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.22.15.png" alt=""><figcaption><p>Sorumlular</p></figcaption></figure>
 
-Sorumluların detayında sorumlulun temel bilgilerini ve sürüm detaylarını inceleyebillirsiniz.
+Sorumluların detayında sorumlunun temel bilgilerini ve yasal dökümanlarını inceleyebillirsiniz.
 
 <div>
 
@@ -137,7 +128,7 @@ Sorumluların detayında sorumlulun temel bilgilerini ve sürüm detaylarını i
 
  
 
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.22.36.png" alt=""><figcaption><p>Yasal Dökümanlar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 17.45.01.png" alt=""><figcaption><p>Yasal Dökümanlar</p></figcaption></figure>
 
 </div>
 
@@ -172,8 +163,6 @@ Ayrıca listelenen dökümanların detaylarına gidilebilir, dökümanlar siline
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.27.13.png" alt=""><figcaption><p>Sürüm Geçmişi</p></figcaption></figure>
 
 </div>
-
-
 
 
 

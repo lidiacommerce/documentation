@@ -42,13 +42,13 @@ Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan 
 
 Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, marka ve kategori listelerini görüntüleyebilirler.
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.07.34.png" alt=""><figcaption><p>Ürün Listesi Sayfası</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).webp" alt=""><figcaption><p>Ürün Listesi Sayfası</p></figcaption></figure>
 
 
 
 > Fiyat / Stok Listesi
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 16.50.31.png" alt=""><figcaption><p>Fiyat / Stok Listesi</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.webp" alt=""><figcaption><p>Fiyat / Stok Listesi</p></figcaption></figure>
 
 
 
@@ -56,11 +56,11 @@ Fiyat / Stok Listesi sayfalarında merchant sistemdeki ürünlerini görüntüle
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 16.50.20 (1).png" alt=""><figcaption><p>Düzenle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.webp" alt=""><figcaption><p>Düzenle</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 16.50.31 (2).png" alt=""><figcaption><p>Stok tanımla</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.webp" alt=""><figcaption><p>Stok tanımla</p></figcaption></figure>
 
 </div>
 
@@ -72,11 +72,11 @@ Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya t
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.55.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.webp" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.55.45.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.webp" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
 
 </div>
 
@@ -84,7 +84,7 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.56.13 (1).png" alt=""><figcaption><p>İndir</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.webp" alt=""><figcaption><p>İndir</p></figcaption></figure>
 
  
 
@@ -98,15 +98,15 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.59.01 (1).png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9.webp" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.59.59 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10.webp" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 18.00.09 (1).png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.webp" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
 
 </div>
 
