@@ -28,15 +28,54 @@ Lidia Merchant Console, platformumuzun satıcılarının ürün bilgilerini topl
 
 Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekran, satıcının performans analizlerini ve mağazasına ait değerleri gösterir. Ayrıca, üst menüden dil değişikliği yapılabilir ve sol menüden mağaza yönetimi, ürün yönetimi, satış yönetimi, medya yönetimi ve raporları görüntülenebilir.
 
-
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.45.43.png" alt=""><figcaption><p>Anasayfa</p></figcaption></figure>
 
 ### Mağaza Yönetimi
 
+Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir.\
+
+
+> Mağaza Detayları
+
+Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, entegrasyon bilgileri ve ayarlar bölümlerinden oluşur. Mağaza detaylarında satıcı mağaza durumunu da değiştirebilir.\
+\
+Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 20.55.40 (1).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+
+
+Adres bilgileri bölümünde; mağazanın adres bilgileri yer alır.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.09.08 (1).png" alt=""><figcaption><p>Adres Bilgileri</p></figcaption></figure>
+
+
+
+Entegrasyon bilgileri bölümünde;&#x20;
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.16.44.png" alt=""><figcaption><p>Entegrasyon bilgileri </p></figcaption></figure>
+
+
+
+Ayarlar bölümünde;
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.18.26.png" alt=""><figcaption><p>Ayarlar</p></figcaption></figure>
 
 
 
 
 
+> Mağaza Kullanıcıları
+
+Mağaza kullanıcıları bölümünde; satıcının kullanıcılarının bir listesi yer alır. Bu listede kullanıcıların ad-soyad, e-posta adresi, rolü, oluşturma tarihi ve durum bilgisi görüntülenir.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.58.44 (1).png" alt=""><figcaption><p>Mağaza kullanıcıları</p></figcaption></figure>
+
+
+
+Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri görüntülenir ve telefon numarası eğer istenilirse değiştirilebilir.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.37.54.png" alt=""><figcaption><p>Mağaza kullanıcısı detayı</p></figcaption></figure>
 
 ### Ürün Yönetimi
 
