@@ -73,21 +73,25 @@ Mağaza kullanıcıları bölümünde; satıcının kullanıcılarının bir lis
 
 
 
-Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri görüntülenir ve telefon numarası eğer istenilirse değiştirilebilir.
+Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri görüntülenir ve telefon numarası da eğer istenilirse değiştirilebilir.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.37.54.png" alt=""><figcaption><p>Mağaza kullanıcısı detayı</p></figcaption></figure>
 
+###
+
+###
+
 ### Ürün Yönetimi
 
-Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, marka ve kategori listelerini görüntüleyebilirler.
+Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, katalogtan ürün ekleyip direkt satışa ürün çıkarabilir ve ürünlerini yönetebilir.
 
-<figure><img src="../../.gitbook/assets/1 (1).webp" alt=""><figcaption><p>Ürün Listesi Sayfası</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.34.36.png" alt=""><figcaption><p>Toplu Ürün İşlemleri</p></figcaption></figure>
 
 
 
-> Fiyat / Stok Listesi
+> Fiyat / Stok İşlemleri
 
-<figure><img src="../../.gitbook/assets/2.webp" alt=""><figcaption><p>Fiyat / Stok Listesi</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.35.53.png" alt=""><figcaption><p>Fiyat / Stok İşlemleri</p></figcaption></figure>
 
 
 
