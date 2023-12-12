@@ -391,8 +391,7 @@ Sipariş yönetiminde kullanıcı siparişini kargoya vermeden iptal işlemini 2
 \- Siparişi onaylar, kargoya vermeden iptal edebilir\
 \- Siparişi onaylamaz, direkt reddedebilir.
 
-\
-Sipariş ieçriğ
+
 
 
 
@@ -450,9 +449,11 @@ Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip b
 
 > Teslimat Profili
 
+Teslimat profilleri bölümünde teslimat profilleri ve kargo maliyetlerinin görüntülendiği sayfaları bulunur. \
+\
 Teslimat profilleri sayfasında anlaşmalı kargo şirketlerimizin profilleri listelenir. Bu kargo şirketlerimiz standart profiller ve oluşturduğunuz profiller olarak 2 şekilde listelenmektedir. Bu listelerin oluşturulma tarihini, güncelleme tarihini, durumunu sayfada kendine ait satırda görüntüleyebilirsiniz.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.04.47.png" alt=""><figcaption><p>Teslimat profili</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 17.36.17.png" alt=""><figcaption><p>Teslimat profili</p></figcaption></figure>
 
 
 
@@ -505,6 +506,13 @@ Oluşturduğumuz profilleri teslimat profilleri sayfasındaki satırdaki sil but
 
 
 
+\
+Kargo maliyetleri bölümünde entegre edildiği takdirde satıcının görüntüleyebileceği ve inceleyebileceği kargo maliyetlerinin bir listesi bulunur.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 17.41.49.png" alt=""><figcaption><p>Kargo maliyetleri</p></figcaption></figure>
+
+\
+\
 
 
 > Talep Yönetimi
