@@ -216,7 +216,7 @@ Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan m
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.55.15.png" alt=""><figcaption><p>Ürünlerim</p></figcaption></figure>
 
-Listelemede Stok durumu "0" olanlar kırmızı bir uyarı ile belirtilir; stok durumu "20" adet altına düşenler de turuncu uyarı ile belirtilir.
+Listelemede Stok durumu "0" olanlar kırmızı bir uyarı ile belirtilir; stok durumu "20" adedin altına düşenler de turuncu uyarı ile belirtilir.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 16.20.22.png" alt=""><figcaption><p>Uyarıların gösterimi</p></figcaption></figure>
 
@@ -391,7 +391,8 @@ Sipariş yönetiminde kullanıcı siparişini kargoya vermeden iptal işlemini 2
 \- Siparişi onaylar, kargoya vermeden iptal edebilir\
 \- Siparişi onaylamaz, direkt reddedebilir.
 
-
+\
+Sipariş ieçriğ
 
 
 
