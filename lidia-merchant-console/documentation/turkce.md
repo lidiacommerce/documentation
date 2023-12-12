@@ -85,6 +85,14 @@ Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri gö
 
 Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, katalogtan ürün ekleyip direkt satışa ürün çıkarabilir ve ürünlerini yönetebilir.
 
+
+
+
+
+> Toplu Ürün İşlemleri
+
+
+
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.34.36.png" alt=""><figcaption><p>Toplu Ürün İşlemleri</p></figcaption></figure>
 
 
@@ -161,9 +169,21 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 
 
-> Ürün Listesi
+> Katalogtan Ürün Ekle
 
-Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan merchant'ın tüm ürünleri Ürün Listesi sayfalarında listelenir.
+
+
+
+
+
+
+
+
+
+
+> Ürünlerim
+
+Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan merchant'ın tüm ürünleri Ürünlerim sayfalarında listelenir.
 
 Ürün listesi sayfalarında merchant'ın sattığı ürünlerin durumunu, ürün id'sini, görselini, ürünün ismini ve ürünün kodunu görebilirsiniz.&#x20;
 
@@ -173,7 +193,7 @@ Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan m
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.07.34 (3).png" alt=""><figcaption><p>Detaylar</p></figcaption></figure>
 
-Ürün listesi sayfasındaki her ürünün detayını "detaylar" butonu ile görüntüleyebilirsiniz. Ürün detay sayfalarında ürünün tüm temel bilgilerine ve ürüne ait satıcının envanterindeki bilgilerine de erişebilirsiniz.
+Ürünlerim sayfasındaki her ürünün detayını "detaylar" butonu ile görüntüleyebilirsiniz. Ürün detay sayfalarında ürünün tüm temel bilgilerine ve ürüne ait satıcının envanterindeki bilgilerine de erişebilirsiniz.
 
 <div>
 
@@ -186,36 +206,6 @@ Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan m
 </div>
 
 
-
-> Kategori Listesi
-
-Katalog listesi sayfalarında merchant'lar kategorileri görüntüleyebilir ve seçtikleri kategorinin detaylarını inceleyebilirler.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 19.16.13 (1).png" alt=""><figcaption><p>Kategoriler</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 19.17.57 (1).png" alt=""><figcaption><p>Detay</p></figcaption></figure>
-
-</div>
-
-
-
-> Marka Listesi
-
-Marka listesi sayfalarında merchant'lar markalarını görüntüleyebilir ve seçtikleri markanın detaylarını inceleyebilirler.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 19.16.20.png" alt=""><figcaption><p>Marka Listesi</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 19.16.52.png" alt=""><figcaption><p>Detaylar</p></figcaption></figure>
-
-</div>
 
 
 
@@ -519,7 +509,7 @@ Talep yönetimi sayfalarından müşterilerin önyüzden gönderdikleri iade ve 
 
 * İptal talebi sisteme düştüyse (Yeni statüsüne düşmemektedir), _Kabul Edildi,_
 
-
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.23.59.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -667,34 +657,6 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 
 </details>
-
-
-
-
-
-
-
-Müşterilerimiz bir önyüzden sipariş verdiğinde bu siparişimiz merchant console'a düşüyor. Bu siparişi merchant console üzerinden onaylayana kadar, müşteri siparişini iptal edebilir. Böyle bir durumda müşteri iptal talebini merchant'ın onaylamasına reddetmesine bakmadan direkt olarak ürünü iptal edebilir.
-
-
-
-Merchant kargoya verdikten sonra iade süreci başlar. İade sürecinin başlayabilmesi için merchant'ın ürünü müşteriye ulaştırması ve ödemesini de alması gerekir. Bu süreçten sonra 14 gün içerisinde müşterinin iade talebi oluşturma hakkı vardır. İade talebini de müşteri önyüzden gerçekleştiriyor. Müşteri önyüzden iade sürecini bitirdikten sonra bu talep bizim talep yönetimi ekranlarımıza düşüyor.&#x20;
-
-İade süreci için merchant 2 farklı hareket edebilir; \
-kullanıcı önyüzde kargoyu kendim teslim edeceğim seçmiş ise ürünler için kargo kodu girin butonu aktif olmaz, sadece tarafıma ulaştı butonu aktif oluyor.&#x20;
-
-kullanıcı önyzüde kargoyu kargo ile teslim edeceğim seçmiş ise o zaman 2 buton da aktif oluyor.
-
-
-
-Gönderi kodu ekle;\
-burada müşteri kendi anlaşmalı kargosundan aldığı kargo kodunu buraya yazar. burada merchant kargo şirketinden bir kod yaratacak ve bu kodu buraya ekleyecek. Kargo kodunu girip kargo şirketini girip oluştur dediğinde müşteriye kargo kodu iletilir; önyüzde bu kodu görebilir. bu kargolar merchanta ulaştığında sistem üzerinden ürünü seçip ürünler tarafıma ulaştı diye belirtebilir. Sonrasında iade talebini onaylayabilir veya reddedebilir.
-
-
-
-
-
-
 
 
 
