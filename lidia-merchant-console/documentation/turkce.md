@@ -103,7 +103,7 @@ Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri gö
 
 
 
-Fiyat / Stok Listesi sayfalarında merchant sistemdeki ürünlerini görüntüleyebilir. Varyantlarının arasından kategori filtresi ile satmak istediği kategoriyi seçip; stok ve fiyat tanımlayarak ürünlerine ekleyebilir. Seçilen varyanta stok eklemek için ilgili satırdaki düzenle butonu ile stok bilgisi eklenerek ürün eklenmesini tamamlanabilir.
+Fiyat / Stok İşlemleri sayfalarında merchant sistemdeki ürünlerini görüntüleyebilir. Varyantlarının arasından kategori filtresi ile satmak istediği kategoriyi seçip; stok ve fiyat tanımlayarak ürünlerine ekleyebilir. Seçilen varyanta stok eklemek için ilgili satırdaki düzenle butonu ile stok bilgisi eklenerek ürün eklenmesini tamamlanabilir.
 
 <div>
 
@@ -116,6 +116,32 @@ Fiyat / Stok Listesi sayfalarında merchant sistemdeki ürünlerini görüntüle
 </div>
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.30.58.png" alt=""><figcaption><p>Stok ve Fiyat tanımı tamamlandı</p></figcaption></figure>
+
+
+
+Fiyat stok işlemleri ekranında ayrıca satıcılar kırılım ekle butonu aracılığı ile satır bazında varyantı çoğaltabilir; envanterlerindeki ürünün envanter kırılım kodunu ekleyebilir ve yine aynı şekilde fiyat ve stok tanımı girerek ürününü sisteme tanımlamış olur.
+
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.17.24 (1).png" alt=""><figcaption><p>Satır bazında kırılım ekle</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.25 (1).png" alt=""><figcaption><p>Yeni kırılım satırı</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.45.png" alt=""><figcaption><p>Tanımla</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.52.png" alt=""><figcaption><p>Yeni kırılım</p></figcaption></figure>
+
+</div>
 
 
 
@@ -435,7 +461,7 @@ Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip b
 
 Teslimat profilleri sayfasında anlaşmalı kargo şirketlerimizin profilleri listelenir. Bu kargo şirketlerimiz standart profiller ve oluşturduğunuz profiller olarak 2 şekilde listelenmektedir. Bu listelerin oluşturulma tarihini, güncelleme tarihini, durumunu sayfada kendine ait satırda görüntüleyebilirsiniz.
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 14.24.11 (1).png" alt=""><figcaption><p>Teslimat profili</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.04.47.png" alt=""><figcaption><p>Teslimat profili</p></figcaption></figure>
 
 
 
@@ -450,11 +476,11 @@ teslimat sağlayan kargo şirketi olarak seçili gelecektir.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 14.26.36.png" alt=""><figcaption><p>Standart profiller</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.19.png" alt=""><figcaption><p>Standart profiller</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 14.26.45.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.52.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
 
 </div>
 
@@ -464,7 +490,7 @@ Oluşturduğumuz profiller bölümü bayilerin tanımladığı kargo şirketleri
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 14.31.31.png" alt=""><figcaption><p>Oluşturduğumuz profiller</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.06.18.png" alt=""><figcaption><p>Oluşturduğumuz profiller</p></figcaption></figure>
 
  
 
@@ -478,7 +504,7 @@ Oluşturduğumuz profilleri teslimat profilleri sayfasındaki satırdaki sil but
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-25 15.22.48.png" alt=""><figcaption><p>Oluşturduğumuz profiller / Sil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.07.27 (1).png" alt=""><figcaption><p>Oluşturduğumuz profiller / Sil</p></figcaption></figure>
 
  
 
