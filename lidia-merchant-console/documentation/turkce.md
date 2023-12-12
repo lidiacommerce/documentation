@@ -51,7 +51,10 @@ Adres bilgileri bölümünde; mağazanın adres bilgileri yer alır.
 
 
 
-Entegrasyon bilgileri bölümünde;&#x20;
+Entegrasyon bilgileri bölümünde; organizasyonumuzun ID ve Erişim anahtarı kodları yer alır. \
+\
+ID ;  Lidia'a kayıtlı organizasyon id'sidir\
+Erişim anahtarı ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünümüze bağlanabilmek için kullanılabilen bir koddur.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.16.44.png" alt=""><figcaption><p>Entegrasyon bilgileri </p></figcaption></figure>
 
@@ -147,7 +150,7 @@ Fiyat stok işlemleri ekranında ayrıca satıcılar kırılım ekle butonu arac
 
 
 
-Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya tüm ürünleri excel ile dışarı aktarıp, excel üzerinden toplu olarak değiştirip tekrar excel ile içeri aktarabilirler; bu sayede merchant'lar toplu şekilde de fiyat / stok güncellesi yapmış olursunuz.
+Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya tüm ürünleri excel ile dışarı aktarıp, excel üzerinden toplu olarak değiştirip tekrar excel ile içeri aktarabilirler; bu sayede merchant'lar toplu şekilde de fiyat / stok güncellesi yapmış olurlar.
 
 
 
@@ -204,31 +207,18 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 > Ürünlerim
 
+
+
 Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan merchant'ın tüm ürünleri Ürünlerim sayfalarında listelenir.
 
-Ürün listesi sayfalarında merchant'ın sattığı ürünlerin durumunu, ürün id'sini, görselini, ürünün ismini ve ürünün kodunu görebilirsiniz.&#x20;
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.07.34 (2).png" alt=""><figcaption><p>Ürün Listesi</p></figcaption></figure>
+Ürünlerim sayfalarında merchant'ın sattığı ürünlerin adı, barkodunu, satıcıya ait tekil kodu, ürünün marka ve kategorisi bilgisini, görselini, stok durumunu, komisyon oranını, fiyatını ve durumunu görebilirsiniz. \
 
 
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 15.55.15.png" alt=""><figcaption><p>Ürünlerim</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.07.34 (3).png" alt=""><figcaption><p>Detaylar</p></figcaption></figure>
+Listelemede Stok durumu "0" olanlar kırmızı bir uyarı ile belirtilir; stok durumu "20" adet altına düşenler de turuncu uyarı ile belirtilir.
 
-Ürünlerim sayfasındaki her ürünün detayını "detaylar" butonu ile görüntüleyebilirsiniz. Ürün detay sayfalarında ürünün tüm temel bilgilerine ve ürüne ait satıcının envanterindeki bilgilerine de erişebilirsiniz.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.03.42.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-24 17.03.52.png" alt=""><figcaption><p>Envanter Yönetimi</p></figcaption></figure>
-
-</div>
-
-
-
-
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 16.20.22.png" alt=""><figcaption><p>Uyarıların gösterimi</p></figcaption></figure>
 
 
 
