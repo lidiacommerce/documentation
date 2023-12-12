@@ -99,13 +99,17 @@ Fiyat / Stok Listesi sayfalarında merchant sistemdeki ürünlerini görüntüle
 
 <div>
 
-<figure><img src="../../.gitbook/assets/3.webp" alt=""><figcaption><p>Düzenle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.27.18.png" alt=""><figcaption><p>Düzenle</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/4.webp" alt=""><figcaption><p>Stok tanımla</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.29.17.png" alt=""><figcaption><p>Stok tanımı</p></figcaption></figure>
 
 </div>
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.30.58.png" alt=""><figcaption><p>Stok ve Fiyat tanımlandır</p></figcaption></figure>
+
+
 
 
 
