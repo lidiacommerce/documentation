@@ -115,7 +115,7 @@ Fiyat / Stok Listesi sayfalarında merchant sistemdeki ürünlerini görüntüle
 
 </div>
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.30.58.png" alt=""><figcaption><p>Stok ve Fiyat tanımlandır</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.30.58.png" alt=""><figcaption><p>Stok ve Fiyat tanımı tamamlandı</p></figcaption></figure>
 
 
 
@@ -127,11 +127,11 @@ Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya t
 
 <div>
 
-<figure><img src="../../.gitbook/assets/5.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.51.14.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/6.webp" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 11.52.33.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
 
 </div>
 
@@ -139,7 +139,7 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 <div>
 
-<figure><img src="../../.gitbook/assets/7.webp" alt=""><figcaption><p>İndir</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 12.21.07.png" alt=""><figcaption><p>İndir</p></figcaption></figure>
 
  
 
@@ -153,20 +153,15 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 <div>
 
-<figure><img src="../../.gitbook/assets/9.webp" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 12.24.55.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/10.webp" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/11.webp" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 12.26.17.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
 
 </div>
 
-
-
+\
 
 
 > Katalogtan Ürün Ekle
