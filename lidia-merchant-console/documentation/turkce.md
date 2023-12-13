@@ -39,7 +39,7 @@ Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebi
 
 Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, entegrasyon bilgileri ve ayarlar bölümlerinden oluşur. Mağaza detaylarında satıcı mağaza durumunu da değiştirebilir.\
 \
-Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir.
+Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir. Iban bilgisi aslında satıcının ödemeyi alacağı iban bilgisidir.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 20.55.40 (1).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
 
@@ -60,7 +60,8 @@ Erişim anahtarı ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünü
 
 
 
-Ayarlar bölümünde;
+Ayarlar bölümünde; \
+Satıcı eğer tanımlanmadıysa hizmet vereceği kategorileri ve bölgeleri seçebilir.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.18.26.png" alt=""><figcaption><p>Ayarlar</p></figcaption></figure>
 
@@ -70,7 +71,7 @@ Ayarlar bölümünde;
 
 > Mağaza Kullanıcıları
 
-Mağaza kullanıcıları bölümünde; satıcının kullanıcılarının bir listesi yer alır. Bu listede kullanıcıların ad-soyad, e-posta adresi, rolü, oluşturma tarihi ve durum bilgisi görüntülenir.&#x20;
+Mağaza kullanıcıları bölümünde; satıcının kullanıcılarının bir listesi yer alır. Satıcı yönetici paneline ihtiyaç durmadan bu sayfalardan kullanıcı ekleyebilir. Bu listede kullanıcıların ad-soyad, e-posta adresi, rolü, oluşturma tarihi ve durum bilgisi görüntülenir.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.58.44 (1).png" alt=""><figcaption><p>Mağaza kullanıcıları</p></figcaption></figure>
 
