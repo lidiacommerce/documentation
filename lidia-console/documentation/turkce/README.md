@@ -462,19 +462,23 @@ BIN kodları listeleme ekranlarında herbir satırdaki ikon aracılığı aynı 
 
 _Kurallar_
 
-
-
-
+Kurallar bölümünde ödeme kuralları listelenir. Bu sayfada yeni bir ödeme kuralı eklenebilir, durumuna göre listelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.51.png" alt=""><figcaption><p>Kurallar</p></figcaption></figure>
 
+Yeni bir kural eklemek için "yeni ödeme kuralı" ekle diyerek, ödeme kuralı ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.56.28.png" alt=""><figcaption><p>Ödeme kuralı ekle</p></figcaption></figure>
+
+Ödeme kurallarında koşulları ve koşulun eylemi belirlenebilir. Koşullar bölümünde ilk koşul olan kategori seçilmeden kurala eylem eklenemez. Ayrıca koşullar bölümünde fiyat hariç her bir koşuldan birer kez seçilebilir; fiyat koşulu ise bir aralık belirleme amacı da olabileceğinden 2 kere seçilebilir.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.58.21.png" alt=""><figcaption><p>Ödeme kuralları</p></figcaption></figure>
 
 
 
+Eylem bölümünde ödeme türü veya taksit miktarı seçilebilir.&#x20;
 
-
-
-
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 22.00.51.png" alt=""><figcaption><p>Eylem ekle</p></figcaption></figure>
 
 
 
