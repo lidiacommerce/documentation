@@ -444,9 +444,17 @@ Yeni bir seçenek eklemek için "yeni seçenek" ekle diyerek, ödeme seçeneği 
 
 _BIN kodları_
 
-
+BIN Kodları bölümünde BIN kodları listelenir.Bu sayfada yeni bir BIN kodu eklenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden araç olarak da filtrelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.12.png" alt=""><figcaption><p>BIN Kodları</p></figcaption></figure>
+
+Yeni bir BIN Kodu eklemek için "yeni BIN kodu" ekle diyerek, BIN kodu ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.47.51.png" alt=""><figcaption><p>Yeni BIN kodu ekle</p></figcaption></figure>
+
+BIN kodları listeleme ekranlarında herbir satırdaki ikon aracılığı aynı satırda bir BIN kodu silinebilir.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.49.28.png" alt=""><figcaption><p>BIN kodları</p></figcaption></figure>
 
 
 
