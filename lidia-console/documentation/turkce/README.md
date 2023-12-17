@@ -198,7 +198,97 @@ Hizmet sağlayacılar bölümünde ödeme kanalları listelenir. Bu sayfada yeni
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.09.08.png" alt=""><figcaption><p>Hizmet sağlayıcılar</p></figcaption></figure>
 
-Hizmet sağlayacılar bölümünde&#x20;
+Yeni bir hizmet sağlayıcıları eklemek için "yeni ödeme kanalı" ekle diyerek, hizmet sağlayıcılarınıza yenisini ekleyebilirsiniz. Bu alanda yeni ödeme kanalı eklemek için 2 seçenek vardır; \
+Tanımlı sağlayıcı seçeneğini seçip, tanımlı sağlayıcıları seçerek devam edebilirsiniz veya\
+Yeni bir sağlayıcı ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.51.16.png" alt=""><figcaption><p>Yeni sağlayıcı ekle</p></figcaption></figure>
+
+Tanımlı sağlayıcı ekle;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.51.33.png" alt=""><figcaption><p>Tanımlı sağlayıcı ekle</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.52.06.png" alt=""><figcaption><p>Bölge seç</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.52.38.png" alt=""><figcaption><p>Sağlayıcı seç</p></figcaption></figure>
+
+</div>
+
+
+
+Yeni sağlayıcı ekle;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.53.36.png" alt=""><figcaption><p>Yeni sağlayıcı ekle</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.54.33.png" alt=""><figcaption><p>Bilgiler</p></figcaption></figure>
+
+</div>
+
+
+
+Hizmet sağlayacıların listeleme ekranlarında herbir satırdaki ikon aracılığı detayına gidilebilir; burada temel bilgileri, seçenekleri, entegrasyon bilgileri ve sağlayıcıya ait işlemler yer alır. Aynı satırda bir hizmet sağlayıcısı da silinebilir.
+
+Temel bilgiler bölümünde sağlayıcıya özel logo da eklenebilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.30.35.png" alt=""><figcaption><p>Temel bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.30.50.png" alt=""><figcaption><p>Logo ekle</p></figcaption></figure>
+
+</div>
+
+
+
+Seçenekler bölümünde sağlayıcıların seçenekleri yer alır ve yeni seçenek eklenebilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.31.02.png" alt=""><figcaption><p>Seçenekler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.31.30.png" alt=""><figcaption><p>Yeni seçenek ekle</p></figcaption></figure>
+
+</div>
+
+
+
+Entegrasyon bilgileri bölümünde;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.31.43.png" alt=""><figcaption><p>Entegrasyon Bilgileri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.32.35.png" alt=""><figcaption><p>Canlı ortam</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.32.54.png" alt=""><figcaption><p>Test ortamı</p></figcaption></figure>
+
+</div>
+
+
+
+İşlemler;&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.46.46.png" alt=""><figcaption><p>İşlemler</p></figcaption></figure>
+
+
 
 
 
@@ -207,6 +297,8 @@ Hizmet sağlayacılar bölümünde&#x20;
 
 
 _Kurumlar_
+
+Kurumlar bölümünde&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.19.43.png" alt=""><figcaption><p>Kurumlar</p></figcaption></figure>
 
