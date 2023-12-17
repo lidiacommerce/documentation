@@ -298,9 +298,59 @@ Entegrasyon bilgileri bölümünde;
 
 _Kurumlar_
 
-Kurumlar bölümünde&#x20;
+Kurumlar bölümünde anlaşmalı kurumlar listelenir. Bu sayfada yeni bir ödeme kurumu eklenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden ödeme kurumları filtrelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.19.43.png" alt=""><figcaption><p>Kurumlar</p></figcaption></figure>
+
+Yeni bir hizmet sağlayıcıları eklemek için "yeni ödeme kurumu" ekle diyerek, ödeme kurumlarınıza yenisini ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.11.02.png" alt=""><figcaption><p>Yeni ödeme kurumu ekle</p></figcaption></figure>
+
+
+
+Kurumlar listeleme ekranlarında herbir satırdaki ikon aracılığı detayına gidilebilir; burada temel bilgileri, ödeme araçlarını, BIN kodlarını ve ilgili ödeme kanalına ait bilgiler yer alır. Aynı satırda bir ödeme kurumu da silinebilir.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.17.28.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+
+
+Ödeme araçları bölümünde; yeni araç ekleyebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.17.40.png" alt=""><figcaption><p>Ödeme araçları</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.18.07.png" alt=""><figcaption><p>Yeni araç ekle</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.18.22.png" alt=""><figcaption><p>Araç grubu seç</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.18.33.png" alt=""><figcaption><p>Araç tipi seç</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.19.28.png" alt=""><figcaption><p>BIN kodları</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.19.53.png" alt=""><figcaption><p>Yeni BIN kodu ekle</p></figcaption></figure>
+
+</div>
+
+
+
+Ödeme kanalları bölümünde taksitli ve taksitsiz ödemeler için sağlayıcı seçilebilir.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.20.10.png" alt=""><figcaption><p>Ödeme kanalı</p></figcaption></figure>
 
 
 
@@ -310,25 +360,85 @@ Kurumlar bölümünde&#x20;
 
 _Araç Grupları_
 
-
+Araç grupları bölümünde araç grupları listelenir.Bu sayfada yeni bir araç grubu eklenebilir, araç olarak filtrelenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden araçlar da filtrelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.21.06.png" alt=""><figcaption><p>Araç Grupları</p></figcaption></figure>
+
+Yeni bir araç eklemek için "yeni araç grubu" ekle diyerek, yeni araç ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.26.44.png" alt=""><figcaption><p>Yeni araç grubu ekle</p></figcaption></figure>
+
+Araçlar listeleme ekranlarında herbir satırdaki ikon aracılığı detayına gidilebilir, aynı satırda bir araç grubu da silinebilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.25.37.png" alt=""><figcaption><p>Araçlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.26.07.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
+
+</div>
+
+
 
 
 
 _Araçlar_
 
-
+Araçlar bölümünde ödeme araçları listelenir. Bu sayfada yeni bir araç eklenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden araçlar filtrelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.21.51.png" alt=""><figcaption><p>Araçlar</p></figcaption></figure>
+
+Yeni bir araç eklemek için "yeni araç" ekle diyerek, yeni ödeme aracı ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.32.38.png" alt=""><figcaption><p>Yeni ödeme aracı</p></figcaption></figure>
+
+Ödeme araçları listeleme ekranlarında herbir satırdaki ikon aracılığı detayına gidilebilir, aynı satırda bir araç grubu da silinebilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.34.10.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.34.22.png" alt=""><figcaption><p>BIN kodları</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.34.32.png" alt=""><figcaption><p>Ödeme seçenekleri</p></figcaption></figure>
+
+</div>
+
+Araç detaylarında BIN kodları ve ödeme seçenekleri sayfalarında yeni BIN kodları ve ödeme seçeneği eklenebilir.
+
+
 
 
 
 _Seçenekler_
 
-
+Ödeme seçenekleri bölümünde seçenekler listelenir.Bu sayfada yeni bir ödeme seçeneği eklenebilir, seçenek olarak filtrelenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden ödeme seçeneği de filtrelenebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.23.10.png" alt=""><figcaption><p>Seçenekler</p></figcaption></figure>
+
+Yeni bir seçenek eklemek için "yeni seçenek" ekle diyerek, ödeme seçeneği ekleyebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.40.49.png" alt=""><figcaption><p>Seçenek ekle</p></figcaption></figure>
+
+Ödeme seçenekleri listeleme ekranlarında herbir satırdaki ikon aracılığı detayına gidilebilir, düzenlenebilir, aynı satırda bir seçenek de silinebilir.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.42.01.png" alt=""><figcaption><p>Temel bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.42.14.png" alt=""><figcaption><p>Teknik parametreler</p></figcaption></figure>
+
+</div>
+
+
 
 
 
