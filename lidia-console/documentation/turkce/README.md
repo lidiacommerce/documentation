@@ -462,7 +462,7 @@ BIN kodları listeleme ekranlarında herbir satırdaki ikon aracılığı aynı 
 
 _Kurallar_
 
-Kurallar bölümünde ödeme kuralları listelenir. Bu sayfada yeni bir ödeme kuralı eklenebilir, durumuna göre listelenebilir.
+Kurallar bölümünde ödeme kuralları listelenir. Bu sayfada yeni bir ödeme kuralı eklenebilir, durumuna göre listelenebilir. Ayrıca ödeme kuralı satır bazında silinebilir.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.51.png" alt=""><figcaption><p>Kurallar</p></figcaption></figure>
 
