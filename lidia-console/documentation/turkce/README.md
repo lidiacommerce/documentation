@@ -176,22 +176,87 @@ Yasal dökümanlar sayfalarında tüm yasal dökümanların listelendiği sayfal
 
 > Ödeme
 
+Ödeme bölümü console yöneticilerinin ödemeye ait bilgileri yönetebildiği, düzenleyebildiği ve müşterileri için ödeme kuralları belirleyebildiği sayfalardan oluşur. Genel olarak ödeme bölümünde yöneticiler ödeme ayarlarını yönetebilirler.\
+\
+Ödeme ayarları 7 alt başlıktan oluşur; \
+Hizmet Sağlayıcılar,\
+Kurumlar,\
+Araç Grupları,\
+Araçlar,\
+Seçenekler,\
+BIN Kodları,\
+Kurallar.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.12.30.png" alt=""><figcaption><p>Ödeme Ayarları</p></figcaption></figure>
+
 \
 
 
 _Hizmet Sağlayıcılar_
 
+Hizmet sağlayacılar bölümünde ödeme kanalları listelenir. Bu sayfada yeni bir ödeme kanalı eklenebilir, duruma göre listelenebilir veya sıralama seçeneklerinden ödeme kanalları filtrelenebilir.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.09.08.png" alt=""><figcaption><p>Hizmet sağlayıcılar</p></figcaption></figure>
+
+Hizmet sağlayacılar bölümünde&#x20;
+
+
+
+
+
+
+
 _Kurumlar_
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.19.43.png" alt=""><figcaption><p>Kurumlar</p></figcaption></figure>
+
+
+
+
+
+
 
 _Araç Grupları_
 
+
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.21.06.png" alt=""><figcaption><p>Araç Grupları</p></figcaption></figure>
+
+
+
 _Araçlar_
+
+
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.21.51.png" alt=""><figcaption><p>Araçlar</p></figcaption></figure>
+
+
 
 _Seçenekler_
 
+
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.23.10.png" alt=""><figcaption><p>Seçenekler</p></figcaption></figure>
+
+
+
 _BIN kodları_
 
+
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.12.png" alt=""><figcaption><p>BIN Kodları</p></figcaption></figure>
+
+
+
+
+
 _Kurallar_
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.51.png" alt=""><figcaption><p>Kurallar</p></figcaption></figure>
 
 
 
