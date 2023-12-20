@@ -486,6 +486,27 @@ Eylem bölümünde ödeme türü veya taksit miktarı seçilebilir.&#x20;
 
 
 
+> Etiketler
+
+
+
+Etiket çeşitleri;&#x20;
+
+\
+Genel etiket: Sistem genelinde kullanılan özel bir kategoriye girmeyen etiket tipidir. Metinsel etiketseldir.
+
+Nitelik etiket: Sistem genelinde sadece işlevsel olrak kullanılan son kullanıcıya gösterilmemesi tavsiye edilen etiketlerdir. Metinsel etiketlerdir.
+
+Rozet etiket: kullanıcı arayüzünde gösterilmesi tavsiye edilen etikete bağlı bulunan görselin kullanıldığı etiket tipidir. Görsel bazlı etiketlerdir.
+
+Grup etiket: Uygulamada kullanılan belli veri nesnelerini (ürün,kategori,marka, dokümanlar vb) gruplayan etiketlerdir.&#x20;
+
+Yönetim etiket: Yöentimsel ihgityaçlar için kullanılan kullanıcı önyüzünde görüntülenemeyen etiketlerdir.
+
+
+
+
+
 
 
 
