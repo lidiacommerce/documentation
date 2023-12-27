@@ -482,7 +482,17 @@ Eylem bölümünde ödeme türü veya taksit miktarı seçilebilir.&#x20;
 
 
 
+> Lojistik
 
+Lojistik bölümünde console yöneticileri güncelde bulunan hizmet sağlayıcılarını, teslimat profillerini ve teslimat kurallarını görüntüleyip, yönetebilirler.\
+
+
+\
+_Hizmet sağlayıcıları_
+
+Hizmet sağlayıcıları bölümünde, yöneticiler anlaşmalı oldukları kargo şirketlerini ekleyebilirler. Eğer teslimatı bir şirkete bağlı olmadan kendileri gerçekleştireceklerse, bunu "kendim teslim edeceğim" seçeneği olarak ekleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 15.45.57.png" alt=""><figcaption><p>Hizmet sağlayıcıları</p></figcaption></figure>
 
 
 
