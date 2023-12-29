@@ -490,9 +490,80 @@ Lojistik bölümünde console yöneticileri güncelde bulunan hizmet sağlayıc�
 \
 _Hizmet sağlayıcıları_
 
-Hizmet sağlayıcıları bölümünde, yöneticiler anlaşmalı oldukları kargo şirketlerini ekleyebilirler. Eğer teslimatı bir şirkete bağlı olmadan kendileri gerçekleştireceklerse, bunu "kendim teslim edeceğim" seçeneği olarak ekleyebilirler.
+Hizmet sağlayıcıları bölümünde, anlaşmalı olduğumuz kargo şirketleri listelenir. Console yöneticileri, platformda entegrasyonu olan tanımlı bir sağlayıcı ekleyebilirler veya teslimatı bir şirkete bağlı olmadan kendileri gerçekleştireceklerse, bunu "kendim teslim edeceğim" seçeneği olarak ekleyebilirler. Ayrıca listelenen hizmet sağlayıcılarında; aktif hizmetler, sağlayıcının durumu, ismi, kodu ve id'si listelenir.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 15.45.57.png" alt=""><figcaption><p>Hizmet sağlayıcıları</p></figcaption></figure>
+
+Hizmet sağlayıcıları bölümünde listeleme ekranlarında satır bazında hizmeti silebilirsiniz; yine satır bazında seçili hizmet sağlayıcının detayına gidebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 16.32.45.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
+
+Hizmet sağlayıcıları detayında; sağlayıcının temel bilgileri, entegrasyon bilgileri ve sağladığı hizmetler görüntülenebilir. Ayrıca yine detayında sağlayıcının durumunu da değiştirebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 17.01.34 (2).png" alt=""><figcaption><p>Temel bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 17.02.24.png" alt=""><figcaption><p>Entegrasyon bilgileri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 17.02.36.png" alt=""><figcaption><p>Hizmetler</p></figcaption></figure>
+
+</div>
+
+\
+Entegrasyon bilgileri bölümü, entegre olduğumuz kargo şirketinin canlı ve test ortamları için sağladığı gerekli bilgileri içermektedir. Burada yer alan canlı ortam bilgileri, gerçek kargolar için entegrasyon bilgilerini; test ortamı bilgileri ise test süreçlerinde kullanılan kargolar için entegrasyon bilgilerini içermektedir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 17.25.43.png" alt=""><figcaption><p>Canlı ortamı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-27 at 17.26.00.png" alt=""><figcaption><p>Test ortamı</p></figcaption></figure>
+
+</div>
+
+Hizmetler bölümünde kargo şirketinin verdiği hizmetler listelenir ve yeni hizmet ekleyebilirsiniz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
