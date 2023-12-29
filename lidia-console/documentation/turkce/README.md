@@ -527,17 +527,77 @@ Entegrasyon bilgileri bölümü, entegre olduğumuz kargo şirketinin canlı ve 
 
 </div>
 
-Hizmetler bölümünde kargo şirketinin verdiği hizmetler listelenir ve yeni hizmet ekleyebilirsiniz.
+
+
+Hizmetler bölümünde kargo şirketinin verdiği hizmetler listelenir ve yeni hizmet de ekleyebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 12.58.28.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 12.59.35.png" alt=""><figcaption><p>Yeni hizmet ekle</p></figcaption></figure>
+
+</div>
+
+Yeni hizmet bölümünde, hizmetler listesinden birini seçip ekleyebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.00.59.png" alt=""><figcaption><p>Hİzmet seçenekleri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.02.27.png" alt=""><figcaption><p>Yeni hizmet</p></figcaption></figure>
+
+</div>
+
+Hizmetler bölümünde, eklediğiniz hizmetin fiyat listesini de güncelleyebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 12.51.59 (1).png" alt=""><figcaption><p>Fiyat listesi ekle</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 12.56.20.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 
 
+_Teslimat Profilleri_
 
+Teslimat profilleri bölümünde oluşturulan standart profiller yer alır.
 
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.11.53.png" alt=""><figcaption><p>Teslimat profilleri</p></figcaption></figure>
 
+Standart profilleri düzenleyebilirsiniz; bulunan listelemede öncelik sıralarını değiştirebilirsiniz.
 
+<div>
 
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.20.39.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.21.17.png" alt=""><figcaption><p>Düzenleme</p></figcaption></figure>
+
+</div>
+
+Ayrıca standart profilleri detayını görüntüleyebilirsiniz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.24.26.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.27.07.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
+
+</div>
 
 
 
