@@ -49,22 +49,20 @@ Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, e
 
 _**Mağaza Detaylarında 4 ana bölüm vardır; “Temel bilgiler”, “Adres Bilgileri”, “Entegrasyon Bilgileri” ve “Ayarlar”.**_\
 \
-Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir. Iban bilgisi aslında satıcının ödemeyi alacağı iban bilgisidir.
+Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir. Iban bilgisi satıcının ödemeyi alacağı iban bilgisidir.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 20.55.40 (1).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adsız tasarım 3 (1).jpg" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
 
+Adres bilgileri bölümünde; mağazanın adres bilgileri ve mevcut depo bilgileri ile depolara ait adresler yer alır. Mağaza yöneticileri, "Depo Ekle" diyerek yeni bir depo oluşturabilirler.
 
-
-Adres bilgileri bölümünde; mağazanın adres bilgileri yer alır.
-
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.09.08 (1).png" alt=""><figcaption><p>Adres Bilgileri</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adsız tasarım2.jpg" alt=""><figcaption><p>Adres Bilgileri</p></figcaption></figure>
 
 
 
 Entegrasyon bilgileri bölümünde; organizasyonumuzun ID ve Erişim anahtarı kodları yer alır. \
 \
-ID ;  Lidia'a kayıtlı organizasyon id'sidir\
-Erişim anahtarı ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünümüze bağlanabilmek için kullanılabilen bir koddur.
+**"ID"** ;  Lidia'a kayıtlı organizasyon id'sidir\
+**"Erişim anahtarı"** ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünümüze bağlanabilmek için kullanılabilen bir koddur.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.16.44.png" alt=""><figcaption><p>Entegrasyon bilgileri </p></figcaption></figure>
 
