@@ -30,7 +30,7 @@ Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan 
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Anasayfa Ekranı</p></figcaption></figure>
 
-Ana sayfa “İlk Bakış”, “Satış Performansı”, “Mağaza Performansı”, “Ürün Performansı” ile ilgili gösterilen değerleri  içerir.
+_**Ana sayfa “İlk Bakış”, “Satış Performansı”, “Mağaza Performansı”, “Ürün Performansı” ile ilgili gösterilen değerleri  içerir.**_
 
 Satış Performansı bölümünde; satış raporları görüntülenebilir ve tarihe göre raporlanabilir.&#x20;
 
@@ -40,12 +40,14 @@ Mağaza Performansı bölümü son iki ay özelinde önemli ve sürekli güncell
 
 ### Mağaza Yönetimi
 
-Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir.\
+Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir. _**Mağaza Yönetimi alanı; "Mağaza Detayları" ve "Mağaza Kullanıcıları" olarak 2 bölümden oluşur.**_\
 
 
 > Mağaza Detayları
 
-Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, entegrasyon bilgileri ve ayarlar bölümlerinden oluşur. Mağaza detaylarında satıcı mağaza durumunu da değiştirebilir.\
+Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, entegrasyon bilgileri ve ayarlar bölümlerinden oluşur. Mağaza detaylarında satıcı mağaza durumunu da değiştirebilir.
+
+_**Mağaza Detaylarında 4 ana bölüm vardır; “Temel bilgiler”, “Adres Bilgileri”, “Entegrasyon Bilgileri” ve “Ayarlar”.**_\
 \
 Temel Bilgiler bölümünde mağazanın adı, cari ünvanı, vergi dairesi, vergi numarası ve iban bilgileri yer alır. Bu bölümde mağaza yöneticisi iban bilgisini ve mağaza adını değiştirebilir. Iban bilgisi aslında satıcının ödemeyi alacağı iban bilgisidir.
 
