@@ -26,9 +26,17 @@ Lidia Merchant Console, platformumuzun satıcılarının ürün bilgilerini topl
 
 ### Anasayfa
 
-Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekran, satıcının performans analizlerini ve mağazasına ait değerleri gösterir. Ayrıca, üst menüden dil değişikliği yapılabilir ve sol menüden mağaza yönetimi, ürün yönetimi, satış yönetimi, medya yönetimi ve raporları görüntülenebilir.
+Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekran, satıcının performans analizlerini ve mağazasına ait değerleri gösterir. Ayrıca, üst menüden dil değişikliği yapılabilir ve sol menüden Mağaza Yönetimi, Ürün Yönetimi, Satış Yönetimi, Hedef Yönetimi, Medya Yönetimi ve Raporlar görüntülenebilir.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.45.43.png" alt=""><figcaption><p>Anasayfa</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Anasayfa Ekranı</p></figcaption></figure>
+
+Ana sayfa “İlk Bakış”, “Satış Performansı”, “Mağaza Performansı”, “Ürün Performansı” ile ilgili gösterilen değerleri  içerir.
+
+Satış Performansı bölümünde; satış raporları görüntülenebilir ve tarihe göre raporlanabilir.&#x20;
+
+Mağaza Performansı bölümü son iki ay özelinde önemli ve sürekli güncellenen değerleri tablo halinde yansıtmaktadır. Ayrıca kullanıcılar, değerler altında bulunan alt başlıklara tıklayarak ilgili sayfaya gidebilirler.&#x20;
+
+Ürün Performansı bölümü son iki ay özelinde en çok satan ürünleri listeler.&#x20;
 
 ### Mağaza Yönetimi
 
