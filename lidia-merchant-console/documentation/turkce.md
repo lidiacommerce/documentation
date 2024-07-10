@@ -89,27 +89,47 @@ Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri gö
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.37.54.png" alt=""><figcaption><p>Mağaza kullanıcısı detayı</p></figcaption></figure>
 
-###
-
-###
-
 ### Ürün Yönetimi
 
 Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, katalogtan ürün ekleyip direkt satışa ürün çıkarabilir ve ürünlerini yönetebilir.
 
-
-
-
+_**Ürün Yönetimi; “Toplu Ürün İşlemleri”, “Fiyat/Stok İşlemleri”, “Katalogdan Ürün Ekle” ve “Ürünlerim” olarak 4 bölüme ayrılır.**_
 
 > Toplu Ürün İşlemleri
 
-
+Toplu ürün işlemlerinde mevcutta bulunan ürün ailelerini listeleyebilir ve  ürün ailelerine ait ürünleri görüntüleyebilirler.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.34.36.png" alt=""><figcaption><p>Toplu Ürün İşlemleri</p></figcaption></figure>
 
+> Ürün Ailesi Ekleme
 
+Toplu ürün işlemleri sayfasında bulunan "Yeni Ürün Ailesi Ekle"  butona tıklayarak, kategori seçtikten sonra devam diyerek yeni bir ürün ailesi eklenebilir.
 
-> Fiyat / Stok İşlemleri
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ürün Ailesi Ekleme</p></figcaption></figure>
+
+> Ürün Ekleme ve Değiştirme
+
+Satıcılar toplu ürün işlemleri sayfasında listelenen ürün aileleri satırında bulunan "Ürünleri Yönet" butonuna tıklayarak ilgili ürün ailesinde bulunan ürünleri görebilir, ürünleri dışa aktarılabilir ve yeni ürünler ekleyebilirler.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Ürünleri Yönetme </p></figcaption></figure>
+
+_**Ürünleri yönetme sayfası; "Tümü", "Onaya Gönderilmeyen", "Onay Bekleyen", "Onaylananlar" ve "Yayındakiler" olmak üzere 5 bölümden oluşur.**_
+
+"Tümü" sayfasında, havuzda bulunan tüm ürünler listelenir. Satıcılar, havuza ürün eklemek istediğinde "Verileri Dışa Aktar" diyerek örnek exceli indirebilirler. Havuz uygun olan exceli düzenledikten ve yeni ürünleri ekledikten sonra "İçeri Veri Aktar" diyerek havuza ürün ekleyebilirler.
+
+İçe aktarılan ürünler ilk olarak "Onaya Gönderilmeyen" bölümünde listelenir.
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Onaya Gönderilmeyen Sayfası</p></figcaption></figure>
+
+Satıcı listelenen ürünlerden, onaya göndermek istediklerini seçebilir veya tümünü onaya gönderebilirler. Onaya gönderilen ürünler "Onay Bekleyen" sayfasında listelenir.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Onaya Gönderilen Ürünler</p></figcaption></figure>
+
+Satıcılar onay bekleyen ürünler arasında, onaya görderilmesi istenmeyen ürünleri seçebilir ve "Seçili Ürünleri Onaydan Geri Çek" butonuna tıklayarak işlemi geri alabilirler. Onaya gönderme işlemi iptal edildiğinde, seçilmiş ürünler ilk aşama olan "Onaya Gönderilmeyen" sayfasına geri alınır.&#x20;
+
+Consol yöneticisi tarafından onaylanan ürünler "Onaylananlar" sayfasında listelenir. Satıcı, onaylanan ürünleri yayına alabilir.&#x20;
+
+> [Fiyat / Stok İşlemleri](#user-content-fn-1)[^1]
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.35.53.png" alt=""><figcaption><p>Fiyat / Stok İşlemleri</p></figcaption></figure>
 
@@ -703,3 +723,6 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 
 
+
+
+[^1]: 
