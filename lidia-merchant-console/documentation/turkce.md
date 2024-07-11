@@ -257,15 +257,15 @@ Listelemede Stok durumu "0" olanlar kırmızı bir uyarı ile belirtilir; stok d
 
 Satış Yönetimi bölümünde, satıcılar siparişlerini görüntüleyebilir, düzenleyebilir, teslim süreçlerini inceleyebilir ve teslim ettikleri ürünleri denetleyebilirler. Ayrıca, bu ekranlar aracılığıyla sipariş ve teslimat kodlarına erişebilirler. Teslimat profillerinde çalışılan kargo şirketlerinin profilleri oluşturabilir ve müşterilerden gelen iptal ve iade taleplerini görüntüleyebilir, onaylayabilir veya reddedebilir.
 
-
+_**Satış yönetimi; "Sipariş Yönetimi", "Teslimat Yönetimi", "Teslimat Profili" ve "Talep  Yönetimi" olmak üzere 4 bölümden oluşur.**_
 
 > Sipariş Yönetimi
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 16.29.53.png" alt=""><figcaption><p><strong>Sipariş Yönetimi</strong> </p></figcaption></figure>
 
 Sipariş yönetimi sayfasında müşteriler, tüm siparişlerinin; teslimat kodunu, müşterisinin bilgilerini, toplam tutarı, siparişinin tarihini ve sipariş durumunu görebilir.  \
 \
 
+
+<figure><img src="../../.gitbook/assets/Adsız tasarımz (2).jpg" alt=""><figcaption><p>Sipariş Yönetimi</p></figcaption></figure>
 
 Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre listeleme ekranlarında değişir;
 
@@ -291,24 +291,26 @@ Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre li
 
 statülerinde sipariş listeleme ekranlarında görüntülenir.
 
-
+Üst menüde bulunan tarih aralığı but
 
 \
-\
-Üst menüdeki arama kutucuğu ile tüm siparişler arasında arama yapabilir ve filtreleme seçenekleri ile siparişlerinizi filtreleyebilir, fiyat aralığı belirleyip arama yapabilir ve kolayca siparişler arasında siparişlerin tarihine ve fiyatına göre sıralama yapabilirsiniz.
+Üst menüdeki arama kutucuğu ile tüm siparişler arasında arama yapabilir ve filtreleme seçenekleri ile siparişlerinizi filtreleyebilirsiniz. Kolayca siparişler arasında siparişlerin tarihine ve fiyatına göre sıralama yapabilirsiniz.
 
-<div>
+<div align="left">
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 16.42.17.png" alt=""><figcaption><p>Durum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/durum.jpg" alt="" width="375"><figcaption><p>Durum</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 16.43.32 (2).png" alt=""><figcaption><p>Fiyat Aralığı - Sırala</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sırala (1).jpg" alt="" width="375"><figcaption><p>Sırala</p></figcaption></figure>
 
 </div>
 
-\
+<div align="center">
 
+<figure><img src="../../.gitbook/assets/Tarih.jpg" alt="" width="375"><figcaption><p>Tarihe Göre Filtreleme</p></figcaption></figure>
+
+</div>
 
 Herbir sipariş satırındaki en sağdaki görüntüle butonununa tıklayarak sipariş içeriğini görüntüleyebilirsiniz.
 
