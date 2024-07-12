@@ -326,7 +326,11 @@ Herbir sipariş satırındaki en sağdaki görüntüle butonununa tıklayarak si
 
 Sipariş içeriğinde merchant müşteri bilgilerine (satın alan müşterinin sistemde kayıtlı e-posta adresi), sipariş edilen ürünün bilgisine, teslimat ve fatura adreslerini görüntüleyebilir. Siparişi için ise; siparişini _onaylayabilir_ ve _reddedebilir._&#x20;
 
+_**Sipariş içeriği sayfası; "Sipariş Özet", Sipariş Hesap Dökümü" ve "Teslimat İçeriği" olmak üzere 3 bölüm içerir.**_
 
+Onaylanan siparişler için detay sayfasında sipariş özeti ve siparişe ait gelir, maliyet listelenmiş halde hesap dökümünde gösterilir.
+
+<figure><img src="../../.gitbook/assets/özet.jpg" alt=""><figcaption><p>Sipariş Özet ve Hesap Dökümü</p></figcaption></figure>
 
 Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 seçenek sunulur,
 
@@ -334,11 +338,11 @@ Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 s
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 17.54.29 (1).png" alt=""><figcaption><p>Onayla</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/onayla.jpg" alt=""><figcaption><p>Bekleyen Siparişi Onaylama</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 17.54.39 (1).png" alt=""><figcaption><p>Kargo &#x26;  İptal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/iptal.jpg" alt=""><figcaption><p>Kargoya Ver / İptal Et</p></figcaption></figure>
 
 </div>
 
@@ -348,7 +352,7 @@ Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 s
 
 
 
-Burada merchant'ın ürününü kargoya vermek için 2 seçeneği vardır;
+Burada merchant'ın ürününü kargoya vermek için 3 seçeneği vardır;
 
 _1- Kendi anlaşmalı kargom ile kargoya vereceğim_
 
@@ -364,7 +368,11 @@ Merchant kendi anlaşmalı kargosu ile gönderim sağladığı için, anlaşmal�
 
 
 
+_3- Pazar yeri anlaşmalı kargo ile göndereceğim_
 
+Burada sistem tarafından yapılan seçim, genel teslimat profili ve kullanıcının özelleştirdiği teslimat ayarları doğrultusunda gerçekleşir. Kullanıcılar teslimat ayarlarını değiştirmek isterlerse, ekran içerisinden yönlendirme sağlanır.
+
+![](<../../.gitbook/assets/Ekran görüntüsü 2024-07-12 131836 (1).png>)
 
 _2- Kendim teslim edeceğim_
 
@@ -379,6 +387,8 @@ Merchant kendisi gönderim sağlayacağı için, sistem üzerinden tanımlayaca�
 
 
 <img src="../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.11.png" alt="" data-size="original"><img src="../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.30.png" alt="" data-size="original"><img src="../../.gitbook/assets/1.png" alt="" data-size="original">
+
+
 
 \
 **Kargo süreci tamamlanan ürünler teslimat yönetimi bölümünde listelenir ve yönetilir.**
