@@ -150,7 +150,7 @@ Görseller bölümünde görsel için yeni dosya ekleyebilir,yeniden adlandırı
 
 &#x20;
 
-<figure><img src="https://lh3.googleusercontent.com/y1RMca_WjFOx1ulqVHDWrSIyCJ-psdBpkN446q0TQo9IPqqy6TumS8cwCjcnYoZ2pIMCkCtPcoiYxNrHcKNlrdr7zJkQoUY7P0CZY8hgGvn9qVAdcVjvl9RePIRNnsjbojgbIpHIe51kBI1v2EGEmVA" alt=""><figcaption><p>Görseller Ekranı</p></figcaption></figure>
+<figure><img src="https://lh3.googleusercontent.com/y1RMca_WjFOx1ulqVHDWrSIyCJ-psdBpkN446q0TQo9IPqqy6TumS8cwCjcnYoZ2pIMCkCtPcoiYxNrHcKNlrdr7zJkQoUY7P0CZY8hgGvn9qVAdcVjvl9RePIRNnsjbojgbIpHIe51kBI1v2EGEmVA" alt="" width="188"><figcaption><p>Görseller Ekranı</p></figcaption></figure>
 
 PIM’de **medya > dokümanla**r bölümünden bütün dokümanlarınızı yönetebilirsiniz.\
 

@@ -685,15 +685,78 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 <summary>İptal talebi süreci</summary>
 
-(2)Ürün teslimat aşamasındayken iptal edilirse talep tipi "İptal" olarak talep yönetimi sayfasında listelenir. (1) İptal talebinin detay sayfasında siparişe ait bilgiler ile birlikte iptal nedeni de yazmaktadır.&#x20;
+Ürün teslimat aşamasındayken iptal edilirse talep tipi "İptal" olarak talep yönetimi sayfasında listelenir. İptal talebinin detay sayfasında siparişe ait bilgiler ile birlikte iptal nedeni de yazmaktadır.&#x20;
 
 <img src="../../.gitbook/assets/iptal detay (1).jpg" alt="" data-size="original"><img src="../../.gitbook/assets/iptaliçerik.jpg" alt="İptal Detay" data-size="original">
 
 </details>
 
+### Hedef Yönetimi
 
+Hedefler, mağaza satıcılarına yönelik hedeflerin görüntülenebildiği alandır.&#x20;
+
+<figure><img src="../../.gitbook/assets/hedf.jpg" alt=""><figcaption><p>Hedef Yönetimi</p></figcaption></figure>
+
+Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listelenir. \
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/temel.jpg" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/hedef.jpg" alt=""><figcaption><p>Hedef Alanı</p></figcaption></figure>
+
+</div>
+
+Listelenen hedeflerde satırda bulunan detay butonuna tıklayarak satıcılar, hedefe ait temel bilgileri ve hedef alanını ayrı olarak inceleyebilirler.
 
 ### Medya Yönetimi
+
+Medya Yönetimi, mağazada bulunan medya dosyalarının yönetildiği bölümdür. _**Medya yönetimi; “Görsel Yönetimi” ve “Toplu Yükleme” olarak ikiye ayrılır.**_
+
+> Görsel  Yönetimi
+
+Görsel Yönetimi yüklenmiş olan görselleri kategorilere ve alanlarına göre görüntülemeyi sağlar. Görsel yönetimi bölümü filtreleme özellikleri dışında klasörleme ve görsel yükleme olarak iki ana fonksiyon içerir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/görsel yön.jpg" alt=""><figcaption><p>Görsel Yönetimi</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/upload.jpg" alt=""><figcaption><p>Klasör Oluşturma ve Görsel Yükleme</p></figcaption></figure>
+
+</div>
+
+Görsel yönetimi, mağazada bulunan mevcut klasörleri ve bu klasörlerdeki resimleri görüntülendiği alandır. Satıcılar isterlerse "Upload" seçeneğini kullanarak belirledikleri klasöre görsel yükleyebilirler.&#x20;
+
+Toplu görsel yükleme için kullanılan; medya yönetimi altında "Toplu Yükleme" sayfasında, rar veya zip formatında bulunan toplu görseller yüklenebilir.&#x20;
+
+> Toplu Yükleme
+
+_**Toplu görsel yükleme işlemi; "Döküman Yükle", "Veriyi Kontrol Et" ve "Tamamlandı" olarak 3 aşamadan oluşur.**_
+
+Doküman yüklemek için "Toplu Doküman YÜkleme" sayfasındaki; "Kategori", "Marka" ve "Ürün" görsel tiplerinden seçim yaptıktan sonra görseller toplu yüklenebilir.
+
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/kateg.jpg" alt=""><figcaption><p>Döküman Tipleri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/x.jpg" alt=""><figcaption><p>Toplu Yükleme</p></figcaption></figure>
+
+</div>
+
+Görselleri yükleyip "Devam Et" butonuna tıklandığında veri kontrol aşamasına geçilir. Burada şartlar sağlanmıyorsa hata bildirimi kullanıcıya gözükür ve hatalı görselleri listelenir.
+
+<figure><img src="../../.gitbook/assets/hata.jpg" alt=""><figcaption><p>Şartlar Sağlanmıyor Hatası</p></figcaption></figure>
+
+Şartlar sağlandığında sistem, görselleri onaylar ve listeler. Kullanıcı devam et butonuna tıkladığında görseller sisteme yüklenir ve görsel yönetimi alanında görüntülenir.
 
 ### Raporlar
 
