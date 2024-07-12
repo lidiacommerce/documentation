@@ -6,7 +6,7 @@ description: >-
 
 # Türkçe
 
-Kullanıcı dokümantasyonu 8 ana başlıkta incelenecektir.\
+Kullanıcı kılavuz dökümantasyonu 8 ana başlıkta incelenecektir.\
 
 
 1. [Giriş](turkce.md#giris)
