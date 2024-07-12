@@ -9,12 +9,33 @@ description: >-
 Kullanıcı dokümantasyonu 6 ana başlıkta incelenecektir.\
 
 
-1. [Anasayfa](turkce.md#anasayfa)
-2. [Mağaza Yönetimi](turkce.md#magaza-yoenetimi)
-3. [Ürün Yönetimi](turkce.md#ueruen-yoenetimi)
-4. [Satış Yönetimi](turkce.md#satis-yoenetimi)
-5. [Medya Yönetimi](turkce.md#medya-yoenetimi)
-6. [Raporlar](turkce.md#raporlar)
+1. [Giriş](turkce.md#giris)
+2. [Anasayfa](turkce.md#anasayfa)
+3. [Mağaza Yönetimi](turkce.md#magaza-yonetimi)
+   1. [Mağaza Detayları](turkce.md#magaza-yonetimi)
+   2. [Mağaza Kullanıcıları](turkce.md#magaza-kullanicilari)
+4. [Ürün Yönetimi](turkce.md#urun-yonetimi)
+   1. [Toplu Ürün İşlemleri](turkce.md#toplu-urun-islemleri)
+      1. [Ürün Ailesi Ekleme](turkce.md#urun-ailesi-ekleme)
+      2. [Ürün Ekleme ve Değiştirme](turkce.md#urun-ailesi-ekleme)
+   2. [Fiyat / Stok İşlemleri](turkce.md#fiyat-stok-islemleri)
+   3. [Katalogdan Ürün Ekle](turkce.md#katalogtan-urun-ekle)
+   4. [Ürünlerim](turkce.md#urunlerim)
+5. [Satış Yönetimi](turkce.md#satis-yonetimi)
+   1. [Sipariş Yönetimi](turkce.md#altbaslik)
+      1. [Seçili Ürünleri Kargoya Ver](turkce.md#kargoya-verme)
+      2. [Seçili Ürünleri İptal Et](turkce.md#iptal-etme)
+   2. [Teslimat Yönetimi](turkce.md#teslimat-yonetimi)
+   3. [Teslimat Profili](turkce.md#teslimat-profili)
+   4. [Talep Yönetimi](turkce.md#talep-yonetimi)
+      1. [İade Talebi Süreci](turkce.md#iade-talebi)
+      2. [İptal Talebi Süreci](turkce.md#iptal-talebi)
+6. [Hedef Yönetimi](turkce.md#hedef-yonetimi)
+   1. [Hedef Yönetimi](turkce.md#hedef-yonetimi)
+7. [Medya Yönetimi](turkce.md#medya-yonetimi)
+   1. [Görsel Yönetimi](turkce.md#gorsel-yonetimi-1)
+   2. [Toplu Yükleme](turkce.md#toplu-yukleme-1)
+8. [Raporlar](turkce.md#raporlar)
 
 
 
@@ -38,12 +59,12 @@ Mağaza Performansı bölümü son iki ay özelinde önemli ve sürekli güncell
 
 Ürün Performansı bölümü son iki ay özelinde en çok satan ürünleri listeler.&#x20;
 
-### Mağaza Yönetimi
+## Mağaza Yönetimi
 
 Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir. _**Mağaza Yönetimi alanı; "Mağaza Detayları" ve "Mağaza Kullanıcıları" olarak 2 bölümden oluşur.**_\
 
 
-> Mağaza Detayları
+### Mağaza Detayları
 
 Mağaza detayları bölümü satıcıların; temel bilgileri, adres bilgileri, entegrasyon bilgileri ve ayarlar bölümlerinden oluşur. Mağaza detaylarında satıcı mağaza durumunu da değiştirebilir.
 
@@ -77,7 +98,7 @@ Satıcı eğer tanımlanmadıysa hizmet vereceği kategorileri ve bölgeleri se�
 
 
 
-> Mağaza Kullanıcıları
+### Mağaza Kullanıcıları
 
 Mağaza kullanıcıları bölümünde; satıcının kullanıcılarının bir listesi yer alır. Satıcı yönetici paneline ihtiyaç durmadan bu sayfalardan kullanıcı ekleyebilir. Bu listede kullanıcıların ad-soyad, e-posta adresi, rolü, oluşturma tarihi ve durum bilgisi görüntülenir.&#x20;
 
@@ -89,25 +110,25 @@ Mağaza kullanıcı detayında da kullanıcının listelenen temel bilgileri gö
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-07 at 21.37.54.png" alt=""><figcaption><p>Mağaza kullanıcısı detayı</p></figcaption></figure>
 
-### Ürün Yönetimi
+## Ürün Yönetimi
 
 Ürün Yönetimi bölümünde; satıcılar sattıkları ürünleri görüntüleyebilir, fiyat - stok bilgisini düzenleyebilir, katalogtan ürün ekleyip direkt satışa ürün çıkarabilir ve ürünlerini yönetebilir.
 
 _**Ürün Yönetimi; “Toplu Ürün İşlemleri”, “Fiyat/Stok İşlemleri”, “Katalogdan Ürün Ekle” ve “Ürünlerim” olarak 4 bölüme ayrılır.**_
 
-> Toplu Ürün İşlemleri
+### Toplu Ürün İşlemleri
 
 Toplu ürün işlemlerinde mevcutta bulunan ürün ailelerini listeleyebilir ve  ürün ailelerine ait ürünleri görüntüleyebilirler.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.34.36.png" alt=""><figcaption><p>Toplu Ürün İşlemleri</p></figcaption></figure>
 
-> Ürün Ailesi Ekleme
+#### Ürün Ailesi Ekleme
 
 Toplu ürün işlemleri sayfasında bulunan "Yeni Ürün Ailesi Ekle"  butona tıklayarak, kategori seçtikten sonra devam diyerek yeni bir ürün ailesi eklenebilir.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ürün Ailesi Ekleme</p></figcaption></figure>
 
-> Ürün Ekleme ve Değiştirme
+#### Ürün Ekleme ve Değiştirme
 
 Satıcılar toplu ürün işlemleri sayfasında listelenen ürün aileleri satırında bulunan "Ürünleri Yönet" butonuna tıklayarak ilgili ürün ailesinde bulunan ürünleri görebilir, ürünleri dışa aktarılabilir ve yeni ürünler ekleyebilirler.
 
@@ -129,7 +150,7 @@ Satıcılar onay bekleyen ürünler arasında, onaya görderilmesi istenmeyen ü
 
 Consol yöneticisi tarafından onaylanan ürünler "Onaylananlar" sayfasında listelenir. Satıcı, onaylanan ürünleri yayına alabilir.&#x20;
 
-> [Fiyat / Stok İşlemleri](#user-content-fn-1)[^1]
+### Fiyat / Stok İşlemleri
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-08 at 11.35.53.png" alt=""><figcaption><p>Fiyat / Stok İşlemleri</p></figcaption></figure>
 
@@ -222,21 +243,11 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 \
 
 
-> Katalogtan Ürün Ekle
+### Katalogtan Ürün Ekle
 
 
 
-
-
-
-
-
-
-
-
-> Ürünlerim
-
-
+### Ürünlerim
 
 Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan merchant'ın tüm ürünleri Ürünlerim sayfalarında listelenir.
 
@@ -253,13 +264,13 @@ Listelemede Stok durumu "0" olanlar kırmızı bir uyarı ile belirtilir; stok d
 
 
 
-### Satış Yönetimi
+## Satış Yönetimi
 
 Satış Yönetimi bölümünde, satıcılar siparişlerini görüntüleyebilir, düzenleyebilir, teslim süreçlerini inceleyebilir ve teslim ettikleri ürünleri denetleyebilirler. Ayrıca, bu ekranlar aracılığıyla sipariş ve teslimat kodlarına erişebilirler. Teslimat profillerinde çalışılan kargo şirketlerinin profilleri oluşturabilir ve müşterilerden gelen iptal ve iade taleplerini görüntüleyebilir, onaylayabilir veya reddedebilir.
 
 _**Satış yönetimi; "Sipariş Yönetimi", "Teslimat Yönetimi", "Teslimat Profili" ve "Talep  Yönetimi" olmak üzere 4 bölümden oluşur.**_
 
-> Sipariş Yönetimi
+### Sipariş Yönetimi <a href="#altbaslik" id="altbaslik"></a>
 
 Sipariş yönetimi sayfasında müşteriler, tüm siparişlerinin; teslimat kodunu, müşterisinin bilgilerini, toplam tutarı, siparişinin tarihini ve sipariş durumunu görebilir.  \
 \
@@ -346,13 +357,15 @@ Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 s
 
 </div>
 
+#### Kargoya Verme
+
 <details>
 
 <summary>Seçili ürünleri kargoya ver</summary>
 
 
 
-Burada merchant'ın ürününü kargoya vermek için 3 seçeneği vardır;
+#### Burada merchant'ın ürününü kargoya vermek için 3 seçeneği vardır;
 
 _1- Kendi anlaşmalı kargom ile kargoya vereceğim_
 
@@ -395,13 +408,15 @@ Merchant kendisi gönderim sağlayacağı için, sistem üzerinden tanımlayaca�
 
 </details>
 
+#### İptal Etme
+
 <details>
 
 <summary>Seçili ürünleri iptal et</summary>
 
 
 
-Seçili ürünü yönlendirmelerimiz aracılığıyla iptal edebilirsiniz.
+#### Seçili ürünü yönlendirmelerimiz aracılığıyla iptal edebilirsiniz.
 
 <img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.27.47 (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.28.05 (1).png" alt="" data-size="original">
 
@@ -432,13 +447,7 @@ Sipariş yönetiminde kullanıcı siparişini kargoya vermeden iptal işlemini 2
 \- Siparişi onaylar, kargoya vermeden iptal edebilir\
 \- Siparişi onaylamaz, direkt reddedebilir.
 
-
-
-
-
-> Teslimat Yönetimi
-
-
+### Teslimat Yönetimi
 
 Sipariş yönetiminde kargoya verilen seçili sipariş, teslimat yönetimi sayfalarında listelenir.&#x20;
 
@@ -476,7 +485,7 @@ Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip b
 
 (1) Sipariş detayda belirtilen **Sipariş ID**'dir. (2) Bu id ile teslimat yönetimi sayfalarında arama yapabilir; (3) siparişin detaylarını görüntüleyebilirsiniz. Teslimatın takibi bu sayfalardan yapılır.
 
-> Teslimat Profili
+### Teslimat Profili
 
 Teslimat profilleri bölümünde teslimat profilleri ve kargo maliyetlerinin görüntülendiği sayfaları bulunur. \
 \
@@ -541,10 +550,9 @@ Kargo maliyetleri bölümünde entegre edildiği takdirde satıcının görünt�
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-12-12 at 17.41.49.png" alt=""><figcaption><p>Kargo maliyetleri</p></figcaption></figure>
 
 \
-\
 
 
-> Talep Yönetimi
+### Talep Yönetimi
 
 Talep yönetimi sayfalarından müşterilerin önyüzden gönderdikleri iade ve iptal taleplerini listeler halinde görüntüleyebilirsiniz. Her bir talep satırında talep edilen sipariş id'sini, referans no'sunu, takip kodunu, müşteri bilgisini, talep tipini, talep tutarını, talep tarihini ve durumunu görüntüleyebilirsiniz.
 
@@ -582,7 +590,7 @@ statülerinde talep yönetimi ekranlarında görüntülenir.
 
 
 
-
+#### İade Talebi
 
 <details>
 
@@ -677,9 +685,9 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 
 
-
-
 </details>
+
+#### İptal Talebi
 
 <details>
 
@@ -691,7 +699,9 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 </details>
 
-### Hedef Yönetimi
+
+
+## Hedef Yönetimi
 
 Hedefler, mağaza satıcılarına yönelik hedeflerin görüntülenebildiği alandır.&#x20;
 
@@ -712,11 +722,11 @@ Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listele
 
 Listelenen hedeflerde satırda bulunan detay butonuna tıklayarak satıcılar, hedefe ait temel bilgileri ve hedef alanını ayrı olarak inceleyebilirler.
 
-### Medya Yönetimi
+## Medya Yönetimi
 
 Medya Yönetimi, mağazada bulunan medya dosyalarının yönetildiği bölümdür. _**Medya yönetimi; “Görsel Yönetimi” ve “Toplu Yükleme” olarak ikiye ayrılır.**_
 
-> Görsel  Yönetimi
+### Görsel Yönetimi
 
 Görsel Yönetimi yüklenmiş olan görselleri kategorilere ve alanlarına göre görüntülemeyi sağlar. Görsel yönetimi bölümü filtreleme özellikleri dışında klasörleme ve görsel yükleme olarak iki ana fonksiyon içerir.
 
@@ -734,7 +744,7 @@ Görsel yönetimi, mağazada bulunan mevcut klasörleri ve bu klasörlerdeki res
 
 Toplu görsel yükleme için kullanılan; medya yönetimi altında "Toplu Yükleme" sayfasında, rar veya zip formatında bulunan toplu görseller yüklenebilir.&#x20;
 
-> Toplu Yükleme
+### Toplu Yükleme
 
 _**Toplu görsel yükleme işlemi; "Döküman Yükle", "Veriyi Kontrol Et" ve "Tamamlandı" olarak 3 aşamadan oluşur.**_
 
@@ -758,7 +768,7 @@ Görselleri yükleyip "Devam Et" butonuna tıklandığında veri kontrol aşamas
 
 Şartlar sağlandığında sistem, görselleri onaylar ve listeler. Kullanıcı devam et butonuna tıkladığında görseller sisteme yüklenir ve görsel yönetimi alanında görüntülenir.
 
-### Raporlar
+## Raporlar
 
 
 
@@ -768,6 +778,3 @@ Görselleri yükleyip "Devam Et" butonuna tıklandığında veri kontrol aşamas
 
 
 
-
-
-[^1]: 
