@@ -312,15 +312,15 @@ statülerinde sipariş listeleme ekranlarında görüntülenir.
 
 </div>
 
-Herbir sipariş satırındaki en sağdaki görüntüle butonununa tıklayarak sipariş içeriğini görüntüleyebilirsiniz.
+Herbir sipariş satırındaki en sağdaki görüntüle butonununa tıklayarak sipariş içeriğini görüntüleyebilirsiniz
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 17.10.34 (2).png" alt=""><figcaption><p>Görüntüleme</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Siapriş detay tıklama.jpg" alt=""><figcaption><p>Sipariş İçeriği - Görüntüleme</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 17.07.24 (2).png" alt=""><figcaption><p>Sipariş İçeriği</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sipariş içeriği (1).jpg" alt=""><figcaption><p>Sipariş İçeriği Sayfası</p></figcaption></figure>
 
 </div>
 
