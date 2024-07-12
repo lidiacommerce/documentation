@@ -458,35 +458,23 @@ Siparişin teslimat ID, sipariş ID, teslimat kanallarını, teslimat kodunu ve 
 
 
 
-
-
-(2) Sipariş detayda belirtilen **Sipariş ID**'dir. (3) Bu id ile teslimat yönetimi sayfalarında arama yapabilir; (4) siparişin detaylarını görüntüleyebilirsiniz. Teslimatın takibi bu sayfalardan yapılır.
-
 Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip birden fazla satırda ürünleri inceleyebilir.&#x20;
 
 
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.01.png" alt=""><figcaption><p>1</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.07.png" alt=""><figcaption><p>2</p></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.07.png" alt="" width="375"><figcaption><p>1</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>2</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.52 (1).png" alt=""><figcaption><p>4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.52 (1).png" alt=""><figcaption><p>3</p></figcaption></figure>
 
 </div>
 
-
+(1) Sipariş detayda belirtilen **Sipariş ID**'dir. (2) Bu id ile teslimat yönetimi sayfalarında arama yapabilir; (3) siparişin detaylarını görüntüleyebilirsiniz. Teslimatın takibi bu sayfalardan yapılır.
 
 > Teslimat Profili
 
@@ -697,29 +685,11 @@ Buradaki akış yukarıdaki akış ile aynıdır.&#x20;
 
 <summary>İptal talebi süreci</summary>
 
+(2)Ürün teslimat aşamasındayken iptal edilirse talep tipi "İptal" olarak talep yönetimi sayfasında listelenir. (1) İptal talebinin detay sayfasında siparişe ait bilgiler ile birlikte iptal nedeni de yazmaktadır.&#x20;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="../../.gitbook/assets/iptal detay (1).jpg" alt="" data-size="original"><img src="../../.gitbook/assets/iptaliçerik.jpg" alt="İptal Detay" data-size="original">
 
 </details>
-
-
 
 
 
