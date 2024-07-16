@@ -36,33 +36,35 @@ Anasayfa 3 ayrı bölümde bir dashboard görüntüleniyor. Bunlar:
 
 **Gelen Veri:** Bu bölümde ürün havuzunda kaç tane ürününüzün olduğunu, havuz kayıtlarını, hatalı kayıtları ve yayına hazır kayıtlarınızın görüntülendiği bölümdür. PIM sistemine dış kaynaklardan, genellikle ürün verilerinin başlangıç noktası olarak kullanılan kaynaklardan gelen verileri ifade eder. Bu veriler, ürünlerin temel bilgilerini içerebilir ve farklı kaynaklardan gelerek PIM sistemine entegre edilir. Örnek olarak, ürün tedarikçilerinden, üreticilerden, pazar yerlerinden veya diğer veri kaynaklarından alınan ürün verileri gelen veri olarak adlandırılabilir.
 
-
-
-<figure><img src="https://lh5.googleusercontent.com/Hre_0Wd7nARYMWwBd-eFjHygIaRjOC6he3xTfZgUUUQit2ezVGGaiN4j11y8rCdpq6HcOMHSOxpzuR4MwQVyH6OYotm5NIUkI7l0GYQGPc7T0j7rGtsB_Tp_wlqYJU1EI69mQZPhHNkpsw2nRL6CZfg" alt=""><figcaption><p>Gelen Veri</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 10.58.17.png" alt=""><figcaption><p>Gelen Veri</p></figcaption></figure>
 
 
 
 **Canlı Veri:** Canlı veri bölümünde ürün, kategori, liste, varyant,marka ve medya sayısınının görüntülendiği bölümdür. Aynı zamanda bu bölümlere hızlı geçiş sağlanabilir. PIM sistemine entegre edilmiş diğer sistemlerle gerçek zamanlı olarak paylaşılan verileri ifade eder. PIM sistemi, e-ticaret platformları, ERP (Enterprise Resource Planning) sistemleri, CRM (Customer Relationship Management) sistemleri ve diğer entegre sistemlerle veri paylaşımı yapabilir. Bu sayede güncel ve doğru veriler canlı olarak PIM sistemi üzerinde güncellenir ve diğer sistemlerle senkronize kalır.
 
-<figure><img src="https://lh6.googleusercontent.com/yX4-8uW3dENdpgEciqIWQzSwnlpOALfHrzISkdUuT1lvbxzczpKAJC2a51rc80odpIQ1YsoYPXAiqIuZS_sGGbMnVMakWGmh3UwOkMwAkXb-kM7xO5mFcce_9YAzsmOx2DfMN7_6hpFY4NYha_TVLTg" alt=""><figcaption><p>Canlı Veri</p></figcaption></figure>
+<div align="center" data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 11.01.01.png" alt=""><figcaption><p>Canlı Veri</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 11.01.35.png" alt=""><figcaption><p>Canlı Veri Kısa Yolları</p></figcaption></figure>
 
 **Dışa Aktarım:** Bu bölümde ise kanallar ve akış sayısını görüntüleyebilir, bu bölümlere hızlı geçiş yapabilirsiniz. Ürün verilerinin, belirli formatlarda veya belirli hedeflere dışarıya aktarılması işlemidir. PIM sistemi, ürün verilerini farklı kanallar, platformlar veya formatlar için dışarı aktarabilir. Örneğin, e-ticaret web siteleri, pazar yerleri, dijital kataloglar veya üçüncü taraf entegrasyonlar gibi çeşitli hedeflere doğru dışarıya aktarım yapılabilir. Bu dışarıya aktarılan veriler, genellikle güncel ve doğru ürün bilgilerini içerir ve hedef sistemlerde kullanılır.
 
-<figure><img src="https://lh3.googleusercontent.com/GpZbSxo_Sccxmark3jVbiUS0J4zbog7Q6xRnag_KonozBU2DzESaPdKxmQM9iCg_5owaJxdazxdHw5UXlf0xG_firV6wgiAozX5j47lx8EpMOehqZXM5wNEaTT9FHN7AZJodM9JKf2O1nO-hmUeKlHo" alt=""><figcaption><p>Dışa Aktarım</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 11.01.51.png" alt=""><figcaption><p>Dışa Aktarım</p></figcaption></figure>
 
 Gelen veri, canlı veri ve dışarı aktarım, PIM sistemi içinde ürün veri yönetiminin temel süreçlerini kapsar. Gelen veri, ürün verilerinin PIM sistemi içine aktarılmasını sağlar. Canlı veri, diğer sistemlerle gerçek zamanlı olarak veri paylaşımını ve senkronizasyonu sağlar. Dışarı aktarım ise, PIM sistemi üzerinde yönetilen ürün verilerinin farklı hedeflere dışarıya aktarılmasını sağlar. Bu süreçler, PIM sistemi üzerinde ürün verilerinin etkili ve verimli bir şekilde yönetimini sağlar ve doğru, güncel ve tutarlı ürün bilgilerini çeşitli kanallar ve sistemler arasında paylaşmayı kolaylaştırır.
 
-
-
 Ana Sayfada sol menüde PIM’in kontrolünü sağlanacağı bölümler bulunuyor.&#x20;
 
-<figure><img src="https://lh5.googleusercontent.com/L3KFqWhFVmp6Ob7kz3kYWTWRGTdRYdUuwQGq903_G6kBMAa81wC9gQC6kJKd3jBNJsUbyn6gcuenFlZN57t6S8ZaLgF254IIwkHHnFXkENTWWpUYR_gRMpq39YIkuHnXQ5sTDfZykQB1PTGrIK_Gz1s" alt=""><figcaption><p>PIM Sol Menü</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adsız tasarım.png" alt=""><figcaption><p>PIM Sol Menü</p></figcaption></figure>
 
 Hesap Bilgileri, organizasyonlarınızı ya da kullandığınız dili değiştirmek için sağ üste bulunan profil kısmına tıklayarak düzenleyebilirsiniz.&#x20;
 
-<figure><img src="https://lh6.googleusercontent.com/Z5Vx8N1IpmWSklom-rZKNjqVlPLo-fdhAEvRMwmjzkAOu1jewXcGD-BanUyADEyOlQI8nHGN_aZ3KrP3AukWaiunG23weuB3661gXdtugO6zrwYjs9tyhm6ReqrFAmNYwL-Lk2K6NSzZRyAYWFWT2WQ" alt=""><figcaption><p>Profil </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/k.png" alt=""><figcaption><p>Profil </p></figcaption></figure>
 
-<figure><img src="https://lh3.googleusercontent.com/j-GAhm25peLkVLLbFV9qx4aXuqQuTTdblpVC9AOemJKmLkzhkUFZOQKarPizuUG4T9hBJlsrS9lk9CsLK9VbrUti5gORM0wLTJQ7clyOQd_Q49H7hC1k-KlOSStpVmGoFpQRtJatOASiKDqgwxelpao" alt=""><figcaption><p>Hesap Bilgileri Ekranı </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hesap.png" alt=""><figcaption><p>Hesap Bilgileri Ekranı </p></figcaption></figure>
 
 * Kullanıcı bilgileri bölümden aşağıdaki bilgileri düzenleyebilirsiniz:&#x20;
 * Profil resmi
@@ -71,7 +73,7 @@ Hesap Bilgileri, organizasyonlarınızı ya da kullandığınız dili değiştir
 * Telefon numarası&#x20;
 * Şifre güncellemesi yapılabilir.
 
-<figure><img src="https://lh5.googleusercontent.com/KJ7vueeYC4w8XPGZ5ulzYN2xz8otLJlBQc8WuHt0fuAzeHh-pEXjQGjjrcdnjDcLDtlP4TzBQJaRiP6QfPTnKBxopcASS5DMUGKW8u-TjsrGiNhW8xfm0QSn_OLPOiiBjnecqGo4VQHj1zC9P6dhud8" alt=""><figcaption><p>Organizasyonlarım Ekranı </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/t.png" alt=""><figcaption><p>Organizasyonlarım Ekranı </p></figcaption></figure>
 
 * Organizasyon detayları altında yer alan organizasyon adı ve açıklama alanının güncellenmesi
 * Organizasyon aktif aboneliklerinin görüntülenmesi
