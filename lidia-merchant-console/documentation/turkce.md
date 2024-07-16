@@ -302,8 +302,6 @@ Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre li
 
 statülerinde sipariş listeleme ekranlarında görüntülenir.
 
-Üst menüde bulunan tarih aralığı but
-
 \
 Üst menüdeki arama kutucuğu ile tüm siparişler arasında arama yapabilir ve filtreleme seçenekleri ile siparişlerinizi filtreleyebilirsiniz. Kolayca siparişler arasında siparişlerin tarihine ve fiyatına göre sıralama yapabilirsiniz.
 

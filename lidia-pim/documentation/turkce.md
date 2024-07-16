@@ -215,6 +215,51 @@ Yeni ölçü birimi tanımlamak için "Yeni Ölçü Birimi Ekle" butonuna tıkla
 
 ## Organizasyonum
 
+Organizasyonlar ile ilgili ayrıntılı bilgilere erişebildiğimiz, aboneliklerin yönetimi ve Lidia ürünlerinin yönetimini organize edebildiğimiz alandır. _**Organizasyon; "Detaylar", "Abonelikler" ve "Lidia Uygulamaları" olmak üzere 3 bölüme ayrılır.**_
+
+### Detaylar
+
+Organizasyonum detaylar sayfasında organizasyonlar ile ilgili ayrıntılı bilgiler (şirket adı, organizasyon tipi, organizasyon alan adı, organizasyon kodu ve açıklama) görüntülenebilir ve düzenlenebilir.&#x20;
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 16.20.26.png" alt=""><figcaption><p>Detaylar</p></figcaption></figure>
+
+### Abonelikler
+
+Abonelikler yönetimi kapsamında var olan abonelikler görüntülenebilir, düzenlenebilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 16.23.49.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 16.38.22.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Lidia Uygulamaları
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 17.00.13.png" alt=""><figcaption><p>Uygulamalar</p></figcaption></figure>
+
+* Lidia uygulamalarını yönet ekranında var olan uygulamalar görüntülenir ve düzenlenir. Örneğin;
+  * Merchant Console
+  * PIM
+  * Store
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 17.02.25.png" alt=""><figcaption><p>Uygulama Oluşturma</p></figcaption></figure>
+
+Yeni eklenen uygulamalar sayfasında listelenir. "Detaylar" seçeneği ile uygulamaya ait özellikler düzenlenebilir ve gerekli tanımlar yapılabilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 17.04.34.png" alt=""><figcaption><p>Eklenen Uygulamaları Listeleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 17.07.46.png" alt=""><figcaption><p>Uygulama Detay Sayfası</p></figcaption></figure>
+
+</div>
+
 #### Katalog
 
 #### Kanallar
