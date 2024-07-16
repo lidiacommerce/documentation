@@ -9,13 +9,8 @@ description: >-
 Kullanıcı dokümantasyonu 8 ana başlıkta incelenecektir.
 
 1. [Anasayfa](turkce.md#anasayfa)
-2. [Konfigürasyon ](turkce.md#konfiguerasyon)
-3. [Organizasyonum](turkce.md#organizasyonum)
-4. [Katalog ](turkce.md#katalog-1)
-5. [Envanter](turkce.md#envanter)
-6. [Medya](turkce.md#medya)
-7. [Servisler](turkce.md#servisler)
-8. [Raporlar](turkce.md#raporlar)
+2. Ayarlar
+   1.
 
 ### Giriş
 
@@ -80,9 +75,83 @@ Hesap Bilgileri, organizasyonlarınızı ya da kullandığınız dili değiştir
 * Organizasyon kullanıcılarının yönetimi (Sadece “Uygulama Yöneticisi” rolüne sahip kullanıcılar yaratılabilir ve güncellenebilir)
 * Mevcut Lidia uygulamalarının (console, merchant console vb.) görüntülenmesi
 
-### Konfigürasyon
+## Ayarlar
 
-#### Genel&#x20;
+Ayarlar bölümünde, PIM kulanıcılarının tüm platform içeriğini etkili bir şekilde yönetmelerini sağlayan birimlerin ayarlarının düzenlendiği ve eklemelerin yapılabildiği sayfalar bulunur. _**Ayarlar bölümü; "Yetkilendirme", "Üyeler", "Katalog", "Lokalizasyon" ve "Konfigürasyon" olmak üzere 5 ana başlıktan oluşur.**_
+
+### Yetkilendirme
+
+Yetkilendirme bölümü, PIM üzerinde kullanıcıların ve sistem üzerinde tanımlanan kullanıcı rollerinin belirlenebildiği ve listelendiği sayfaları içermektedir.
+
+_**Yetkilendirme bölümünde "Kullanıcılar" ve "Roller" olmak üzere iki kategori bulunmaktadır.**_&#x20;
+
+### Kullanıcılar
+
+Kullanıcılar sayfasında, PIM’i kullanacak kullanıcılarımızın listesi görüntülenir. Kullanıcılar bölümünde eklenmiş kullanıcılar detay sayfalarında görüntülenebilir; orada güncellenebilir, kullanıcı silinebilir ve liste içerisinde durumuna göre listelenebilir.
+
+<figure><img src="../../.gitbook/assets/sa.png" alt=""><figcaption><p>Kullanıcılar </p></figcaption></figure>
+
+Yeni kullanıcı ekle butonuna tıklanarak kullanıcı ekledikten sonra listeye eklenen kullanıcı detaylı incelenebilir ve düzenlenebilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/kull.png" alt=""><figcaption><p>Kullanıcı Ekleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/det.png" alt=""><figcaption><p>Kullanıcı Detay Butonu</p></figcaption></figure>
+
+</div>
+
+Oluşturulan kullanıcılar tekrar düzenlenebilir eklemeler veya güncellemeler yapılabilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 13.28.16.png" alt=""><figcaption><p>Kullanıcı Ekleme Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/deat.png" alt=""><figcaption><p>Kullanıcı Düzenleme</p></figcaption></figure>
+
+</div>
+
+### Roller
+
+Roller sayfasında ise belirlenen roller ve bunları kullanan aktif kullanıcı sayısı görüntülenebilir; yeni rol eklenebilir. Adminler de rol olarak belirlenebilir ve düzenlenebilir; sayfalardaki yetkileri düzenlenebilir. Ayrıca pasif olan roller de silinebilir.
+
+<figure><img src="../../.gitbook/assets/sss.png" alt=""><figcaption><p>Roller Sayfası</p></figcaption></figure>
+
+Roller sayfasında sistemde daha önceden oluşturulmuş roller ve bu rollere ait kullanıcı sayıları görüntülenir.&#x20;
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 13.45.59.png" alt=""><figcaption><p>Yeni Rol Ekleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 13.47.43.png" alt=""><figcaption><p>Rol Detayı</p></figcaption></figure>
+
+</div>
+
+Yeni rol ekleme ekranında; rol adı, isteğe bağlı kullanıcı tanımlama ve mevcut yetki şablonu belirlenerek yeni rol eklenebilir. Eklenen yeni rol roller sayfasında listelenir. Rol detayına giderek seçili rol için değişiklikler ve güncellemeler yapılabilir.
+
+### Üyeler
+
+PIM sisteminde tanımladığımız kullanıcıların listelenmesi ve erişim durumlarını değiştirip güncelleme yapabildiğimiz alandır. Tanımlanan kullanıcıların düzenlenmesi buradan yapılır.
+
+<figure><img src="../../.gitbook/assets/fa.png" alt=""><figcaption><p>Üyeler Sayfası</p></figcaption></figure>
+
+Kullanıcıyı düzenleme ekranı "Yetkilendirme" bölümü içerisindeki "Kullanıcılar" sayfasında bulunan kullanıcı düzenleme sayfası ile aynıdır.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/sad.png" alt=""><figcaption><p>Kullanıcıyı Düzenle Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/asda.png" alt=""><figcaption><p>Erişimi Kaldırma</p></figcaption></figure>
+
+</div>
 
 <figure><img src="https://lh3.googleusercontent.com/IRH8bF5wsEHIkfx-fxa74vQDGWkDstp6VnQlJbZWSN4vYvNEbnKE5UQ2XmqwDxBMYcr3ttHFw5htRdbk2n8oXlzl8hsn2C1m7nRi1ltQ9G2Xseldjkrni9vJPgnkP2n_7C90deOuTIfXTJT_BbrdduY" alt=""><figcaption><p>Konfigürasyonlar Yönetim Ekranı  </p></figcaption></figure>
 
