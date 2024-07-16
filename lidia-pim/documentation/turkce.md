@@ -18,10 +18,7 @@ Lidia ürün bilgi yönetimi (PIM) yazılımı, şirketler tarafından ürün bi
 
 ### Anasayfa
 
-Anasayfa Lidia PIM’e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekranda sol menüde yönetim süreçlerini yapabilir, hesap bilgileri ve organizasyonlar görüntülenebilir dil değişikliği yapılabilir.\
-
-
-<figure><img src="https://lh4.googleusercontent.com/4Dy1lmxHHTR-9J8uby5R1Ube44pDQcaIPV-eTYnzXYJeBH9p5MZ8meefMXZTipRZbCXq-ZChc1j7W5_FjLvU7H4GurMw7Oz19enqHNjxBoXAJkjLTPMUKEre7EcPXHdh1E_L8AYjgVk52Wi-SP_HBlE" alt=""><figcaption><p>PIM Anasayfa Ekranı </p></figcaption></figure>
+Anasayfa Lidia PIM’e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekranda sol menüde yönetim süreçlerini yapabilir, hesap bilgileri ve organizasyonlar görüntülenebilir dil değişikliği yapılabilir.
 
 Anasayfa 3 ayrı bölümde bir dashboard görüntüleniyor. Bunlar:
 
@@ -153,7 +150,70 @@ Kullanıcıyı düzenleme ekranı "Yetkilendirme" bölümü içerisindeki "Kulla
 
 </div>
 
-<figure><img src="https://lh3.googleusercontent.com/IRH8bF5wsEHIkfx-fxa74vQDGWkDstp6VnQlJbZWSN4vYvNEbnKE5UQ2XmqwDxBMYcr3ttHFw5htRdbk2n8oXlzl8hsn2C1m7nRi1ltQ9G2Xseldjkrni9vJPgnkP2n_7C90deOuTIfXTJT_BbrdduY" alt=""><figcaption><p>Konfigürasyonlar Yönetim Ekranı  </p></figcaption></figure>
+### Lokalizasyon
+
+Lokalizasyon, bir ürünün veya hizmetin, belirli bir hedef pazar veya bölge için yerel kültürel, dil, coğrafi ve teknik gereksinimlere uygun olarak uyarlanması sürecidir. Lokalizasyon, bir ürünün veya hizmetin, farklı dillerde, farklı kültürel normlara, farklı bölgesel gereksinimlere ve yerel yasal düzenlemelere uygun hale getirilmesini içerir.&#x20;
+
+_**Lokalizasyon Menüsü; “Diller”, “Para Birimleri”, “Zaman Dilimleri” ve “Ölçü Birimleri” olarak dört bölümden oluşur.**_
+
+#### Diller
+
+Dil yönetimi: Ürün verilerinin farklı dillerdeki karşılıklarının PIM üzerinden tanımlanabilmesine yönelik olarak ilgili dillerin tanımı merkezi olarak yapılabilmektedir.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.07.04.png" alt=""><figcaption><p>Diller Ekranı</p></figcaption></figure>
+
+Yeni dil tanımlamak için "Yeni Dil Ekle" butonuna tıklayarak, yeni dil ekleme ekranından; "Dil Adı", "Dil Kodu" belirleyerek oluşturulabilir. Eklenen yeni dil diller sayfasında listelenir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/asdsasd.png" alt=""><figcaption><p>Yeni Dil Ekleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.12.50.png" alt=""><figcaption><p>Yeni Dil Ekleme Ekranı</p></figcaption></figure>
+
+</div>
+
+#### Para Birimleri&#x20;
+
+Para birimleri yönetimi: PIM üzerinde ürün bilgilerinin bir parçası olarak fiyat listeleri de yönetilebilmektedir. Bu fiyat listelerinde kullanılacak para birimleri ve bu birimlerin birbirine dönüşüm oranları merkezi olarak yönetilebilmektedir.
+
+\
+
+
+<figure><img src="../../.gitbook/assets/sadasda.jpg" alt=""><figcaption><p>Para Birimleri</p></figcaption></figure>
+
+Yeni para birimi tanımlamak için "Yeni Para Birimi Ekle" butonuna tıklayarak, yeni dil ekleme ekranından oluşturulabilir. Eklenen para birimi para birimleri sayfasında listelenir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.35.09.png" alt=""><figcaption><p>Para Birimi Ekleme Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.36.14.png" alt=""><figcaption><p>Eklenen Para Birimi Listeleme</p></figcaption></figure>
+
+</div>
+
+#### Ölçü Birimleri
+
+Ölçü birimleri yönetimi: PIM üzerinde yönetilen ürün bilgileri kapsamında ürünlere ait ölçüler de bulunmaktadır. Bu ölçülere ait birimler merkezi olarak yönetilebilmektedir.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.40.47.png" alt=""><figcaption><p>Ölçü Birimleri Ekranı</p></figcaption></figure>
+
+Yeni ölçü birimi tanımlamak için "Yeni Ölçü Birimi Ekle" butonuna tıklayarak, yeni ölçü ekleme ekranından oluşturulabilir. Eklenen yeni birim ölçü birimleri sayfasında listelenir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.44.05.png" alt=""><figcaption><p>Yeni Ölçü Birimi Ekleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 16-07-2024 15.45.53.png" alt=""><figcaption><p>Eklenen Birimi Listeleme</p></figcaption></figure>
+
+</div>
+
+## Organizasyonum
 
 #### Katalog
 
