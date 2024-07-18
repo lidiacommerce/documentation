@@ -150,6 +150,223 @@ Kullanıcıyı düzenleme ekranı "Yetkilendirme" bölümü içerisindeki "Kulla
 
 </div>
 
+### Katalog
+
+Katalog menüsü altında bulunan sayfalar, ürünlerin organize edilmesi, yönetilmesi ve düzenlenmesi için kullanılır.&#x20;
+
+#### Ürün Aileleri
+
+Ürün Aileleri, bir PIM sistemi içindeki ürün verilerinin organizasyonunu, yapılanmasını ve ilişkilerini tanımlayan yapısal bir plan veya modeldir. Ürün aileleri, ürün verilerini belirli bir standart veya format içinde tutarak, veri tutarlılığını, doğruluğunu ve erişilebilirliğini sağlamaya yardımcı olur.
+
+Lidia PIM kullanıcıları veri uzayını yukarıda başlıklarda tanımladıktan sonra, bu tanımlar kullanılarak yönetilecek ürün verisinin doğruluğunu kalitesinin kontrol altında tutulmasını sağlayacak olan veri şemaları oluşturulabilmektedir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 11.22.17.png" alt=""><figcaption><p>Yeni Veri Şeması Oluşturma</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 11.33.10.png" alt=""><figcaption><p>Oluşturma Ekranı</p></figcaption></figure>
+
+</div>
+
+Yeni veri şeması eklendikten sonra şemanın detayını inerek bilgileri görüntülenebilir ve ürün ailesi içerisinde tanımlanan alanlar düzenlenebilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 11.59.26.png" alt=""><figcaption><p>Veri Şeması Alanı </p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.00.13.png" alt=""><figcaption><p>Veri Şeması Alanı Düzenleme Ekranı</p></figcaption></figure>
+
+</div>
+
+#### Koleksiyonlar
+
+PIM'de koleksiyonlar, benzer ürünleri bir araya getirmek için kullanılan bir özelliktir. Koleksiyonlar, bir ürün kategorisi veya tema altında bulunan benzer ürünleri gruplandırmak için kullanılabilir. Bu, ürün verilerini daha etkili bir şekilde yönetmeye ve organize etmeye yardımcı olur. Koleksiyonlar, ürün verilerini daha kolay filtreleme, sıralama, güncelleme ve raporlama imkanı sağlar.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.42.03.png" alt=""><figcaption><p>Koleksiyonlar</p></figcaption></figure>
+
+#### Özellikler
+
+Özellikler menüsü, ürünlere eklenebilecek özel niteliklerin tanımlandığı bölümdür. Bu özellikler, ürünlerin daha ayrıntılı ve spesifik tanımlanmasını sağlar. _**Özellikler bölümünde “Özellik Grupları” ve “Özellikler” olarak iki sayfa bulunur.**_
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.47.27.png" alt=""><figcaption><p>Özellikler Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.48.26.png" alt=""><figcaption><p>Özellik Ekleme Ekranı</p></figcaption></figure>
+
+</div>
+
+Bu özellikler grupları Lidia PIM kullanıcısının ihtiyaçlarına göre arttırılabilir.
+
+* **Temel Özellikler:** Bu özellik grubu, ürünlerinizin temel bilgilerini içerir. Ürün adı, marka, model, SKU (Stok Tutma Birimi) numarası, ağırlık, boyut, renk gibi temel bilgiler bu özellik grubu altında yer alır.
+* **Fiziksel Özellikler:** Bu özellik grubu, ürünlerinizin fiziksel niteliklerini içerir. Malzeme türü, şekil, yüzey dokusu, dayanıklılık gibi fiziksel özellikler bu grup altında yer alabilir.
+* **Teknik Özellikler:** Bu özellik grubu, ürünlerinizin teknik ayrıntılarını içerir. İşlemci hızı, bellek kapasitesi, bağlantı protokolleri gibi teknik bilgiler bu grup altında yer alabilir.
+* **Görsel Özellikler:** Bu özellik grubu, ürünlerinizin görünümü ve estetik özelliklerini içerir. Renk seçenekleri, desenler, tasarım özellikleri gibi görsel bilgiler bu grup altında yer alabilir.
+* **Kullanım Özellikleri:** Bu özellik grubu, ürünlerinizin kullanımıyla ilgili bilgileri içerir. Kullanım talimatları, güvenlik önlemleri, kullanım süreçleri gibi kullanım bilgileri bu grup altında yer alabilir.
+* **Lojistik ve Nakliye Özellikleri:** Bu özellik grubu, ürünlerinizin lojistik ve nakliye ile ilgili bilgilerini içerir. Ağırlık, boyut, nakliye yöntemleri, paketleme bilgileri gibi lojistik ve nakliye bilgileri bu grup altında yer alabilir.
+* **Garanti ve Servis Özellikleri:** Bu özellik grubu, ürünlerinizin garanti süresi, servis seçenekleri, müşteri hizmetleri bilgilerini içerir.
+* **Fiyatlandırma ve İndirim Özellikleri:** Ürünün fiyatlandırma bilgilerini, indirimlerini, promosyonlarını içeren bir özellik grubudur. Ürünün fiyatı, indirim yüzdesi, promosyon kodları gibi fiyatlandırma ve indirim özellikleri bu grubun altında yer alabilir.
+
+Lidia PIM, ürünlerinizin özelliklerini ve bilgilerini gruplar halinde düzenleyerek daha etkili bir ürün yönetimi süreci sağlar. İşte Lidia PIM içinde bulunan özellik gruplarına bir bakış:
+
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.51.12.png" alt=""><figcaption><p>Özellik Grupları Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.51.32.png" alt=""><figcaption><p>Yeni Özellik Grubu Ekleme</p></figcaption></figure>
+
+</div>
+
+**Özellik Grubu**
+
+**Ürün Açıklamaları:** Ürünün detaylı açıklamalarının yer aldığı özelliktir. Ürünün özellikleri, avantajları, kullanım talimatları, bakım yönergeleri gibi bilgiler ürün açıklamalarına örnek olarak verilebilir.
+
+**Ürün Resimleri:** Ürüne ait resimlerin yönetildiği özelliktir. Ürünün ana resmi, ek resimleri, farklı açılardan görüntüleri, renk seçeneklerini gösteren resimler, ürünün kullanım resimleri gibi bilgiler ürün resimleri kategorisine örnek olarak verilebilir.
+
+**Ürün Özellikleri:** Bir ürünün temel nitelikleri ve ayrıntılarıdır. Örnek olarak, ürünün adı, markası, modeli, SKU (Stok Tutma Birimi) numarası, ağırlığı, boyutları, renkleri, malzemesi, garanti süresi, üretim yeri gibi bilgiler ürün özelliklerine örnek olarak verilebilir.
+
+* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası özellikleri merkezi olarak tanımlanabilmektedir. Örnek ürün özellikleri aşağıdaki gibidir:
+  * Kapasite
+  * Garanti Süresi
+  * Ekran Boyutu
+  * Ürün Malzamesi
+
+#### Seçenekler
+
+Seçenekler menüsü, ürünlere eklenebilecek farklı seçeneklerin tanımlandığı ve yönetildiği bölümdür. Seçenekler, müşterilerin ürünleri özelleştirmesine veya çeşitli varyasyonlar arasında seçim yapmasına olanak tanır.
+
+* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası seçenekleri merkezi olarak tanımlanabilmektedir. Örnek seçenekleri özellikleri aşağıdaki gibidir:
+  * Renk
+  * Beden
+
+Yeni seçenek eklerken seçenek grubu, seçenek adı, görüntülenecek ad, seçenek kodu ve veri tipi (metin, tam sayı, ondalıklı sayı, ölçü) eklenmelidir.
+
+\
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.54.59.png" alt=""><figcaption><p>Seçenekler Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.55.24.png" alt=""><figcaption><p>Yeni Seçenek Ekranı</p></figcaption></figure>
+
+</div>
+
+**Seçenek Değer Grupları**
+
+Seçenek Değer Grupları sayfası, belirli bir seçenek için olası değerlerin gruplandığı bölümdür. Örneğin, "Renkler" grubu altında "Kırmızı", "Mavi", "Yeşil" gibi değerler bulunabilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.58.45.png" alt=""><figcaption><p>Seçenek Değer Grupları Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.59.03.png" alt=""><figcaption><p>Seçenek Değer Grubu Ekleme</p></figcaption></figure>
+
+</div>
+
+**Seçenek Grupları**
+
+Seçenek grupları belli seçeneklerinin gruplandığı bölümdür. Gruplandırılan bu seçenekler isimlendirilebilir. Örnek olarak; oluşturulan renk seçeneklerini kırmızı şeklinde gruplanabilir. Buradan kırmızı olarak olarak gruplandırılan kırmızı seçenek grubu yönetilebilir.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.03.37.png" alt=""><figcaption><p>Seçenek Grupları Ekranı</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.22.35.png" alt=""><figcaption><p>Seçenek Grubu Düzenleme Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.22.04.png" alt=""><figcaption><p>Yeni Seçenek Grubu Ekleme</p></figcaption></figure>
+
+</div>
+
+#### Veri Kitleleri
+
+Veri Kilitleri sayfası, belirli verilerin yanlışlıkla değiştirilmesini önlemek için kullanılır. Bu, ürün bilgileri veya fiyatlar gibi kritik verilerin sabitlenmesini sağlar.
+
+**Ürün İlişkileri**
+
+Ürün ilişkileri, bir PIM (Product Information Management) sistemi içinde bulunan ürünler arasındaki ilişkileri ifade eder. Ürün ilişkileri, ürünlerin birbiriyle bağlantılı olduğu durumları ve ilişkili ürünlerin birbirine nasıl bağlı olduğunu tanımlar. PIM sistemi, farklı türlerdeki ürün ilişkilerini yönetebilir ve bu ilişkileri kullanarak ürün verilerini etkili bir şekilde organize edebilir.
+
+Birkaç yaygın ürün ilişkisi türü aşağıda belirtilmiştir:
+
+* Ana Ürün ve Alt Ürün İlişkisi: Bir ürünün ana ürün olarak tanımlanması ve alt ürünlerinin (varyasyonlar, renk seçenekleri, boyut seçenekleri gibi) bu ana ürüne bağlı olarak tanımlanmasıdır. Bu ilişki, bir ürünün farklı varyasyonlarının veya seçeneklerinin yönetimini kolaylaştırır.
+* İlgili Ürün İlişkisi: Bir ürünün diğer ürünlerle ilişkilendirilmesidir. Örneğin, bir çanta ürünü ile buna uygun bir cüzdan ürünü arasında ilişki kurulabilir. Bu ilişki, müşterilere ilgili ürünleri keşfetme ve kombine etme imkanı sunar.
+* Aksesuar Ürün İlişkisi: Bir ürünün aksesuarları ile ilişkilendirilmesidir. Örneğin, bir kamera ürünü ile ona ait bir kamera çantası ve lens koruyucu gibi aksesuarlar arasında ilişki kurulabilir. Bu ilişki, müşterilere uygun aksesuarları keşfetme ve satın alma süreçini kolaylaştırır.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.32.54.png" alt=""><figcaption><p>Ürün İlişkileri Ekranı</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.33.11.png" alt=""><figcaption><p>Ürün İlişkisi Ekleme Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.33.51.png" alt=""><figcaption><p>Ürün İlişkisi Düzenleme</p></figcaption></figure>
+
+</div>
+
+Bu gibi ürün ilişkileri, PIM sistemi içinde ürünler arasında bağlantılar kurarak, ürünlerin daha etkili bir şekilde yönetilmesini sağlar. Ürün ilişkileri, PIM sistemi kullanıcılarına ürün verilerini daha doğru, eksiksiz ve tutarlı bir şekilde yönetme ve müşterilere daha zengin ürün bilgileri sunma imkanı sağlar.
+
+**Kategori Boyutları**
+
+Kategori boyutları, bir PIM (Product Information Management) sistemi içinde ürünleri sınıflandırmak ve organize etmek için kullanılan farklı ölçümleri veya kriterleri ifade eder. Kategori boyutları, ürünleri belirli ölçümler veya kriterler temelinde gruplandırarak, ürünlerin daha ayrıntılı bir şekilde sınıflandırılmasını ve arama ve filtreleme işlemlerini kolaylaştırır.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.41.25.png" alt=""><figcaption><p>Kategori Boyutları Ekranı</p></figcaption></figure>
+
+Aşağıda, yaygın olarak kullanılan bazı kategori boyutları örnekleri verilmiştir:
+
+* **Kategori Adı:** Ürünlerin ait olduğu genel kategori adıdır. Örneğin, "Elektronik", "Giyim", "Ev Dekorasyonu" gibi.
+* **Alt Kategori Adı:** Ürünlerin ait olduğu daha spesifik bir alt kategori adıdır. Örneğin, "Akıllı Telefonlar", "Kadın Giyim", "Duvar Saatleri" gibi.
+* **Marka:** Ürünlerin ait olduğu markanın adıdır. Örneğin, "Apple", "Nike", "IKEA" gibi.
+* **Renk:** Ürünlerin renkleri temelinde gruplandırılabilir. Örneğin, "Siyah", "Beyaz", "Kırmızı" gibi.
+* **Boyut:** Ürünlerin fiziksel boyutlarına göre gruplandırılabilir. Örneğin, "Small", "Medium", "Large" gibi.
+* **Materyal:** Ürünlerin yapıldığı materyallere göre gruplandırılabilir. Örneğin, "Ahşap", "Metal", "Plastik" gibi.
+* **Fiyat Aralığı:** Ürünlerin fiyatlarına göre belirli aralıklara ayrılabilir. Örneğin, "0-50$", "50-100$", "100-200$" gibi.
+* **Sezon:** Ürünlerin hangi mevsime yönelik olduğunu ifade eden bir boyuttur. Örneğin, "Yaz", "Kış", "İlkbahar/Yaz", "Sonbahar/Kış" gibi.
+* **Stil:** Ürünlerin stil veya tasarım özelliklerine göre gruplandırılabilir. Örneğin, "Klasik", "Modern", "Vintage" gibi.
+* **Kullanım Amacı:** Ürünlerin belirli bir kullanım amacına yönelik olarak gruplandırılabilir. Örneğin, "Spor", "Ofis", "Outdoor" gibi.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.41.58.png" alt=""><figcaption><p> Kategori Boyutu Düzenleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.41.40.png" alt=""><figcaption><p>Kategori Boyutu Ekleme</p></figcaption></figure>
+
+</div>
+
+Bu gibi kategori boyutları, ürünleri daha ayrıntılı bir şekilde sınıflandırmak ve kullanıcılara ürünleri arama, filtreleme veya keşfetme süreçlerinde yardımcı olmak için kullanılabilir. Her PIM sistemi, kendi ihtiyaçlarına ve iş gereksinimlerine göre farklı kategori boyutları kullanabilir ve bu boyutları kendi ürün veri yönetimi süreçlerine uygun olarak özelleştirebilir.
+
+#### Kanallar
+
+PIM (Product Information Management) sistemlerinde, "kanallar" ürün verilerinin belirli bir kanal veya platformda kullanılabilir hale getirildiği ve yönetildiği yerleri ifade eder. Kanallar, ürün verilerinin farklı satış kanallarına, pazar yerlerine, e-ticaret platformlarına, perakende mağazalarına, sosyal medya platformlarına ve diğer dijital veya fiziksel kanallara entegre edilmesini sağlar.
+
+Kanallar, PIM sistemlerinde ürün verilerinin spesifik kanal gereksinimlerine uygun olarak formatlanması, düzenlenmesi ve optimize edilmesini sağlar. Örneğin, bir e-ticaret platformunda ürün verilerinin farklı alanlara, kategori yapılarına, dil ve bölge gereksinimlerine, resimlere, açıklamalara ve diğer özel gereksinimlere uygun olarak düzenlenmesi gerekebilir. Aynı ürün verisi, bir sosyal medya platformunda farklı bir format gerektirebilir veya bir fiziksel mağaza için özel etiket veya barkod bilgilerini içermelidir.
+
+Kanallar, PIM sistemlerinin ürün verilerini çeşitli kanallara hızlı ve doğru bir şekilde dağıtılmasını sağlar. Bu da ürünlerin doğru ve güncel verilerle farklı kanallarda yayınlanmasını, müşteri deneyiminin iyileştirilmesini, satışların artmasını ve müşteri memnuniyetinin artmasını sağlar. Ayrıca, kanallar aracılığıyla ürün verilerinin kanal bazında yönetilmesi, güncellenmesi, takip edilmesi ve raporlanması da mümkün hale gelir.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.52.14.png" alt=""><figcaption><p>Kanallar Ekranı</p></figcaption></figure>
+
+**Etiketler**
+
+Uygulama üzerinde ürünlere, kategorilere, markalara, listelere atanabilecek olan etiketlerin tanımı merkezi olarak yapılabilmektedir.
+
 ### Lokalizasyon
 
 Lokalizasyon, bir ürünün veya hizmetin, belirli bir hedef pazar veya bölge için yerel kültürel, dil, coğrafi ve teknik gereksinimlere uygun olarak uyarlanması sürecidir. Lokalizasyon, bir ürünün veya hizmetin, farklı dillerde, farklı kültürel normlara, farklı bölgesel gereksinimlere ve yerel yasal düzenlemelere uygun hale getirilmesini içerir.&#x20;
@@ -260,198 +477,7 @@ Yeni eklenen uygulamalar sayfasında listelenir. "Detaylar" seçeneği ile uygul
 
 </div>
 
-#### Katalog
 
-#### Kanallar
-
-PIM (Product Information Management) sistemlerinde, "kanallar" ürün verilerinin belirli bir kanal veya platformda kullanılabilir hale getirildiği ve yönetildiği yerleri ifade eder. Kanallar, ürün verilerinin farklı satış kanallarına, pazar yerlerine, e-ticaret platformlarına, perakende mağazalarına, sosyal medya platformlarına ve diğer dijital veya fiziksel kanallara entegre edilmesini sağlar.
-
-
-
-Kanallar, PIM sistemlerinde ürün verilerinin spesifik kanal gereksinimlerine uygun olarak formatlanması, düzenlenmesi ve optimize edilmesini sağlar. Örneğin, bir e-ticaret platformunda ürün verilerinin farklı alanlara, kategori yapılarına, dil ve bölge gereksinimlerine, resimlere, açıklamalara ve diğer özel gereksinimlere uygun olarak düzenlenmesi gerekebilir. Aynı ürün verisi, bir sosyal medya platformunda farklı bir format gerektirebilir veya bir fiziksel mağaza için özel etiket veya barkod bilgilerini içermelidir.\
-
-
-Kanallar, PIM sistemlerinin ürün verilerini çeşitli kanallara hızlı ve doğru bir şekilde dağıtılmasını sağlar. Bu da ürünlerin doğru ve güncel verilerle farklı kanallarda yayınlanmasını, müşteri deneyiminin iyileştirilmesini, satışların artmasını ve müşteri memnuniyetinin artmasını sağlar. Ayrıca, kanallar aracılığıyla ürün verilerinin kanal bazında yönetilmesi, güncellenmesi, takip edilmesi ve raporlanması da mümkün hale gelir.
-
-<figure><img src="https://lh5.googleusercontent.com/zc-R8bOD0bIVhLl5uR9PuTRSmMzWm6m52jwo5J8vNkGDnQYZYh5PI8G1KINS1mtU2hp2a08nqyWhS6yGLHbP1NMGyj57_ahwlz8ZrH3mRLYdJyQyUuAmdRIrAjGNgzu1e9FLPywxWCefIswxVkVdKaE" alt=""><figcaption><p>Kanallar Ekranı </p></figcaption></figure>
-
-**Veri Şemaları**
-
-Veri şemaları, bir PIM sistemi içindeki ürün verilerinin organizasyonunu, yapılanmasını ve ilişkilerini tanımlayan yapısal bir plan veya modeldir. Veri şemaları, ürün verilerini belirli bir standart veya format içinde tutarak, veri tutarlılığını, doğruluğunu ve erişilebilirliğini sağlamaya yardımcı olur.\
-&#x20;    &#x20;
-
-<figure><img src="https://lh6.googleusercontent.com/MMYEQr-4mvFnpm7jj70WouBhqRjgfkYMp6-JhFp_6Cq_S6XiR3HIaPdd4H7Po9M8cFUTQPLbqAUdBabfG5ZGNbQyYqA8yC9DsAtZizepR67cZWz2ocnZwzg1I62yJ1o1EG8mubCdtP8V-oImH6EfXNQ" alt=""><figcaption><p>Veri Şemaları Ekranı </p></figcaption></figure>
-
-Lidia PIM kullanıcıları veri uzayını yukarıda başlıklarda tanımladıktan sonra, bu tanımlar kullanılarak yönetilecek ürün verisinin doğruluğunu kalitesinin kontrol altında tutulmasını sağlayacak olan veri şemaları oluşturulabilmektedir.
-
-#### Koleksiyonlar
-
-PIM'de koleksiyonlar, benzer ürünleri bir araya getirmek için kullanılan bir özelliktir. Koleksiyonlar, bir ürün kategorisi veya tema altında bulunan benzer ürünleri gruplandırmak için kullanılabilir. Bu, ürün verilerini daha etkili bir şekilde yönetmeye ve organize etmeye yardımcı olur. Koleksiyonlar, ürün verilerini daha kolay filtreleme, sıralama, güncelleme ve raporlama imkanı sağlar.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Koleksiyonlar Ekranı</p></figcaption></figure>
-
-**Özellik Yönetimi**&#x20;
-
-**Özellikler**&#x20;
-
-<figure><img src="https://lh5.googleusercontent.com/8eZBzI5ndTRIBZ-jglH3EYnBoHq0D6Dn52Sg-gEpL738-vyp425pbhJ8M7MNP52c_rOXINVyzMRCsGjIH3XfiBnhMQaW2NTYhbucg_eTHjDTMDK7U9x-JRsCrojexAOAER_Ski8hCHRn3F8uJf56Gug" alt=""><figcaption><p>Özellikler Ekranı </p></figcaption></figure>
-
-* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası özellikleri merkezi olarak tanımlanabilmektedir. Örnek ürün özellikleri aşağıdaki gibidir:
-  * Kapasite
-  * Garanti Süresi
-  * Ekran Boyutu
-  * Ürün Malzamesi
-
-**Ürün Özellikleri:** Bir ürünün temel nitelikleri ve ayrıntılarıdır. Örnek olarak, ürünün adı, markası, modeli, SKU (Stok Tutma Birimi) numarası, ağırlığı, boyutları, renkleri, malzemesi, garanti süresi, üretim yeri gibi bilgiler ürün özelliklerine örnek olarak verilebilir.
-
-**Ürün Resimleri:** Ürüne ait resimlerin yönetildiği özelliktir. Ürünün ana resmi, ek resimleri, farklı açılardan görüntüleri, renk seçeneklerini gösteren resimler, ürünün kullanım resimleri gibi bilgiler ürün resimleri kategorisine örnek olarak verilebilir.
-
-**Ürün Açıklamaları:** Ürünün detaylı açıklamalarının yer aldığı özelliktir. Ürünün özellikleri, avantajları, kullanım talimatları, bakım yönergeleri gibi bilgiler ürün açıklamalarına örnek olarak verilebilir.\
-
-
-**Özellik Grubu**&#x20;
-
-Lidia PIM, ürünlerinizin özelliklerini ve bilgilerini gruplar halinde düzenleyerek daha etkili bir ürün yönetimi süreci sağlar. İşte Lidia PIM içinde bulunan özellik gruplarına bir bakış:
-
-* **Temel Özellikler:** Bu özellik grubu, ürünlerinizin temel bilgilerini içerir. Ürün adı, marka, model, SKU (Stok Tutma Birimi) numarası, ağırlık, boyut, renk gibi temel bilgiler bu özellik grubu altında yer alır.
-* **Fiziksel Özellikler:** Bu özellik grubu, ürünlerinizin fiziksel niteliklerini içerir. Malzeme türü, şekil, yüzey dokusu, dayanıklılık gibi fiziksel özellikler bu grup altında yer alabilir.
-* **Teknik Özellikler:** Bu özellik grubu, ürünlerinizin teknik ayrıntılarını içerir. İşlemci hızı, bellek kapasitesi, bağlantı protokolleri gibi teknik bilgiler bu grup altında yer alabilir.
-* **Görsel Özellikler:** Bu özellik grubu, ürünlerinizin görünümü ve estetik özelliklerini içerir. Renk seçenekleri, desenler, tasarım özellikleri gibi görsel bilgiler bu grup altında yer alabilir.
-* **Kullanım Özellikleri:** Bu özellik grubu, ürünlerinizin kullanımıyla ilgili bilgileri içerir. Kullanım talimatları, güvenlik önlemleri, kullanım süreçleri gibi kullanım bilgileri bu grup altında yer alabilir.
-* **Lojistik ve Nakliye Özellikleri:** Bu özellik grubu, ürünlerinizin lojistik ve nakliye ile ilgili bilgilerini içerir. Ağırlık, boyut, nakliye yöntemleri, paketleme bilgileri gibi lojistik ve nakliye bilgileri bu grup altında yer alabilir.
-* **Garanti ve Servis Özellikleri:** Bu özellik grubu, ürünlerinizin garanti süresi, servis seçenekleri, müşteri hizmetleri bilgilerini içerir.
-* **Fiyatlandırma ve İndirim Özellikleri:** Ürünün fiyatlandırma bilgilerini, indirimlerini, promosyonlarını içeren bir özellik grubudur. Ürünün fiyatı, indirim yüzdesi, promosyon kodları gibi fiyatlandırma ve indirim özellikleri bu grubun altında yer alabilir.
-
-Bu özellikler grupları Lidia PIM kullanıcısının ihtiyaçlarına göre arttırılabilir.
-
-<figure><img src="https://lh4.googleusercontent.com/-nhB0gCKerPK8RvtPNackOkxYBbeGl3kJ81HxY214rnWOipCf9RWiSp-wUDWB4I9Eqh8imiwub7f0giEijfRGATtOd_p-4nGxS74KoWmxlktK3U2QCizr8qPFnjrar922C0e-GuIeVLOf9uwX2OIp5o" alt=""><figcaption><p>Ozellik Grubu Ekranı</p></figcaption></figure>
-
-<figure><img src="https://lh4.googleusercontent.com/yO03-KXRpfCrgCR1RAsuCfeaCFWZgw-7sCc0oR5rgnFgKMuqNENTr2r4J18h17I3t8WGO6fJSiFAfLACs1mszRmho4Jr4598NpdUyHv0PrClpwyJdHPfWLCbW8oOfJyN3ieTD57CNRxeeHJgjVUCXB0" alt=""><figcaption><p>Yeni Ozellik Grubu Ekleme Ekranı </p></figcaption></figure>
-
-#### Seçenek Yönetimi
-
-**Seçenekler**
-
-* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası seçenekleri merkezi olarak tanımlanabilmektedir. Örnek seçenekleri özellikleri aşağıdaki gibidir:
-  * Renk
-  * Beden
-
-Yeni seçenek eklerken seçenek grubu, seçenek adı, görüntülenecek ad, seçenek kodu         ve veri tipi (metin, tam sayı, ondalıklı sayı, ölçü) eklenmelidir.
-
-<figure><img src="https://lh3.googleusercontent.com/0ESiPPmMVw9Fnk1gdp8PkYTrsJoUKBm5vzkEIhCGlz_7vZJb1JSp5Qmy725HRbrfq7HO_1lsqPIb7mvqe5PiXTHaQ2vflSaF5B0VETV227U3_EYaqRUwKqAYMb4IZbbZpODbd5HL6nW_d44RtX7KHdE" alt=""><figcaption><p>Seçenekler Ekranı</p></figcaption></figure>
-
-<figure><img src="https://lh5.googleusercontent.com/_FcoKfO4YmEZbymOeU6BnkZwDfheMr0daB5nGAiIWL-Ey45g_8ZbSPhziI78J6V3kt6hiV4CBE3Q4BbNzUoYkXBzmPPGHSlCICezQX6GlSg_N2AAlRiQS0m5iE3GWPfaS_3VF9ulKJNKgE8bG9CVEpU" alt=""><figcaption><p>Yeni Seçenek Ekleme Ekranı </p></figcaption></figure>
-
-**Seçenek Grupları**
-
-Seçenek grupları belli seçeneklerinin gruplandığı bölümdür. Gruplandırılan bu seçenekler isimlendirilebilir. Örnek olarak; oluşturulan renk seçeneklerini kırmızı şeklinde gruplanabilir.  Buradan kırmızı olarak olarak gruplandırılan kırmızı seçenek grubu yönetilebilir.&#x20;
-
-<figure><img src="https://lh3.googleusercontent.com/C1hasFtOvnJ4onkNfGf32gl5D0Lvl5WpUmKr94NwM0f-9P63gR2s09I0RiNgpEDiaB5vw-_Ve1ZMm_fZxj8P5dSjF5ACc2dl4VXrfILd5coXX_58cV-uIPpp-vaZfLY_fOV5TXdShTMV5IdrskaHS9U" alt=""><figcaption><p>Seçenek Grupları Ekranı</p></figcaption></figure>
-
-**Seçenek Değer Grupları** &#x20;
-
-<figure><img src="https://lh5.googleusercontent.com/xTeNPJzjRZPYe2qs7Svg-bTWP3pDwtCVyuNgsDOGcGKL9YfluheGuuoQ6iYbkNro7J2FDvF9u700MunQaiRkeI4W111RG58zfpfN85XCwZVf0GugLNZWtacFBtoyz72cfcGlkWpWUsiESZHzUax6q-4" alt=""><figcaption><p>Seçenek Değer Grupları Ekranları </p></figcaption></figure>
-
-#### Etiketler&#x20;
-
-* Uygulama üzerinde ürünlere, kategorilere, markalara, listelere atanabilecek olan etiketlerin tanımı merkezi olarak yapılabilmektedir.
-
-<figure><img src="https://lh4.googleusercontent.com/vydF-qKvGp1UjGevVv5Sck2yH2vSE7Yu4xfrKLkzty46e5FVUTiCRmmFjABZix8Fs8F3xU3_zAkvI_zqx5k8WJpCqiae84mUajfKG0QqTazwt1GxoedZLu0zXUh4g7fuYeqIr_N0BEKuEB7IifRrG1k" alt=""><figcaption><p>Etiketler Ekranı </p></figcaption></figure>
-
-#### İlişkiler
-
-**Ürün İlişkileri**
-
-Ürün ilişkileri, bir PIM (Product Information Management) sistemi içinde bulunan ürünler arasındaki ilişkileri ifade eder. Ürün ilişkileri, ürünlerin birbiriyle bağlantılı olduğu durumları ve ilişkili ürünlerin birbirine nasıl bağlı olduğunu tanımlar. PIM sistemi, farklı türlerdeki ürün ilişkilerini yönetebilir ve bu ilişkileri kullanarak ürün verilerini etkili bir şekilde organize edebilir.
-
-Birkaç yaygın ürün ilişkisi türü aşağıda belirtilmiştir:
-
-* Ana Ürün ve Alt Ürün İlişkisi: Bir ürünün ana ürün olarak tanımlanması ve alt ürünlerinin (varyasyonlar, renk seçenekleri, boyut seçenekleri gibi) bu ana ürüne bağlı olarak tanımlanmasıdır. Bu ilişki, bir ürünün farklı varyasyonlarının veya seçeneklerinin yönetimini kolaylaştırır.
-* İlgili Ürün İlişkisi: Bir ürünün diğer ürünlerle ilişkilendirilmesidir. Örneğin, bir çanta ürünü ile buna uygun bir cüzdan ürünü arasında ilişki kurulabilir. Bu ilişki, müşterilere ilgili ürünleri keşfetme ve kombine etme imkanı sunar.
-* Aksesuar Ürün İlişkisi: Bir ürünün aksesuarları ile ilişkilendirilmesidir. Örneğin, bir kamera ürünü ile ona ait bir kamera çantası ve lens koruyucu gibi aksesuarlar arasında ilişki kurulabilir. Bu ilişki, müşterilere uygun aksesuarları keşfetme ve satın alma süreçini kolaylaştırır.
-
-Bu gibi ürün ilişkileri, PIM sistemi içinde ürünler arasında bağlantılar kurarak, ürünlerin daha etkili bir şekilde yönetilmesini sağlar. Ürün ilişkileri, PIM sistemi kullanıcılarına ürün verilerini daha doğru, eksiksiz ve tutarlı bir şekilde yönetme ve müşterilere daha zengin ürün bilgileri sunma imkanı sağlar.
-
-<figure><img src="https://lh6.googleusercontent.com/kKh1nzdmreiw4WJTpvDCfr2jWJNPa5QSPsU5mKJuvaSkVWqMScdJ7JGzwaXy4uDr7-XBlg1mWZCV3scu_Cf9u66V32IExtrUfmxgHQaqzI9QbQRWITVocOIZnT4ff1tHNPoNXpfQ6knZTuZ8sNeAHDc" alt=""><figcaption><p>Ürün İlişkileri </p></figcaption></figure>
-
-#### Boyutlar
-
-**Kategori Boyutları**&#x20;
-
-Kategori boyutları, bir PIM (Product Information Management) sistemi içinde ürünleri sınıflandırmak ve organize etmek için kullanılan farklı ölçümleri veya kriterleri ifade eder. Kategori boyutları, ürünleri belirli ölçümler veya kriterler temelinde gruplandırarak, ürünlerin daha ayrıntılı bir şekilde sınıflandırılmasını ve arama ve filtreleme işlemlerini kolaylaştırır.
-
-Aşağıda, yaygın olarak kullanılan bazı kategori boyutları örnekleri verilmiştir:
-
-* **Kategori Adı:** Ürünlerin ait olduğu genel kategori adıdır. Örneğin, "Elektronik", "Giyim", "Ev Dekorasyonu" gibi.
-* **Alt Kategori Adı:** Ürünlerin ait olduğu daha spesifik bir alt kategori adıdır. Örneğin, "Akıllı Telefonlar", "Kadın Giyim", "Duvar Saatleri" gibi.
-* **Marka:** Ürünlerin ait olduğu markanın adıdır. Örneğin, "Apple", "Nike", "IKEA" gibi.
-* **Renk:** Ürünlerin renkleri temelinde gruplandırılabilir. Örneğin, "Siyah", "Beyaz", "Kırmızı" gibi.
-* **Boyut:** Ürünlerin fiziksel boyutlarına göre gruplandırılabilir. Örneğin, "Small", "Medium", "Large" gibi.
-* **Materyal:** Ürünlerin yapıldığı materyallere göre gruplandırılabilir. Örneğin, "Ahşap", "Metal", "Plastik" gibi.
-* **Fiyat Aralığı:** Ürünlerin fiyatlarına göre belirli aralıklara ayrılabilir. Örneğin, "0-50$", "50-100$", "100-200$" gibi.
-* **Sezon:** Ürünlerin hangi mevsime yönelik olduğunu ifade eden bir boyuttur. Örneğin, "Yaz", "Kış", "İlkbahar/Yaz", "Sonbahar/Kış" gibi.
-* **Stil:** Ürünlerin stil veya tasarım özelliklerine göre gruplandırılabilir. Örneğin, "Klasik", "Modern", "Vintage" gibi.
-* **Kullanım Amacı:** Ürünlerin belirli bir kullanım amacına yönelik olarak gruplandırılabilir. Örneğin, "Spor", "Ofis", "Outdoor" gibi.
-
-Bu gibi kategori boyutları, ürünleri daha ayrıntılı bir şekilde sınıflandırmak ve kullanıcılara ürünleri arama, filtreleme veya keşfetme süreçlerinde yardımcı olmak için kullanılabilir. Her PIM sistemi, kendi ihtiyaçlarına ve iş gereksinimlerine göre farklı kategori boyutları kullanabilir ve bu boyutları kendi ürün veri yönetimi süreçlerine uygun olarak özelleştirebilir.
-
-<figure><img src="https://lh4.googleusercontent.com/NSs_NsccGo7MuhaIXOWtb7KT7cwKN6bVioSRZDUCD2smNZO5Ro9oMHn7F-JU84QbothtCBbAIGJaRfh6h0YWIs_A_XYYP1gfntgCNpHQ6vmbBZpuPPc60-CN1rtreCjoPDkRR87-5VqfjikfQqQ4cVk" alt=""><figcaption><p>Kategori Boyutları Ekranı </p></figcaption></figure>
-
-### Lokalizasyon
-
-Lokalizasyon, bir ürünün veya hizmetin, belirli bir hedef pazar veya bölge için yerel kültürel, dil, coğrafi ve teknik gereksinimlere uygun olarak uyarlanması sürecidir. Lokalizasyon, bir ürünün veya hizmetin, farklı dillerde, farklı kültürel normlara, farklı bölgesel gereksinimlere ve yerel yasal düzenlemelere uygun hale getirilmesini içerir. Örneğin; diller, para birimleri, zaman dilimleri ve ölçü birimleri.
-
-**Diller** &#x20;
-
-<figure><img src="https://lh6.googleusercontent.com/pvG3tatI0HYKJSorfq0uqE-x5k3r88vI3prXzRPs2FwyioxGjouw3eX4Ekm_97hO7paxkXEF7ufMW54n_6-vWvizLD8FIGg-LmYxOE0xtASOgHaGRCC8IlIWeTB0x4B-5U21h0qua_RTNcabyV0v6b4" alt=""><figcaption><p>Dil listeleme ekranı</p></figcaption></figure>
-
-* Dil yönetimi: Ürün verilerinin farklı dillerdeki karşılıklarının PIM üzerinden tanımlanabilmesine yönelik olarak ilgili dillerin tanımı merkezi olarak yapılabilmektedir.
-
-**Para Birimi**&#x20;
-
-<figure><img src="https://lh3.googleusercontent.com/d2kcJFhYD6BP4sMdaRSZ9Drun1lw9VPUsQnMXa2t2mxZID-ZOG5rKU_vjQ1dUy9e58XVUuUYjBC7F9R3lo1XSenqPlrMEUC81e89d9ulMNiwn3aDjMKIkEpU7fHHCggNMFtShc_bfOu9k862MlKhy50" alt=""><figcaption><p>Para Birimleri Yönetimi Ekranı </p></figcaption></figure>
-
-* Para birimleri yönetimi: PIM üzerinde ürün bilgilerinin bir parçası olarak fiyat listeleri de yönetilebilmektedir. Bu fiyat listelerinde kullanılacak para birimleri ve bu birimlerin birbirine dönüşüm oranları merkezi olarak yönetilebilmektedir.
-
-**Ölçü Birimleri**&#x20;
-
-<figure><img src="https://lh6.googleusercontent.com/fp_vR3SG4k2fiCK9b8zXnXofufBpdpE1OxUxLESbvrtUS14quBz2jG5cf_3sghskQKzoaMcWob8ANsgCLFe3mgz8Jvg2pyOMoPlPubSFFuYcN8BEYvhKlNEBxKtWtRN2hZ7QvUV61-ZuT8Y6tpqEhsU" alt=""><figcaption><p>Ölçü Birimleri Yönetimi Ekranı </p></figcaption></figure>
-
-* Ölçü birimleri yönetimi: PIM üzerinde yönetilen ürün bilgileri kapsamında ürünlere ait ölçüler de bulunmaktadır. Bu ölçülere ait birimler merkezi olarak yönetilebilmektedir.
-
-### Organizasyonum
-
-#### Detaylar
-
-Organizasyonum detaylar sayfasında organizasyonlar ile ilgili ayrıntılı bilgiler (şirket adı, organizasyon tipi, organizasyon alan adı, organizasyon kodu ve açıklama) görüntülenebilir ve düzenlenebilir. \
-
-
-<figure><img src="https://lh5.googleusercontent.com/JHauzHjwewjcRjtS24Y8dYVjZFJwp0O5LtWYfp_z25CcG90Ojdb9eI8uVWTr2rqU7ZDsWThCKZ7jcapUW34xDHjPjfIq62Eqp3JQcPC2XtPWbNY2rSmfpBsn5NAD1C-d-gu-x6oqPktbasBWyBR35X8" alt=""><figcaption><p>Organizasyon Yönetim Ekranı</p></figcaption></figure>
-
-#### Abonelikler
-
-Abonelikler yönetimi kapsamında var olan abonelikler görüntülenebilir, düzenlenebilir.&#x20;
-
-<figure><img src="https://lh6.googleusercontent.com/YGgihbf5WnFDiHG5LNCR3ZrUcPF4OUNuzGr-xrZICZMQOY38bRG9IEIqimCArgGSN8K_C2Il0sIPrtJ0GOiICPVLZ2PVFe1o0TQUeMl8mJXJTjyIQ21ssolFZk4IV63bVak4PeQXwXJB3V3fVYRObRs" alt=""><figcaption><p>Abonelikler Ekranı </p></figcaption></figure>
-
-### Lidia Uygulamaları
-
-* Lidia uygulamalarını yönet ekranında var olan uygulamalar görüntülenir ve düzenlenir. Örneğin;
-  * Merchant Console&#x20;
-  * PIM
-  * Store
-
-<figure><img src="https://lh4.googleusercontent.com/raSjnGkOwoHZKxqEWBDCpFXnnVjiFfa4_jRQ2kWrt-KZ9AseMHCQIN0WAe66dpDq0JCGzvcPxKinoHuwA5M3l0EgcvZow_GfIbcfxsv7v2EeOMJrmYZKGWOh7LSkRwn_YzCNAkfRxOOY6CaWfaF1k84" alt=""><figcaption><p>Uygulamalar Yönetim Ekranı </p></figcaption></figure>
-
-#### Üyeler
-
-* Kullanıcı yönetimi kapsamında aşağıda belirtilen roller dışında yeni rol tanımı mevcut sürümde yapılamamaktadır:
-  * Organizasyon sahibi
-  * Uygulama Kullanıcısı
-  * Uygulama yöneticisi\
-
-
-<figure><img src="https://lh5.googleusercontent.com/qo7f0vs21nRGWyQ7Q9ywAiIBiYtWFeA1fN9aY-iW1SwGvvG1VkHo_JfUuyhqJAbxqUmdf1qoQ3Wq_sXPDXTzRBEJT3w4byrEdOPBvYn4sJ7gT56GDiGBMrHFdmrWgTpO0YnfbJzutIaMYE_gseBFwGo" alt=""><figcaption><p>Kullanıcı Yönetim Ekranı </p></figcaption></figure>
 
 ### Katalog
 
