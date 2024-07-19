@@ -294,9 +294,22 @@ Seçenek grupları belli seçeneklerinin gruplandığı bölümdür. Gruplandır
 
 </div>
 
-#### Veri Kitleleri
+### Veri Kilitleri
 
-Veri Kilitleri sayfası, belirli verilerin yanlışlıkla değiştirilmesini önlemek için kullanılır. Bu, ürün bilgileri veya fiyatlar gibi kritik verilerin sabitlenmesini sağlar.
+Veri kilitleri, bir PIM (Product Information Management) sistemi içinde ürün verilerinin güvenliğini sağlamak ve değişikliklerin kontrol altında tutulmasını sağlamak için kullanılan mekanizmalardır. Veri kilitleri, kullanıcıların belirli ürün veya ürün grubu verilerini güncellerken, başka kullanıcıların aynı verilere aynı anda erişmelerini engelleyerek çakışmaları önler.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.58.32.png" alt=""><figcaption><p>Veri Kilitleri Ekranı</p></figcaption></figure>
+
+Veri kilitleri, aşağıdaki durumlarda kullanışlıdır:
+
+* Eş zamanlı güncelleme: Birden fazla kullanıcının aynı anda aynı ürün veya ürün grubu üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını önler ve tutarlı bir veri durumunu korur.
+* Veri güvenliği: Veri kilitleri, yetkisiz kullanıcıların belirli ürün verilerini değiştirmesini veya silmesini engeller ve veri güvenliğini sağlar.
+* İçerik yönetimi: PIM sistemi kullanıcıları, belirli bir ürün veya ürün grubu üzerinde çalışırken, veri kilitleri sayesinde o ürün veya ürün grubunun verilerini güncellemek, düzenlemek veya silmek gibi değişiklikleri kontrol edebilir.
+* Çakışan güncellemeleri önleme: Birden fazla kullanıcının aynı anda aynı ürün üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını engelleyerek veri bütünlüğünü korur.
+* Veri yönetimi süreçlerini düzenleme: Veri kilitleri, PIM sistemi kullanıcılarının belirli ürün verilerini güncellerken, değişikliklerin uygun süreçlere göre yönetilmesini sağlar ve veri yönetimi süreçlerini düzenler.\
+
+
+PIM’de kullanım sektörüne, ihtiyaçlarına ve iş gereksinimlerine göre farklı veri kilitleri kullanabilir ve veri kilitlerini kendi veri yönetimi süreçlerine uygun olarak özelleştirebilir.
 
 **Ürün İlişkileri**
 
@@ -479,7 +492,29 @@ Yeni eklenen uygulamalar sayfasında listelenir. "Detaylar" seçeneği ile uygul
 
 
 
-### Katalog
+## Katalog
+
+Katalog menüsü altında bulunan sayfalar, ürünlerin organize edilmesi, yönetilmesi ve düzenlenmesi için kullanılır.&#x20;
+
+_**Katalog Bölümü; “Havuzlar”, “Kategoriler”, “Markalar”, “Özel Listeler”, “Ürünler”, “Varyantlar” olarak 6 alanı içerir.**_
+
+### Havuzlar
+
+Havuzlar bölümü, belli bir ürün sınıfı oluşturup bu sınıfa ile ilgili kategorileri belirlediğimiz ve bunları listelediğimiz alandır.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 10.28.38.png" alt=""><figcaption><p>Havuzlar Ekranı</p></figcaption></figure>
+
+Ürün aileleri, ekranında mevcutta bulunan ürün havuzları ve bu havuzlara ait; ilgili kategorileri, ne kadar ürün barındığı ve durumu görüntülenebilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 10.32.43.png" alt=""><figcaption><p>Ürün Havuzu Ekleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 10.34.09.png" alt=""><figcaption><p>Eklenen Ürün Havuzu</p></figcaption></figure>
+
+</div>
 
 #### Kategoriler
 
@@ -492,26 +527,61 @@ Kategoriler, bir PIM sistemi içinde ürünlerin sınıflandırıldığı ve org
 * **Ev Dekorasyonu:** Halılar, perdeler, duvar dekorasyonu gibi ev dekorasyonu ürünlerinin bulunduğu kategori.
 * **Mobilya:** Oturma grupları, yemek masaları, yatak odası mobilyaları gibi mobilya ürünlerinin bulunduğu kategori.
 
-Kategoriler, ürünlerin doğru bir şekilde sınıflandırılmasını ve müşterilere doğru ürünlerin sunulmasını sağlar. Aynı zamanda, PIM sistemi içinde ürünleri daha kolay bulmalarını, yönetmelerini ve güncellemelerini sağlar. Her PIM sistemi, kendi ihtiyaçlarına ve iş gereksinimlerine göre farklı kategoriler kullanabilir ve kategorileri kendi ürün veri yönetimi süreçlerinize uygun olarak özelleştirebilir.
+Kategorileri, kullanıcılar dilerlerse son kullanıcı formatında ya da ERP formatında görüntüleyebilirler.&#x20;
 
-<figure><img src="https://lh4.googleusercontent.com/gQPDknw_O6wsYzABKgvfNu87-ufxp25KTpyCiBwrrvPv3A8JVQ67ShJECvZ_zrkQTddtj0qBHuuaSN-3SEjK1Yh4rT_2H3RQR3lbu3QDCba9LstzgQLlUczSDrQfb0U6RcX9-y2EMKiT_oCLwnQFQK0" alt=""><figcaption><p>Kategori Yönetim Ekranı </p></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.12.08.png" alt=""><figcaption><p>ERP Görünüm</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.14.44.png" alt=""><figcaption><p>Son Kullanıcı Görünüm</p></figcaption></figure>
+
+</div>
+
+Kategoriler, ürünlerin doğru bir şekilde sınıflandırılmasını ve müşterilere doğru ürünlerin sunulmasını sağlar. Aynı zamanda, PIM sistemi içinde ürünleri daha kolay bulmalarını, yönetmelerini ve güncellemelerini sağlar. Her PIM sistemi, kendi ihtiyaçlarına ve iş gereksinimlerine göre farklı kategoriler kullanabilir ve kategorileri kendi ürün veri yönetimi süreçlerinize uygun olarak özelleştirebilir.
 
 #### Markalar
 
 PIM markalar bölümü, bir şirketin veya bir ürünün marka yönetimini gerçekleştirdiği bir alanı içerebilir. Bu bölüm, markaların yönetimini ve kullanımını kolaylaştıran bir dizi özellik ve fonksiyonlar sunabilir.
 
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.20.26.png" alt=""><figcaption><p>Marka Yönetim Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.21.24.png" alt=""><figcaption><p>Marka Ekleme Ekranı</p></figcaption></figure>
+
+</div>
+
 Bir PIM sistemi içinde markalar bölümü aşağıdaki öğeleri içerebilir:
 
-* Marka bilgileri: Markanın adı, logosu, sloganı, sembolü, renkleri, sesi, kokusu gibi marka unsurlarını içeren bilgileri barındırabilir.
-* Marka ilişkileri: Birden fazla markanın ilişkilerini yönetebileceğiniz bir bölüm olabilir. Örneğin, ana marka ve alt markalar arasındaki ilişkileri, marka ağaçlarını veya marka portföyünü yönetmek için kullanılabilir.
+* **Marka bilgileri:** Markanın adı, logosu, sloganı, sembolü, renkleri, sesi, kokusu gibi marka unsurlarını içeren bilgileri barındırabilir.
+* **Marka ilişkileri:** Birden fazla markanın ilişkilerini yönetebileceğiniz bir bölüm olabilir. Örneğin, ana marka ve alt markalar arasındaki ilişkileri, marka ağaçlarını veya marka portföyünü yönetmek için kullanılabilir.
 
 PIM’de ürün yüklemeden önce kategori, marka gibi özellikleri tanımlanmalıdır.&#x20;
 
-<figure><img src="https://lh4.googleusercontent.com/pWGTVa-NV57Qm7fI8JXNrfszBnPfMwuqleLI2C6s_D1rp1tLo8Hm8CK0QNf6DfDo4Xmxh4yHYIA8_4pOYtJfYfQ77MM1sisakYSyq85sfNK3bNcTDA7TRFUHTUX9dQMUyTPG5IR-91fTNmmXG92P0Ww" alt=""><figcaption><p>Marka Yönetim Ekranı </p></figcaption></figure>
-
 ### Özel Listeler
 
+Özel listeler, özel olarak oluşturulmuş, belirli ürünleri, kategorileri veya varyantları içeren listelerin yönetilmesini sağlar.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.30.21.png" alt=""><figcaption><p>Özel Listeler Yönetim Ekranı</p></figcaption></figure>
+
 #### Ürünler
+
+Ürünler sayfası, platformda yer alan tüm ürünlerin görüntülendiği alandır. Listelenen mevcut ürünlerde düzenle diyerek, Kategori, Ürün İlişkileri, Medya, Sayfa adresleri ve fiyat verileri yönetilebilir.\
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.36.03.png" alt=""><figcaption><p>Ürünler Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.36.27.png" alt=""><figcaption><p>Ürün Durumları</p></figcaption></figure>
+
+</div>
 
 <figure><img src="https://lh4.googleusercontent.com/_6f0OHmm46eFhnyqIA8EKJJkMfz_1s27PaOWqxiZ3DJt7gmWqOhAPVoTO0gsemTI4Nzr-2moaFsEBb74SVH4ruLHWMopu-HxKnDPEJRizE50xyXoMsB0ho5QCLJAMxbYsSrb80tN10UGZTs83mHsRkY" alt=""><figcaption><p>Ürünler Yönetim Ekranı </p></figcaption></figure>
 
@@ -519,28 +589,29 @@ PIM’de ürün yüklemeden önce kategori, marka gibi özellikleri tanımlanmal
 
 Ürünlerin varyantları renk ve beden gibi farklı özelliklere sahip bir ürün, çeşitleriyle birlikte tek bir ürün sayfasında gruplandığında kullanılır.
 
-<figure><img src="https://lh6.googleusercontent.com/KJKeT-6w4aobr0iJTgWKfopsCunPYU0lw8MPaGo_6jv1XAWtsTJuX8cn7de7kgTCx0a8tVwQhrjT3IBpDxcF7aQ31Yek_2OwFSAIOSMwz9BXLCDWR7JCAQURHsKvzfkZO7cs2K7tvov2imnkc_OYfAY" alt=""><figcaption><p>Varyanlar Yönetim Ekranı</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 15.53.17.png" alt=""><figcaption><p>Varyantlar Ekranı</p></figcaption></figure>
 
-#### Veri Kilitleri
+## Envanter
 
-Veri kilitleri, bir PIM (Product Information Management) sistemi içinde ürün verilerinin güvenliğini sağlamak ve değişikliklerin kontrol altında tutulmasını sağlamak için kullanılan mekanizmalardır. Veri kilitleri, kullanıcıların belirli ürün veya ürün grubu verilerini güncellerken, başka kullanıcıların aynı verilere aynı anda erişmelerini engelleyerek çakışmaları önler.
+### Fiyat Listeleri&#x20;
 
-Veri kilitleri, aşağıdaki durumlarda kullanışlıdır:
+Fiyat listelerinin görüntülenebileceği ve ilgili fiyat listelerine ait varyant fiyatlarının görüntülendiği alandır.
 
-* Eş zamanlı güncelleme: Birden fazla kullanıcının aynı anda aynı ürün veya ürün grubu üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını önler ve tutarlı bir veri durumunu korur.
-* Veri güvenliği: Veri kilitleri, yetkisiz kullanıcıların belirli ürün verilerini değiştirmesini veya silmesini engeller ve veri güvenliğini sağlar.
-* İçerik yönetimi: PIM sistemi kullanıcıları, belirli bir ürün veya ürün grubu üzerinde çalışırken, veri kilitleri sayesinde o ürün veya ürün grubunun verilerini güncellemek, düzenlemek veya silmek gibi değişiklikleri kontrol edebilir.
-* Çakışan güncellemeleri önleme: Birden fazla kullanıcının aynı anda aynı ürün üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını engelleyerek veri bütünlüğünü korur.
-* Veri yönetimi süreçlerini düzenleme: Veri kilitleri, PIM sistemi kullanıcılarının belirli ürün verilerini güncellerken, değişikliklerin uygun süreçlere göre yönetilmesini sağlar ve veri yönetimi süreçlerini düzenler.\
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.01.39.png" alt=""><figcaption><p>Fiyat Listeleri Yönetim Ekranı</p></figcaption></figure>
 
+Liste içeriğinde bulunan düzenle butonu ile ilgili fiyat listesi düzenlenebilir.
 
-PIM’de kullanım sektörüne, ihtiyaçlarına ve iş gereksinimlerine göre farklı veri kilitleri kullanabilir ve veri kilitlerini kendi veri yönetimi süreçlerine uygun olarak özelleştirebilir.
+<div>
 
-### Envanter
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.03.30.png" alt=""><figcaption><p>Temel Bilgiler Sekmesi</p></figcaption></figure>
 
-#### Fiyat Listeleri&#x20;
+ 
 
-<figure><img src="https://lh5.googleusercontent.com/L8GkGsL7Up5L3GDLODVv7TQnjf5hgNTFmPITxq9mnWXwVaw7iLgKpBUQXu0lWLZVzBtimMJlkg_90KBkuF3gMFSY8eVj3O58bqAX6uutKfvOuAzZ5mcfZToEps0vbQ1q12_pFNOAB6vOCCVvG5BP5WE" alt=""><figcaption><p>Fiyat Listeleri Yönetim Ekranı</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.04.00.png" alt=""><figcaption><p>Fiyatlar Sekmesi</p></figcaption></figure>
+
+</div>
+
+Temel bilgiler sekmesinde ilgili listeye ait; "Liste Kodu" ve "Entegrasyon Kodu" bilgileri güncellenebilir. Fiyatlar sekmesinde ise mevcut listeye ait fiyatlar listelenir ve kullanıcı içeri veri aktararak veya dışa veri aktarım yaparak bu verileri düzenleyebilir.
 
 ### Medya
 
