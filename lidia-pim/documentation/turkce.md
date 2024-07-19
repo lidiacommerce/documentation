@@ -621,15 +621,61 @@ Lidia PIM üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya ö
 * Ürün dosyaları
 * Ürün videoları
 
-<figure><img src="https://lh5.googleusercontent.com/QWFPAotAk7UWJkHRvggjCOBD2mp2f5Emaxs8ebfrypHLTjN8MscxSbETwDT3gZv6ZNZROEQkPj_AecIWlAhPUerQzNsumf-hzZM4byebJyG5O9dF6EwdQ91CnnpuCxgsYP6eJgbHeQF6WteEvB6t6kU" alt=""><figcaption><p>Görsel yönetimi ekranı</p></figcaption></figure>
+### Medya Listesi
 
-### Servisler&#x20;
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.19.29.png" alt=""><figcaption><p>Medya Listesi Ekranı</p></figcaption></figure>
 
-#### Havuzlar
+Medya listesi bölümünde kullanıcılar, önceden yüklenmiş medya verilerini listeleyebilirler.
 
-<figure><img src="https://lh6.googleusercontent.com/Bu4gfky5EDjDUvTPsimJ9u1CsXRfInbGcF2jO1yS_hG0u2sYr08e_MdiOWd5ayGOW8CccXQcDx42o2_arljNXw19j8ndSMs8fJP1SfbmhqKtI0MXyzznaVm_LbXFjmLUwNxzDh8_kw-Myj1qZxqvryg" alt=""><figcaption><p>Havuz Listesi Yönetim Ekranı </p></figcaption></figure>
+<div>
 
-#### Akışlar
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.21.39.png" alt=""><figcaption><p>Medya Düzenleme </p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.22.08.png" alt=""><figcaption><p>Kullanım Alanları </p></figcaption></figure>
+
+</div>
+
+Medya listesinde kullanıcılar, detay ekranına giderek medya verilerini ve ilgili tanımlanmış kullanım alanlarını görüntüleyebilirler.
+
+### Toplu Medya Yükle
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.25.02.png" alt=""><figcaption><p>Toplu Doküman Yükleme</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.25.41.png" alt=""><figcaption><p>Veri Kontrol Aşaması</p></figcaption></figure>
+
+</div>
+
+Toplu doküman yüklemek için veri tipini seçerek ilgili veriler platforma yüklenmelidir. Devam et butonu ile veri kontrol aşamasına geçildikten sonra tekrar veri ekleyebilir ya da işlem tamamlanabilir.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.36.13.png" alt=""><figcaption><p>Görseller Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.37.01.png" alt=""><figcaption><p>Dosyalar Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.37.34.png" alt=""><figcaption><p>Videolar Ekranı</p></figcaption></figure>
+
+</div>
+
+* Ürün görselleri bölümünde; yüklenmiş olan görseller görüntülenebilir ve dosyalanabilir.
+* Ürün dosyaları bölümünde; yüklenmiş olan .docx veya .pdf formatında dokümanların görüntülendiği veya dosyalanabildiği ekrandır.
+* Ürün videoları bölümünde; yüklenmiş olan ürün videolarının görüntülendiği veya dosyalanabildiği ekrandır.
+
+## Servisler&#x20;
+
+Lidia PIM uygulamasının ana yeteneklerinden biri canlı sisteme alınan ürün verilerinin istenen 3.parti kanallara beslenebilmesidir. Ürün verisinin dış dünyaya Akış (Feed) ismi verilen yapılar üzerinden aktarılabilmektedir.
+
+### Akışlar
 
 Lidia PIM uygulamasının ana yeteneklerinden biri canlı sisteme alınan ürün verilerinin istenen 3.parti kanallara beslenebilmesidir. Ürün verisinin dış dünyaya Akış (Feed) ismi verilen yapılar üzerinden aktarılabilmektedir.&#x20;
 
@@ -642,6 +688,16 @@ PIM kullanıcıları uygulama üzerinde yeni bir akış oluşturup bu akış ile
 * Seçenekler: Herhangi bir akışa sadece belirli bir seçeneğe uygun olan (ör: Sadece Kırmızı renkteki, Small beden) ürünler eklenebilir.
 * Etiketler: Herhangi bir akışa sadece belirli bir etikete sahip olan ürünler eklenebilir.
 
+<div>
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.46.50.png" alt=""><figcaption><p>Akışlar Yönetim Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.47.10.png" alt=""><figcaption><p>Yeni Akış Ekleme </p></figcaption></figure>
+
+</div>
+
 PIM kullanıcıları, bir akışın filtre kurulumu yapılarak dahil edilecek ürün grubu belirlendikten sonra bu ürün grubuna ait verinin hangi kapsamda ilgili akış üzerinden dışa aktarılacağını da belirleyebilir. Bu amaçla kullanılan yapıya koleksiyonlar ismi verilmektedir.
 
 Özellikler, seçenekler ve etiketler ile eşleştirilen koleksiyonlar ürün akışlarına eklenebilir. Bu doğrultuda Lidia PIM üzerinde oluşturulan bir ürün akışının çıktısı uygulama tarafından aşağıdaki adımlarda oluşturulmaktadır:
@@ -653,6 +709,8 @@ PIM kullanıcıları, bir akışın filtre kurulumu yapılarak dahil edilecek ü
 ### Raporlar
 
 Raporlar, bir PIM sistemi tarafından kullanıcıların iş verilerini analiz etmek, performanslarını değerlendirmek ve kararlarını desteklemek için sunulan özet veya ayrıntılı bilgilerin sunulduğu belgelerdir. PIM sistemi, ürün verileriyle ilgili çeşitli raporlar sunarak kullanıcılara veri odaklı görüşler ve bilgiler sağlar.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.50.31.png" alt=""><figcaption><p>Denetim Raporu Ekranı</p></figcaption></figure>
 
 PIM sistemi içinde bulunan raporlar, genellikle aşağıdaki alanlarda kullanılabilir:
 
