@@ -9,8 +9,13 @@ description: >-
 Kullanıcı dokümantasyonu 8 ana başlıkta incelenecektir.
 
 1. [Anasayfa](turkce.md#anasayfa)
-2. Ayarlar
-   1.
+2. [Ayarlar](turkce.md#ayarlar)
+3. [Organizasyonum](turkce.md#organizasyonum)
+4. [Katalog](turkce.md#katalog)
+5. [Envanter Yönetimi](turkce.md#envanter)
+6. [Medya Yönetimi](turkce.md#medya-yonetimi)
+7. [Servisler](turkce.md#servisler)
+8. [Raporlar](turkce.md#raporlar)
 
 ### Giriş
 
@@ -613,7 +618,7 @@ Liste içeriğinde bulunan düzenle butonu ile ilgili fiyat listesi düzenlenebi
 
 Temel bilgiler sekmesinde ilgili listeye ait; "Liste Kodu" ve "Entegrasyon Kodu" bilgileri güncellenebilir. Fiyatlar sekmesinde ise mevcut listeye ait fiyatlar listelenir ve kullanıcı içeri veri aktararak veya dışa veri aktarım yaparak bu verileri düzenleyebilir.
 
-### Medya
+### Medya Yönetimi
 
 Lidia PIM üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya ögeleri de yönetilebilmektedir:
 
