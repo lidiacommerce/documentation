@@ -12,29 +12,10 @@ Kullanıcı kılavuz dökümantasyonu 8 ana başlıkta incelenecektir.\
 1. [Giriş](turkce.md#giris)
 2. [Anasayfa](turkce.md#anasayfa)
 3. [Mağaza Yönetimi](turkce.md#magaza-yonetimi)
-   1. [Mağaza Detayları](turkce.md#magaza-yonetimi)
-   2. [Mağaza Kullanıcıları](turkce.md#magaza-kullanicilari)
 4. [Ürün Yönetimi](turkce.md#urun-yonetimi)
-   1. [Toplu Ürün İşlemleri](turkce.md#toplu-urun-islemleri)
-      1. [Ürün Ailesi Ekleme](turkce.md#urun-ailesi-ekleme)
-      2. [Ürün Ekleme ve Değiştirme](turkce.md#urun-ailesi-ekleme)
-   2. [Fiyat / Stok İşlemleri](turkce.md#fiyat-stok-islemleri)
-   3. [Katalogdan Ürün Ekle](turkce.md#katalogtan-urun-ekle)
-   4. [Ürünlerim](turkce.md#urunlerim)
 5. [Satış Yönetimi](turkce.md#satis-yonetimi)
-   1. [Sipariş Yönetimi](turkce.md#altbaslik)
-      1. [Seçili Ürünleri Kargoya Ver](turkce.md#kargoya-verme)
-      2. [Seçili Ürünleri İptal Et](turkce.md#iptal-etme)
-   2. [Teslimat Yönetimi](turkce.md#teslimat-yonetimi)
-   3. [Teslimat Profili](turkce.md#teslimat-profili)
-   4. [Talep Yönetimi](turkce.md#talep-yonetimi)
-      1. [İade Talebi Süreci](turkce.md#iade-talebi)
-      2. [İptal Talebi Süreci](turkce.md#iptal-talebi)
 6. [Hedef Yönetimi](turkce.md#hedef-yonetimi)
-   1. [Hedef Yönetimi](turkce.md#hedef-yonetimi)
 7. [Medya Yönetimi](turkce.md#medya-yonetimi)
-   1. [Görsel Yönetimi](turkce.md#gorsel-yonetimi-1)
-   2. [Toplu Yükleme](turkce.md#toplu-yukleme-1)
 8. [Raporlar](turkce.md#raporlar)
 
 
@@ -49,7 +30,7 @@ Lidia Merchant Console, platformumuzun satıcılarının ürün bilgilerini topl
 
 Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekran, satıcının performans analizlerini ve mağazasına ait değerleri gösterir. Ayrıca, üst menüden dil değişikliği yapılabilir ve sol menüden Mağaza Yönetimi, Ürün Yönetimi, Satış Yönetimi, Hedef Yönetimi, Medya Yönetimi ve Raporlar görüntülenebilir.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Anasayfa Ekranı</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adsız tasarım.jpg" alt=""><figcaption><p>Anasayfa Ekranı</p></figcaption></figure>
 
 _**Ana sayfa “İlk Bakış”, “Satış Performansı”, “Mağaza Performansı”, “Ürün Performansı” ile ilgili gösterilen değerleri  içerir.**_
 
@@ -300,7 +281,7 @@ Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre li
 
 <figure><img src="../../.gitbook/assets/Ekran Resmi 2023-10-19 11.34.57.png" alt=""><figcaption></figcaption></figure>
 
-statülerinde sipariş listeleme ekranlarında görüntülenir.
+...statülerinde sipariş listeleme ekranlarında görüntülenir.
 
 \
 Üst menüdeki arama kutucuğu ile tüm siparişler arasında arama yapabilir ve filtreleme seçenekleri ile siparişlerinizi filtreleyebilirsiniz. Kolayca siparişler arasında siparişlerin tarihine ve fiyatına göre sıralama yapabilirsiniz.
