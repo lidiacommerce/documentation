@@ -749,6 +749,29 @@ Görselleri yükleyip "Devam Et" butonuna tıklandığında veri kontrol aşamas
 
 ## Raporlar
 
+Raporlar menüsü, platformdaki satış süreçlerinin  raporlandığı bölümdür.&#x20;
+
+_**Raporlar; “Satış Raporları”, “İptal/İade Raporları”, “Ürün Raporları” olarak üçe ayrılır.**_
+
+### Satış Raporları
+
+Satış raporları, belirlenen tarihe göre yapılan satışları raporlamaya olanak tanıyan sayfadır. Dışa aktar seçeneği ile görselleştirilmiş olan satışlar excel formatında indirilebilir.
+
+<figure><img src="../../.gitbook/assets/Ekran görüntüsü 2024-07-24 151710 (1).png" alt=""><figcaption><p>Satış Raporları</p></figcaption></figure>
+
+### İptal/İade Raporları
+
+İptal/İade Raporları, mağaza satışları sonucunda gerçekleşen iptaller ve iadelerin raporlandığı bölümdür.
+
+### Ürün Raporları
+
+Mağazaya ait ürünlerin ve bu ürünlere ait stok durumlarının raporlandığı bölümdür.
+
+
+
+\
+
+
 
 
 
