@@ -565,11 +565,7 @@ Hizmetler bölümünde, eklediğiniz hizmetin fiyat listesini de güncelleyebili
 
 </div>
 
-
-
-
-
-_Teslimat Profilleri_
+> _Teslimat Profilleri_
 
 Teslimat profilleri bölümünde oluşturulan standart profiller yer alır.
 
@@ -579,7 +575,7 @@ Standart profilleri düzenleyebilirsiniz; bulunan listelemede öncelik sıralar�
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.20.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.20.39.png" alt=""><figcaption><p>Teslimat Profilleri </p></figcaption></figure>
 
  
 
@@ -591,7 +587,7 @@ Ayrıca standart profilleri detayını görüntüleyebilirsiniz.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.24.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-29 at 13.24.26.png" alt=""><figcaption><p>Teslimat Profilleri</p></figcaption></figure>
 
  
 
@@ -599,37 +595,105 @@ Ayrıca standart profilleri detayını görüntüleyebilirsiniz.
 
 </div>
 
+> Kurallar
 
+Kurallar sayfası teslimat süreçleri ile ilgili koşul ve eylem belirlemeyi sağlar. Girilen teslimat kuralı, satıcı profillerine admin tarafından tanımlanan kurallardır. Örneğin; 72 Saat Teslimat Kuralı, siparişin 72 saat içerisinde teslim edilmesi gerektiğini ifade eder.
 
+<div>
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 111259.png" alt=""><figcaption><p>Kurallar Sayfası</p></figcaption></figure>
 
+ 
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 111521.png" alt=""><figcaption><p>Kural Ekleme</p></figcaption></figure>
 
+</div>
 
+> Ticari
 
+Ticari bölümünde ürünlere, ürün ailelerine ve kategorilere vb. Alanlara yönelik komisyonlar belirlenebilir. _**Ticari bölümü; "Komisyon Oranları" ve "Komisyon Kuralları" olmak üzere 2 bölümden oluşur.**_
 
+> Komisyon Oranları
 
+Belirlenen ürün özelliği veya kategorilere ait komisyon oranlarının listelenebildiği ve düzenlenebildiği bölümdür.&#x20;
 
+<div>
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 115149.png" alt=""><figcaption><p>Komisyon Oranları</p></figcaption></figure>
 
+ 
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 115619.png" alt=""><figcaption><p>Komisyon Düzenleme ve Silme</p></figcaption></figure>
 
+</div>
 
+Komiyon kuralı, sağ üstte bulunan "Yeni Komisyon Ekle" butonu ile yeni komisyon eklenebilir. Oluşturulan kayıtlar listeleme sayfasında bulunan düzenle seçeneği ile komisyon değerleri düzenlenebilirken, silme seçeneği ile de listeden kaldırılabilir.
 
+> Komisyon Kuralları
 
+Belirlenen ürün özelliği, kategorilere veya satıcılara yönelik komisyon oranlarının belirlendiği bölümdür.&#x20;
 
+<div>
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 120225.png" alt=""><figcaption><p>Komisyon Kuralları</p></figcaption></figure>
 
+ 
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 120320.png" alt=""><figcaption><p>Komisyon Kuralı Ekleme</p></figcaption></figure>
 
+</div>
 
+Yeni komisyon kurallı ekleyerek koşul olarak satıcı seçilebilir ve komisyon değeri belirlenebilir.
 
+> ### Katalog
 
+Katalog menüsü altında bulunan sayfalar, ürünlerin organize edilmesi, yönetilmesi ve düzenlenmesi için kullanılır.&#x20;
 
+> #### Ürün Aileleri
+
+Ürün Aileleri sayfası, benzer özelliklere sahip ürünleri gruplamak için kullanılır. Örneğin, bir elektronik mağazasında "Telefonlar" veya "Bilgisayarlar" gibi ürün aileleri oluşturulabilir.
+
+> #### Ürün İlişkileri
+
+Ürün ilişkileri, önerilen ürünler, ek satışlar, setler veya paketler gibi farklı türde ilişkilendirmeleri atamak için ürünler arasında bağlantılar oluşturmanıza olanak tanır.
+
+> #### Veri Kilitleri
+
+Veri Kilitleri sayfası, belirli verilerin yanlışlıkla değiştirilmesini önlemek için kullanılır. Bu, ürün bilgileri veya fiyatlar gibi kritik verilerin sabitlenmesini sağlar.&#x20;
+
+> #### Özellikler
+
+Özellikler menüsü, ürünlere eklenebilecek özel niteliklerin tanımlandığı bölümdür. Bu özellikler, ürünlerin daha ayrıntılı ve spesifik tanımlanmasını sağlar.Özellikler bölümünde “Özellik Grupları” ve “Özellikler” oalrak iki sayfa bulunur.
+
+> **Özellik Grupları**
+
+Özellik Grupları sayfası, benzer özelliklerin gruplandığı bölümdür. Örneğin, "Teknik Özellikler" veya "Boyutlar" gibi gruplar oluşturulabilir. Bu, özelliklerin daha organize bir şekilde yönetilmesini sağlar.
+
+> **Özellikler**
+
+Özellikler sayfası, ürün özelliklerinin tanımlandığı ve yönetildiği bölümdür. Bu özellikler, ürüne ait özelliklerin tanımı yapıldığı yerdir. Örneğin; 128 GB hafıza = “Disk Kapasitesi” Özelliği.
+
+> #### Seçenekler
+
+Seçenekler menüsü, ürünlere eklenebilecek farklı seçeneklerin tanımlandığı ve yönetildiği bölümdür. Seçenekler, müşterilerin ürünleri özelleştirmesine veya çeşitli varyasyonlar arasında seçim yapmasına olanak tanır.
+
+> **Seçenek Grupları**
+
+Seçenek Grupları sayfası, benzer seçeneklerin gruplandığı bölümdür. Örneğin, "Renkler" veya "Bedenler" gibi gruplar oluşturulabilir. Bu, seçeneklerin daha organize bir şekilde yönetilmesini sağlar.
+
+> **Seçenekler**
+
+Seçenekler sayfası,ürün seçeneklerinin tanımlandığı ve yönetildiği bölümdür. Bu seçenekler, ürünün farklı renkleri, boyutları veya diğer varyasyonlarını içerebilir.
+
+> **Seçenek Değer Grupları**
+
+Seçenek Değer Grupları sayfası, belirli bir seçenek için olası değerlerin gruplandığı bölümdür. Örneğin, "Renkler" grubu altında "Kırmızı", "Mavi", "Yeşil" gibi değerler bulunabilir.
+
+> **Seçenek Değerleri**
+
+Seçenek Değerleri sayfası, belirli bir seçenek için tanımlanmış değerlerin yönetildiği bölümdür. Bu değerler, müşterilerin ürün özelleştirmeleri sırasında seçim yapabileceği seçenekleri içerir.
 
 > Etiketler
-
-
 
 Etiket çeşitleri;&#x20;
 
