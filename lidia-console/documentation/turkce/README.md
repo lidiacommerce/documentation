@@ -799,18 +799,126 @@ Etiket çeşitleri;&#x20;
 \
 Genel etiket: Sistem genelinde kullanılan özel bir kategoriye girmeyen etiket tipidir. Metinsel etiketseldir.
 
-Nitelik etiket: Sistem genelinde sadece işlevsel olrak kullanılan son kullanıcıya gösterilmemesi tavsiye edilen etiketlerdir. Metinsel etiketlerdir.
+Nitelik etiket: Sistem genelinde sadece işlevsel olarak kullanılan son kullanıcıya gösterilmemesi tavsiye edilen etiketlerdir. Metinsel etiketlerdir.
 
-Rozet etiket: kullanıcı arayüzünde gösterilmesi tavsiye edilen etikete bağlı bulunan görselin kullanıldığı etiket tipidir. Görsel bazlı etiketlerdir.
+Rozet etiket: kullanıcı ara yüzünde gösterilmesi tavsiye edilen etikete bağlı bulunan görselin kullanıldığı etiket tipidir. Görsel bazlı etiketlerdir.
 
 Grup etiket: Uygulamada kullanılan belli veri nesnelerini (ürün,kategori,marka, dokümanlar vb) gruplayan etiketlerdir.&#x20;
 
-Yönetim etiket: Yöentimsel ihgityaçlar için kullanılan kullanıcı önyüzünde görüntülenemeyen etiketlerdir.
+Yönetim etiket: Yönetimsel ihtiyaçlar için kullanılan kullanıcı önyüzünde görüntülenemeyen etiketlerdir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 150332.png" alt=""><figcaption><p>İçerik Etiketleri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 150314.png" alt=""><figcaption><p>Katalog Etiketleri</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 150436.png" alt=""><figcaption><p>Etiket Ekleme</p></figcaption></figure>
+
+Katalog Etiketleri sayfası, ürün katalogları için kullanılan etiketlerin yönetildiği alandır. Bu etiketler, ürünlerin belirli kategorilere veya gruplara ayrılmasını kolaylaştırır.
+
+İçerik Etiketleri sayfası, web sitesi içeriği için kullanılan etiketlerin yönetildiği alandır. Bu etiketler, içeriklerin belirli temalar veya konular altında toplanmasını sağlar.
+
+Müşteri Etiketleri sayfası, müşterilere atanan etiketlerin yönetildiği alandır.
+
+## Bildirim Merkezi
+
+Bildirim merkezi, console yöneticilerinin mağazalar ve sistem üzerinde yapılan değişiklikler, güncellemeler ve eklentiler için bilgilendirildiği bölümdür.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 151413.png" alt=""><figcaption><p>Bildirim Merkezi</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 151540.png" alt=""><figcaption><p>Bildirim Tipleri</p></figcaption></figure>
+
+</div>
+
+## Organizasyonlar
+
+Organizasyonlar menüsü, platformda yer alan çeşitli organizasyonların ve bu organizasyonların yönetildiği bölümdür.&#x20;
+
+_**Organizasyonlar, “Bayiler”, “Başvurular”, “Üye İş Yerleri”, “Müşteriler”, ve “Tüm Organizasyonlar” olarak 5 sayfa içerir**_
+
+### Başvurular
+
+Başvurular sayfası, platforma yeni katılmak isteyen üye işyerlerinin veya bayilerin başvurularının yönetildiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 151822.png" alt=""><figcaption><p>Başvurular Sayfası</p></figcaption></figure>
+
+Başvurular sayfasında, yapılan başvurular listelenebilir ve detayına giderek incelemeler yapılabilir. Durum sütunu sayesinde yapılan başvurunun ne durumda olduğu gözlemlenebilir.
+
+### Üye İşyerleri
+
+Üye İşyerleri sayfası, platformda faaliyet gösteren mevcut üye işyerlerinin yönetildiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152054.png" alt=""><figcaption><p>Üye İşyerleri</p></figcaption></figure>
+
+Console yöneticileri, üye işyeri listeleme sayfasından detaya giderek mağazaya yönelik bilgileri, satış grafiğini ve mağaza performansını görüntüleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152249.png" alt=""><figcaption><p>Üye İşyeri Detay Sayfası</p></figcaption></figure>
+
+### Müşteriler
+
+Müşteriler sayfası, platforma kayıtlı olan müşterilerin yönetildiği alandır.
+
+### Bayiler
+
+Bayiler sayfası, platformda faaliyet gösteren bayilerin yönetildiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152714.png" alt=""><figcaption><p>Bayiler Sayfası</p></figcaption></figure>
+
+### Tüm Organizasyonlar
+
+Tüm Organizasyonlar sayfası, platformda yer alan tüm organizasyonların toplu olarak görüntülendiği ve yönetildiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152942.png" alt=""><figcaption><p>Tüm Orgnaizasyonlar</p></figcaption></figure>
+
+## Müşteri Yönetimi
+
+Müşteri Yönetimi menüsü, müşterilerin ve müşteri ilişkilerinin yönetildiği bölümdür. _**Müşteri yönetimi; “Müşteriler", “İzinler” ve "Referans Kod"  olarak üçe ayrılır.**_
+
+### Müşteriler&#x20;
+
+Müşteriler sayfası, platforma kayıtlı olan müşterilerin bilgilerinin görüntülendiği ve yönetildiği alandır. Listelenen bir müşteri detayına tıklayarak; [Temel Bilgi](https://stage-console.nevade.com/identity/users/55091#tab\_info), [Teslimat Adresleri](https://stage-console.nevade.com/identity/users/55091#tab\_adresses), [Fatura Adresleri](https://stage-console.nevade.com/identity/users/55091#tab\_billingInfo), [Siparişler](https://stage-console.nevade.com/identity/users/55091#tab\_orders), [Ödemeler](https://stage-console.nevade.com/identity/users/55091#tab\_transactions), [İzinler verilerine ulaşabilir ve düzenleyebiliriz.](https://stage-console.nevade.com/identity/users/55091#tab\_consents)
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 153718.png" alt=""><figcaption><p>Müşteriler Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 153443.png" alt=""><figcaption><p>Müşteri Detay Sayfası</p></figcaption></figure>
+
+</div>
+
+### İzinler
+
+İzinler sayfası, müşterilere ve kullanıcılara tanımlanan izinlerin yönetildiği alandır. Bu izinler; “SMS” ve “Mail” atılması ile ilgili izinleri içerir.
+
+### Referans Kod
+
+Referans kodu, müşterilere yönelik referans olunabilecek kodların tanımlandığı yerdir. Console yöneticileri mevcut eklenmiş referans kodlarını listeleyebilir ve detaya giderek geçerlilik tarihlerini düzenleyebilirler.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 154435.png" alt=""><figcaption><p>Referanslar Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 154540.png" alt=""><figcaption><p>Referans Kod Detay </p></figcaption></figure>
+
+</div>
+
+\
 
 
-
-
-
+\
 
 
 
