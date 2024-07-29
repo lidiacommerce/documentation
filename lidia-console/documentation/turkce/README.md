@@ -653,45 +653,144 @@ Katalog menüsü altında bulunan sayfalar, ürünlerin organize edilmesi, yöne
 
 Ürün Aileleri sayfası, benzer özelliklere sahip ürünleri gruplamak için kullanılır. Örneğin, bir elektronik mağazasında "Telefonlar" veya "Bilgisayarlar" gibi ürün aileleri oluşturulabilir.
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 102912.png" alt=""><figcaption><p>Ürün Aileleri Yönetim Sayfası</p></figcaption></figure>
+
+Veri şeması adı ve kodunun girdikten sonra oluşturulan ürün ailesi için düzenleme, kopya oluşturma ve silme işlemleri yapılabilir. Düzenle seçeneği, ilgili ürün ailesine ait temel bilgileri ve veri şeması alanlarına yönelik düzenleme işlemi yapılabilmesini sağlar.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 103335.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 103401.png" alt=""><figcaption><p>Veri Şeması Alanları</p></figcaption></figure>
+
+</div>
+
 > #### Ürün İlişkileri
 
 Ürün ilişkileri, önerilen ürünler, ek satışlar, setler veya paketler gibi farklı türde ilişkilendirmeleri atamak için ürünler arasında bağlantılar oluşturmanıza olanak tanır.
 
+Ürün ilişkileri, ürünlerin birbiriyle bağlantılı olduğu durumları ve ilişkili ürünlerin birbirine nasıl bağlı olduğunu tanımlar. Console yöneticileri, farklı türlerdeki ürün ilişkilerini yönetebilir ve bu ilişkileri kullanarak ürün verilerini etkili bir şekilde organize edebilir.
+
+Birkaç yaygın ürün ilişkisi türü aşağıda belirtilmiştir:
+
+* Ana Ürün ve Alt Ürün İlişkisi: Bir ürünün ana ürün olarak tanımlanması ve alt ürünlerinin (varyasyonlar, renk seçenekleri, boyut seçenekleri gibi) bu ana ürüne bağlı olarak tanımlanmasıdır. Bu ilişki, bir ürünün farklı varyasyonlarının veya seçeneklerinin yönetimini kolaylaştırır.
+* İlgili Ürün İlişkisi: Bir ürünün diğer ürünlerle ilişkilendirilmesidir. Örneğin, bir çanta ürünü ile buna uygun bir cüzdan ürünü arasında ilişki kurulabilir. Bu ilişki, müşterilere ilgili ürünleri keşfetme ve kombine etme imkanı sunar.
+* Aksesuar Ürün İlişkisi: Bir ürünün aksesuarları ile ilişkilendirilmesidir. Örneğin, bir kamera ürünü ile ona ait bir kamera çantası ve lens koruyucu gibi aksesuarlar arasında ilişki kurulabilir. Bu ilişki, müşterilere uygun aksesuarları keşfetme ve satın alma süreçini kolaylaştırır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 104343.png" alt=""><figcaption><p>Ürün İlişkileri Yönetim Sayfası</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.33.11.png" alt=""><figcaption><p>Ürün İlişkisi Ekleme Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 18-07-2024 13.33.51.png" alt=""><figcaption><p>Ürün İlişkisi Düzenleme</p></figcaption></figure>
+
+</div>
+
 > #### Veri Kilitleri
 
-Veri Kilitleri sayfası, belirli verilerin yanlışlıkla değiştirilmesini önlemek için kullanılır. Bu, ürün bilgileri veya fiyatlar gibi kritik verilerin sabitlenmesini sağlar.&#x20;
+Veri kilitleri, sistem içinde ürün verilerinin güvenliğini sağlamak ve değişikliklerin kontrol altında tutulmasını sağlamak için kullanılan mekanizmalardır. Veri kilitleri, kullanıcıların belirli ürün veya ürün grubu verilerini güncellerken, başka kullanıcıların aynı verilere aynı anda erişmelerini engelleyerek çakışmaları önler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 104905.png" alt=""><figcaption><p>Veri Kilitleri Yönetim Sayfası</p></figcaption></figure>
+
+Veri kilitleri, aşağıdaki durumlarda kullanışlıdır:
+
+* Eş zamanlı güncelleme: Birden fazla kullanıcının aynı anda aynı ürün veya ürün grubu üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını önler ve tutarlı bir veri durumunu korur.
+* Veri güvenliği: Veri kilitleri, yetkisiz kullanıcıların belirli ürün verilerini değiştirmesini veya silmesini engeller ve veri güvenliğini sağlar.
+* İçerik yönetimi: Console yöneticileri, belirli bir ürün veya ürün grubu üzerinde çalışırken, veri kilitleri sayesinde o ürün veya ürün grubunun verilerini güncellemek, düzenlemek veya silmek gibi değişiklikleri kontrol edebilir.
+* Çakışan güncellemeleri önleme: Birden fazla kullanıcının aynı anda aynı ürün üzerinde güncelleme yapması durumunda veri kilitleri, güncellemelerin çakışmasını engelleyerek veri bütünlüğünü korur.
+* Veri yönetimi süreçlerini düzenleme: Veri kilitleri, Console yöneticilerinin belirli ürün verilerini güncellerken, değişikliklerin uygun süreçlere göre yönetilmesini sağlar ve veri yönetimi süreçlerini düzenler.
+
+Console'da kullanım sektörüne, ihtiyaçlarına ve iş gereksinimlerine göre farklı veri kilitleri kullanabilir ve veri kilitlerini kendi veri yönetimi süreçlerine uygun olarak özelleştirebilir.
 
 > #### Özellikler
 
-Özellikler menüsü, ürünlere eklenebilecek özel niteliklerin tanımlandığı bölümdür. Bu özellikler, ürünlerin daha ayrıntılı ve spesifik tanımlanmasını sağlar.Özellikler bölümünde “Özellik Grupları” ve “Özellikler” oalrak iki sayfa bulunur.
-
-> **Özellik Grupları**
-
-Özellik Grupları sayfası, benzer özelliklerin gruplandığı bölümdür. Örneğin, "Teknik Özellikler" veya "Boyutlar" gibi gruplar oluşturulabilir. Bu, özelliklerin daha organize bir şekilde yönetilmesini sağlar.
+Özellikler menüsü, ürünlere eklenebilecek özel niteliklerin tanımlandığı bölümdür. Bu özellikler, ürünlerin daha ayrıntılı ve spesifik tanımlanmasını sağlar. _**Özellikler bölümünde “Özellik Grupları” ve “Özellikler” olarak iki sayfa bulunur.**_
 
 > **Özellikler**
 
-Özellikler sayfası, ürün özelliklerinin tanımlandığı ve yönetildiği bölümdür. Bu özellikler, ürüne ait özelliklerin tanımı yapıldığı yerdir. Örneğin; 128 GB hafıza = “Disk Kapasitesi” Özelliği.
+Bu özellikler grupları Lidia Console yöneticisini ihtiyaçlarına göre arttırılabilir.
+
+* **Temel Özellikler:** Bu özellik grubu, ürünlerinizin temel bilgilerini içerir. Ürün adı, marka, model, SKU (Stok Tutma Birimi) numarası, ağırlık, boyut, renk gibi temel bilgiler bu özellik grubu altında yer alır.
+* **Fiziksel Özellikler:** Bu özellik grubu, ürünlerinizin fiziksel niteliklerini içerir. Malzeme türü, şekil, yüzey dokusu, dayanıklılık gibi fiziksel özellikler bu grup altında yer alabilir.
+* **Teknik Özellikler:** Bu özellik grubu, ürünlerinizin teknik ayrıntılarını içerir. İşlemci hızı, bellek kapasitesi, bağlantı protokolleri gibi teknik bilgiler bu grup altında yer alabilir.
+* **Görsel Özellikler:** Bu özellik grubu, ürünlerinizin görünümü ve estetik özelliklerini içerir. Renk seçenekleri, desenler, tasarım özellikleri gibi görsel bilgiler bu grup altında yer alabilir.
+* **Kullanım Özellikleri:** Bu özellik grubu, ürünlerinizin kullanımıyla ilgili bilgileri içerir. Kullanım talimatları, güvenlik önlemleri, kullanım süreçleri gibi kullanım bilgileri bu grup altında yer alabilir.
+* **Lojistik ve Nakliye Özellikleri:** Bu özellik grubu, ürünlerinizin lojistik ve nakliye ile ilgili bilgilerini içerir. Ağırlık, boyut, nakliye yöntemleri, paketleme bilgileri gibi lojistik ve nakliye bilgileri bu grup altında yer alabilir.
+* **Garanti ve Servis Özellikleri:** Bu özellik grubu, ürünlerinizin garanti süresi, servis seçenekleri, müşteri hizmetleri bilgilerini içerir.
+* **Fiyatlandırma ve İndirim Özellikleri:** Ürünün fiyatlandırma bilgilerini, indirimlerini, promosyonlarını içeren bir özellik grubudur. Ürünün fiyatı, indirim yüzdesi, promosyon kodları gibi fiyatlandırma ve indirim özellikleri bu grubun altında yer alabilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 18-07-2024 12.48.26.png" alt=""><figcaption><p>Özellik Ekleme Ekranı</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 110451.png" alt=""><figcaption><p>Özellikler Ekranı</p></figcaption></figure>
+
+</div>
+
+Lidia Console, ürünlerinizin özelliklerini ve bilgilerini gruplar halinde düzenleyerek daha etkili bir ürün yönetimi süreci sağlar. İşte Lidia Console içinde bulunan özellik gruplarına bir bakış:
+
+> **Özellik Grupları**
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 111114.png" alt=""><figcaption><p>Özeliik Grupları </p></figcaption></figure>
+
+**Ürün Açıklamaları:** Ürünün detaylı açıklamalarının yer aldığı özelliktir. Ürünün özellikleri, avantajları, kullanım talimatları, bakım yönergeleri gibi bilgiler ürün açıklamalarına örnek olarak verilebilir.
+
+**Ürün Resimleri:** Ürüne ait resimlerin yönetildiği özelliktir. Ürünün ana resmi, ek resimleri, farklı açılardan görüntüleri, renk seçeneklerini gösteren resimler, ürünün kullanım resimleri gibi bilgiler ürün resimleri kategorisine örnek olarak verilebilir.
+
+**Ürün Özellikleri:** Bir ürünün temel nitelikleri ve ayrıntılarıdır. Örnek olarak, ürünün adı, markası, modeli, SKU (Stok Tutma Birimi) numarası, ağırlığı, boyutları, renkleri, malzemesi, garanti süresi, üretim yeri gibi bilgiler ürün özelliklerine örnek olarak verilebilir.
+
+* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası özellikleri merkezi olarak tanımlanabilmektedir. Örnek ürün özellikleri aşağıdaki gibidir:
+  * Kapasite
+  * Garanti Süresi
+  * Ekran Boyutu
+  * Ürün Malzamesi
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 111214.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 111235.png" alt=""><figcaption><p>İlişkili Değerler</p></figcaption></figure>
+
+</div>
 
 > #### Seçenekler
 
 Seçenekler menüsü, ürünlere eklenebilecek farklı seçeneklerin tanımlandığı ve yönetildiği bölümdür. Seçenekler, müşterilerin ürünleri özelleştirmesine veya çeşitli varyasyonlar arasında seçim yapmasına olanak tanır.
 
+* Uygulama üzerinde verisi yönetilecek olan ürünlerin olası seçenekleri merkezi olarak tanımlanabilmektedir. Örnek seçenekleri özellikleri aşağıdaki gibidir:
+  * Renk
+  * Beden
+
+Yeni seçenek eklerken seçenek grubu, seçenek adı, görüntülenecek ad, seçenek kodu ve veri tipi (metin, tam sayı, ondalıklı sayı, ölçü) eklenmelidir.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 111753.png" alt=""><figcaption><p>Seçenekler Ekranı</p></figcaption></figure>
+
 > **Seçenek Grupları**
 
 Seçenek Grupları sayfası, benzer seçeneklerin gruplandığı bölümdür. Örneğin, "Renkler" veya "Bedenler" gibi gruplar oluşturulabilir. Bu, seçeneklerin daha organize bir şekilde yönetilmesini sağlar.
 
-> **Seçenekler**
-
-Seçenekler sayfası,ürün seçeneklerinin tanımlandığı ve yönetildiği bölümdür. Bu seçenekler, ürünün farklı renkleri, boyutları veya diğer varyasyonlarını içerebilir.
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 112212.png" alt=""><figcaption><p>Seçenek Grupları</p></figcaption></figure>
 
 > **Seçenek Değer Grupları**
 
 Seçenek Değer Grupları sayfası, belirli bir seçenek için olası değerlerin gruplandığı bölümdür. Örneğin, "Renkler" grubu altında "Kırmızı", "Mavi", "Yeşil" gibi değerler bulunabilir.
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 112431.png" alt=""><figcaption><p>Seçenek Değer Gupları</p></figcaption></figure>
+
 > **Seçenek Değerleri**
 
 Seçenek Değerleri sayfası, belirli bir seçenek için tanımlanmış değerlerin yönetildiği bölümdür. Bu değerler, müşterilerin ürün özelleştirmeleri sırasında seçim yapabileceği seçenekleri içerir.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 112708.png" alt=""><figcaption><p>Seçenek Değerleri</p></figcaption></figure>
 
 > Etiketler
 
