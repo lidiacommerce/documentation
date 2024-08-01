@@ -1099,29 +1099,86 @@ Sayfalar bölümü, web sitesinde yer alan sayfaların görüntülendiği ve dü
 
 ### Yönlendirmeler
 
-Yönlendirmeler (Linkler) sayfası, web sitesi ve platform üzerindeki yönlendirmelerin (URL yönlendirmeleri) yönetildiği alandır. Örneğin; eski bir sayfaya ait URLbyeni bir sayfaya atanabilir.
+Yönlendirmeler (Linkler) sayfası, web sitesi ve platform üzerindeki yönlendirmelerin (URL yönlendirmeleri) yönetildiği alandır. Örneğin; eski bir sayfaya ait URL, yeni bir sayfaya atanabilir.
 
-
-
-\
-
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 141616.png" alt=""><figcaption><p>Yönlendirmeler</p></figcaption></figure>
 
 ### Menüler
 
 Menüler sayfası, web sitesindeki sayfalardaki Header ve Footer gibi alanlarda bulunan Menülerin ve içeriklerinin yönetildiği alanlardır.
 
+<div>
+
+<figure><img src="../../../.gitbook/assets/menü.png" alt=""><figcaption><p>Menüler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 142327.png" alt=""><figcaption><p>Menü Düzenleme Sayfası</p></figcaption></figure>
+
+</div>
+
 ### Vitrinler
 
-Vitrinler sayfası, web sitesinde öne çıkarılan ürünlerin veya içeriklerin yönetildiği alandır. Bu alanları oluşturabilir ve düzenleyebilmemizi sağlayan ana bölümdür.
+Vitrinler sayfası, web sitesinde öne çıkarılan ürünlerin veya içerikleri oluşturma ve düzenleyebilme özelliği sağlayan ana bölümdür.
+
+<figure><img src="../../../.gitbook/assets/menü (1).png" alt=""><figcaption><p>Vitrinler </p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144137.png" alt=""><figcaption><p>Vitrin Bilgileri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144154.png" alt=""><figcaption><p>Vitrin Sayfaları</p></figcaption></figure>
+
+</div>
 
 ### Bloklar
 
-Bloklar sayfası, web sitesinde yer alan içerik bloklarının yönetildiği alandır. “300 TL Altına Taksit Seçeneği Yok”
+Bloklar sayfası, web sitesinde yer alan örneğin; “300 TL Altına Taksit Seçeneği Yok” gibi içerik bloklarının yönetildiği alandır.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144506.png" alt=""><figcaption><p>Bloklar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144552.png" alt=""><figcaption><p>Blok düzenleme Sayfası</p></figcaption></figure>
+
+</div>
 
 ### Özel Nesneler
 
 Özel Nesneler sayfası, platforma özel olarak tanımlanan içerik nesnelerinin yönetildiği alandır.
 
+## Medya Yönetimi
+
+Medya Yönetimi menüsü, platformda kullanılan medya dosyalarının yönetildiği bölümdür. _**Bu alan; “Medya Yönetimi”, “Toplu Yükleme”, “Görseller”, “Dosyalar” ve “Videolar” olarak 5 bölüm içerir.**_
+
+\
+
+
+### Medya Yönetimi
+
+Medya Yönetimi sayfası, platformdaki tüm medya dosyalarının toplu olarak görüntülendiği alandır.
+
+### Toplu Yükleme
+
+Toplu Yükleme sayfası, birden fazla medya dosyasının aynı anda yüklenmesini sağlayan bölümdür. İlgili dosya türünü seçtikten sonra istenilen dosyalar yüklenebilir.
+
+### Görseller
+
+Görseller sayfası, platformda kullanılan görüntü dosyalarının depolandığı ve görüntülendiği alandır.
+
+### Dosyalar
+
+Dosyalar sayfası, platformda kullanılan genel dosyaların depolandığı ve görüntülendiği alandır.
+
+### Videolar
+
+Videolar sayfası, platformda kullanılan video dosyalarını  depolandığı ve görüntülendiği alandır.
+
+\
 \
 \
 \
