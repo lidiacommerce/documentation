@@ -915,6 +915,215 @@ Referans kodu, müşterilere yönelik referans olunabilecek kodların tanımland
 
 </div>
 
+## Katalog
+
+Katalog menüsü, ürün kataloglarının ve kategorilerle  ilgili verilerin yönetildiği bölümdür.&#x20;
+
+_**Katalog bölümü; “Havuzlar”, “Kategoriler”, “Markalar”, “Listeler”, “Ürünler” ve “Varyantlar” olarak altı bölüme ayrılır.**_
+
+### Havuzlar
+
+Havuzlar sayfası, ürün ailelerinin kategorize edildiği bölümdür. “Yeni Ürün Ailes Ekle” diyerek belirli bir kategoriye veya alt dallarında bulunan alanlara yeni ürün ailesi eklenebilir. Havuzlar sayfasında bulunan satırlarda, havuz içerisinde kaç adet ürün olduğu, ilgili kategori bilgileri ve havuzda kaç adet bekleyen ürün olduğu bilgisi görüntülelenebilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/x.png" alt=""><figcaption><p>Havuzlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 102929.png" alt=""><figcaption><p>Yeni Havuz Oluşturma</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri, havuzlardaki ürünleri "Ürünleri Yönet" seçeneği ile görüntüleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 103555.png" alt=""><figcaption><p>Onay Bekleyen Ürünler</p></figcaption></figure>
+
+Console yöneticileri, havuzlarda merchantlar tarafından onaya gönderilen ürünleri onaylama ve reddetme işlemlerini bu sayfada gerçekleştirir. Onaylanan ürünler "Onaylananlar" sayfasında görüntülenir.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 104326.png" alt=""><figcaption><p>Onaylananlar Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 104301.png" alt=""><figcaption><p>Reddedilenler Sayfası</p></figcaption></figure>
+
+</div>
+
+Onaylanan ürünleri listeleyen yöneticiler, yayınlamak istedikleri ürünleri seçerek "Seçilen Ürünleri Yayınla" seçeneği ile ürünleri yayına alabilirler. Aynı zamanda yöneticiler "Seçilen ürünleri onaydan geri çek" seçeneği ile ürünleri tekrar onay bekleyenler sayfasına alabilirler.
+
+Reddedilen ürünler merchant tarafında reddedilen ürünler olarak görüntülenir ve merchantlar ürünlerde düzenleme işlemleri yaptıktan sonra tekrar onaya gönderebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 104847.png" alt=""><figcaption><p>Yayındakiler Sayfası</p></figcaption></figure>
+
+### Kategoriler
+
+Kategoriler sayfası, kategorilerin yönetildiği alandır. Console yöneticileri yeni kategoriler ekleyebilir veya mevcut kategorileri değiştirebilirler.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 105242.png" alt=""><figcaption><p>Kategoriler Yönetim Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 105403.png" alt=""><figcaption><p>Yeni Kategori Ekleme</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri, mevcut kategorileri son kullanıcıların görüntülediği formatta listeleyebilir, yeni kategoriler oluşturabilir ve her bir kategori için düzenleme işlemleri gerçekleştirebilirler.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 105746.png" alt=""><figcaption><p>Kategori Düzenleme Sayfası</p></figcaption></figure>
+
+Kategori düzenleme sayfasında kategorilerin temel bilgilerini, özelliklerini, kategori içerisinde bulunan ürünlerin yönetimini, filtre yönetim seçenekleri vb. işlemleri gerçekleştirebilirler.&#x20;
+
+### Markalar
+
+Markalar sayfası, platformda yer alan ürün markalarının listelendiği ve yönetildiği alandır.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 113234.png" alt=""><figcaption><p>Markalar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 113322.png" alt=""><figcaption><p>Yeni Marka Ekleme</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri, markalar sayfasında mevcut markaları ve markalara ait alt markaları listeleyebilir, her bir marka için düzenleme işlemlerini gerçekleştirebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 113535.png" alt=""><figcaption><p>Marka Düzenleme Sayfası</p></figcaption></figure>
+
+Marka düzenleme işlemleri, kategori düzenleme sayfasında olduğu gibi markaların; temel bilgilerini, özelliklerini, marka içerisinde bulunan ürünlerin yönetimini, filtre yönetim seçenekleri vb. işlemleri gerçekleştirebilirler.&#x20;
+
+### Listeler
+
+Listeler sayfası, belirli ürün listelerinin oluşturulduğu ve yönetildiği alandır. Örneğin; “Yeni Liste Ekle” diyerek, “Anneler Günü” ve “Çok Satanlar” vb. listeler oluşturulabilir.&#x20;
+
+Console yöneticileri oluşturulan listelerin detaylarına inerek; listelerin içerdiği ürünleri, sayfa adreslerini, özelliklerini ve SEO verilerini düzenleyebilir ve yönetebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 113819.png" alt=""><figcaption><p>Listeler</p></figcaption></figure>
+
+Liste düzenleme işlemleri, marka düzenleme sayfasında olduğu gibi listelerin; temel bilgilerini, özelliklerini, marka içerisinde bulunan ürünlerin yönetimini, filtre yönetim seçenekleri vb. işlemleri gerçekleştirebilirler.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 114001.png" alt=""><figcaption><p>Liste Düzenleme Sayfası</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 114041.png" alt=""><figcaption><p>Yeni Liste Ekleme</p></figcaption></figure>
+
+</div>
+
+### Ürünler
+
+Ürünler sayfası, platformda yer alan tüm ürünlerin görüntülendiği alandır. Console yöneticileri listelenen ürünlerde düzenle seçeneği ile Kategori, Ürün İlişkileri, Varyantlar, Medya, Sayfa adresleri ve SEO verilerini yönetebilirler.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 122425.png" alt=""><figcaption><p>Ürünler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 122627.png" alt=""><figcaption><p>Ürünler Detay Sayfası</p></figcaption></figure>
+
+</div>
+
+### Varyantlar
+
+Varyantlar sayfası, ürünlere ait varyantların yönetildiği alandır. Console yöneticileri ilgili varyantın detayına giderek; varyanta ait temel bilgileri, özelliklerini, ilişkili varyantları, medya, sayfa ve SEO yönetimi gibi düzenlemeleri görüntüleyebilirler ve yönetebilirler. Ayrıca envanter sekmesi ile ilgili varyantın fiyat ve stok bilgilerinide görüntüleme imkanları vardır.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/asda (1).png" alt=""><figcaption><p>Varyantlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/asdas.png" alt=""><figcaption><p>Varyant Detay</p></figcaption></figure>
+
+</div>
+
+## Envanter Yönetimi
+
+Envanter Yönetimi sayfası, platformda yer alan ürünlerin mağaza, stok ve envanter bilgilerinin yönetildiği alandır. _**Envanter Yönetimi; “Mağazalar”, “Depolar” ve “Fiyat ve Stok” olarak üçe ayrılır.**_
+
+### Mağazalar ve Depolar
+
+Mağazalar sayfası, platformda yer alan fiziksel veya sanal mağazaların yönetildiği alan iken Depolar sayfası ise platformda yer alan depoların yönetildiği alandır. Console yöneticileri “Yeni Mağaza Ekle” diyerek depo kodu bilgisi ile yeni mağaza oluşturabiliriz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 123740.png" alt=""><figcaption><p>Mağazalar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 123855.png" alt=""><figcaption><p>Depolar</p></figcaption></figure>
+
+</div>
+
+### Fiyat ve Stok
+
+Fiyat ve Stok sayfası, ürünlerin verilerinin ve depolar ile mağazalara ait stok bilgilerinin yönetildiği alandır. Console yöneticileri, listeleme ekranında ilgili ürüne ait stok durumlarını ve fiyat bilgilerini görüntüleyebilirler.&#x20;
+
+Ürünler üzerine tıklayarak ürünlere ait detay sayfalarına erişilebilir.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 134725.png" alt=""><figcaption><p>Fiyat ve Stok</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 134832.png" alt=""><figcaption><p>Detay Sayfası</p></figcaption></figure>
+
+</div>
+
+## İçerik Yönetimi
+
+İçerik Yönetimi menüsü, web sitesi içeriğinin yönetildiği bölümdür. _**İçerik Yönetimi; “Şablonlar”, “Sayfalar”,”Yönlendirmeler”, “Menüler”, “Vitrinler”, “Bloklar” ve “Özel Nesneler” olarak 7 bölüme ayrılır.**_
+
+### Şablonlar
+
+Şablonlar sayfası, web sitesi ve platform için kullanılan sayfa şablonlarının oluşturulduğu alandır. Console yöneticileri, “Yeni Şablon Ekle” diyerek şablon adı girdikten sonra listelenen şablonu düzenleyebilirler.
+
+Örneğin; “Vitrin Sayfası” tipinde bir şablon oluşturarak bu sayfanın nasıl görüneceği ve hangi özelliklerde olacağı manuel belirlenebilir.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 140943.png" alt=""><figcaption><p>Şablonlar</p></figcaption></figure>
+
+### Sayfalar
+
+Sayfalar bölümü, web sitesinde yer alan sayfaların görüntülendiği ve düzenlendiği alandır.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 141446.png" alt=""><figcaption><p>Sayfa Yönetimi</p></figcaption></figure>
+
+### Yönlendirmeler
+
+Yönlendirmeler (Linkler) sayfası, web sitesi ve platform üzerindeki yönlendirmelerin (URL yönlendirmeleri) yönetildiği alandır. Örneğin; eski bir sayfaya ait URLbyeni bir sayfaya atanabilir.
+
+
+
+\
+
+
+### Menüler
+
+Menüler sayfası, web sitesindeki sayfalardaki Header ve Footer gibi alanlarda bulunan Menülerin ve içeriklerinin yönetildiği alanlardır.
+
+### Vitrinler
+
+Vitrinler sayfası, web sitesinde öne çıkarılan ürünlerin veya içeriklerin yönetildiği alandır. Bu alanları oluşturabilir ve düzenleyebilmemizi sağlayan ana bölümdür.
+
+### Bloklar
+
+Bloklar sayfası, web sitesinde yer alan içerik bloklarının yönetildiği alandır. “300 TL Altına Taksit Seçeneği Yok”
+
+### Özel Nesneler
+
+Özel Nesneler sayfası, platforma özel olarak tanımlanan içerik nesnelerinin yönetildiği alandır.
+
+\
+\
 \
 
 
