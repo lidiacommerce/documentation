@@ -1155,28 +1155,63 @@ Bloklar sayfası, web sitesinde yer alan örneğin; “300 TL Altına Taksit Se�
 
 Medya Yönetimi menüsü, platformda kullanılan medya dosyalarının yönetildiği bölümdür. _**Bu alan; “Medya Yönetimi”, “Toplu Yükleme”, “Görseller”, “Dosyalar” ve “Videolar” olarak 5 bölüm içerir.**_
 
-\
+Console üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya ögeleri de yönetilebilmektedir:
 
+* Ürün görselleri
+* Ürün dosyaları
+* Ürün videoları
 
-### Medya Yönetimi
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 104757.png" alt=""><figcaption><p>Medya Yönetimi Sayfası</p></figcaption></figure>
 
-Medya Yönetimi sayfası, platformdaki tüm medya dosyalarının toplu olarak görüntülendiği alandır.
+Medya listesi bölümünde kullanıcılar, önceden yüklenmiş medya verilerini listeleyebilirler.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.21.39.png" alt=""><figcaption><p>Medya Düzenleme </p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.22.08.png" alt=""><figcaption><p>Kullanım Alanları </p></figcaption></figure>
+
+</div>
+
+Medya listesinde kullanıcılar, detay ekranına giderek medya verilerini ve ilgili tanımlanmış kullanım alanlarını görüntüleyebilirler.
 
 ### Toplu Yükleme
 
 Toplu Yükleme sayfası, birden fazla medya dosyasının aynı anda yüklenmesini sağlayan bölümdür. İlgili dosya türünü seçtikten sonra istenilen dosyalar yüklenebilir.
 
-### Görseller
+<div>
 
-Görseller sayfası, platformda kullanılan görüntü dosyalarının depolandığı ve görüntülendiği alandır.
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105137.png" alt=""><figcaption><p>Toplu Yükleme</p></figcaption></figure>
 
-### Dosyalar
+ 
 
-Dosyalar sayfası, platformda kullanılan genel dosyaların depolandığı ve görüntülendiği alandır.
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105303.png" alt=""><figcaption><p>Veri Kontrol Aşaması</p></figcaption></figure>
 
-### Videolar
+</div>
 
-Videolar sayfası, platformda kullanılan video dosyalarını  depolandığı ve görüntülendiği alandır.
+Toplu doküman yüklemek için veri tipini seçerek ilgili veriler platforma yüklenmelidir. Devam et butonu ile veri kontrol aşamasına geçildikten sonra tekrar veri ekleyebilir ya da işlem tamamlanabilir.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105528.png" alt=""><figcaption><p>Görseller</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105553.png" alt=""><figcaption><p>Dökümanlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105627.png" alt=""><figcaption><p>Videolar</p></figcaption></figure>
+
+</div>
+
+* Ürün görselleri bölümünde; yüklenmiş olan görseller görüntülenebilir ve dosyalanabilir.
+* Ürün dosyaları bölümünde; yüklenmiş olan .docx veya .pdf formatında dokümanların görüntülendiği veya dosyalanabildiği ekrandır.
+* Ürün videoları bölümünde; yüklenmiş olan ürün videolarının görüntülendiği veya dosyalanabildiği ekrandır.
+
+###
 
 \
 \
