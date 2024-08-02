@@ -1211,13 +1211,82 @@ Toplu doküman yüklemek için veri tipini seçerek ilgili veriler platforma yü
 * Ürün dosyaları bölümünde; yüklenmiş olan .docx veya .pdf formatında dokümanların görüntülendiği veya dosyalanabildiği ekrandır.
 * Ürün videoları bölümünde; yüklenmiş olan ürün videolarının görüntülendiği veya dosyalanabildiği ekrandır.
 
-###
+## Pazarlama Yönetimi
 
-\
-\
-\
-\
+Pazarlama Yönetimi menüsü, platformda gerçekleştirilen Kampanya ve Kuponların yönetildiği bölümdür.
 
+#### Kampanyalar
+
+Kampanyalar sayfası, belirli kampanyaların oluşturulduğu ve yönetildiği alandır. Örneğin; oluşturulan bir kampanyayı görüntüleyerek, kampanya koşullarını, kitlesi, miktar ve ödül kriterlerini belirleyebiliriz.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 151343.png" alt=""><figcaption><p>Kampanyalar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 151441.png" alt=""><figcaption><p>Yeni Kampanya Ekle</p></figcaption></figure>
+
+</div>
+
+Kampanyalar sayfasında console yöneticileri, kayıtlı tüm kampanyaları listeleyebilir. Kampanyaları detaylı sınıflandırılması için sayfada bulunan tab'ler kullanılabilir;
+
+* Tümü; Kayıtlı olan, aktif/pasif tüm kampanyaların görüntülendiği sayfadır.
+* Yayında olanlar; tarihi sona ermemiş ve pasif durumunda olan kampanyaların listelendiği sayfadır.
+* Yayında olmayanlar; kullanıcı tarafından pasif veya donduruldu durumunda olan kampanyaların listelendiği sayfadır.
+* Süresi dolanlar; tarihi sona ermiş ve sistem tarafından pasif durumunda olan kampanyaların listelendiği sayfadır.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152359.png" alt=""><figcaption><p>Yayında Olanlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152422.png" alt=""><figcaption><p>Yayında Olmayanlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152442.png" alt=""><figcaption><p>Süresi Dolanlar</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri, kampanya detayına giderek; kampanya performansları, kitle, koşul/ ödüller, kurallar, ayarlar, kampanya özellikleri, sayfa yönetimi, SEO bilgileri ve sayfa adresleri gibi alanları yönetebilir ve düzenleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152604.png" alt=""><figcaption><p>Kampanya Detay Sayfası</p></figcaption></figure>
+
+### Kuponlar
+
+Kuponlar sayfası, indirim kuponlarının oluşturulduğu ve yönetildiği alandır. Örneğin; console yöneticileri, belirlenen miktarda bir satış yapılması koşulu belirleyerek satış sonrası kupon oluşmasını sağlayabilirler.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152912.png" alt=""><figcaption><p>Kuponlar</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153123.png" alt=""><figcaption><p>Yeni Kupon Ekleme</p></figcaption></figure>
+
+</div>
+
+Kuponları detaylı sınıflandırılması için sayfada bulunan tab'ler kullanılabilir;
+
+* Tümü; Kayıtlı olan, aktif/pasif tüm kuponların görüntülendiği sayfadır.
+* Pasif; pasif durumunda olan kuponların listelendiği sayfadır.
+* Süresi dolmuş; tarihi sona ermiş ve sistem tarafından pasif durumunda olan kuponların listelendiği sayfadır.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153445.png" alt=""><figcaption><p>Pasif </p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153500.png" alt=""><figcaption><p>Süresi Dolmuş</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri, kupon detayına giderek; kupon gösterge paneline erişebilir ve koşul/ ödüller, kupon kodları, genel ayarlar ve maliyet ayarları gibi alanları yönetebilir ve düzenleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153809 (1).png" alt=""><figcaption><p>Kupon Düzenleme Sayfası</p></figcaption></figure>
 
 \
 
