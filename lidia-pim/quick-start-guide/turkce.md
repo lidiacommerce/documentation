@@ -186,10 +186,10 @@ Yayınlanan havuzu kontrol etmek istediğinizde **katalog > ürünler** sekmesin
 Lidia PIM uygulaması yardımı ile ürün verisi ile beslenecek kanallar oluşturulabilmekte, bu kanallar için akışlar (feed) kurulabilmektedir. Akışların içereceği ürünlere dair filtreler eklenebilmekte, filtre sonucu dışa beslemesi yapılacak ürünlerin nasıl bir zarfla (hangi alanlar dahil / hariç) sunulacağı ayarlanabilmektedir.\
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Akışlar Ekranı</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Akışlar Ekranı</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Yeni Erişim Anahtarı Ekleme </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Yeni Erişim Anahtarı Ekleme </p></figcaption></figure>
 
 Yeni akış eklediğinizde bunu eklenen akışının ayrıntılarınan görüntüleyebilirisiniz.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>

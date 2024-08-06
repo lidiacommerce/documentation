@@ -107,13 +107,13 @@ Toplu ürün işlemlerinde mevcutta bulunan ürün ailelerini listeleyebilir ve 
 
 Toplu ürün işlemleri sayfasında bulunan "Yeni Ürün Ailesi Ekle"  butona tıklayarak, kategori seçtikten sonra devam diyerek yeni bir ürün ailesi eklenebilir.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ürün Ailesi Ekleme</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Ürün Ailesi Ekleme</p></figcaption></figure>
 
 #### Ürün Ekleme ve Değiştirme
 
 Satıcılar toplu ürün işlemleri sayfasında listelenen ürün aileleri satırında bulunan "Ürünleri Yönet" butonuna tıklayarak ilgili ürün ailesinde bulunan ürünleri görebilir, ürünleri dışa aktarılabilir ve yeni ürünler ekleyebilirler.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Ürünleri Yönetme </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Ürünleri Yönetme </p></figcaption></figure>
 
 _**Ürünleri yönetme sayfası; "Tümü", "Onaya Gönderilmeyen", "Onay Bekleyen", "Onaylananlar" ve "Yayındakiler" olmak üzere 5 bölümden oluşur.**_
 
@@ -121,11 +121,11 @@ _**Ürünleri yönetme sayfası; "Tümü", "Onaya Gönderilmeyen", "Onay Bekleye
 
 İçe aktarılan ürünler ilk olarak "Onaya Gönderilmeyen" bölümünde listelenir.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Onaya Gönderilmeyen Sayfası</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Onaya Gönderilmeyen Sayfası</p></figcaption></figure>
 
 Satıcı listelenen ürünlerden, onaya göndermek istediklerini seçebilir veya tümünü onaya gönderebilirler. Onaya gönderilen ürünler "Onay Bekleyen" sayfasında listelenir.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Onaya Gönderilen Ürünler</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Onaya Gönderilen Ürünler</p></figcaption></figure>
 
 Satıcılar onay bekleyen ürünler arasında, onaya görderilmesi istenmeyen ürünleri seçebilir ve "Seçili Ürünleri Onaydan Geri Çek" butonuna tıklayarak işlemi geri alabilirler. Onaya gönderme işlemi iptal edildiğinde, seçilmiş ürünler ilk aşama olan "Onaya Gönderilmeyen" sayfasına geri alınır.&#x20;
 

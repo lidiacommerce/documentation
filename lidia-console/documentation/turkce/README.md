@@ -1325,35 +1325,158 @@ Siparişler sayfası, müşterilerin verdiği siparişleri ve bu siparişlere ai
 Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre consolemlisteleme ekranlarında değişir;
 
 * Yeni sipariş geldiğinde ve merchant console’da “Bekliyor” durumunda olan siparişler Console’da, “İşleme Alındı” durumunda listelenir;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>İşleme Alındı</p></figcaption></figure>
+
 * Merhanct’ın onayladığı ve Merchant Console’da “Hazır” durumunda olan siparişler Console’da, “Hazırlandı” durumunda listelenir;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Hazırlandı </p></figcaption></figure>
+
 * Merhanct’ın kargoya verdiği ve Merchant Console’da “Teslimat Sürecinde” durumunda olan siparişler Console’da, yine “Hazırlandı” durumunda listelenir;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Teslimat Sürecinde  </p></figcaption></figure>
+
 * İade edilen siparişler Merchant Console’da “İade Edildi” durumunda olan siparişler Console’da, “İade Edildi” durumunda listelenir;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>İade Edildi</p></figcaption></figure>
+
 * İptal edilen siparişler Merchant Console’da “İptal Edildi” durumunda olan siparişler Console’da, “İptal Edildi” durumunda listelenir;
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>İptal Edildi</p></figcaption></figure>
+
 * Teslim edilen siparişler Merchant Console’da “Teslim Edildi” durumunda olan siparişler Console’da, “Teslim Edildi” durumunda listelenir;
 
-...statülerinde sipariş listeleme ekranlarında görüntülenir.
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Teslim Edildi</p></figcaption></figure>
+
+Console yöneticileri sipariş detayına giderek; "Sipariş Özeti", "Sipariş Hesap Dökümü", "Sipariş İçeriği", "Ödeme Bilgileri" ve "Müşteri Bilgilerini" görüntüleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 133244.png" alt=""><figcaption><p>Özet Bilgi ve Müşteri Bilgisi</p></figcaption></figure>
+
+Özet bilgide müşteri adı ve mail adresi ile birlikte; sipariş numarası, sipariş tarihi, tutarı ve sipariş durumu görüntülenir. Ayrıca sağ tarafta bulunan müşteri bilgisi paneli ile adres bilgileri ve ilgili müşterinin gerçekleştirmiş olduğu sipariş sayıları belirtilir.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 133927.png" alt=""><figcaption><p>Sipariş Hesap Dökümü</p></figcaption></figure>
+
+Sipariş hesap dökümü ile console yöneticileri, siparişe ait gelir ve maliyetleri görüntüleyebilir.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 134150.png" alt=""><figcaption><p>Sipariş İçeriği</p></figcaption></figure>
+
+Sipariş içeriği bölümünde siparişe ait ürün verileri ile birlikte console yöneticileri, sipariş hareketleri alanında işlem adımlarını ve tarihlerini görüntüleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 134417.png" alt=""><figcaption><p>Ödeme Bilgileri</p></figcaption></figure>
+
+Ödeme bilgileri bölümünde ödeme yöntemi, ödeme aracı ve ödeme tutarı gösterilir.
 
 ### Teslimat Yönetimi
 
 Teslimat Yönetimi menüsü, platformdaki teslimat süreçlerinin görüntülendiği bölümdür.
 
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 162446.png" alt=""><figcaption><p>Teslimat Yönetimi</p></figcaption></figure>
+
+Teslimatlar sayfasında console yöneticileri teslimatlara ait; ilgili sipariş id'si, alıcı adı soy adı, adres ve teslimat durumlarının bilgilerini listeleyebilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 163233.png" alt=""><figcaption><p>Teslimat Detayı</p></figcaption></figure>
+
+Console yöneticileri teslimat detayı sayfası ile teslimatlara ait bilgileri detaylıca görüntüleyebilirler. Ayrıca kargo takibi seçeneği ile ilgili teslimat sağlayıcısının kargo takip sayfasına giderek, kargo hareketlerini detaylıca inceleyebilirler.
+
+> Teslimat Durumları
+
+<div align="center">
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="301"><figcaption><p>Teslimat Durumları</p></figcaption></figure>
+
+</div>
+
+* Yeni sipariş geldiğinde teslimat, “Bekliyor” durumunda listelenir;
+* Merhanct’ın kargo oluşturduğu ve teslimat detayında "Kargo ve teslimat kodu oluşturuldu durumunda olan teslimatlar, “Teslimat Kodu Oluşturuldu” durumunda listelenir;
+* Hizmet sağlayıcıların kargoyu teslim aldıkları ve “Kargo Teslim Sürecinde” durumunda olan teslimatlar, “Teslimatta” durumunda listelenir;
+* Teslimat detayında “Alıcıya Teslim Edildi” durumunda olan teslimatlar, “Teslim Edildi” durumunda listelenir;
+
 ### Talepler
 
 Talepler sayfası, müşterilerden gelen “İptal” ya da “İade” taleplerinin görüntülendiği alandır.
 
-\
-\
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 165453.png" alt=""><figcaption><p>Talepler </p></figcaption></figure>
 
+Console yöneticileri platform müşterilerinin, teslimat ve siparişler için taleplerini listeleyebilirler aynı zamanda ilgili talep detaylarına giderek; sipariş bilgileri, talep bilgileri ve talebi onaylanan ürünler gibi bilgileri inceleyebilirler.
 
+> Talep Durumları
 
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Yeni</p></figcaption></figure>
 
+* Teslim edilen sipariş sonrası alıcı tarafından iade talebi oluştuğunda, “Yeni” durumunda iade talebi listelenir;
 
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Kabul Edildi</p></figcaption></figure>
 
+* "Yeni" durumundaki iade taleplerinin onaylanması sonucu ya da kargo teslimat sürecine girmeyen siparişler için alıcı tarafından yollanan iptal talepleri, "Kabul Edildi" durumunda listelenir.
 
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Reddedildi</p></figcaption></figure>
 
+* "Yeni" durumundaki iade taleplerinin satıcı tarafından reddedilmesi sonucu iade talepleri; "Reddedildi" durumunda listelenir.
 
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>İşleme alındı</p></figcaption></figure>
 
+* İade talebi onaylanan siparişlerin tekrar teslimat sürecine girmesi sonucu iade talepleri; "İşleme alındı" durumunda listelenir.
 
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Tamamlandı</p></figcaption></figure>
 
+* Alıcının satın alım yaptığı ara yüzde ilgili taleplerin sonuçlandığını belirtmesi durumunda ilgili talepler console'da; "Tamamlandı" durumunda listelenir.
 
+## Çözüm Merkezi
 
+### İletişim
+
+Çözüm Merkezi iletişim sayfası, müşteri taleplerinin yönetildiği alandır. Fatura talebi, iptal ve iade gibi talepleri bulunan müşterilerin ve bu müşterilere ait verilerin listelendiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 175058.png" alt=""><figcaption><p>İletişim Sayfası</p></figcaption></figure>
+
+## Sosyal Yetenekler
+
+### Kullanıcı Listeleri
+
+Kullanıcı Listeleri sayfası, platformdaki kullanıcıların listelendiği ve yönetildiği alandır.
+
+## Ödeme Yönetimi
+
+Ödeme Yönetimi menüsü, platformdaki ödeme işlemlerinin yönetildiği bölümdür. _**“Ödemeler” ve “Para İadeleri” olarak ikiye ana bölümden oluşur.**_
+
+### Ödemeler
+
+Ödemeler sayfası, müşterilerden gelen ödemelerin listelendiği ve ödeme detaylarının görüntülendiği alandır.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 180543.png" alt=""><figcaption><p>Ödemeler</p></figcaption></figure>
+
+### Para İadeleri
+
+Para İadeleri sayfası, müşterilerden gelen iade taleplerinin ve bu taleplerin durumlarının görüntülendiği alandır.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 180835.png" alt=""><figcaption><p>Para İadeleri</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 180953.png" alt=""><figcaption><p>Para İade Detayı</p></figcaption></figure>
+
+</div>
+
+Console yöneticileri iade talepleri için oluşturulan para iadelerini detayına giderek onaylama ve reddetme işlemlerini gerçekleştirebilirler.
+
+## Raporlar
+
+Raporlar menüsü, platformdaki çeşitli faaliyetlerin ve metriklerin raporlandığı ve bu raporların dışa aktarıldığı bölümdür.&#x20;
+
+_**Raporlar; “Satışlar”, “Operasyonlar”, “Maliyetler”,“Kullanıcılar”, “Talep Raporu”. “Üye İşyerleri”, “Ürünler, “Sepetler”, “Siparişler”, “Pazarlama” olarak 9 bölümden oluşur.**_
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 182942.png" alt=""><figcaption><p>Satış Raporu</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 183306.png" alt=""><figcaption><p>Operasyon Raporu</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 183444.png" alt=""><figcaption><p>Maliyet Raporu</p></figcaption></figure>
+
+</div>

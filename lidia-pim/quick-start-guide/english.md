@@ -38,7 +38,7 @@ First, when you enter https://pim.lidiacommerce.com/  the login screen welcomes 
 
 After logging in, you will be redirected to the homepage.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Home Screen </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Home Screen </p></figcaption></figure>
 
 &#x20;
 
