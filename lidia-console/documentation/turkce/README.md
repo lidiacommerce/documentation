@@ -9,19 +9,19 @@ description: >-
 Kullanıcı dokümantasyonu 14 ana başlıkta incelenecektir.
 
 1. [Ayarlar](./#ayarlar)
-2. Organizasyonlar
-3. Kullanıcı Yönetimi
-4. Katalog
-5. Envanter Yönetimi
-6. İçerik Yönetimi
-7. Medya Yönetimi
-8. Pazarlama Yönetimi
-9. Satış Yönetimi
-10. Çözüm Merkezi
-11. Sosyal Yetenekler
-12. Ödeme Yöntemi
+2. [Organizasyonlar](./#organizasyonlar)
+3. [Müşteri Yönetimi](./#musteri-yonetimi)
+4. [Katalog](./#katalog-1)
+5. [Envanter Yönetimi](./#envanter-yonetimi)
+6. [İçerik Yönetimi](./#icerik-yonetimi)
+7. [Medya Yönetimi](./#medya-yonetimi)
+8. [Pazarlama Yönetimi](./#pazarlama-yonetimi)
+9. [Satış Yönetimi](./#satis-yonetimi)
+10. [Çözüm Merkezi](./#cozum-merkezi)
+11. [Sosyal Yetenekler](./#sosyal-yetenekler)
+12. [Ödeme Yöntemi](./#odeme-yonetimi)
 13. Lojistik Yönetimi
-14. Raporlar
+14. [Raporlar](./#raporlar)
 
 
 
