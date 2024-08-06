@@ -1288,6 +1288,60 @@ Console yöneticileri, kupon detayına giderek; kupon gösterge paneline erişeb
 
 <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153809 (1).png" alt=""><figcaption><p>Kupon Düzenleme Sayfası</p></figcaption></figure>
 
+## Hedef Yönetimi
+
+Hedefler, mağaza satıcılarına yönelik hedeflerin görüntülenebildiği alandır.&#x20;
+
+<div align="center">
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 102711.png" alt=""><figcaption><p>Hedef Yönetimi</p></figcaption></figure>
+
+</div>
+
+Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listelenir.&#x20;
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 102813.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 102842.png" alt=""><figcaption><p>Hedef Alanı</p></figcaption></figure>
+
+</div>
+
+Listelenen hedeflerde satırda bulunan detay butonuna tıklayarak satıcılar, hedefe ait temel bilgileri ve hedef alanını ayrı olarak inceleyebilirler.
+
+## Satış Yönetimi&#x20;
+
+Satış Yönetimi menüsü, platformdaki satış süreçlerinin gözlemlendiği bölümdür. _**Satış Yönetimi; “Siparişler”, “Teslimat Yönetimi” ve “Talepler” olarak 3 ana bölümden oluşur.**_
+
+### Siparişler
+
+Siparişler sayfası, müşterilerin verdiği siparişleri ve bu siparişlere ait durumları görüntüleyebildiğimiz alandır. Console yöneticileri siparişlerin detaylarını görüntüleyerek ödeme kanalı ve miktarı gibi verilere ulaşabilirler.
+
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 103552.png" alt=""><figcaption><p>Sipariş Yönetimi</p></figcaption></figure>
+
+Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre consolemlisteleme ekranlarında değişir;
+
+* Yeni sipariş geldiğinde ve merchant console’da “Bekliyor” durumunda olan siparişler Console’da, “İşleme Alındı” durumunda listelenir;
+* Merhanct’ın onayladığı ve Merchant Console’da “Hazır” durumunda olan siparişler Console’da, “Hazırlandı” durumunda listelenir;
+* Merhanct’ın kargoya verdiği ve Merchant Console’da “Teslimat Sürecinde” durumunda olan siparişler Console’da, yine “Hazırlandı” durumunda listelenir;
+* İade edilen siparişler Merchant Console’da “İade Edildi” durumunda olan siparişler Console’da, “İade Edildi” durumunda listelenir;
+* İptal edilen siparişler Merchant Console’da “İptal Edildi” durumunda olan siparişler Console’da, “İptal Edildi” durumunda listelenir;
+* Teslim edilen siparişler Merchant Console’da “Teslim Edildi” durumunda olan siparişler Console’da, “Teslim Edildi” durumunda listelenir;
+
+...statülerinde sipariş listeleme ekranlarında görüntülenir.
+
+### Teslimat Yönetimi
+
+Teslimat Yönetimi menüsü, platformdaki teslimat süreçlerinin görüntülendiği bölümdür.
+
+### Talepler
+
+Talepler sayfası, müşterilerden gelen “İptal” ya da “İade” taleplerinin görüntülendiği alandır.
+
+\
 \
 
 
