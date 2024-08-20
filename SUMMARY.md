@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Why Lidia](why-lidia.md)
 * [Overview](overview.md)
 * [Methodology](methodology/README.md)
   * [Techie Store Inc.](methodology/techie-store-inc..md)
