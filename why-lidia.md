@@ -4,6 +4,28 @@ Lidia offers a powerful, comprehensive platform designed to meet the evolving ne
 
 ***
 
+<div>
+
+<figure><img src=".gitbook/assets/Lead the Digital Transformation.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/Lead the Digital Transformation2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src=".gitbook/assets/Lead the Digital Transformation3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/Lead the Digital Transformation4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+***
+
 **Faster and Easier Integrations**
 
 Lidia accelerates your business capabilities by offering seamless integration with your existing systems and third-party services. Our well-documented APIs make it easy to connect Lidia with your existing tools, reducing the time and effort needed to get up and running. Whether integrating with ERP systems, payment gateways, or logistics providers, Lidia ensures a smooth and efficient process, allowing your business to scale quickly.
@@ -40,4 +62,4 @@ With Lidia, you gain centralized control over your entire digital commerce ecosy
 
 ***
 
-Lidia is more than just a digital commerce platform—it’s a strategic partner that helps you drive growth, improve efficiency, and stay ahead in a competitive market. Choose Lidia to unlock your business’s full potential.
+Lidia is more than just a digital commerce platform—it’s a strategic partner that helps you drive growth, improve efficiency, and stay ahead in a competitive market. Lidia is an effective solution for businesses to unlock their full potential.
