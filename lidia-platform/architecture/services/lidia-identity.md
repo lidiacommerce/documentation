@@ -12,8 +12,8 @@ Before using Lidia Identity API, you have to log in to the Lidia Commerce Admini
 
 For more details about registration and creating your applications please click the link below:
 
-{% content-ref url="../on-boarding.md" %}
-[on-boarding.md](../on-boarding.md)
+{% content-ref url="../../onboarding.md" %}
+[onboarding.md](../../onboarding.md)
 {% endcontent-ref %}
 
 If you have a valid Lidia Identity subscription, you will the following options when you log in to the administration interface of Lidia Commerce Platform:
@@ -71,6 +71,6 @@ Lidia Identity helps you record user consents in a chronological way. We do not 
 
 If you have questions or you need help, please use the link below to reach possible communication channels.
 
-{% content-ref url="../support.md" %}
-[support.md](../support.md)
+{% content-ref url="../../../support.md" %}
+[support.md](../../../support.md)
 {% endcontent-ref %}
