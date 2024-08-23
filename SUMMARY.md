@@ -11,10 +11,9 @@
 ## SUITES
 
 * [Lidia B2C Suite](suites/lidia-b2c-suite/README.md)
+  * [Features](suites/lidia-b2c-suite/features.md)
+  * [Components](suites/lidia-b2c-suite/components.md)
   * [Quickstart](suites/lidia-b2c-suite/quickstart.md)
-  * [User Guide](suites/lidia-b2c-suite/user-guide/README.md)
-    * [English](suites/lidia-b2c-suite/user-guide/english.md)
-    * [Turkish](suites/lidia-b2c-suite/user-guide/turkish.md)
 * [Lidia B2B Suite](suites/lidia-b2b-suite.md)
 * [Lidia Marketplace Suite](suites/lidia-marketplace-suite.md)
 
@@ -27,7 +26,11 @@
 
 ## Components
 
-* [Lidia Console](components/lidia-console.md)
+* [Lidia Console](components/lidia-console/README.md)
+  * [About](components/lidia-console/about.md)
+  * [User Guide](components/lidia-console/user-guide/README.md)
+    * [English](components/lidia-console/user-guide/english.md)
+    * [Türkçe](components/lidia-console/user-guide/turkce.md)
 * [Lidia Merchant Console](components/lidia-merchant-console.md)
 * [Lidia Network Console](components/lidia-network-console.md)
 * [Lidia API](components/lidia-api.md)
@@ -75,6 +78,11 @@
 * [Documentation](lidia-pim/documentation/README.md)
   * [Türkçe Dokumantasyon](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)
+
+***
+
+* [Releases](releases.md)
+* [FAQ](faq.md)
 
 ## Archive
 
