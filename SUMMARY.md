@@ -2,10 +2,37 @@
 
 * [Welcome](README.md)
 * [Why Lidia](why-lidia.md)
-* [Overview](overview.md)
+* [Solutions Overview](solutions-overview.md)
+* [Onboarding](onboarding.md)
 * [Methodology](methodology/README.md)
   * [Techie Store Inc.](methodology/techie-store-inc..md)
 * [Support](support.md)
+
+## SUITES
+
+* [Lidia B2C Suite](suites/lidia-b2c-suite/README.md)
+  * [Quickstart](suites/lidia-b2c-suite/quickstart.md)
+  * [User Guide](suites/lidia-b2c-suite/user-guide/README.md)
+    * [English](suites/lidia-b2c-suite/user-guide/english.md)
+    * [Turkish](suites/lidia-b2c-suite/user-guide/turkish.md)
+* [Lidia B2B Suite](suites/lidia-b2b-suite.md)
+* [Lidia Marketplace Suite](suites/lidia-marketplace-suite.md)
+
+## Products
+
+* [Lidia Commerce Engine](products/lidia-commerce-engine.md)
+* [Lidia PIM](products/lidia-pim.md)
+* [Lidia Rating & Reviews](products/lidia-rating-and-reviews.md)
+* [Lidia Promotion Engine](products/lidia-promotion-engine.md)
+
+## Components
+
+* [Lidia Console](components/lidia-console.md)
+* [Lidia Merchant Console](components/lidia-merchant-console.md)
+* [Lidia Network Console](components/lidia-network-console.md)
+* [Lidia API](components/lidia-api.md)
+* [Lidia Worker](components/lidia-worker.md)
+* [Lidia Static](components/lidia-static.md)
 
 ## Lidia Console
 
@@ -49,26 +76,25 @@
   * [Türkçe Dokumantasyon](lidia-pim/documentation/turkce.md)
   * [English](lidia-pim/documentation/english.md)
 
-## Lidia Platform
+## Archive
 
-* [On-boarding](lidia-platform/onboarding.md)
-* [Architecture](lidia-platform/architecture/README.md)
-  * [Services](lidia-platform/architecture/services/README.md)
-    * [Lidia Identity](lidia-platform/architecture/services/lidia-identity.md)
-    * [Lidia Metadata](lidia-platform/architecture/services/lidia-metadata.md)
-    * [Lidia Inventory](lidia-platform/architecture/services/lidia-inventory.md)
-    * [Lidia Content](lidia-platform/architecture/services/lidia-content.md)
-    * [Lidia Order](lidia-platform/architecture/services/lidia-order.md)
-    * [Lidia Marketing](lidia-platform/architecture/services/lidia-marketing.md)
-    * [Lidia Organization](lidia-platform/architecture/services/lidia-organization.md)
-    * [Lidia Subscription](lidia-platform/architecture/services/lidia-subscription.md)
-    * [Lidia Case](lidia-platform/architecture/services/lidia-case.md)
-    * [Lidia Search](lidia-platform/architecture/services/lidia-search.md)
-    * [Lidia Social](lidia-platform/architecture/services/lidia-social.md)
-    * [Lidia Procurement](lidia-platform/architecture/services/lidia-procurement.md)
-    * [Lidia Analytics](lidia-platform/architecture/services/lidia-analytics.md)
-    * [Lidia Commander](lidia-platform/architecture/services/lidia-commander.md)
-    * [Lidia Delivery](lidia-platform/architecture/services/lidia-delivery.md)
-    * [Lidia Notification](lidia-platform/architecture/services/lidia-notification.md)
-    * [Lidia Collector](lidia-platform/architecture/services/lidia-collector.md)
-    * [Lidia Document](lidia-platform/architecture/services/lidia-document.md)
+* [Architecture](archive/architecture/README.md)
+  * [Services](archive/architecture/services/README.md)
+    * [Lidia Identity](archive/architecture/services/lidia-identity.md)
+    * [Lidia Metadata](archive/architecture/services/lidia-metadata.md)
+    * [Lidia Inventory](archive/architecture/services/lidia-inventory.md)
+    * [Lidia Content](archive/architecture/services/lidia-content.md)
+    * [Lidia Order](archive/architecture/services/lidia-order.md)
+    * [Lidia Marketing](archive/architecture/services/lidia-marketing.md)
+    * [Lidia Organization](archive/architecture/services/lidia-organization.md)
+    * [Lidia Subscription](archive/architecture/services/lidia-subscription.md)
+    * [Lidia Case](archive/architecture/services/lidia-case.md)
+    * [Lidia Search](archive/architecture/services/lidia-search.md)
+    * [Lidia Social](archive/architecture/services/lidia-social.md)
+    * [Lidia Procurement](archive/architecture/services/lidia-procurement.md)
+    * [Lidia Analytics](archive/architecture/services/lidia-analytics.md)
+    * [Lidia Commander](archive/architecture/services/lidia-commander.md)
+    * [Lidia Delivery](archive/architecture/services/lidia-delivery.md)
+    * [Lidia Notification](archive/architecture/services/lidia-notification.md)
+    * [Lidia Collector](archive/architecture/services/lidia-collector.md)
+    * [Lidia Document](archive/architecture/services/lidia-document.md)

@@ -1,0 +1,2 @@
+# Lidia Static
+
