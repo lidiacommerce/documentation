@@ -71,6 +71,6 @@ Lidia Identity helps you record user consents in a chronological way. We do not 
 
 If you have questions or you need help, please use the link below to reach possible communication channels.
 
-{% content-ref url="../../../support.md" %}
-[support.md](../../../support.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

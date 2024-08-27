@@ -6,7 +6,6 @@
 * [Onboarding](onboarding.md)
 * [Methodology](methodology/README.md)
   * [Techie Store Inc.](methodology/techie-store-inc..md)
-* [Support](support.md)
 
 ## SUITES
 
@@ -81,16 +80,17 @@
 
 ***
 
-* [Releases](releases/README.md)
-  * [August](releases/august.md)
-  * [July](releases/july.md)
-  * [June](releases/june.md)
-  * [May](releases/may.md)
-  * [March](releases/march.md)
-  * [April](releases/april.md)
-  * [February](releases/february.md)
-  * [January](releases/january.md)
-* [FAQ](faq.md)
+* [Support](support/README.md)
+  * [Releases](support/releases/README.md)
+    * [August](support/releases/august.md)
+    * [July](support/releases/july.md)
+    * [June](support/releases/june.md)
+    * [May](support/releases/may.md)
+    * [March](support/releases/march.md)
+    * [April](support/releases/april.md)
+    * [February](support/releases/february.md)
+    * [January](support/releases/january.md)
+  * [FAQ](support/faq.md)
 
 ## Archive
 

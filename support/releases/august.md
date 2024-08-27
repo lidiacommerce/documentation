@@ -2,7 +2,7 @@
 
 💡_**Our August Updates: What's New and Improved**_
 
-<figure><img src="../.gitbook/assets/Adsız tasarım.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adsız tasarım.png" alt=""><figcaption></figcaption></figure>
 
 Lidia Console ve Merchant Console got packed with new features and improvements to enhance your feedback and collaboration experience.
 
