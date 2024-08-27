@@ -378,7 +378,7 @@ Merchant kendisi gönderim sağlayacağı için, sistem üzerinden tanımlayaca�
 
 
 
-<img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.11.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.30.png" alt="" data-size="original"><img src="../../../.gitbook/assets/1.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.11.png" alt="" data-size="original"><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.30.png" alt="" data-size="original"><img src="../../../.gitbook/assets/1 (2).png" alt="" data-size="original">
 
 
 

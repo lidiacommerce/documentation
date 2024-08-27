@@ -25,7 +25,8 @@
 
 ## Products
 
-* [Lidia Commerce Engine](products/lidia-commerce-engine.md)
+* [Lidia Commerce Engine](products/lidia-commerce-engine/README.md)
+  * [Features](products/lidia-commerce-engine/features.md)
 * [Lidia PIM](products/lidia-pim/README.md)
   * [User Guide](products/lidia-pim/user-guide/README.md)
     * [English](products/lidia-pim/user-guide/english.md)

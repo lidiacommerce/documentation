@@ -1,2 +1,0 @@
-# Lidia Commerce Engine
-

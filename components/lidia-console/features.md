@@ -10,7 +10,7 @@ With the Lidia Console, which has an easy menu, you can manage the system, catal
 
 When you log in to the Lidia console with the e-mail and password you received with the service you receive, the main page welcomes you. You can create a web application, mobile application or desktop application depending on your preference with the add new application button on the home page.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Create New Application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption><p>Create New Application</p></figcaption></figure>
 
 2. **Design Your Data Universe**
 
