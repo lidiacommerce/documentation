@@ -1,16 +1,12 @@
 # Lidia PIM
 
-Lidia PIM, the member of the Lidia product family responsible for digital product data management the current version, v1.0, at the time of its inception was released, taking into account the following points designed and continues to develop:
+Lidia PIM (Product Information Management)  is a centralized platform designed to simplify the management of product data and digital assets across various digital channels. It addresses the challenges businesses face in maintaining accurate and consistent product information, ensuring that all customer touchpoints are aligned with the latest data.
 
-* Application architecture in line with one of the main trends in the world of web-based software micro-service based architecture
-* In a data center located within the country borders for customers currently located in Turkey cloud-based hosting
-* Rental license fee, software as a service (SaaS) usage
+#### Product History
 
-### About the history of the product
+With the rise of the Internet in the 2000s, businesses began to use the web as an active sales and marketing channel, which highlighted the need for enriched product data. While ERP systems initially managed product data, the increasing demand for high-resolution images, product videos, and detailed descriptions for online sales surpassed the capabilities of these traditional systems. This need led to the development of specialized PIM systems, and Lidia PIM emerged as a solution to these challenges.
 
-With the widespread use of the Internet in the 2000s and the positioning of the Internet as an active sales and marketing channel by organizations, there has been a need to enrich product data for external use. Although this need has been met for a long time with ERP systems where product data is already managed, with the increasing use of broadband Internet and the increasing tendency of consumers to buy products without touching them, it has become inevitable to use high-resolution images, product videos and detailed narrative texts to promote a product correctly in the digital environment. This need is beyond the basic design and scope of ERP systems. Lidia PIM, which is in the "PIM (Product Information Management)" category that emerged in line with modern digital product data management needs, started to be developed by T\&G Workshop in 2021 and started to be used with alpha version in mid-2022.
-
-Current status; Lidia PIM v1.0 supports the following core processes Easy product data import into the application (Product onboarding)
+Development of Lidia PIM began in 2021 by T\&G Workshop, with its first alpha version released in mid-2022. The system was designed to address the modern needs of digital product data management, moving beyond the limitations of ERP systems by offering tools for product data enrichment, media management, and seamless data distribution across digital channels.
 
 Product data can be imported into the Lidia PIM application by integration using the Lidia PIM API or by using Excel files.
 
@@ -37,3 +33,4 @@ Within the Lidia PIM application, it is possible to manage product data accordin
 * Data locks Ability to transfer product data to external stakeholders without the need for technical support (Product publication)&#x20;
 
 With the help of Lidia PIM application, channels to be fed with product data can be created and feeds can be set up for these channels. Filters can be added for the products to be included in the feeds, and the envelope (including/excluding which fields) of the products to be exported as a result of the filter can be set.
+
