@@ -114,4 +114,5 @@
     * [Lidia Notification](archive/architecture/services/lidia-notification.md)
     * [Lidia Collector](archive/architecture/services/lidia-collector.md)
     * [Lidia Document](archive/architecture/services/lidia-document.md)
+* [Quick Start Guide(PIM)](archive/quick-start-guide-pim.md)
 * [Lidia About(OLD)](archive/lidia-about-old.md)
