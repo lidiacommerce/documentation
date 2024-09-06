@@ -60,11 +60,4 @@ Lidia Commerce Platform includes a **digital commerce engine** developed with a 
 [lidia-static.md](components/lidia-static.md)
 {% endcontent-ref %}
 
-```markup
-<h1 style="text-align: center;">More details about the platform</h1>
-
-```
-
-## &#x20; &#x20;
-
-&#x20;                                  More details about the platform
+## [More details about the platform](https://www.lidiacommerce.com/)
