@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Why Lidia](why-lidia.md)
-* [Lidia Solutions](lidia-solutions.md)
+* [Lidia Solutions](solutions-overview.md)
 * [Onboarding](onboarding.md)
 
 ## SUITES
