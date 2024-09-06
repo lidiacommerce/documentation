@@ -2,10 +2,8 @@
 
 * [Welcome](README.md)
 * [Why Lidia](why-lidia.md)
-* [Solutions Overview](solutions-overview.md)
+* [Lidia Solutions](lidia-solutions.md)
 * [Onboarding](onboarding.md)
-* [Methodology](methodology/README.md)
-  * [Techie Store Inc.](methodology/techie-store-inc..md)
 
 ## SUITES
 

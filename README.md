@@ -8,19 +8,19 @@ description: Welcome to Lidia Commerce Platform documentation.
 
 **Lidia** is a powerful headless digital commerce product suite for creators who are building modern applications. It is a set of stable micro-service API’s which can be used as BaaS, can be hosted on-premises or on the cloud and management apps on top
 
-**Introduction to Lidia**
+## **Introduction to Lidia**
 
 * **Overview**: Lidia provides cutting-edge digital commerce solutions tailored for a wide range of industries. Whether you are launching a marketplace, enhancing your B2B or B2C operations, or managing complex product information, Lidia offers a flexible, scalable, and efficient platform.
 
-**Our Mission**
+### **Our Mission**
 
 * **Empowering Digital Commerce**: At Lidia, our mission is to empower businesses with the tools needed to excel in today’s digital-first world. We focus on helping you grow through innovative, scalable solutions that integrate seamlessly into your operations.
 
-**Who We Serve**
+### **Who We Serve**
 
 * Lidia serves diverse industries, from manufacturing and retail to financial services and beyond. Our solutions are trusted by leading brands such as Kaleseramik, İhlas Pazarlama, and Bilkom, helping them achieve digital transformation through robust platforms.
 
-**How to Use This Documentation**
+## **How to Use This Documentation**
 
 * **Getting Started**: This documentation is structured to help you navigate Lidia’s platform efficiently. Whether you're a developer, business user, or technical administrator, you can find the relevant sections linked below:
 

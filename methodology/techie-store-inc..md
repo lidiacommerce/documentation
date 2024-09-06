@@ -1,2 +1,0 @@
-# Techie Store Inc.
-
