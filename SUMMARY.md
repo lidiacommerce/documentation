@@ -39,8 +39,13 @@
 ## Components
 
 * [Lidia Console](components/lidia-console/README.md)
-  * [About](components/lidia-console/about.md)
-  * [Features](components/lidia-console/features.md)
+  * [Features](components/lidia-console/features/README.md)
+    * [User Roles & Permissions](components/lidia-console/features/user-roles-and-permissions.md)
+    * [Order Management](components/lidia-console/features/order-management.md)
+    * [Inventory Management](components/lidia-console/features/inventory-management.md)
+    * [Customer Management](components/lidia-console/features/customer-management.md)
+    * [Promotions and Discounts](components/lidia-console/features/promotions-and-discounts.md)
+    * [Analytics & Reporting](components/lidia-console/features/analytics-and-reporting.md)
   * [Lidia Console User Guide](components/lidia-console/user-guide/README.md)
     * [English](components/lidia-console/user-guide/english.md)
     * [Türkçe](components/lidia-console/user-guide/turkce.md)

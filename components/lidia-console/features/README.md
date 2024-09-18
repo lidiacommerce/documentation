@@ -10,7 +10,7 @@ With the Lidia Console, which has an easy menu, you can manage the system, catal
 
 When you log in to the Lidia console with the e-mail and password you received with the service you receive, the main page welcomes you. You can create a web application, mobile application or desktop application depending on your preference with the add new application button on the home page.
 
-<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption><p>Create New Application</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption><p>Create New Application</p></figcaption></figure>
 
 2. **Design Your Data Universe**
 
@@ -28,7 +28,7 @@ When you log in to the Lidia console with the e-mail and password you received w
 * Pages
 * Lists
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption><p>Home Page Screen of Lidia Console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/11.png" alt=""><figcaption><p>Home Page Screen of Lidia Console</p></figcaption></figure>
 
 3. **Upload Products and Their Images**
 
@@ -37,6 +37,6 @@ When you log in to the Lidia console with the e-mail and password you received w
 
 4. **Use the Application Development Interface (API)**
 
-* Developer Documentation ([https://dev.lidiacommerce.com](../../solutions-overview.md))
+* Developer Documentation ([https://dev.lidiacommerce.com](../../../solutions-overview.md))
 * Code Sample
 * API Key
