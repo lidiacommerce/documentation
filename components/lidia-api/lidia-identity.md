@@ -6,15 +6,9 @@ description: Lidia Identity manages roles, users, authentication and consents
 
 Lidia Identity is an API-first product exposing functions to manage roles, users and consents. Details about these concepts you can find below.
 
-In order to use Lidia Identity related features you should create a new account on [Lidia Commerce Platform website](https://www.lidiacommerce.com) and start a subscription or trial for the platform. After a successful registration you will get an e-mail confirming your login credentials for [Lidia Console](https://console.lidiacommerce.com).
-
 Before using Lidia Identity API, you have to log in to the Lidia Commerce Administration Interface with your credentials, **create your application** and get your **ClientId** and **AppKey**.
 
 For more details about registration and creating your applications please click the link below:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 If you have a valid Lidia Identity subscription, you will the following options when you log in to the administration interface of Lidia Commerce Platform:
 
