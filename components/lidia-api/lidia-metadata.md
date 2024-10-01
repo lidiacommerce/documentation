@@ -6,9 +6,13 @@ description: >-
 
 # Lidia Metadata
 
-**Lidia Metadata** is an API-first product that exposes functions to manage and structure metadata for your digital commerce platform. Metadata helps organize information related to products, categories, and other core elements of your business. Details about these concepts are provided below.
+## **Overview**
 
+[**Lidia Metadata**](https://dev.lidiacommerce.com/#68a8a237-fcdd-4c5e-b6fd-223265f49f77) is an API-first product that exposes functions to manage and structure metadata for your digital commerce platform. Metadata helps organize information related to products, categories, and other core elements of your business. Details about these concepts are provided below.
+
+{% hint style="info" %}
 For more details about registration and creating your applications, please click the [link](https://dev.lidiacommerce.com/#68a8a237-fcdd-4c5e-b6fd-223265f49f77).
+{% endhint %}
 
 Here is a quick example of using **Lidia Metadata**:
 

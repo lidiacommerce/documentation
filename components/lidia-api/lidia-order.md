@@ -4,16 +4,20 @@ description: Manages cart, orders, deliveries and claims (cancellation, return).
 
 # Lidia Order
 
-**Lidia Order** manages orders across your commerce platform, handling everything from creation to fulfillment. It ensures that customer orders are processed efficiently and accurately, providing a smooth purchasing experience. Details about these concepts are provided below.
+## Overview
 
-## Quick Example:
+[**Lidia Order**](https://dev.lidiacommerce.com/#79ba0e4b-5257-47eb-9f06-24ee52efbdfd) manages orders across your commerce platform, handling everything from creation to fulfillment. It ensures that customer orders are processed efficiently and accurately, providing a smooth purchasing experience. Details about these concepts are provided below.
+
+{% hint style="info" %}
+You can find a sample implementation of the scenario below here.
+{% endhint %}
+
+## Quick Example
 
 * You create an order structure within the **Lidia Commerce Platform Administration Interface**.
 * You define order stages like "Pending," "Processing," and "Shipped."
-* You use the **Lidia Order API** to create and update orders based on customer actions and inventory availability.
+* You use the [**Lidia Order**](https://dev.lidiacommerce.com/#79ba0e4b-5257-47eb-9f06-24ee52efbdfd) **API** to create and update orders based on customer actions and inventory availability.
 * As customers place orders, the **Lidia Order Service** ensures that the order is processed and tracked through each stage until fulfillment.
-
-You can find a sample implementation of the scenario above here.
 
 ## Concepts
 

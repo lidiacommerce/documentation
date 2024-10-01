@@ -2,41 +2,17 @@
 
 The feature guides provide in-depth information about the features, including their practical uses, advantages for businesses, and real-world applications.
 
+{% hint style="warning" %}
 This information can be valuable for individuals such as **business owners**, **product owners**, or **developers**.
+{% endhint %}
 
-With the Lidia Console, which has an easy menu, you can manage the system, catalogs, contents and many other elements related to your site. Here are a few steps to help you do this:&#x20;
+Lidia Console is an essential component of the Lidia digital commerce suites, designed to provide a comprehensive management interface for administrators. Here are its key features:
 
-1. **Create your app on Lidia**&#x20;
+1. [**User Roles and Permissions**:](user-roles-and-permissions.md) Lidia Console supports defining various user roles and permissions, allowing different levels of access for team members, ensuring secure and structured management of operations​.
+2. [**Order Management**](order-management.md): It offers robust **order management** tools, enabling businesses to track orders, process returns, and manage order fulfillment efficiently​​.
+3. [**Inventory Management**](../../lidia-merchant-console/features/customer-management.md): Lidia Console includes **inventory management** capabilities, allowing administrators and merchants to track stock levels and manage inventory in real time​​.
+4. [**Customer Management**](customer-management.md): Lidia Console features a **customer management** system, which helps businesses handle customer data, track order history, and manage after-sales services​​.
+5. [**Promotions and Discounts**](promotions-and-discounts.md): It also includes tools to manage **promotions and discounts**, enabling businesses to create and track various promotional offers​.
+6. [**Analytics & Reporting**](analytics-and-reporting.md): Lidia Console provides comprehensive **analytics and reporting** features, giving businesses insights into sales performance, customer behavior, and operational efficiency​.
 
-When you log in to the Lidia console with the e-mail and password you received with the service you receive, the main page welcomes you. You can create a web application, mobile application or desktop application depending on your preference with the add new application button on the home page.
-
-<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption><p>Create New Application</p></figcaption></figure>
-
-2. **Design Your Data Universe**
-
-* Meta Data
-* Options
-* Features
-* Tags
-* Categories
-* Brands
-* Product Families
-* Manage Other Contents
-* Menus
-* Showcases
-* Blocks
-* Pages
-* Lists
-
-<figure><img src="../../../.gitbook/assets/11.png" alt=""><figcaption><p>Home Page Screen of Lidia Console</p></figcaption></figure>
-
-3. **Upload Products and Their Images**
-
-* Pool
-* Live
-
-4. **Use the Application Development Interface (API)**
-
-* Developer Documentation ([https://dev.lidiacommerce.com](../../../solutions-overview.md))
-* Code Sample
-* API Key
+These features make Lidia Console a vital tool for running efficient, scalable digital commerce operations across various business models like B2B, B2C, and marketplace environments.

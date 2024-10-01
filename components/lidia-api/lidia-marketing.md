@@ -6,7 +6,11 @@ description: Manages promotions and coupons with a smart condition-award engine.
 
 ## Overview
 
-**Lidia Marketing** is one of the key microservices in the Lidia Commerce Engine that enhances a business's ability to engage customers effectively through targeted promotional strategies and personalized marketing campaigns. It empowers users with robust tools for creating promotions, discounts, and special offers, while leveraging customer data for segmentation and precision marketing.
+[**Lidia Marketing**](https://dev.lidiacommerce.com/#9e703fe1-7883-437e-9abb-73cb8b99ee0c) is one of the key microservices in the Lidia Commerce Engine that enhances a business's ability to engage customers effectively through targeted promotional strategies and personalized marketing campaigns. It empowers users with robust tools for creating promotions, discounts, and special offers, while leveraging customer data for segmentation and precision marketing.
+
+{% hint style="info" %}
+For more details about registration and creating your applications, please click the [link](https://dev.lidiacommerce.com/#9e703fe1-7883-437e-9abb-73cb8b99ee0c).
+{% endhint %}
 
 ## Key Concepts
 
@@ -19,4 +23,4 @@ description: Manages promotions and coupons with a smart condition-award engine.
 
 Suppose a retail business using Lidia wants to increase sales during the holiday season. They could segment their customers based on previous holiday purchases and use Lidia Marketing to set up targeted promotions. For instance, they might offer a 20% discount on home decor to customers who bought furniture last year. Automated emails would be sent to these customers with personalized offers, and the business could monitor the promotion's success via Lidia’s analytics tools.
 
-In summary, **Lidia Marketin**g provides businesses with powerful tools to engage customers through personalized, data-driven marketing initiatives. It simplifies campaign management while ensuring a strategic approach to driving sales and customer retention.
+In summary, **Lidia Marketing** provides businesses with powerful tools to engage customers through personalized, data-driven marketing initiatives. It simplifies campaign management while ensuring a strategic approach to driving sales and customer retention.
