@@ -95,6 +95,8 @@
 
 * [Support](support/README.md)
   * [Releases](support/releases/README.md)
+    * [Page](support/releases/page.md)
+    * [September](support/releases/september.md)
     * [August](support/releases/august.md)
     * [July](support/releases/july.md)
     * [June](support/releases/june.md)
