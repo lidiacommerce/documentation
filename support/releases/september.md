@@ -2,18 +2,18 @@
 
 ####
 
-💡 **Our September Updates: What's New and Improved**
+### 💡 **Our September Updates: What's New and Improved**
 
-Lidia Console has been enhanced with several new features and improvements to optimize your management experience and streamline operations.
+Lidia Console has been enhanced with several new features and improvements to optimize your management experience and streamline operations.&#x20;
 
 ***
 
-## 🚀 **Bug Fixes and Functional Improvements**
+### 🚀 **Bug Fixes and Functional Improvements**
 
 * **Improved Validation for Custom Lists**: Validation screens for custom lists have been enhanced, ensuring more accurate data entry and management.
-* **Functional Issues in Seller Application Process Resolved**: Errors encountered during the seller application process have been addressed to ensure a smoother experience.
-* **Duplicate Menu Titles and Page Redirections Fixed**: We have fixed the issues where duplicate menu titles and incorrect page redirects were causing confusion.
-* **Category Tree Cleanup**: Deleted categories no longer appear in the upper category tree, improving clarity and organization.
+* **Functional Issues in Seller Application Process Resolved**: Errors encountered during the seller application process have been addressed to ensure a smoother experience. &#x20;
+* **Duplicate Menu Titles and Page Redirections Fixed**: We have fixed the issues where duplicate menu titles and incorrect page redirects were causing confusion. &#x20;
+* **Category Tree Cleanup**: Deleted categories no longer appear in the upper category tree, improving clarity and organization. &#x20;
 
 ***
 
@@ -108,15 +108,15 @@ Lidia Console has been enhanced with several new features and improvements to op
 
 ### **📧 Mail Notification Improvements**
 
-* **Subject Line Adjustments:** Password reset emails and guest account invitation emails now feature updated subject lines.
+* **Subject Line Adjustments:** Password reset emails and guest account invitation emails now feature updated subject lines. _(<mark style="color:blue;">LP-092403-01)</mark>_
 
 ### **🔎 Guest Account Search Results Enhancements**
 
-* **Improved User Experience:** Missing redirects and notifications on guest account search results pages have been fixed to enhance the user experience.
+* **Improved User Experience:** Missing redirects and notifications on guest account search results pages have been fixed to enhance the user experience. _(<mark style="color:blue;">LP-092403-02)</mark>_
 
 ### **🗂 Category Filtering Enhancements**
 
-* **Filter Improvement:** Categories without products will no longer appear in filters, improving clarity and user experience.
+* **Filter Improvement:** Categories without products will no longer appear in filters, improving clarity and user experience. _(<mark style="color:blue;">LP-092403-03)</mark>_
 
 ### **💡 Integration Status Reporting Enhancements**
 
