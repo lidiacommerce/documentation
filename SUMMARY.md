@@ -91,24 +91,17 @@
 * [Lidia Worker](components/lidia-worker.md)
 * [Lidia Static](components/lidia-static.md)
 
-***
+## Help Center
 
-* [Support](support/README.md)
-  * [Releases](support/releases/README.md)
-    * [Page](support/releases/page.md)
-    * [September](support/releases/september.md)
-    * [August](support/releases/august.md)
-    * [July](support/releases/july.md)
-    * [June](support/releases/june.md)
-    * [May](support/releases/may.md)
-    * [March](support/releases/march.md)
-    * [April](support/releases/april.md)
-    * [February](support/releases/february.md)
-    * [January](support/releases/january.md)
-  * [FAQ](support/faq.md)
-
-## Archive
-
-* [Architecture](archive/architecture.md)
-* [Quick Start Guide(PIM)](archive/quick-start-guide-pim.md)
-* [Lidia About(OLD)](archive/lidia-about-old.md)
+* [Support](help-center/support.md)
+* [FAQ](help-center/faq.md)
+* [Releases](help-center/releases/README.md)
+  * [September](help-center/releases/september.md)
+  * [August](help-center/releases/august.md)
+  * [July](help-center/releases/july.md)
+  * [June](help-center/releases/june.md)
+  * [May](help-center/releases/may.md)
+  * [March](help-center/releases/march.md)
+  * [April](help-center/releases/april.md)
+  * [February](help-center/releases/february.md)
+  * [January](help-center/releases/january.md)
