@@ -1,10 +1,16 @@
+---
+description: >-
+  Discover the latest updates and improvements introduced this month, enhancing
+  the functionality and user experience across the Lidia platform.
+cover: ../../.gitbook/assets/Adsız tasarım (2).png
+coverY: 0
+---
+
 # August
 
-💡_**Our August Updates: What's New and Improved**_
+## 💡_**Our August Updates: What's New and Improved**_
 
-<figure><img src="../../.gitbook/assets/Adsız tasarım.png" alt=""><figcaption></figcaption></figure>
-
-Lidia Console ve Merchant Console got packed with new features and improvements to enhance your feedback and collaboration experience.
+Lidia Console and Merchant Console got packed with new features and improvements to enhance your feedback and collaboration experience.
 
 ### 🚚 Order Cancellation for Admins
 

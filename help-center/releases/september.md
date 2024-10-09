@@ -2,6 +2,8 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
+cover: ../../.gitbook/assets/September.png
+coverY: 0
 ---
 
 # September
