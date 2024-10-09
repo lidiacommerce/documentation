@@ -35,7 +35,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 🎫 **Campaign\&Coupon Enhancements**
 
-* **Partial Cart Discount Now Fully Functional**: Previously, the discount functionality for "a portion of the cart" was not active on campaign reward pages. With this update, discounts can now be applied based on values entered in the campaign reward settings, making partial cart discounts fully operational.(_<mark style="color:blue;">LC-092402-01</mark>_)
+* <mark style="color:blue;">LC-092402-01-</mark> **Partial Cart Discount Now Fully Functional**: Previously, the discount functionality for "a portion of the cart" was not active on campaign reward pages. With this update, discounts can now be applied based on values entered in the campaign reward settings, making partial cart discounts fully operational.
 * <mark style="color:blue;">LC-092402-04</mark>-**Seller-Specific Coupon Conditions**: A "seller" option has been added to coupon creation, enabling coupons to be conditioned specifically for certain sellers.
 
 ***
@@ -107,7 +107,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ### &#x20;🔍**Filtering\&Reporting Enhancements**
 
-* <mark style="color:blue;">LP-092402-01-</mark>**Filter Improvement:** Categories without products will no longer appear in filters, improving clarity and user experience. _(<mark style="color:blue;">LP-092403-03)</mark>_
+* <mark style="color:blue;">LP-092402-01-</mark>**Filter Improvement:** Categories without products will no longer appear in filters, improving clarity and user experience.&#x20;
 * <mark style="color:blue;">LP-092402-02-</mark>**Improved Reporting:** Summary reports for users integrating with PIM have updated column names and more detailed error explanations, allowing for better issue resolution.
 
 ***
