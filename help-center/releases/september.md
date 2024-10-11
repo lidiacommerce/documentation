@@ -50,7 +50,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-### 🚚 **Delivery Address Change**
+### 🚚 **Delivery Management Enhancements**
 
 * <mark style="color:blue;">LC-092403-03-</mark>**Address Update Feature**: Console administrators can now change the delivery address for orders that haven't been shipped. Both the new and old addresses can be tracked after the update. Additionally, users on the front end will also be able to update their delivery address with this new feature.
 * <mark style="color:blue;">LMC-092403-01-</mark>**Delivery Address Change Notifications:** Both administrators and buyers can update delivery addresses. After changes, the new and old addresses will be communicated to the seller.
