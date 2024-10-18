@@ -44,12 +44,12 @@ Lidia Commerce Platform includes a **digital commerce engine** developed with a 
 [lidia-merchant-console](components/lidia-merchant-console/)
 {% endcontent-ref %}
 
-{% content-ref url="components/lidia-network-console/" %}
-[lidia-network-console](components/lidia-network-console/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/lidia-api/" %}
-[lidia-api](components/lidia-api/)
+{% content-ref url="products/lidia-commerce-engine/api-documantation/" %}
+[api-documantation](products/lidia-commerce-engine/api-documantation/)
 {% endcontent-ref %}
 
 {% content-ref url="components/lidia-worker.md" %}

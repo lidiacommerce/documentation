@@ -1,2 +1,0 @@
-# Network Console User Guide
-

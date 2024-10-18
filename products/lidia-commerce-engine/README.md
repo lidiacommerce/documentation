@@ -84,4 +84,10 @@ The Lidia Commerce Engine offers flexible deployment options, allowing it to be 
 3. **Platform Flexibility**:
    * Whether in the cloud or on-premises, Lidia Commerce Engine can run on **Kubernetes** or **Virtual Machines (VMs)**. This ensures that businesses can tailor the infrastructure based on their needs, whether they seek containerized environments for faster scaling or VM-based setups for stability and legacy system compatibility.
 
-This flexibility in deployment allows Lidia Commerce Engine to adapt to various business environments, providing options for organizations with diverse infrastructure needs​​​.\
+This flexibility in deployment allows Lidia Commerce Engine to adapt to various business environments, providing options for organizations with diverse infrastructure needs​​​.
+
+
+
+
+
+\

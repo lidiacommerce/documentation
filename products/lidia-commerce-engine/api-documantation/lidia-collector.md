@@ -6,7 +6,7 @@ description: >-
 
 # Lidia Collector
 
-[**Lidia Collector**](https://dev.lidiacommerce.com/#a8a612e2-9be0-44ff-89fe-f71332027db5) is one of the 18 microservices in the [**Lidia Commerce Engine**](../../products/lidia-commerce-engine/) that plays a vital role in **data collection and aggregation**. Here's an overview of its key concepts:
+[**Lidia Collector**](https://dev.lidiacommerce.com/#a8a612e2-9be0-44ff-89fe-f71332027db5) is one of the 18 microservices in the [**Lidia Commerce Engine**](../) that plays a vital role in **data collection and aggregation**. Here's an overview of its key concepts:
 
 1. **Data Aggregation**: Lidia Collector gathers and consolidates data from various sources across the platform. This data includes user interactions, transactions, product information, inventory updates, and more. It serves as a centralized service to streamline the flow of information across different systems.
 2. **Reporting and Analytics**: The data collected by Lidia Collector can be used for **advanced reporting** and **analytics**. This service is essential for businesses to derive insights into customer behavior, sales performance, inventory levels, and operational efficiency. The aggregated data helps businesses make **data-driven decisions**.
