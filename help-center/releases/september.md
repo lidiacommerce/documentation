@@ -32,6 +32,7 @@ These codes help you track the specific areas of improvement across the platform
 * <mark style="color:blue;">LC-092401-03-</mark>**Duplicate Menu Titles and Page Redirections Fixed**: We have fixed the issues where duplicate menu titles and incorrect page redirects were causing confusion. &#x20;
 * <mark style="color:blue;">LC-092401-04-</mark>**Category Tree Cleanup**: Deleted categories no longer appear in the upper category tree, improving clarity and organization. &#x20;
 * <mark style="color:blue;">LMC-092401-01-</mark>**End-to-End Delivery Provider Tests Completed:** Minor bugs identified and resolved during the process.
+* <mark style="color:blue;">LC-092403-01-</mark>**Payment Error Visibility**: If a payment error occurs during an order, it will now be displayed in the order’s payment records, helping administrators quickly identify issues.
 
 ***
 
@@ -76,12 +77,6 @@ These codes help you track the specific areas of improvement across the platform
   * Incorrect desi information
   * Incorrect pool entry
 * <mark style="color:blue;">LMC-092403-02-</mark>**Product Pool Rejection Reasons:** Console administrators can now reject products with multiple rejection reasons. Merchants can view these reasons in the product details.
-
-***
-
-### 💰 **Payment Record Enhancements**
-
-* <mark style="color:blue;">LC-092403-01-</mark>**Payment Error Visibility**: If a payment error occurs during an order, it will now be displayed in the order’s payment records, helping administrators quickly identify issues.
 
 ***
 
