@@ -1,12 +1,17 @@
 ---
 description: Welcome to Lidia Commerce Platform documentation.
+cover: .gitbook/assets/lidia.png
+coverY: 0
 ---
 
 # Welcome
 
-<figure><img src=".gitbook/assets/lidia.png" alt=""><figcaption></figcaption></figure>
+**Lidia** is a powerful headless digital commerce product suite for creators who are building modern applications. It is a set of stable micro-service API’s which can be used as BaaS, can be hosted on-premises or on the cloud and management apps on top.
 
-**Lidia** is a powerful headless digital commerce product suite for creators who are building modern applications. It is a set of stable micro-service API’s which can be used as BaaS, can be hosted on-premises or on the cloud and management apps on top
+{% hint style="info" %}
+**Learn More**\
+To discover more about Lidia products and explore additional details, please visit the [Official Lidia Commerce Website](https://www.lidiacommerce.com).
+{% endhint %}
 
 ## **Introduction to Lidia**
 

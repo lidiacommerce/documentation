@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/lidia.png
+coverY: 0
+---
+
 # Lidia PIM
 
 Lidia PIM (Product Information Management)  is a centralized platform designed to simplify the management of product data and digital assets across various digital channels. It addresses the challenges businesses face in maintaining accurate and consistent product information, ensuring that all customer touchpoints are aligned with the latest data.

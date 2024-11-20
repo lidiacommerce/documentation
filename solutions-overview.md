@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/lidia.png
+coverY: 0
+---
+
 # Lidia Solutions
 
 Lidia offers a comprehensive suite of digital commerce solutions designed to help businesses streamline their operations, engage with customers, and adapt to rapidly changing market dynamics. With a modular, API-first architecture, Lidia provides flexibility, scalability, and the ability to customize solutions for various business models, including B2C, B2B, and marketplace environments.

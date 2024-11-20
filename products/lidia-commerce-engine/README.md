@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/lidia.png
+coverY: 0
+---
+
 # Lidia Commerce Engine
 
 ## What is a Headless Commerce Engine?

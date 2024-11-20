@@ -16,8 +16,8 @@
   * [Components](suites/lidia-b2b-suite/components.md)
   * [Quickstart](suites/lidia-b2b-suite/quickstart.md)
 * [Lidia Marketplace Suite](suites/lidia-marketplace-suite/README.md)
-  * [Features](suites/lidia-marketplace-suite/features.md)
-  * [Components](suites/lidia-marketplace-suite/components.md)
+  * [Key Capabilities](suites/lidia-marketplace-suite/key-capabilities.md)
+  * [Key Components](suites/lidia-marketplace-suite/key-components.md)
   * [Quickstart](suites/lidia-marketplace-suite/quickstart.md)
 
 ## Products
@@ -84,6 +84,8 @@
     * [Deutch](components/lidia-merchant-console/merchant-console-user-guide/deutch.md)
 * [Lidia Worker](components/lidia-worker.md)
 * [Lidia Static](components/lidia-static.md)
+* [Lidia API](components/lidia-api.md)
+* [Lidia Custom UI](components/lidia-custom-ui.md)
 
 ## Help Center
 

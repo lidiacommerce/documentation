@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/lidia.png
+coverY: 0
+---
+
 # Why Lidia
 
 Lidia offers a powerful, comprehensive platform designed to meet the evolving needs of digital commerce. Our solutions empower businesses by providing faster integrations, efficient processes, cost savings, and scalable architecture. Here’s why Lidia is the best choice for your business:
