@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Features
+# Key Capabilities
 
-## Key Features
+## Key Capabilities
 
 ### **Multi-Vendor Environment**
 

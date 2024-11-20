@@ -21,6 +21,8 @@ Once deployed on to your favorite infrastructure you can start managing your pro
 [Request Demo](https://www.lidiacommerce.com/get-in-touch)
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/Marketplace Suite.png" alt=""><figcaption></figcaption></figure>
+
 The Lidia Marketplace Suite is a robust solution for building and managing state-of-the-art online marketplaces. Here's how it aligns with the topics you've highlighted:
 
 {% hint style="info" %}

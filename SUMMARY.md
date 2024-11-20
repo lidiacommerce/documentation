@@ -8,12 +8,12 @@
 ## SUITES
 
 * [Lidia B2C Suite](suites/lidia-b2c-suite/README.md)
-  * [Features](suites/lidia-b2c-suite/features.md)
-  * [Components](suites/lidia-b2c-suite/components.md)
+  * [Key Capabilities](suites/lidia-b2c-suite/key-capabilities.md)
+  * [Key Components](suites/lidia-b2c-suite/key-components.md)
   * [Quickstart](suites/lidia-b2c-suite/quickstart.md)
 * [Lidia B2B Suite](suites/lidia-b2b-suite/README.md)
-  * [Features](suites/lidia-b2b-suite/features.md)
-  * [Components](suites/lidia-b2b-suite/components.md)
+  * [Key Capabilities](suites/lidia-b2b-suite/key-capabilities.md)
+  * [Key Components](suites/lidia-b2b-suite/key-components.md)
   * [Quickstart](suites/lidia-b2b-suite/quickstart.md)
 * [Lidia Marketplace Suite](suites/lidia-marketplace-suite/README.md)
   * [Key Capabilities](suites/lidia-marketplace-suite/key-capabilities.md)
