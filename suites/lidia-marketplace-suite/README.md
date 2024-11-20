@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Lidia Marketplace Suite
 
 ## Overview
@@ -23,7 +19,8 @@ Once deployed on to your favorite infrastructure you can start managing your pro
 The Lidia Marketplace Suite is a robust solution for building and managing state-of-the-art online marketplaces. Here's how it aligns with the topics you've highlighted:
 
 {% hint style="info" %}
-To view Marketplace suite features in detail, please follow the [link](features.md).
+To view Marketplace suite features in detail, please follow the [link](https://app.gitbook.com/o/-LelnTxjc6Q8VcVJf2Bf/s/-LelnWMSgdO9EDQG73lr/\~/changes/268/suites/lidia-marketplace-suite/features).\
+
 {% endhint %}
 
 
