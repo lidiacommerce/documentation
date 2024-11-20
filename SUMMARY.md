@@ -7,6 +7,10 @@
 
 ## SUITES
 
+* [Lidia Marketplace Suite](suites/lidia-marketplace-suite/README.md)
+  * [Key Capabilities](suites/lidia-marketplace-suite/key-capabilities.md)
+  * [Key Components](suites/lidia-marketplace-suite/key-components.md)
+  * [Quickstart](suites/lidia-marketplace-suite/quickstart.md)
 * [Lidia B2C Suite](suites/lidia-b2c-suite/README.md)
   * [Key Capabilities](suites/lidia-b2c-suite/key-capabilities.md)
   * [Key Components](suites/lidia-b2c-suite/key-components.md)
@@ -15,10 +19,6 @@
   * [Key Capabilities](suites/lidia-b2b-suite/key-capabilities.md)
   * [Key Components](suites/lidia-b2b-suite/key-components.md)
   * [Quickstart](suites/lidia-b2b-suite/quickstart.md)
-* [Lidia Marketplace Suite](suites/lidia-marketplace-suite/README.md)
-  * [Key Capabilities](suites/lidia-marketplace-suite/key-capabilities.md)
-  * [Key Components](suites/lidia-marketplace-suite/key-components.md)
-  * [Quickstart](suites/lidia-marketplace-suite/quickstart.md)
 
 ## Products
 
