@@ -63,14 +63,14 @@ These codes help you track the specific areas of improvement across the platform
 
     ***
 
-### 📁 Data Schema\&Product Pools Enchancements
+### 📁 Catalog Mangement Enchancements
 
 * <mark style="color:blue;">**LC-102402-04-**</mark>**New Rejection Reasons:** Console administrators can now reject products sent for approval by sellers using 11 different reasons (an addition of 4 new options). Additionally, the reason previously labeled as "incorrect category" has been updated to "category information missing/incorrect."
 * <mark style="color:blue;">**LC-102402-05-**</mark>**Category Data Schema Modification Restriction Based on Pool Content:** Previously, there was no restriction on modifying the category data schema based on pool content status. Now, if no items have been added to a pool, the schema can be changed; if items are present, the schema cannot be altered.
 
 ***
 
-### 🛒 Merchant Management Enhancements
+### 🛒 Vendor Management Enhancements
 
 * <mark style="color:blue;">**LMC-102402-01-**</mark>**Merchant Application Process Enhancements:** Information and navigation have been enhanced for users applying to become merchant. Required fields are now accurately marked, preventing incomplete submissions and ensuring a smooth merchant application process.
 

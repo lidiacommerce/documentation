@@ -8,7 +8,7 @@ coverY: 0
 
 # August
 
-## 💡_**Our August Updates: What's New and Improved**_
+## �&#xDCA1;_**Our August Updates: What's New and Improved**_
 
 Lidia Console and Merchant Console got packed with new features and improvements to enhance your feedback and collaboration experience.
 

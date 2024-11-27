@@ -70,7 +70,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-### 🛠 **Enhanced Rejection Options for Product Pools**
+### 📁 Catalog Mangement Enchancements
 
 * <mark style="color:blue;">LC-092403-04-</mark>**New Rejection Reasons**: Administrators can now select multiple rejection reasons when declining products in the product pool. Additionally, three new rejection reasons have been added:
   * Missing/incorrect color information

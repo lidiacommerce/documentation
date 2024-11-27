@@ -63,8 +63,8 @@ Adres bilgileri bölümünde; mağazanın adres bilgileri ve mevcut depo bilgile
 
 Entegrasyon bilgileri bölümünde; organizasyonumuzun ID ve Erişim anahtarı kodları yer alır. \
 \
-**"ID"** ;  Lidia'a kayıtlı organizasyon id'sidir\
-**"Erişim anahtarı"** ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünümüze bağlanabilmek için kullanılabilen bir koddur.
+&#xNAN;**"ID"** ;  Lidia'a kayıtlı organizasyon id'sidir\
+&#xNAN;**"Erişim anahtarı"** ; Lidia'a kayıtlı uygulama anahtarıdır. Lidia API ürünümüze bağlanabilmek için kullanılabilen bir koddur.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-07 at 21.16.44.png" alt=""><figcaption><p>Entegrasyon bilgileri </p></figcaption></figure>
 
@@ -139,15 +139,7 @@ Consol yöneticisi tarafından onaylanan ürünler "Onaylananlar" sayfasında li
 
 Fiyat / Stok İşlemleri sayfalarında merchant sistemdeki ürünlerini görüntüleyebilir. Varyantlarının arasından kategori filtresi ile satmak istediği kategoriyi seçip; stok ve fiyat tanımlayarak ürünlerine ekleyebilir. Seçilen varyanta stok eklemek için ilgili satırdaki düzenle butonu ile stok bilgisi eklenerek ürün eklenmesini tamamlanabilir.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.27.18.png" alt=""><figcaption><p>Düzenle</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.29.17.png" alt=""><figcaption><p>Stok tanımı</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.27.18.png" alt=""><figcaption><p>Düzenle</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.29.17.png" alt=""><figcaption><p>Stok tanımı</p></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.30.58.png" alt=""><figcaption><p>Stok ve Fiyat tanımı tamamlandı</p></figcaption></figure>
 
@@ -157,25 +149,9 @@ Fiyat stok işlemleri ekranında ayrıca satıcılar kırılım ekle butonu arac
 
 
 
-<div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.17.24 (1).png" alt=""><figcaption><p>Satır bazında kırılım ekle</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.25 (1).png" alt=""><figcaption><p>Yeni kırılım satırı</p></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.17.24 (1).png" alt=""><figcaption><p>Satır bazında kırılım ekle</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.25 (1).png" alt=""><figcaption><p>Yeni kırılım satırı</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.45.png" alt=""><figcaption><p>Tanımla</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.52.png" alt=""><figcaption><p>Yeni kırılım</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.45.png" alt=""><figcaption><p>Tanımla</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.18.52.png" alt=""><figcaption><p>Yeni kırılım</p></figcaption></figure></div>
 
 
 
@@ -185,41 +161,17 @@ Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya t
 
 
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.51.14.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.52.33.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.51.14.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 11.52.33.png" alt=""><figcaption><p>Dışarı aktar</p></figcaption></figure></div>
 
 Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.21.07.png" alt=""><figcaption><p>İndir</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-24 17.58.38 (1).png" alt=""><figcaption><p>Excel </p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.21.07.png" alt=""><figcaption><p>İndir</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-24 17.58.38 (1).png" alt=""><figcaption><p>Excel </p></figcaption></figure></div>
 
 
 
 İndirilen excel üzerinden istenen değişiklikler yapıldıktan sonra tekrar içeri alınabilir.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.24.55.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.26.17.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.24.55.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.26.17.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure></div>
 
 \
 
@@ -286,33 +238,13 @@ Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre li
 \
 Üst menüdeki arama kutucuğu ile tüm siparişler arasında arama yapabilir ve filtreleme seçenekleri ile siparişlerinizi filtreleyebilirsiniz. Kolayca siparişler arasında siparişlerin tarihine ve fiyatına göre sıralama yapabilirsiniz.
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/durum.jpg" alt="" width="375"><figcaption><p>Durum</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/sırala (1).jpg" alt="" width="375"><figcaption><p>Sırala</p></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/durum.jpg" alt="" width="375"><figcaption><p>Durum</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/sırala (1).jpg" alt="" width="375"><figcaption><p>Sırala</p></figcaption></figure>
-
-</div>
-
-<div align="center">
-
-<figure><img src="../../../.gitbook/assets/Tarih.jpg" alt="" width="375"><figcaption><p>Tarihe Göre Filtreleme</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../../.gitbook/assets/Tarih.jpg" alt="" width="375"><figcaption><p>Tarihe Göre Filtreleme</p></figcaption></figure></div>
 
 Herbir sipariş satırındaki en sağdaki görüntüle butonununa tıklayarak sipariş içeriğini görüntüleyebilirsiniz
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Siapriş detay tıklama.jpg" alt=""><figcaption><p>Sipariş İçeriği - Görüntüleme</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/sipariş içeriği (1).jpg" alt=""><figcaption><p>Sipariş İçeriği Sayfası</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Siapriş detay tıklama.jpg" alt=""><figcaption><p>Sipariş İçeriği - Görüntüleme</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/sipariş içeriği (1).jpg" alt=""><figcaption><p>Sipariş İçeriği Sayfası</p></figcaption></figure></div>
 
 Sipariş içeriğinde merchant müşteri bilgilerine (satın alan müşterinin sistemde kayıtlı e-posta adresi), sipariş edilen ürünün bilgisine, teslimat ve fatura adreslerini görüntüleyebilir. Siparişi için ise; siparişini _onaylayabilir_ ve _reddedebilir._&#x20;
 
@@ -326,15 +258,7 @@ Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 s
 
 
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/onayla.jpg" alt=""><figcaption><p>Bekleyen Siparişi Onaylama</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/iptal.jpg" alt=""><figcaption><p>Kargoya Ver / İptal Et</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/onayla.jpg" alt=""><figcaption><p>Bekleyen Siparişi Onaylama</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/iptal.jpg" alt=""><figcaption><p>Kargoya Ver / İptal Et</p></figcaption></figure></div>
 
 #### Kargoya Verme
 
@@ -408,15 +332,7 @@ Merchant kendisi gönderim sağlayacağı için, sistem üzerinden tanımlayaca�
 Seçili ürünleri **onaylamadan iptal** edebilirsiniz,\
 
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.50.png" alt=""><figcaption><p>Sipariş içeriği</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.57.png" alt=""><figcaption><p>Red onay ekranı</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.50.png" alt=""><figcaption><p>Sipariş içeriği</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.57.png" alt=""><figcaption><p>Red onay ekranı</p></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.21.04.png" alt=""><figcaption><p>Red</p></figcaption></figure>
 
@@ -452,15 +368,7 @@ Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip b
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.07.png" alt="" width="375"><figcaption><p>1</p></figcaption></figure>
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>2</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.52 (1).png" alt=""><figcaption><p>3</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>2</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.52 (1).png" alt=""><figcaption><p>3</p></figcaption></figure></div>
 
 (1) Sipariş detayda belirtilen **Sipariş ID**'dir. (2) Bu id ile teslimat yönetimi sayfalarında arama yapabilir; (3) siparişin detaylarını görüntüleyebilirsiniz. Teslimatın takibi bu sayfalardan yapılır.
 
@@ -483,43 +391,19 @@ Standart profillerde de tanımlanmış **pazar yeri anlaşmalı kargolarda**;\
 \- Kargo eğer 30 desi üstünde ise, Horoz Lojistik\
 teslimat sağlayan kargo şirketi olarak seçili gelecektir.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.19.png" alt=""><figcaption><p>Standart profiller</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.52.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.19.png" alt=""><figcaption><p>Standart profiller</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.05.52.png" alt=""><figcaption><p>Detay</p></figcaption></figure></div>
 
 
 
 Oluşturduğumuz profiller bölümü bayilerin tanımladığı kargo şirketleridir. Oluşturduğumuz profilleri görüntülemek için satırda en sağdaki butondan detaylar sayfasına gidebilirsiniz. Detaylar sayfasında bayilerin anlaşmalı olduğu ve sisteme de tanımını yaptığı tüm kargo şirketleri listelenir. Kargo şirketleri arasında küçük ve büyük kargo öncelik sıralamasını çek sürükle yöntemi ile değiştirebilirsiniz.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.06.18.png" alt=""><figcaption><p>Oluşturduğumuz profiller</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-25 14.33.37.png" alt=""><figcaption><p>Detay</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.06.18.png" alt=""><figcaption><p>Oluşturduğumuz profiller</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-25 14.33.37.png" alt=""><figcaption><p>Detay</p></figcaption></figure></div>
 
 
 
 Oluşturduğumuz profilleri teslimat profilleri sayfasındaki satırdaki sil butonundan silebilirsiniz veya detay sayfalarındaki durum bölümünden durumunu değiştirebilirsiniz.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.07.27 (1).png" alt=""><figcaption><p>Oluşturduğumuz profiller / Sil</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-25 15.20.30.png" alt=""><figcaption><p>Oluşturduğumuz profiller / Durum değiştir</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.07.27 (1).png" alt=""><figcaption><p>Oluşturduğumuz profiller / Sil</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-25 15.20.30.png" alt=""><figcaption><p>Oluşturduğumuz profiller / Durum değiştir</p></figcaption></figure></div>
 
 
 
@@ -576,7 +460,7 @@ statülerinde talep yönetimi ekranlarında görüntülenir.
 <summary>İade talebi süreci</summary>
 
 Merchant ürünü kargoya verdikten sonra iade süreci başlayabilir. \
-İade sürecinin başlayabilmesi için merchant'ın ürünü _müşteriye ulaştırması ve ödemesini de almas_ı gerekir. Bu süreçten sonra 14 gün içerisinde müşterinin iade talebi oluşturma hakkı vardır. İade talebini de müşteri önyüzden gerçekleştirebilir. Müşteri önyüzden iade sürecini bitirdikten sonra bu talep bizim talep yönetimi ekranlarımıza düşmektedir.
+İade sürecinin başlayabilmesi için merchant'ın ürünü _müşteriye ulaştırması ve ödemesini de alma&#x73;_&#x131; gerekir. Bu süreçten sonra 14 gün içerisinde müşterinin iade talebi oluşturma hakkı vardır. İade talebini de müşteri önyüzden gerçekleştirebilir. Müşteri önyüzden iade sürecini bitirdikten sonra bu talep bizim talep yönetimi ekranlarımıza düşmektedir.
 
 
 
@@ -689,15 +573,7 @@ Hedefler, mağaza satıcılarına yönelik hedeflerin görüntülenebildiği ala
 Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listelenir. \
 
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/temel.jpg" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/hedef.jpg" alt=""><figcaption><p>Hedef Alanı</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/temel.jpg" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/hedef.jpg" alt=""><figcaption><p>Hedef Alanı</p></figcaption></figure></div>
 
 Listelenen hedeflerde satırda bulunan detay butonuna tıklayarak satıcılar, hedefe ait temel bilgileri ve hedef alanını ayrı olarak inceleyebilirler.
 
@@ -709,15 +585,7 @@ Medya Yönetimi, mağazada bulunan medya dosyalarının yönetildiği bölümdü
 
 Görsel Yönetimi yüklenmiş olan görselleri kategorilere ve alanlarına göre görüntülemeyi sağlar. Görsel yönetimi bölümü filtreleme özellikleri dışında klasörleme ve görsel yükleme olarak iki ana fonksiyon içerir.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/görsel yön.jpg" alt=""><figcaption><p>Görsel Yönetimi</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/upload.jpg" alt=""><figcaption><p>Klasör Oluşturma ve Görsel Yükleme</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/görsel yön.jpg" alt=""><figcaption><p>Görsel Yönetimi</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/upload.jpg" alt=""><figcaption><p>Klasör Oluşturma ve Görsel Yükleme</p></figcaption></figure></div>
 
 Görsel yönetimi, mağazada bulunan mevcut klasörleri ve bu klasörlerdeki resimleri görüntülendiği alandır. Satıcılar isterlerse "Upload" seçeneğini kullanarak belirledikleri klasöre görsel yükleyebilirler.&#x20;
 
@@ -731,15 +599,7 @@ Doküman yüklemek için "Toplu Doküman YÜkleme" sayfasındaki; "Kategori", "M
 
 
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/kateg.jpg" alt=""><figcaption><p>Döküman Tipleri</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/x.jpg" alt=""><figcaption><p>Toplu Yükleme</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/kateg.jpg" alt=""><figcaption><p>Döküman Tipleri</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/x.jpg" alt=""><figcaption><p>Toplu Yükleme</p></figcaption></figure></div>
 
 Görselleri yükleyip "Devam Et" butonuna tıklandığında veri kontrol aşamasına geçilir. Burada şartlar sağlanmıyorsa hata bildirimi kullanıcıya gözükür ve hatalı görselleri listelenir.
 
