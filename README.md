@@ -1,7 +1,7 @@
 ---
 description: Welcome to Lidia Commerce Platform documentation.
-cover: .gitbook/assets/lidia.png
-coverY: 0
+cover: .gitbook/assets/lidia-banner.png
+coverY: 44
 ---
 
 # Welcome
