@@ -1,11 +1,11 @@
 ---
 description: Welcome to Lidia Commerce Platform documentation.
 cover: .gitbook/assets/lidia-banner.png
-coverY: 44
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
