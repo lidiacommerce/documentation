@@ -110,7 +110,7 @@ These codes help you track the specific areas of improvement across the platform
   The dashboard has been redesigned to better reflect the capabilities of the PIM system. Key updates include:
   * Enhanced insights into data quality, product status, categories, product families, workflows, and channels.
   * A modernized layout for improved usability and functionality.
-* <mark style="color:blue;">**LP-122401-03-**</mark>**Actioööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööön Button Consistency**\
+* <mark style="color:blue;">**LP-122401-03-**</mark>**Action Button Consistency**\
   Previously, action buttons suffered from color inconsistencies and lack of standardization. Updates have been made to:
   * Standardize button appearances for a cohesive visual and functional experience.
   * Improve interaction clarity, making screens more intuitive and user-friendly.
