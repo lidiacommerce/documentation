@@ -92,6 +92,7 @@
 * [Support](help-center/support.md)
 * [FAQ](help-center/faq.md)
 * [Releases](help-center/releases/README.md)
+  * [December](help-center/releases/december.md)
   * [November](help-center/releases/november.md)
   * [October](help-center/releases/october.md)
   * [September](help-center/releases/september.md)
