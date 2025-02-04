@@ -2,11 +2,11 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
-cover: ../../../.gitbook/assets/Adsız tasarım (2).png
+cover: ../../.gitbook/assets/Adsız tasarım (2).png
 coverY: 0
 ---
 
-# August
+# Lidia 1.8.x release notes
 
 ## �&#xDCA1;_**Our August Updates: What's New and Improved**_
 
