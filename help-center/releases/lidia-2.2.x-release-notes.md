@@ -60,9 +60,7 @@ With this update, the stoppage tax information is now displayed clearly and tran
 
 ### 🌟 **User Experience Enhancements**
 
-**Custom Error Pages Implementation**\
-**Release date :**  02/04/2025\
-**Version number :&#x20;**<mark style="color:purple;">**LP-2.2.1.2 - LMC-2.2.1.2**</mark>
+#### **Custom Error Pages Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LP-2.2.1.2 - LMC-2.2.1.2**</mark>
 
 In this release, custom error pages were designed and developed to improve user experience for common errors:
 
@@ -72,18 +70,14 @@ In this release, custom error pages were designed and developed to improve user 
 
 <div><figure><img src="../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
 
-**Browser Tab Structure** \
-**Release date :**  02/04/2025\
-**Version number : &#x20;**<mark style="color:purple;">**LMC-2.2.1.3**</mark>
+#### **Browser Tab Structure** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LMC-2.2.1.3**</mark>
 
 \
 The structure of browser tabs has been improved to provide better navigation. For example, the tab now shows the current page followed by the platform name, e.g., **Home | Lidia Partner**, making it easier for users to track their location within the platform.
 
 ### 🚚 Delivery Management improvements
 
-**Newly Added Shipment Details**\
-**Release date :**  02/04/2025\
-**Version number : &#x20;**<mark style="color:purple;">**LP-2.2.1.3 - LMC-2.2.1.4**</mark>
+#### **Newly Added Shipment Details** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LP-2.2.1.3 - LMC-2.2.1.4**</mark>
 
 Additional shipment movement details have been incorporated into the system to provide users with more detailed tracking.
 
