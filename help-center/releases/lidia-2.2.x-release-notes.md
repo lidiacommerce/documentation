@@ -2,6 +2,8 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
+cover: ../../.gitbook/assets/September.png
+coverY: 0
 ---
 
 # Lidia 2.2.x release notes
@@ -76,6 +78,22 @@ In this release, custom error pages were designed and developed to improve user 
 
 \
 The structure of browser tabs has been improved to provide better navigation. For example, the tab now shows the current page followed by the platform name, e.g., **Home | Lidia Partner**, making it easier for users to track their location within the platform.
+
+### 🚚 Delivery Management improvements
+
+**Newly Added Shipment Details**\
+**Release date :**  02/04/2025\
+**Version number : &#x20;**<mark style="color:purple;">**LP-2.2.1.3 - LMC-2.2.1.4**</mark>
+
+Additional shipment movement details have been incorporated into the system to provide users with more detailed tracking.
+
+* **Detailed Shipment Status Information**: More descriptive status updates have been introduced.
+* **Status Timestamp**: The exact time of each status update is now displayed.
+* **Last Processed Location**: The last recorded location where the shipment was processed is now included.
+
+***
+
+## Releases in 2.2.2 - 18 Feb 2025
 
 ***
 
