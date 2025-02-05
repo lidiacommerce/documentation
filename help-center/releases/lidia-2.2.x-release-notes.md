@@ -21,7 +21,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-## <mark style="color:purple;">Releases in 2.2.1 - 4 Feb 2025</mark>
+## Releases in 2.2.1 - 4 Feb 2025
 
 ### 🚀 **Bug Fixes and Functional Improvements**
 
