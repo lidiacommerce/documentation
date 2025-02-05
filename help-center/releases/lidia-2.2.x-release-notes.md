@@ -2,7 +2,7 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
-cover: ../../.gitbook/assets/September.png
+cover: ../../.gitbook/assets/feb.png
 coverY: 0
 ---
 
@@ -27,13 +27,9 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 🚀 **Bug Fixes and Functional Improvements**
 
-* <mark style="color:purple;">**LP-2.2.1.1**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed an issue with exporting data based on filters.
-* <mark style="color:purple;">**LP-2.2.1.2**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where users were redirected to the login screen after entering an incorrect password.
-* <mark style="color:purple;">**LP-2.2.1.3**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where newly added values were not immediately displayed in options.
 * <mark style="color:purple;">**LP-2.2.1.4**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where newly added values were not included in all options.
 * <mark style="color:purple;">**LP-2.2.1.5**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where password reset and "Forgot Password" emails were not being delivered.
 * <mark style="color:purple;">**LP-2.2.1.6**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Addressed the login screen redirection issue on Solution Center pages.
-* <mark style="color:purple;">**LP-2.2.1.7**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the duplicate record display issue in Delivery Profiles.
 * <mark style="color:purple;">**LP-2.2.1.8**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where "Forgot Password" redirects were missing on the login page.
 * <mark style="color:purple;">**LP-2.2.1.9**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the dropdown display issue in the Merchant Details section.
 * <mark style="color:purple;">**LP-2.2.1.10**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Addressed the incorrect display issue in the Product Inventory Details.
@@ -42,6 +38,10 @@ These codes help you track the specific areas of improvement across the platform
 * <mark style="color:purple;">**LP-2.2.1.13**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where the search function did not work when adding images to the header menu.
 * <mark style="color:purple;">**LP-2.2.1.13**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where categories were not appearing in filter management.
 * <mark style="color:purple;">**LP-2.2.1.14**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where the copy buttons in the delivery details were not functioning.
+* <mark style="color:purple;">**LP-2.2.1.15**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed an issue with exporting data based on filters.
+* <mark style="color:purple;">**LP-2.2.1.16**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where users were redirected to the login screen after entering an incorrect password.
+* <mark style="color:purple;">**LP-2.2.1.17**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where newly added values were not immediately displayed in options.
+* <mark style="color:purple;">**LMC-2.2.1.5**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the duplicate record display issue in Delivery Profiles.
 
 ### 📈 **Sales Management Enhancements**
 

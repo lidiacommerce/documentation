@@ -1,14 +1,11 @@
 ---
-description: >-
-  Discover the latest updates and improvements introduced this month, enhancing
-  the functionality and user experience across the Lidia platform.
+cover: ../../.gitbook/assets/September.png
+coverY: 0
 ---
 
-# Releases in 2.1.1
+# Lidia 2.1.x release notes
 
-## 💡 Lidia **2.1.1 Release Notes**
-
-This  release covers significant updates to various components of the Lidia platform, including the Console, Merchant Console, and Product Information Management (PIM) systems. These improvements aim to optimize workflows and provide a smoother user experience for all platform users.
+This month's release covers significant updates to various components of the Lidia platform, including the Console, Merchant Console, and Product Information Management (PIM) systems. These improvements aim to optimize workflows and provide a smoother user experience for all platform users.
 
 {% hint style="info" %}
 🔎 **About Release Codes**\
@@ -23,18 +20,17 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-### 🚀 Bug Fixes and Functional Improvements
-
-* <mark style="color:blue;">**LC-122401-06-**</mark>Fixed an issue with viewing proof-of-residence documents for vendor applications.
-
-
+## Releases in 2.2.1 - 7 Jan 2025
 
 
 
 ***
 
-
+## Releases in 2.2.2 - 21 Jan 2025
 
 ***
 
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
+
+\
+\
