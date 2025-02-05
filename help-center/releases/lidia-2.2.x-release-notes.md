@@ -56,7 +56,26 @@ With this update, the stoppage tax information is now displayed clearly and tran
 * **Sales Reports (Platform & Partner Panels)** – The stoppage tax is fully included in the exportable (Excel) report format.
 * **Operations, Cost, and Campaign Reports** – The stoppage tax deduction amount, and net payment details are displayed comprehensively.
 
+### 🌟 **User Experience Enhancements**
 
+**Custom Error Pages Implementation**\
+**Release date :**  02/04/2025\
+**Version number :&#x20;**<mark style="color:purple;">**LP-2.2.1.2 - LMC-2.2.1.2**</mark>
+
+In this release, custom error pages were designed and developed to improve user experience for common errors:
+
+* **404 - Page Not Found**: Includes a clear message and navigation options to return to the homepage or the previous page.
+* **500 - Internal Server Error**: Displays an informative message with options to navigate back to the homepage or the previous page.
+* **"Something Went Wrong"**: A generic error page with redirection options to the homepage or the previous page.
+
+<div><figure><img src="../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
+
+**Browser Tab Structure** \
+**Release date :**  02/04/2025\
+**Version number : &#x20;**<mark style="color:purple;">**LMC-2.2.1.3**</mark>
+
+\
+The structure of browser tabs has been improved to provide better navigation. For example, the tab now shows the current page followed by the platform name, e.g., **Home | Lidia Partner**, making it easier for users to track their location within the platform.
 
 ***
 
