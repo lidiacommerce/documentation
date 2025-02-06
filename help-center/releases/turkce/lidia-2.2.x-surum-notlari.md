@@ -73,7 +73,7 @@ Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve
 
 Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileştirilmiştir. Örneğin, sekme artık mevcut sayfayı ve ardından platform adını gösteriyor (örneğin, Home | Lidia Partner), bu da kullanıcıların platformdaki konumlarını daha kolay takip etmelerini sağlıyor.
 
-### 🚚 **Teslimat Yönetimi İyileştirmeleri**
+### 🚚 **Teslimat Yönetimi Geliştirmeleri**
 
 #### Gelişmiş Teslimat Hareketleri Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.3 - LMC-2.2.1.4</mark>
 
