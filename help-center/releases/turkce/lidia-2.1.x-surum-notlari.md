@@ -26,7 +26,7 @@ Bu ayki sürüm, Lidia platformunun çeşitli bileşenlerinde önemli güncellem
 
 {% hint style="info" %}
 🔎 **Sürüm Kodları Hakkında**\
-Bu belgede, Lidia platformunun farklı bileşenleri için sürüm kodlarını bulabilirsiniz:
+Bu dokümanda, Lidia platformunun farklı bileşenleri için sürüm kodlarını bulabilirsiniz:
 
 * **LC:** Lidia Console – Ana yönetim konsoluna yönelik iyileştirmeler ve hata düzeltmeleri.
 * **LMC:** Lidia Merchant Console – Satıcı araçları ve iş akışlarına özel güncellemeler.
