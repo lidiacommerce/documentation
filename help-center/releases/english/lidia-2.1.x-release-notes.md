@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/September.png
+cover: ../../../.gitbook/assets/September.png
 coverY: 0
 ---
 
@@ -20,13 +20,13 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-## Releases in 2.2.1 - 7 Jan 2025
+## Releases in 2.1.1 - 7 Jan 2025
 
 
 
 ***
 
-## Releases in 2.2.2 - 21 Jan 2025
+## Releases in 2.1.2 - 21 Jan 2025
 
 ***
 

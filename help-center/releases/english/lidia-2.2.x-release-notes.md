@@ -2,7 +2,7 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
-cover: ../../.gitbook/assets/feb.png
+cover: ../../../.gitbook/assets/feb.png
 coverY: 0
 ---
 
@@ -45,7 +45,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 📈 **Sales Management Enhancements**
 
-#### **Stoppage Tax Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LP-2.2.1.1 - LMC-2.2.1.1**</mark>
+#### **Stoppage Tax Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LC-2.2.1.1 - LMC-2.2.1.1**</mark>
 
 As of 2025, a new regulation enforces a 1% stoppage tax on e-commerce transactions. This regulation applies to amounts deducted by intermediary service providers (e-commerce platforms) from payments made to sellers.
 
@@ -60,7 +60,7 @@ With this update, the stoppage tax information is now displayed clearly and tran
 
 ### 🌟 **User Experience Enhancements**
 
-#### **Custom Error Pages Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LP-2.2.1.2 - LMC-2.2.1.2**</mark>
+#### **Custom Error Pages Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LC-2.2.1.2 - LMC-2.2.1.2**</mark>
 
 In this release, custom error pages were designed and developed to improve user experience for common errors:
 
@@ -68,7 +68,7 @@ In this release, custom error pages were designed and developed to improve user 
 * **500 - Internal Server Error**: Displays an informative message with options to navigate back to the homepage or the previous page.
 * **"Something Went Wrong"**: A generic error page with redirection options to the homepage or the previous page.
 
-<div><figure><img src="../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
 
 #### **Browser Tab Structure** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LMC-2.2.1.3**</mark>
 
@@ -77,7 +77,7 @@ The structure of browser tabs has been improved to provide better navigation. Fo
 
 ### 🚚 Delivery Management improvements
 
-#### **Newly Added Shipment Details** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LP-2.2.1.3 - LMC-2.2.1.4**</mark>
+#### **Newly Added Shipment Details** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LC-2.2.1.3 - LMC-2.2.1.4**</mark>
 
 Additional shipment movement details have been incorporated into the system to provide users with more detailed tracking.
 
