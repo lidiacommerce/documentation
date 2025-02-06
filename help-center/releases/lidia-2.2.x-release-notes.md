@@ -27,21 +27,21 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 🚀 **Bug Fixes and Functional Improvements**
 
-* <mark style="color:purple;">**LP-2.2.1.4**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where newly added values were not included in all options.
-* <mark style="color:purple;">**LP-2.2.1.5**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where password reset and "Forgot Password" emails were not being delivered.
-* <mark style="color:purple;">**LP-2.2.1.6**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Addressed the login screen redirection issue on Solution Center pages.
-* <mark style="color:purple;">**LP-2.2.1.8**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where "Forgot Password" redirects were missing on the login page.
-* <mark style="color:purple;">**LP-2.2.1.9**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the dropdown display issue in the Merchant Details section.
-* <mark style="color:purple;">**LP-2.2.1.10**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Addressed the incorrect display issue in the Product Inventory Details.
-* <mark style="color:purple;">**LP-2.2.1.11**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where filters could not be added in the Seller Details section.
-* <mark style="color:purple;">**LP-2.2.1.12**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where the return code was not being sent via email.
-* <mark style="color:purple;">**LP-2.2.1.13**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where the search function did not work when adding images to the header menu.
-* <mark style="color:purple;">**LP-2.2.1.13**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where categories were not appearing in filter management.
-* <mark style="color:purple;">**LP-2.2.1.14**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where the copy buttons in the delivery details were not functioning.
-* <mark style="color:purple;">**LP-2.2.1.15**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed an issue with exporting data based on filters.
-* <mark style="color:purple;">**LP-2.2.1.16**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Resolved the issue where users were redirected to the login screen after entering an incorrect password.
-* <mark style="color:purple;">**LP-2.2.1.17**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the issue where newly added values were not immediately displayed in options.
-* <mark style="color:purple;">**LMC-2.2.1.5**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">–</mark> Fixed the duplicate record display issue in Delivery Profiles.
+* Resolved the issue where newly added values were not included in all options.
+* Fixed the issue where password reset and "Forgot Password" emails were not being delivered.
+* Addressed the login screen redirection issue on Solution Center pages.
+* Resolved the issue where "Forgot Password" redirects were missing on the login page.
+* Fixed the dropdown display issue in the Merchant Details section.
+* Addressed the incorrect display issue in the Product Inventory Details.
+* Fixed the issue where filters could not be added in the Seller Details section.
+* Resolved the issue where the return code was not being sent via email.
+* Fixed the issue where the search function did not work when adding images to the header menu.
+* Resolved the issue where categories were not appearing in filter management.
+* Fixed the issue where the copy buttons in the delivery details were not functioning.
+* Fixed an issue with exporting data based on filters.
+* Resolved the issue where users were redirected to the login screen after entering an incorrect password.
+* Fixed the issue where newly added values were not immediately displayed in options.
+* Fixed the duplicate record display issue in Delivery Profiles.
 
 ### 📈 **Sales Management Enhancements**
 
