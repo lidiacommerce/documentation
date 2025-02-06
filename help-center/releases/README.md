@@ -5,11 +5,11 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
-  outline:
     visible: true
-  pagination:
+  outline:
     visible: false
+  pagination:
+    visible: true
 ---
 
 # Releases
