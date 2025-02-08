@@ -57,7 +57,7 @@ The left menu contains sections for managing the PIM system.
   Browse and manage product data, categories, and attributes.
 * [**Inventory Management**\
   ](inventory.md)Monitor and control stock levels, warehouse details, and product availability.
-* [**Media Management**](media-management.md)\
+* [**Media Management**](digital-asset-management-dam.md)\
   Upload, organize, and manage product images, videos, and digital assets.
 * [**Services**](feeds.md)\
   Access additional features and integrations related to the PIM system.
