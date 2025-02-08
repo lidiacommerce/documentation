@@ -1,8 +1,4 @@
----
-description: This page describes the main features of Lidia PIM.
----
-
-# Features
+# Overview
 
 Product Information Management (PIM) refers to the process of centralizing and managing product information in a structured and organized manner to ensure consistency and accuracy across all channels. The three main features of PIM are:
 
