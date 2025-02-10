@@ -56,7 +56,7 @@
     * [Digital Asset Management (DAM)](products/lidia-pim/pim-user-guide/digital-asset-management-dam.md)
     * [Feeds](products/lidia-pim/pim-user-guide/feeds.md)
     * [Reporting](products/lidia-pim/pim-user-guide/reporting.md)
-    * [Türkçe](products/lidia-pim/user-guide/turkce.md)
+    * [Turkish](products/lidia-pim/user-guide/turkce.md)
 * [Lidia Rating & Reviews](products/lidia-rating-and-reviews.md)
 * [Lidia Promotion Engine](products/lidia-promotion-engine.md)
 
