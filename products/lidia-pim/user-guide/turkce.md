@@ -251,12 +251,387 @@ Bu yapılandırılmış **bildirim sistemi**, kullanıcıların kritik güncelle
 
 ## Organizasyon
 
+PIM sistemindeki **Organizasyonum** bölümü, kullanıcıların organizasyonlarına ait detayları, abonelikleri ve bağlı Lidia uygulamalarını yönetmelerine olanak tanır. Bu bölüm, şirketlerin organizasyon ayarlarını kontrol altında tutmalarını, erişimi yönetmelerini ve gerekli uygulamaları entegre etmelerini sağlar.
+
+### **Detaylar Sayfası**
+
+**Detaylar** sayfası, organizasyona ait temel bilgileri görüntüler ve yöneticilerin durumunu ve meta verilerini yönetmesine imkan tanır. Bu sayfadaki alanlar şunlardır:
+
+* **Durum**\
+  Organizasyonun aktif veya pasif olup olmadığını gösterir.
+* **Organizasyon Alan Adı**\
+  Organizasyona ait alan adını görüntüler.
+* **Organizasyon Türü**\
+  Organizasyonun türünü tanımlar (ör. Standart).
+* **Organizasyon Kodu**\
+  Organizasyona ait benzersiz bir kimlik kodunu gösterir (varsa).
+* **Şirket Adı (Zorunlu)**\
+  Şirketin resmi adını belirtir.
+* **Açıklama (Zorunlu)**\
+  Şirket hakkında kısa bir açıklama sağlar.
+
+Kullanıcılar, yapılan değişiklikleri **Kaydet** veya **İptal** edebilirler.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_administration_organizations_myorganization (1).png" alt=""><figcaption><p>Organizastion Detail</p></figcaption></figure>
+
+### **Abonelikler Sayfası**
+
+**Abonelikler** sayfası, organizasyonların PIM sistemindeki aktif aboneliklerini yönetmelerine olanak tanır. Bu sayfadaki temel işlevler şunlardır:
+
+* Aktif ve pasif abonelikleri görüntüleme
+* Organizasyonların, abonelik planlarına göre uygun erişim seviyelerini korumasını sağlama
+
+### **Lidia Uygulamaları Sayfası**
+
+**Lidia Uygulamaları** sayfası, organizasyonun entegre edebileceği Lidia uygulamalarının genel bir görünümünü sunar. Organizasyonlar şunları yapabilir:
+
+* Ürün bilgi yönetimini geliştiren mevcut uygulamaları görüntüleme
+* Belirli Lidia uygulamalarıyla entegrasyonları etkinleştirme veya devre dışı bırakma
+* Bağlı uygulamalar için API erişimini ve kimlik bilgilerini yönetme
+* Uygulama kullanımını ve izinlerini izleme
+
+Bu sayfa, PIM ile diğer önemli **Lidia Commerce** araçları arasındaki entegrasyonun sorunsuz çalışmasını sağlar.
+
 ## Katalog
+
+PIM sistemindeki **Katalog** bölümü, ürün verilerini düzenlemek, yönetmek ve yapılandırmak için tasarlanmıştır. Altı ana alan içerir:
+
+* **Havuzlar (Pools)**
+* **Kategoriler (Categories)**
+* **Markalar (Trademarks)**
+* **Listeler (Lists)**
+* **Ürünler (Products)**
+* **Varyantlar (Variants)**
+
+Bu bölümlerin her biri, ürün bilgilerini yapılandırma ve yönetme sürecinde kritik bir rol oynar.
+
+***
+
+### **Havuzlar (Pools)**
+
+**Havuzlar** bölümü, belirli kategorilere bağlı ürün grupları oluşturmayı sağlar. Yapılandırılmış bir veri deposu işlevi görerek, ürünlerin ilgili olduğu alanlara göre sınıflandırılmasına yardımcı olur.
+
+* Ürünleri malzeme türü, kullanım amacı veya fonksiyonuna göre gruplandırabilir.
+* Büyük veri kümelerini toplu yönetmeyi ve kategorize etmeyi kolaylaştırır.
+* Her havuz birden fazla kategori ile ilişkilendirilebilir.
+* Kullanıcılar, ürün havuzlarını görüntüleyebilir, güncelleyebilir ve yönetebilir.
+
+**Örnek:**\
+&#xNAN;_&#x42;anyo Aksesuarları_ havuzu, aynalar, sabunluklar ve havluluklar gibi ilgili kategorileri içerebilir.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_datapools (2).png" alt=""><figcaption><p>Data Pools</p></figcaption></figure>
+
+***
+
+### **Kategoriler (Categories)**
+
+**Kategoriler** bölümü, ürünlerin hiyerarşik gruplar halinde sınıflandırılmasını sağlar ve organizasyonu kolaylaştırır.
+
+* Ürünler, ortak özelliklere dayalı olarak yapılandırılabilir.
+* Her kategori, alt kategoriler içerebilir, bu da gezinmeyi ve filtrelemeyi kolaylaştırır.
+* Kullanıcılar toplam ürün sayısını, aktif durumunu ve atanmış alt kategorileri görüntüleyebilir.
+* E-ticaret platformlarında ürün keşfedilebilirliğini artırır.
+
+**Örnek Kategori Yapısı:**
+
+* **Elektronik**
+  * Dizüstü Bilgisayarlar
+  * Cep Telefonları
+  * Televizyonlar
+* **Ev & Yaşam**
+  * Mobilya
+  * Mutfak Aletleri
+  * Ev Dekorasyonu
+
+Bu yapı, ürünlerin iyi organize edilmesini ve hem müşteriler hem de yöneticiler için kolay bulunmasını sağlar.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_categories (1).png" alt=""><figcaption><p>Categories</p></figcaption></figure>
+
+***
+
+### **Markalar (Trademarks)**
+
+**Markalar** bölümü, ürünlerle ilişkili markaları ve üreticileri yönetmek için kullanılır.
+
+* Her marka, birden fazla ürüne atanabilir.
+* Sistem; marka oluşturma, düzenleme ve silme işlemlerini destekler.
+* Her markanın altındaki ürünler listelenebilir ve kategorize edilebilir.
+* Alt markalar, ana markalar altında yönetilebilir.
+
+**Örnek:**
+
+* **Marka:** Apple
+  * **Ürünler:** iPhone, MacBook, iPad
+* **Marka:** Samsung
+  * **Ürünler:** Galaxy Telefonlar, Akıllı TV’ler, Buzdolapları
+
+Bu bölüm, marka kimliğini ve tutarlılığını ürün kataloğunda korumaya yardımcı olur.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_trademarks (1).png" alt=""><figcaption><p>Trademarks</p></figcaption></figure>
+
+***
+
+### **Listeler (Lists)**
+
+**Listeler** bölümü, işletme ihtiyaçlarına göre özel ürün grupları oluşturmayı sağlar.
+
+* Kullanıcılar, pazarlama kampanyaları, sezonluk promosyonlar veya iç takip için özel listeler oluşturabilir.
+* Listeler; belirli ürünleri, kategorileri veya varyantları içerebilir.
+* Özel koleksiyonların sistem içinde etkin yönetilmesine yardımcı olur.
+
+**Örnek Listeler:**
+
+* **"En Çok Satanlar"** – En çok satılan ürünler listesi.
+* **"Yılbaşı Özel"** – Sezonluk indirimler ve sınırlı süreli ürünler.
+
+Bu özellik, e-ticaret pazarlaması ve stok planlaması için oldukça faydalıdır.
+
+***
+
+### **Ürünler (Products)**
+
+**Ürünler** bölümü, tüm ürün bilgilerini saklamak ve yönetmek için kullanılan ana bölümdür.
+
+* Kullanıcılar ürünleri görüntüleyebilir, düzenleyebilir ve silebilir.
+* Ürünler; kategorilere, markalara, fiyatlara ve medya varlıklarına atanabilir.
+* Toplu ürün içe/dışa aktarma işlemleri desteklenir.
+* Ürün ilişkileri (ana ürün ve aksesuarlar) tanımlanabilir.
+
+Her ürün şu ana veri bölümlerini içerir:
+
+* **Ana Bilgiler**
+* **Varyantlar**
+* **Özellikler**
+* **İlgili Ürünler**
+* **Medya Yönetimi**
+* **Fiyatlandırma**
+
+Bu bölüm, ürünlerin satış ve pazarlama için yapılandırılmasını ve zenginleştirilmesini sağlar.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_products (2).png" alt=""><figcaption><p>Products</p></figcaption></figure>
+
+***
+
+### **Varyantlar (Variants)**
+
+**Varyantlar** bölümü, farklı beden, renk veya malzeme seçeneklerine sahip ürünleri yönetmek için kullanılır.
+
+* Her ürün, altında birden fazla varyanta sahip olabilir.
+* Varyantlar, ana ürünle ortak özellikler paylaşır ancak benzersiz kimliklere sahiptir.
+* Farklı konfigürasyonlara sahip ürünler için kullanışlıdır.
+* Marka, kategori ve duruma göre toplu güncelleme ve filtreleme desteklenir.
+
+**Örnek:**
+
+* **Ürün:** Koşu Ayakkabısı
+  * **Varyant 1:** Beden 42, Kırmızı
+  * **Varyant 2:** Beden 43, Mavi
+  * **Varyant 3:** Beden 44, Siyah
+
+Bu bölüm, ürün özelleştirmelerini ve stok yönetimini kolaylaştırır.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_variants.png" alt=""><figcaption><p>Variants</p></figcaption></figure>
 
 ## Envanter
 
+PIM sistemindeki **Envanter Yönetimi** bölümü, ürünle ilgili envanter detaylarını yönetmek ve organize etmek için gerekli araçları sağlar. Bu bölüm, özellikle **fiyat listeleri** ve **varyant fiyatlandırmaları** gibi konuları kapsar.
+
+***
+
+### **Fiyat Listeleri (Price Lists)**
+
+**Fiyat Listeleri** sayfası, sistemde bulunan tüm fiyat listelerini görüntülemeyi ve yönetmeyi sağlar.
+
+* Kullanıcılar fiyat listelerini görüntüleyebilir, düzenleyebilir ve silebilir.
+* Her fiyat listesi, belirli ürünlerin ve varyantlarının fiyatlandırma detaylarını içerir.
+* Fiyat listeleri, kolay tanımlama için benzersiz kodlarla kategorize edilir.
+* Kullanıcılar, fiyat listelerini çeşitli özelliklere göre filtreleyebilir, sıralayabilir ve gruplayabilir.
+
+**Ana Özellikler:**
+
+* **Liste Kimliği (List ID):** Her fiyat listesi için benzersiz bir tanımlayıcı.
+* **Ad (Name):** Fiyat listesinin açıklayıcı adı.
+* **Kod (Code):** Fiyat listesinin kısa kod temsili.
+* **Durum (Status):** Fiyat listesinin aktif veya pasif olduğunu gösterir.
+
+Bu sayfa, fiyatlandırma stratejilerinin etkili bir şekilde yönetilmesini ve güncellenmesini sağlar.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_priceLists.png" alt=""><figcaption><p>Price Lists</p></figcaption></figure>
+
 ## Medya Yönetimi
+
+### **Merkezi Varlık Yönetimi**
+
+Lidia PIM’in DAM sistemi, tüm dijital varlıklar için **tek bir doğruluk kaynağı** olarak işlev görür. Sağladığı temel özellikler:
+
+* **Ürünle ilgili medya dosyalarının saklanması ve alınması**
+* **Kategori ve klasör yapılandırması ile düzenli varlık yönetimi**
+* **Toplu yönetim yetenekleri** sayesinde birden fazla dosyanın aynı anda yüklenmesi ve işlenmesi
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_documents (1).png" alt=""><figcaption><p>Media List</p></figcaption></figure>
+
+***
+
+### **Toplu Medya Yükleme & Doğrulama**
+
+* Kullanıcılar **birden fazla varlığı aynı anda yükleyebilir**, böylece manuel işlemler azalır.
+* **Resim, video, belge ve özel dosya formatları desteklenir.**
+* **Dosya doğrulama mekanizmaları**, doğru dosya türlerini, boyutları ve kaliteleri kontrol ederek geçersiz yüklemeleri önler.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_import.png" alt=""><figcaption><p>Bulk Media Upload</p></figcaption></figure>
+
+### **Medya Kategorileri & Organizasyon**
+
+Lidia PIM’in DAM modülü, dijital varlıkları belirli kategorilere ayırarak düzenler:
+
+* **Ürün Medyası:** Belirli ürünlerle ilişkili resimler ve videolar
+* **Marka Medyası:** Logolar ve marka kimliğiyle ilgili varlıklar
+* **Kategori Medyası:** Ürün kategorilerine bağlı görseller
+* **Belge Yönetimi:** Kataloglar, PDF broşürler ve teknik dosyalar
+
+Bu kategorilendirme, varlıkların **hızlı erişimini ve verimli yönetimini** sağlar.
+
+***
+
+### **Varlık Meta Verileri & Arama Kolaylığı**
+
+* Dijital varlıklar; **dosya türü, boyutu, etiketler ve ilişkili ürünler** gibi meta verilerle indekslenir.
+* Kullanıcılar, medya dosyalarını **arama, filtreleme ve sıralama** seçenekleriyle kolayca yönetebilir.
+* **Toplu işlem yetenekleri**, birden fazla medya dosyasının aynı anda düzenlenmesini ve yönetilmesini sağlar.
+
+***
+
+### **Klasör Bazlı Organizasyon & Yapılandırılmış Depolama**
+
+DAM modülü, **hiyerarşik klasör yapılandırmasını** destekleyerek şu avantajları sunar:
+
+* **Özel klasörler**, farklı **ürün serileri, markalar veya içerik türleri** için oluşturulabilir.
+* **Sürükle & bırak (Drag-and-drop) desteği**, dosyaları hızlı bir şekilde düzenlemeye olanak tanır.
+* **Rol bazlı erişim yönetimi**, farklı ekiplerin medya varlıklarını güvenli bir şekilde yönetmesini sağlar.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_media_imageexplorer.png" alt=""><figcaption><p>Folder Based Storage</p></figcaption></figure>
+
+### **Dosya Yönetimi & Belge Takibi**
+
+DAM modülünün belge yönetimi sistemi, işletmelerin şu işlemleri yapmasını sağlar:
+
+* **PDF dosyaları, teknik belgeler ve kullanım kılavuzları** yükleme, izleme ve yönetme
+* Belgeleri **pazarlama materyalleri, teknik rehberler ve uyumluluk belgeleri** gibi kategorilere ayırma
+* Dosyaları **tür, format ve atanmış etiketlere** göre filtreleme ve gruplama
+
+Bu sayede ürünle ilgili tüm dokümanlar **kolay erişilebilir ve düzenli** bir şekilde saklanır.
+
+***
+
+### **Resim & Video Yönetimi**
+
+* Ürün görselleri ve promosyon içeriklerini yönetmek için **özel bölümler**
+* **E-ticaret ve pazarlama için yüksek çözünürlüklü görsel desteği**
+* **Toplu yükleme & dosya yapılandırma** özellikleri ile ürün fotoğraflarının hızlı yönetimi
+* **Eğitim videoları, reklamlar ve tanıtım içerikleri için video dosya depolama**
+
+Bu sistem, **ürün medya yönetimini kolaylaştırarak** markaların görsel varlıklarını etkin bir şekilde kullanmasına yardımcı olur.
 
 ## Akışlar
 
+Lidia PIM’deki **Feeds** (Akışlar) modülü, işletmelerin **ürün verilerini üçüncü taraf platformlara dağıtmasını** sağlayarak, **pazaryerleri, e-ticaret platformları, ERP sistemleri ve pazarlama araçları** gibi harici sistemlerle entegrasyon kurmalarına olanak tanır.
+
+***
+
+### **Feed Yönetimi Genel Görünümü**
+
+**Feeds** sayfası, kullanıcıların tüm veri akışlarını tek bir merkezi arayüzden yönetmesini sağlar. Kullanıcılar şunları yapabilir:
+
+* Harici sistemlerle entegrasyon için **yeni feed’ler oluşturabilir, düzenleyebilir ve silebilir**.
+* **Aktif ve pasif feed’leri** detaylarıyla birlikte görüntüleyebilir.
+* **Feed URL’lerini tanımlayarak** veri senkronizasyonunu kolaylaştırabilir.
+* **Her feed’e bağlı ürün sayılarını** izleyebilir.
+
+Her feed şu temel bilgileri içerir:
+
+* **Feed Adı:** Feed’in tanımlayıcı ismi.
+* **URL:** Verinin yayınlandığı uç nokta.
+* **Format:** Veri formatı (örn. JSON, XML).
+* **Feed Kodu:** Feed için benzersiz bir kod.
+* **Ürün Sayısı:** Feed’e dahil edilen ürünlerin toplam sayısı.
+* **Durum:** Feed’in aktif veya pasif olduğunu belirtir.
+
+Kullanıcılar **"Yeni Feed Ekle"** butonuna tıklayarak yeni bir feed oluşturabilirler.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_Feeds (4).png" alt=""><figcaption><p>Feed Management</p></figcaption></figure>
+
+### **Feed Yapılandırması & Özelleştirme**
+
+Bir feed oluştururken veya düzenlerken, kullanıcılar aşağıdaki temel parametreleri belirleyebilir:
+
+#### **Temel Bilgiler**
+
+* **Feed Durumu:** Feed’in **aktif** veya **pasif** olup olmadığını ayarlama.
+* **Feed Kodu:** Feed’e özel benzersiz bir kimlik.
+* **Feed Formatı:** JSON, XML gibi kullanılacak veri formatını belirleme.
+* **Erişim Kontrolü:** Feed için **yetkilendirme ve erişim ayarlarını** yönetme.
+* **Feed URL:** Ürün verilerinin alındığı uç nokta.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_feed_81.png" alt=""><figcaption><p>Feed Configuration</p></figcaption></figure>
+
+### **Feed’ler İçin Veri Filtreleme**
+
+Lidia PIM, her feed’de hangi ürünlerin yer alacağını belirlemek için **özelleştirilmiş filtreleme seçenekleri** sunar. Böylece yalnızca **ilgili ürünlerin harici sistemlere aktarılması** sağlanır.
+
+#### **Mevcut Filtreler:**
+
+* **Kategoriler:** Belirli kategorilere ait ürünleri içeren feed’ler oluşturma.
+* **Markalar:** Seçili markalarla sınırlı feed’ler oluşturma.
+* **Özel Listeler:** Önceden tanımlanmış özel listelerdeki ürünleri feed’e dahil etme.
+* **Ürün Özellikleri:** Belirli özelliklere sahip ürünleri dahil etme (örn. **Malzeme: %100 Deri**).
+* **Varyant Özellikleri:** Ürün varyantlarına göre feed oluşturma.
+* **Seçenek Değerleri:** Renk, beden veya yapılandırma gibi seçeneklere göre filtreleme.
+* **Etiketler (Tags):** Belirli etiketlere sahip ürünleri seçme.
+
+**Negatif filtreler** de uygulanabilir; böylece belirli ürünler feed’e **dahil edilmez**.
+
+Bu sistem, **özelleştirilmiş ve hedeflenmiş veri akışları oluşturmayı**, entegrasyonları yönetmeyi ve ürün verilerinin etkin dağıtımını sağlar.
+
 ## Raporlar
+
+Lidia PIM’deki **Denetim Raporu** sayfası, sistemde gerçekleştirilen tüm işlemleri kapsayan **kapsamlı bir günlük kaydı (audit log)** sağlar. Bu özellik, **şeffaflık ve izlenebilirlik** sunarak değişiklikleri takip etmek, güncellemeleri izlemek ve veri bütünlüğünü korumak için kritik öneme sahiptir.
+
+***
+
+### **Denetim Günlükleri Genel Görünümü**
+
+**Denetim Günlükleri** bölümü, sistemde gerçekleşen olayların ayrıntılı bir geçmişini görüntüleyerek farklı veri varlıkları üzerinde yapılan değişiklikleri takip etme imkanı sunar.
+
+### **Denetim Günlüklerindeki Temel Veri Noktaları:**
+
+* **Log Kimliği (Log ID):** Her denetim kaydı için benzersiz bir tanımlayıcı.
+* **Olay Türü (Event Type):** Yapılan işlemin türünü belirtir (örn. **Güncelleme, Oluşturma, Silme, Diğer**).
+* **Varlık Türü (Entity Type):** Etkilenen veri kategorisini gösterir (örn. **Veri Havuzu, Ürün, Kategori**).
+* **Varlık Kimliği (Entity ID):** Değiştirilen veri varlığının benzersiz kimliği.
+* **Mesaj (Message):** Gerçekleştirilen işlemin özetini sunar.
+* **Oluşturulma Tarihi (Created Date):** İşlemin gerçekleştiği tarih ve saat damgası.
+
+Bu günlükler, **yöneticilerin ve denetçilerin sistemde yapılan geçmiş değişiklikleri incelemesini** ve **iç politikalar ile dış düzenlemelere uyumluluğun sağlanmasını** mümkün kılar.
+
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_auditlogs.png" alt=""><figcaption><p>Audit Report</p></figcaption></figure>
+
+### **Özellikler & İşlevsellik**
+
+#### **Arama & Filtreleme Seçenekleri**
+
+* Kullanıcılar günlükleri **olay türüne, varlık türüne veya belirli varlık kimliklerine** göre filtreleyebilir.
+* **Sıralama seçenekleri**, günlüklerin **tarih veya olay türüne göre organize edilmesini** sağlar.
+
+#### **Gruplama & Sıralama**
+
+* Kullanıcılar, **sütun başlıklarını sürükleyip bırakarak** günlükleri belirli özelliklere göre gruplandırabilir.
+* Bu özellik, **ilgili denetim kayıtlarını analiz etmeyi ve veri görünürlüğünü artırmayı** kolaylaştırır.
+
+#### **Log Detayları & Analiz**
+
+* Her giriş, yapılan değişiklikler hakkında ayrıntılı bir mesaj içerir.
+* Günlük kayıtları genişletilerek **değişikliklere dair ek detaylar görüntülenebilir**.
+
+Bu sayfa, **sistem yönetimini ve güvenlik takibini** kolaylaştırarak Lidia PIM platformunun **güvenli, uyumlu ve izlenebilir bir şekilde çalışmasını** sağlar.
+
+4o
