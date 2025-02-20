@@ -87,6 +87,32 @@ Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrın
 
 ## **Sürüm 2.2.2 - 18 Şubat 2025**
 
+### 🚀 **Hata Düzeltmeleri ve Fonksiyonel İyileştirmeler**
+
+* Tüm listelemelerde silinen öğelerin listelenmesi ile ilgili sorunlar giderildi.
+
+### 📁 Katalog Yönetimi Geliştirmeleri
+
+**İçerisinde Ürün Olan Kategorilerin Yönetimi**\
+Sürüm Tarihi: 02/18/2025\
+Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
+
+İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinini içersiinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.
+
+<figure><img src="../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+**Havuza Reddedilenler Alanının Eklenmesi**\
+Sürüm Tarihi: 02/18/2025\
+Sürüm Numarası: <mark style="color:purple;">LMC-2.2.2.1</mark>
+
+Ürün havuzu görünümüne "Reddedilenler" sekmesi eklendi. Satıcılar artık reddedilen ürünleri ayrı bir sekmede görüntüleyebilir.&#x20;
+
+
+
+<figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 Bu güncellemeler, Lidia Platformu'nun işlevselliğini ve kullanılabilirliğini artırmak için tasarlanmıştır ve tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedeflemektedir. Gelecek ay daha fazla iyileştirme için bizi izlemeye devam edin!

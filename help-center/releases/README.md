@@ -22,7 +22,7 @@ On this page, you can find information about released versions and access the re
 
 | Version         | Release Date  | Key Updates                                                                                               | Details                                             |
 | --------------- | ------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Lidia 2.2.2** | February 2025 |                                                                                                           | [Click here](english/lidia-2.2.x-release-notes.md)  |
+| **Lidia 2.2.2** | February 2025 | Catalog management Improvements, various bugfixes.                                                        | [Click here](english/lidia-2.2.x-release-notes.md)  |
 | **Lidia 2.2.1** | February 2025 | User experience enhancements, delivery managements and sales management updates.                          | [Click here](english/lidia-2.2.x-release-notes.md)  |
 | **Lidia 2.1.2** | January 2025  | After sales services, social abilities, user ser experience enhancements and delivery management updates. | [Click here](english/lidia-2.1.x-release-notes.md)  |
 | **Lidia 2.1.1** | January 2025  | User experience improvements, order and delivery management updates.                                      | [Click here](english/lidia-2.1.x-release-notes.md)  |

@@ -89,6 +89,32 @@ Additional shipment movement details have been incorporated into the system to p
 
 ## Releases in 2.2.2 - 18 Feb 2025
 
+### 🚀 Bug Fixes and Functional Improvements
+
+* Fixed issues related to deleted items being displayed in all listings.
+
+### 📁 Catalog Management Enhancements
+
+**Managing Categories with Products**\
+Release Date: 02/18/2025\
+Version Number: <mark style="color:purple;">LC-2.2.2.1</mark>
+
+The system no longer allows the deletion of a category that contains products. To improve user clarity, a warning modal is now displayed during the category deletion process if the category contains products, as shown in the example below.
+
+<figure><img src="../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+**Addition of Rejected Products Section to the Pool**\
+Release Date: 02/18/2025\
+Version Number: <mark style="color:purple;">LMC-2.2.2.1</mark>
+
+A **"Rejected"** tab has been added to the product pool view. Sellers can now view rejected products separately in a dedicated tab.
+
+
+
+<figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
