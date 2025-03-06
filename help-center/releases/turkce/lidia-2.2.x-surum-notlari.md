@@ -93,19 +93,15 @@ Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrın
 
 ### 📁 Katalog Yönetimi Geliştirmeleri
 
-**İçerisinde Ürün Olan Kategorilerin Yönetimi**\
-Sürüm Tarihi: 02/18/2025\
-Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
+#### **İçerisinde Ürün Olan Kategorilerin Yönetimi** Sürüm Tarihi: 02/18/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
 
-İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinini içersiinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.
+İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinin içerisinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.
 
 <figure><img src="../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**Havuza Reddedilenler Alanının Eklenmesi**\
-Sürüm Tarihi: 02/18/2025\
-Sürüm Numarası: <mark style="color:purple;">LMC-2.2.2.1</mark>
+#### **Havuza Reddedilenler Alanının Eklenmesi** Sürüm Tarihi: 02/18/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.2.2.1</mark>
 
 Ürün havuzu görünümüne "Reddedilenler" sekmesi eklendi. Satıcılar artık reddedilen ürünleri ayrı bir sekmede görüntüleyebilir.&#x20;
 
