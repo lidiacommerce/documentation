@@ -20,8 +20,9 @@ On this page, you can find information about released versions and access the re
 
 #### Release Notes
 
-| Version         | Release Date  | Key Updates                                                                                               | Details                                             |
+| **Lidia 2.3.2** | March 2025    | Merchant dashboard and reporting features, order management improvement                                   | [Click here](english/lidia-2.3.x-release-notes.md)  |
 | --------------- | ------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Lidia 2.3.1** | March 2025    | New logistics service provider Integration and order management improvements                              | [Click here](english/lidia-2.3.x-release-notes.md)  |
 | **Lidia 2.2.2** | February 2025 | Catalog management Improvements, various bugfixes.                                                        | [Click here](english/lidia-2.2.x-release-notes.md)  |
 | **Lidia 2.2.1** | February 2025 | User experience enhancements, delivery managements and sales management updates.                          | [Click here](english/lidia-2.2.x-release-notes.md)  |
 | **Lidia 2.1.2** | January 2025  | After sales services, social abilities, user ser experience enhancements and delivery management updates. | [Click here](english/lidia-2.1.x-release-notes.md)  |
