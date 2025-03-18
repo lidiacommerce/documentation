@@ -25,27 +25,80 @@ These codes help you track the specific areas of improvement across the platform
 
 ## Releases in 2.3.1 - 4 March 2025
 
-### 🎯 New Features
+### New Features
 
-#### **Stoppage Tax Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LC-2.2.1.1 - LMC-2.2.1.1**</mark>
+### 🎯 Logistics Management Enhancements
 
-As of 2025, a new regulation enforces a 1% stoppage tax on e-commerce transactions. This regulation applies to amounts deducted by intermediary service providers (e-commerce platforms) from payments made to sellers.
+#### **MNG Cargo - Service Provider Integration** **Release date :**  04/03/2025 **Version number :** <mark style="color:purple;">LC-2.3.1.1 - LMC-2.3.1.1</mark>
 
-With this update, the stoppage tax information is now displayed clearly and transparently across the platform.
-
-
-
-### 💡 Improvements
-
-#### **Stoppage Tax Implementation** **Release date :**  02/04/2025 **Version number :&#x20;**<mark style="color:purple;">**LC-2.2.1.1 - LMC-2.2.1.1**</mark>
-
-As of 2025, a new regulation enforces a 1% stoppage tax on e-commerce transactions. This regulation applies to amounts deducted by intermediary service providers (e-commerce platforms) from payments made to sellers.
-
-With this update, the stoppage tax information is now displayed clearly and transparently across the platform.
+\
 
 
 
-### 🔍  **Bug Fixes**
+
+### 🎯 Order Management Enhancements
+
+#### Addition of export capability **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.2</mark>
+
+\
+
+
+\
+
+
+### Improvements
+
+### 💡 Order Management Enhancements
+
+#### Missing Invoice Notifications **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.3</mark>
+
+
+
+
+
+#### Product Information in Order Details **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.4</mark>
+
+
+
+
+
+## Releases in **2.3.2 - 18 March 2025**
+
+### New Features
+
+### 🎯 Reporting and Dashboard Capabilities
+
+#### **Merchant Dashboard** **Release date :** 18/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.1</mark>
+
+
+
+
+
+
+
+### Improvements
+
+### 💡 Order Management Enhancements
+
+#### Character limit added to invoice number field in the invoice upload modal **Release date :** 18/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.2</mark>
+
+
+
+
+
+#### Copyable column values on listing pages **Release date : 18**/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.3</mark>
+
+
+
+
+
+
+
+{% hint style="info" %}
+### 🔍 Bug Fixes
+
+* Inventory data exported in Lidia Merchant Console was corrected.
+{% endhint %}
 
 ####
 
