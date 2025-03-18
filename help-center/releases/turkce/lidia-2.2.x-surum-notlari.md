@@ -23,27 +23,25 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ***
 
-## **Sürüm 2.2.1 - 4 Şubat 2025**
+### <mark style="background-color:purple;">**Sürüm 2.2.1 - 4 Şubat 2025**</mark>
 
-### 🚀 **Hata Düzeltmeleri ve Fonksiyonel İyileştirmeler**
+### 🎯 Yeni Geliştirmeler
 
-* Yeni eklenen değerlerin tüm seçeneklere dahil edilmemesi sorunu çözüldü.
-* Şifre sıfırlama ve "Şifremi Unuttum" e-postalarının gönderilmemesi sorunu düzeltildi.
-* Çözüm Merkezi sayfalarındaki giriş ekranı yönlendirme sorunu giderildi.
-* "Şifremi Unuttum" yönlendirmelerinin giriş sayfasında eksik olması sorunu çözüldü.
-* Satıcı detayları bölümündeki açılır menü görünümü düzeltildi.
-* Ürün Envanteri Detayları'ndaki yanlış görüntülenme sorunu giderildi.
-* Satıcı Detayları bölümüne filtre eklenememesi sorunu düzeltildi.
-* İade kodunun e-posta ile gönderilmemesi sorunu çözüldü.
-* Header menüsüne resim eklerken arama fonksiyonunun çalışmaması sorunu düzeltildi.
-* Kategori filtre yönetiminde kategorilerin görünmemesi sorunu giderildi.
-* Teslimat detaylarındaki kopyalama butonlarının çalışmaması sorunu düzeltildi.
-* Filtrelere göre veri dışa aktarma sorunu çözüldü.
-* Kullanıcıların yanlış şifre girildiğinde giriş ekranına yönlendirilmesi sorunu düzeltildi.
-* Yeni eklenen değerlerin seçeneklerde hemen görüntülenmemesi sorunu giderildi.
-* Teslimat profillerindeki tekrarlayan kayıt görünümü düzeltildi.
+### **Teslimat Yönetimi Geliştirmeleri**
 
-### 📈 **Satış Yönetimi İyileştirmeleri**
+#### Gelişmiş Teslimat Hareketleri Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.3 - LMC-2.2.1.4</mark>
+
+Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrıntılı takip yapabilmesi sağlanmıştır.
+
+* **Ayrıntılı Gönderi Durum Bilgisi**: Daha açıklayıcı durum güncellemeleri eklenmiştir.
+* **Durum Zaman Damgası**: Her durum güncellemesinin tam zamanı artık görüntülenmektedir.
+* **Son İşlem Yapılan Konum**: Gönderinin işlendiği son konum artık sisteme dahil edilmiştir.
+
+
+
+### 💡 İyileştirmeler
+
+### **Satış Yönetimi İyileştirmeleri**
 
 #### **Stopaj Uygulaması** Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.1 - LMC-2.2.1.1</mark>
 
@@ -56,7 +54,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 * **Satış Raporları (Platform & Partner Panelleri)**: Stopaj kesintisi, dışa aktarılabilir (Excel) rapor formatlarına tam olarak dahil edilmiştir.
 * **Operasyon, Maliyet ve Kampanya Raporları**: Stopaj kesintisi ve net ödeme detayları kapsamlı bir şekilde gösterilmektedir.
 
-### 🌟 **Kullanıcı Deneyimi İyileştirmeleri**
+### **Kullanıcı Deneyimi İyileştirmeleri**
 
 #### **Özel Hata Sayfaları Uygulaması** Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.2 - LMC-2.2.1.2</mark>
 
@@ -73,31 +71,26 @@ Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve
 
 Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileştirilmiştir. Örneğin, sekme artık mevcut sayfayı ve ardından platform adını gösteriyor (örneğin, Home | Lidia Partner), bu da kullanıcıların platformdaki konumlarını daha kolay takip etmelerini sağlıyor.
 
-### 🚚 **Teslimat Yönetimi Geliştirmeleri**
 
-#### Gelişmiş Teslimat Hareketleri Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.3 - LMC-2.2.1.4</mark>
 
-Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrıntılı takip yapabilmesi sağlanmıştır.
+### 🔍 **Hata Düzeltmeleri**
 
-* **Ayrıntılı Gönderi Durum Bilgisi**: Daha açıklayıcı durum güncellemeleri eklenmiştir.
-* **Durum Zaman Damgası**: Her durum güncellemesinin tam zamanı artık görüntülenmektedir.
-* **Son İşlem Yapılan Konum**: Gönderinin işlendiği son konum artık sisteme dahil edilmiştir.
+* "Şifremi Unuttum" yönlendirmelerinin giriş sayfasında eksik olması sorunu çözüldü.
+* İade kodunun e-posta ile gönderilmemesi sorunu çözüldü.
+* Kullanıcıların yanlış şifre girildiğinde giriş ekranına yönlendirilmesi sorunu düzeltildi.
 
 ***
 
-## **Sürüm 2.2.2 - 18 Şubat 2025**
+## <mark style="background-color:purple;">**Sürüm 2.2.2 - 18 Şubat 2025**</mark>
 
-### 🚀 **Hata Düzeltmeleri ve Fonksiyonel İyileştirmeler**
+### 🎯 Yeni Geliştirmeler
 
-* Tüm listelemelerde silinen öğelerin listelenmesi ile ilgili sorunlar giderildi.
-
-### 📁 Katalog Yönetimi Geliştirmeleri
+### Katalog Yönetimi Geliştirmeleri
 
 #### **İçerisinde Ürün Olan Kategorilerin Yönetimi** Sürüm Tarihi: 02/18/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
 
-İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinin içerisinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.
+İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinin içerisinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.\
 
-<figure><img src="../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,9 +102,15 @@ Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrın
 
 <figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
 
+### 🔍 **Hata Düzeltmeleri**
+
+* Tüm listelemelerde silinen öğelerin listelenmesi ile ilgili sorunlar giderildi.
+
+
+
 ***
 
-Bu güncellemeler, Lidia Platformu'nun işlevselliğini ve kullanılabilirliğini artırmak için tasarlanmıştır ve tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedeflemektedir. Gelecek ay daha fazla iyileştirme için bizi izlemeye devam edin!
+Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve müşteri ihtiyaçlarına uyum sağlamak ve sürdürülebilirliği artırmak için tasarlanmıştır. Tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedefliyoruz. Gelecek ay daha fazlası için bizi takip etmeye devam edin!
 
 
 

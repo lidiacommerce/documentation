@@ -30,8 +30,6 @@ Lidia Merchant Console, platformumuzun satıcılarının ürün bilgilerini topl
 
 Anasayfa, Lidia Merchant Console'e giriş yapıldığında ilk karşılaşılan ekrandır. Bu ekran, satıcının performans analizlerini ve mağazasına ait değerleri gösterir. Ayrıca, üst menüden dil değişikliği yapılabilir ve sol menüden Mağaza Yönetimi, Ürün Yönetimi, Satış Yönetimi, Hedef Yönetimi, Medya Yönetimi ve Raporlar görüntülenebilir.
 
-<figure><img src="../../../.gitbook/assets/Adsız tasarım.jpg" alt=""><figcaption><p>Anasayfa Ekranı</p></figcaption></figure>
-
 _**Ana sayfa “İlk Bakış”, “Satış Performansı”, “Mağaza Performansı”, “Ürün Performansı” ile ilgili gösterilen değerleri  içerir.**_
 
 Satış Performansı bölümünde; satış raporları görüntülenebilir ve tarihe göre raporlanabilir.&#x20;
@@ -113,8 +111,6 @@ Toplu ürün işlemleri sayfasında bulunan "Yeni Ürün Ailesi Ekle"  butona t�
 
 Satıcılar toplu ürün işlemleri sayfasında listelenen ürün aileleri satırında bulunan "Ürünleri Yönet" butonuna tıklayarak ilgili ürün ailesinde bulunan ürünleri görebilir, ürünleri dışa aktarılabilir ve yeni ürünler ekleyebilirler.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Ürünleri Yönetme </p></figcaption></figure>
-
 _**Ürünleri yönetme sayfası; "Tümü", "Onaya Gönderilmeyen", "Onay Bekleyen", "Onaylananlar" ve "Yayındakiler" olmak üzere 5 bölümden oluşur.**_
 
 "Tümü" sayfasında, havuzda bulunan tüm ürünler listelenir. Satıcılar, havuza ürün eklemek istediğinde "Verileri Dışa Aktar" diyerek örnek exceli indirebilirler. Havuz uygun olan exceli düzenledikten ve yeni ürünleri ekledikten sonra "İçeri Veri Aktar" diyerek havuza ürün ekleyebilirler.
@@ -132,10 +128,6 @@ Satıcılar onay bekleyen ürünler arasında, onaya görderilmesi istenmeyen ü
 Consol yöneticisi tarafından onaylanan ürünler "Onaylananlar" sayfasında listelenir. Satıcı, onaylanan ürünleri yayına alabilir.&#x20;
 
 ### Fiyat / Stok İşlemleri
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-08 at 11.35.53.png" alt=""><figcaption><p>Fiyat / Stok İşlemleri</p></figcaption></figure>
-
-
 
 Fiyat / Stok İşlemleri sayfalarında merchant sistemdeki ürünlerini görüntüleyebilir. Varyantlarının arasından kategori filtresi ile satmak istediği kategoriyi seçip; stok ve fiyat tanımlayarak ürünlerine ekleyebilir. Seçilen varyanta stok eklemek için ilgili satırdaki düzenle butonu ile stok bilgisi eklenerek ürün eklenmesini tamamlanabilir.
 
@@ -165,7 +157,7 @@ Stok ve fiyat tanımı için merchant'lar seçili kategorideki ürünleri veya t
 
 Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz.
 
-<div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.21.07.png" alt=""><figcaption><p>İndir</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-24 17.58.38 (1).png" alt=""><figcaption><p>Excel </p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.21.07.png" alt=""><figcaption><p>İndir</p></figcaption></figure>
 
 
 
@@ -251,8 +243,6 @@ Sipariş içeriğinde merchant müşteri bilgilerine (satın alan müşterinin s
 _**Sipariş içeriği sayfası; "Sipariş Özet", Sipariş Hesap Dökümü" ve "Teslimat İçeriği" olmak üzere 3 bölüm içerir.**_
 
 Onaylanan siparişler için detay sayfasında sipariş özeti ve siparişe ait gelir, maliyet listelenmiş halde hesap dökümünde gösterilir.
-
-<figure><img src="../../../.gitbook/assets/özet.jpg" alt=""><figcaption><p>Sipariş Özet ve Hesap Dökümü</p></figcaption></figure>
 
 Siparişi seçili butondan onaylayabilirsiniz; **onaylanan ürünler** için 2 seçenek sunulur,
 
@@ -346,8 +336,6 @@ Sipariş yönetiminde kullanıcı siparişini kargoya vermeden iptal işlemini 2
 
 Sipariş yönetiminde kargoya verilen seçili sipariş, teslimat yönetimi sayfalarında listelenir.&#x20;
 
-
-
 Bir sipariş içerisinde birden fazla teslimat olması senaryosunda "teslimatlar" ekranında her teslimat ayrı ayrı listelenir.
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-23 17.22.53.png" alt=""><figcaption><p>Birden fazla teslimat</p></figcaption></figure>
@@ -368,7 +356,7 @@ Birden fazla teslimat olduğu durumlarda merchant aynı sipariş ID'sine sahip b
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.07.png" alt="" width="375"><figcaption><p>1</p></figcaption></figure>
 
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>2</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.52 (1).png" alt=""><figcaption><p>3</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 19.04.20 (1).png" alt=""><figcaption><p>2</p></figcaption></figure>
 
 (1) Sipariş detayda belirtilen **Sipariş ID**'dir. (2) Bu id ile teslimat yönetimi sayfalarında arama yapabilir; (3) siparişin detaylarını görüntüleyebilirsiniz. Teslimatın takibi bu sayfalardan yapılır.
 

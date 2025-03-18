@@ -39,7 +39,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ## **Sürüm 2.2.1 - 7 Ocak 2025**
 
-### 📈 **Satış Yönetimi İyileştirmeleri** <a href="#satis-yonetimi-iyilestirmeleri" id="satis-yonetimi-iyilestirmeleri"></a>
+### **Satış Yönetimi İyileştirmeleri** <a href="#satis-yonetimi-iyilestirmeleri" id="satis-yonetimi-iyilestirmeleri"></a>
 
 #### Sipariş fatura bilgilerinde kesim tarihinin gösterilmesi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.1.1.1</mark>
 
@@ -51,7 +51,7 @@ Yönetici tarafından gerçekleşen teslimat iptali sonrasında, tekrar kargoya 
 
 ***
 
-### 📈Satış Sonrası Hizmetler Güncellemeleri
+### Satış Sonrası Hizmetler Güncellemeleri
 
 #### Kargo iade barkod süresi geliştirmesi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.1.2 / LMC-2.1.1.2</mark>
 
@@ -64,7 +64,7 @@ Console panelinde sipariş detayındaki ürün satırlarında barkod numarası g
 
 ***
 
-### 🌟Kullanıcı Deneyimi Geliştirmeleri
+### Kullanıcı Deneyimi Geliştirmeleri
 
 #### Giriş ekranlarının yenilenmesi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.1.4 / LMC-2.1.1.3</mark>
 
@@ -83,7 +83,7 @@ Daha önce platformda tarayıcı logosu eski bir görsel ile temsil edilmekteydi
 
 ## **Sürüm 2.1.2 -** 21 Ocak 2025
 
-### 📈Satış Sonrası Hizmetler Geliştirmeleri
+### Satış Sonrası Hizmetler Geliştirmeleri
 
 #### İade nedeni ve açıklama bilgilerinin görüntülenmesi Sürüm Tarihi: 21/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.2.1 - LMC-2.1.2.1</mark>
 
@@ -91,7 +91,7 @@ Daha önce platformda tarayıcı logosu eski bir görsel ile temsil edilmekteydi
 
 ***
 
-### 🚚Teslimat Yönetimi İyileştirmeleri
+### Teslimat Yönetimi İyileştirmeleri
 
 #### Kargo etiketlerine sipariş numaralarının eklenmesi Sürüm Tarihi: 21/01/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.1.2.2</mark>
 
@@ -99,7 +99,7 @@ Partnerler, siparişlerini kargoya verirken oluşturdukları kargo etiketlerinde
 
 ***
 
-### 🌟Kullanıcı Deneyimi Geliştirmeleri
+### Kullanıcı Deneyimi Geliştirmeleri
 
 Yeni sol menü yapısı ve lisans tabanlı kullanıcı izinleri iyileştirmeleri\
 Sürüm Tarihi: 21/01/2025\
@@ -109,7 +109,7 @@ Kullanıcıların yalnızca atanmış lisans kapsamları dahilindeki yeteneklere
 
 ***
 
-### 💬Sosyal Yetenekler Geliştirmeleri
+### Sosyal Yetenekler Geliştirmeleri
 
 #### Yorum ve puanlama ekranlarının aktifleştirilmesi Sürüm Tarihi: 21/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.2.3</mark>
 
@@ -117,7 +117,7 @@ Yorum ve puanlama ekranları etkinleştirildi, böylece platform müşterilerini
 
 ***
 
-### 👥Kullanıcı Yönetimi Geliştirmeleri
+### Kullanıcı Yönetimi Geliştirmeleri
 
 #### Platform ve organizasyon rol ayrımı ile gelişmiş rol yönetimi Sürüm Tarihi: 21/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.2.4</mark>&#x20;
 
@@ -127,7 +127,7 @@ Platform genelindeki rolleri kuruluşa özgü rollerden ayırarak Roller sayfas�
 
 ***
 
-Bu güncellemeler, Lidia Platformu'nun işlevselliğini ve kullanılabilirliğini artırmak için tasarlanmıştır ve tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedeflemektedir. Gelecek ay daha fazla iyileştirme için bizi izlemeye devam edin!
+Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve müşteri ihtiyaçlarına uyum sağlamak ve sürdürülebilirliği artırmak için tasarlanmıştır. Tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedefliyoruz. Gelecek ay daha fazlası için bizi takip etmeye devam edin!
 
 
 

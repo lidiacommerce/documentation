@@ -51,28 +51,14 @@ _Yetkilendirme bölümünde Kullanıcılar ve Roller olmak üzere iki kategori b
 \
 Kullanıcılar sayfasında, console'u kullanacak kullanıcılarımızın listesi görüntülenir. Kullanıcılar bölümünde eklenmiş kullanıcılar detay sayfalarında görüntülenebilir; orada güncellenebilir, kullanıcı silinebilir, liste içerisinde durumuna göre listelenebilir ve ID'si, ismi ve rollerine göre arama bölümünden arama yapılabilir.
 
-<figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 11.25.14.png" alt=""><figcaption><p>Kullanıcılar</p></figcaption></figure>
-
-
-
-Kullanıcıların detay sayfalarındaki Yetkiler bölümünde console yöneticileri platforma tanımladıkları kullanıcılarının yetkilerini kısıtlayabilir veya belirleyebilir. Ayrıca detay sayfalarında kullanıcının durumu değiştirilebilir.
-
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.12.09.png" alt=""><figcaption><p>Detay</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.12.18.png" alt=""><figcaption><p>Kullanıcı temel bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.12.27.png" alt=""><figcaption><p>Kullanıcı Yetkiler</p></figcaption></figure></div>
-
+Kullanıcıların detay sayfalarındaki Yetkiler bölümünde console yöneticileri platforma tanımladıkları kullanıcılarının yetkilerini kısıtlayabilir veya belirleyebilir. Ayrıca detay sayfalarında kullanıcının durumu değiştirilebilir.\
 \
-\
-Kullanıcı detay sayfalarında kullanıcıya özel etiket eklenebilir.&#x20;
-
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.12.18 (2).png" alt=""><figcaption><p>Kullanıcı detay</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.14.33.png" alt=""><figcaption><p>Etiket ekle</p></figcaption></figure></div>
-
-\
+Kullanıcı detay sayfalarında kullanıcıya özel etiket eklenebilir. \
 
 
 Roller sayfasında ise belirlenen roller ve bunları kullanan aktif kullanıcı sayısı görüntülenebilir; yeni rol eklenebilir. Adminler de rol olarak belirlenebilir ve düzenlenebilir; sayfalardaki yetkileri düzenlenebilir. Ayrıca pasif olan roller de silinebilir.
 
 <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 12.59.45.png" alt=""><figcaption><p>Roller</p></figcaption></figure>
-
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 14.56.45.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 14.57.35.png" alt=""><figcaption><p>Kullanıcılar</p></figcaption></figure></div>
 
 Roller sayfasında role ait temel bilgileri, verilen yetkileri ve role sahip kullanıcıları listeleyebilirsiniz.&#x20;
 
@@ -98,11 +84,11 @@ Sorumluların detayında sorumlunun temel bilgilerini ve yasal dökümanlarını
 
 Yasal Dökümanlar sayfalarında sorumlunun yasal dökümanlarını listeleyebilirsiniz ve sorumlu için yeni döküman ekleyebilirsiniz.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.22.36 (1).png" alt=""><figcaption><p>Yasal Dökümanlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.26.00.png" alt=""><figcaption><p>Yeni ekle</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.26.38.png" alt=""><figcaption><p>Yeni ekle</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.26.00.png" alt=""><figcaption><p>Yeni ekle</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.26.38.png" alt=""><figcaption><p>Yeni ekle</p></figcaption></figure></div>
 
 Ayrıca listelenen dökümanların detaylarına gidilebilir, dökümanlar silinebilir ve dökümanlar detay sayfalarında düzenlenebilir ve durumu değiştirilebilir.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.26.47.png" alt=""><figcaption><p>Döküman detayı</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.27.01.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.27.13.png" alt=""><figcaption><p>Sürüm Geçmişi</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.27.01.png" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-11-07 15.27.13.png" alt=""><figcaption><p>Sürüm Geçmişi</p></figcaption></figure></div>
 
 
 
@@ -173,12 +159,6 @@ Seçenekler bölümünde sağlayıcıların seçenekleri yer alır ve yeni seçe
 Entegrasyon bilgileri bölümünde;
 
 <div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.31.43.png" alt=""><figcaption><p>Entegrasyon Bilgileri</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.32.35.png" alt=""><figcaption><p>Canlı ortam</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.32.54.png" alt=""><figcaption><p>Test ortamı</p></figcaption></figure></div>
-
-
-
-İşlemler;&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 20.46.46.png" alt=""><figcaption><p>İşlemler</p></figcaption></figure>
 
 
 
@@ -268,8 +248,6 @@ _Seçenekler_
 
 Ödeme seçenekleri bölümünde seçenekler listelenir.Bu sayfada yeni bir ödeme seçeneği eklenebilir, seçenek olarak filtrelenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden ödeme seçeneği de filtrelenebilir.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.23.10.png" alt=""><figcaption><p>Seçenekler</p></figcaption></figure>
-
 Yeni bir seçenek eklemek için "yeni seçenek" ekle diyerek, ödeme seçeneği ekleyebilirsiniz.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.40.49.png" alt=""><figcaption><p>Seçenek ekle</p></figcaption></figure>
@@ -286,17 +264,11 @@ _BIN kodları_
 
 BIN Kodları bölümünde BIN kodları listelenir.Bu sayfada yeni bir BIN kodu eklenebilir, durumuna göre listelenebilir veya sıralama seçeneklerinden araç olarak da filtrelenebilir.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.24.12.png" alt=""><figcaption><p>BIN Kodları</p></figcaption></figure>
-
 Yeni bir BIN Kodu eklemek için "yeni BIN kodu" ekle diyerek, BIN kodu ekleyebilirsiniz.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.47.51.png" alt=""><figcaption><p>Yeni BIN kodu ekle</p></figcaption></figure>
 
 BIN kodları listeleme ekranlarında herbir satırdaki ikon aracılığı aynı satırda bir BIN kodu silinebilir.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 21.49.28.png" alt=""><figcaption><p>BIN kodları</p></figcaption></figure>
-
-
 
 
 
@@ -389,15 +361,11 @@ Ticari bölümünde ürünlere, ürün ailelerine ve kategorilere vb. Alanlara y
 
 Belirlenen ürün özelliği veya kategorilere ait komisyon oranlarının listelenebildiği ve düzenlenebildiği bölümdür.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 115149.png" alt=""><figcaption><p>Komisyon Oranları</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 115619.png" alt=""><figcaption><p>Komisyon Düzenleme ve Silme</p></figcaption></figure></div>
-
 Komiyon kuralı, sağ üstte bulunan "Yeni Komisyon Ekle" butonu ile yeni komisyon eklenebilir. Oluşturulan kayıtlar listeleme sayfasında bulunan düzenle seçeneği ile komisyon değerleri düzenlenebilirken, silme seçeneği ile de listeden kaldırılabilir.
 
 > Komisyon Kuralları
 
 Belirlenen ürün özelliği, kategorilere veya satıcılara yönelik komisyon oranlarının belirlendiği bölümdür.&#x20;
-
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 120225.png" alt=""><figcaption><p>Komisyon Kuralları</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-25 120320.png" alt=""><figcaption><p>Komisyon Kuralı Ekleme</p></figcaption></figure></div>
 
 Yeni komisyon kurallı ekleyerek koşul olarak satıcı seçilebilir ve komisyon değeri belirlenebilir.
 
@@ -557,19 +525,13 @@ _**Organizasyonlar, “Bayiler”, “Başvurular”, “Üye İş Yerleri”, �
 
 Başvurular sayfası, platforma yeni katılmak isteyen üye işyerlerinin veya bayilerin başvurularının yönetildiği alandır.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 151822.png" alt=""><figcaption><p>Başvurular Sayfası</p></figcaption></figure>
-
 Başvurular sayfasında, yapılan başvurular listelenebilir ve detayına giderek incelemeler yapılabilir. Durum sütunu sayesinde yapılan başvurunun ne durumda olduğu gözlemlenebilir.
 
 ### Üye İşyerleri
 
 Üye İşyerleri sayfası, platformda faaliyet gösteren mevcut üye işyerlerinin yönetildiği alandır.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152054.png" alt=""><figcaption><p>Üye İşyerleri</p></figcaption></figure>
-
 Console yöneticileri, üye işyeri listeleme sayfasından detaya giderek mağazaya yönelik bilgileri, satış grafiğini ve mağaza performansını görüntüleyebilirler.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152249.png" alt=""><figcaption><p>Üye İşyeri Detay Sayfası</p></figcaption></figure>
 
 ### Müşteriler
 
@@ -579,13 +541,11 @@ Müşteriler sayfası, platforma kayıtlı olan müşterilerin yönetildiği ala
 
 Bayiler sayfası, platformda faaliyet gösteren bayilerin yönetildiği alandır.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152714.png" alt=""><figcaption><p>Bayiler Sayfası</p></figcaption></figure>
-
 ### Tüm Organizasyonlar
 
 Tüm Organizasyonlar sayfası, platformda yer alan tüm organizasyonların toplu olarak görüntülendiği ve yönetildiği alandır.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 152942.png" alt=""><figcaption><p>Tüm Orgnaizasyonlar</p></figcaption></figure>
+
 
 ## Müşteri Yönetimi
 
@@ -595,8 +555,6 @@ Müşteri Yönetimi menüsü, müşterilerin ve müşteri ilişkilerinin yöneti
 
 Müşteriler sayfası, platforma kayıtlı olan müşterilerin bilgilerinin görüntülendiği ve yönetildiği alandır. Listelenen bir müşteri detayına tıklayarak; [Temel Bilgi](https://stage-console.nevade.com/identity/users/55091#tab_info), [Teslimat Adresleri](https://stage-console.nevade.com/identity/users/55091#tab_adresses), [Fatura Adresleri](https://stage-console.nevade.com/identity/users/55091#tab_billingInfo), [Siparişler](https://stage-console.nevade.com/identity/users/55091#tab_orders), [Ödemeler](https://stage-console.nevade.com/identity/users/55091#tab_transactions), [İzinler verilerine ulaşabilir ve düzenleyebiliriz.](https://stage-console.nevade.com/identity/users/55091#tab_consents)
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 153718.png" alt=""><figcaption><p>Müşteriler Sayfası</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 153443.png" alt=""><figcaption><p>Müşteri Detay Sayfası</p></figcaption></figure></div>
-
 ### İzinler
 
 İzinler sayfası, müşterilere ve kullanıcılara tanımlanan izinlerin yönetildiği alandır. Bu izinler; “SMS” ve “Mail” atılması ile ilgili izinleri içerir.
@@ -605,7 +563,7 @@ Müşteriler sayfası, platforma kayıtlı olan müşterilerin bilgilerinin gör
 
 Referans kodu, müşterilere yönelik referans olunabilecek kodların tanımlandığı yerdir. Console yöneticileri mevcut eklenmiş referans kodlarını listeleyebilir ve detaya giderek geçerlilik tarihlerini düzenleyebilirler.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 154435.png" alt=""><figcaption><p>Referanslar Sayfası</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 154540.png" alt=""><figcaption><p>Referans Kod Detay </p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-07-29 154540.png" alt=""><figcaption><p>Referans Kod Detay </p></figcaption></figure>
 
 ## Katalog
 
@@ -630,8 +588,6 @@ Console yöneticileri, havuzlarda merchantlar tarafından onaya gönderilen ür�
 Onaylanan ürünleri listeleyen yöneticiler, yayınlamak istedikleri ürünleri seçerek "Seçilen Ürünleri Yayınla" seçeneği ile ürünleri yayına alabilirler. Aynı zamanda yöneticiler "Seçilen ürünleri onaydan geri çek" seçeneği ile ürünleri tekrar onay bekleyenler sayfasına alabilirler.
 
 Reddedilen ürünler merchant tarafında reddedilen ürünler olarak görüntülenir ve merchantlar ürünlerde düzenleme işlemleri yaptıktan sonra tekrar onaya gönderebilirler.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 104847.png" alt=""><figcaption><p>Yayındakiler Sayfası</p></figcaption></figure>
 
 ### Kategoriler
 
@@ -689,8 +645,6 @@ Envanter Yönetimi sayfası, platformda yer alan ürünlerin mağaza, stok ve en
 
 Mağazalar sayfası, platformda yer alan fiziksel veya sanal mağazaların yönetildiği alan iken Depolar sayfası ise platformda yer alan depoların yönetildiği alandır. Console yöneticileri “Yeni Mağaza Ekle” diyerek depo kodu bilgisi ile yeni mağaza oluşturabiliriz.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 123740.png" alt=""><figcaption><p>Mağazalar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 123855.png" alt=""><figcaption><p>Depolar</p></figcaption></figure></div>
-
 ### Fiyat ve Stok
 
 Fiyat ve Stok sayfası, ürünlerin verilerinin ve depolar ile mağazalara ait stok bilgilerinin yönetildiği alandır. Console yöneticileri, listeleme ekranında ilgili ürüne ait stok durumlarını ve fiyat bilgilerini görüntüleyebilirler.&#x20;
@@ -721,13 +675,9 @@ Sayfalar bölümü, web sitesinde yer alan sayfaların görüntülendiği ve dü
 
 Yönlendirmeler (Linkler) sayfası, web sitesi ve platform üzerindeki yönlendirmelerin (URL yönlendirmeleri) yönetildiği alandır. Örneğin; eski bir sayfaya ait URL, yeni bir sayfaya atanabilir.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 141616.png" alt=""><figcaption><p>Yönlendirmeler</p></figcaption></figure>
-
 ### Menüler
 
 Menüler sayfası, web sitesindeki sayfalardaki Header ve Footer gibi alanlarda bulunan Menülerin ve içeriklerinin yönetildiği alanlardır.
-
-<div><figure><img src="../../../.gitbook/assets/menü.png" alt=""><figcaption><p>Menüler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 142327.png" alt=""><figcaption><p>Menü Düzenleme Sayfası</p></figcaption></figure></div>
 
 ### Vitrinler
 
@@ -735,13 +685,13 @@ Vitrinler sayfası, web sitesinde öne çıkarılan ürünlerin veya içerikleri
 
 <figure><img src="../../../.gitbook/assets/menü (1).png" alt=""><figcaption><p>Vitrinler </p></figcaption></figure>
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144137.png" alt=""><figcaption><p>Vitrin Bilgileri</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144154.png" alt=""><figcaption><p>Vitrin Sayfaları</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144154.png" alt=""><figcaption><p>Vitrin Sayfaları</p></figcaption></figure>
 
 ### Bloklar
 
 Bloklar sayfası, web sitesinde yer alan örneğin; “300 TL Altına Taksit Seçeneği Yok” gibi içerik bloklarının yönetildiği alandır.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144506.png" alt=""><figcaption><p>Bloklar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144552.png" alt=""><figcaption><p>Blok düzenleme Sayfası</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-01 144552.png" alt=""><figcaption><p>Blok düzenleme Sayfası</p></figcaption></figure>
 
 ### Özel Nesneler
 
@@ -757,11 +707,7 @@ Console üzerinde ürün verisi ile eşleştirilebilecek aşağıdaki medya öge
 * Ürün dosyaları
 * Ürün videoları
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 104757.png" alt=""><figcaption><p>Medya Yönetimi Sayfası</p></figcaption></figure>
-
 Medya listesi bölümünde kullanıcılar, önceden yüklenmiş medya verilerini listeleyebilirler.
-
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.21.39.png" alt=""><figcaption><p>Medya Düzenleme </p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 19-07-2024 16.22.08.png" alt=""><figcaption><p>Kullanım Alanları </p></figcaption></figure></div>
 
 Medya listesinde kullanıcılar, detay ekranına giderek medya verilerini ve ilgili tanımlanmış kullanım alanlarını görüntüleyebilirler.
 
@@ -773,7 +719,7 @@ Toplu Yükleme sayfası, birden fazla medya dosyasının aynı anda yüklenmesin
 
 Toplu doküman yüklemek için veri tipini seçerek ilgili veriler platforma yüklenmelidir. Devam et butonu ile veri kontrol aşamasına geçildikten sonra tekrar veri ekleyebilir ya da işlem tamamlanabilir.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105528.png" alt=""><figcaption><p>Görseller</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105553.png" alt=""><figcaption><p>Dökümanlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105627.png" alt=""><figcaption><p>Videolar</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105553.png" alt=""><figcaption><p>Dökümanlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 105627.png" alt=""><figcaption><p>Videolar</p></figcaption></figure></div>
 
 * Ürün görselleri bölümünde; yüklenmiş olan görseller görüntülenebilir ve dosyalanabilir.
 * Ürün dosyaları bölümünde; yüklenmiş olan .docx veya .pdf formatında dokümanların görüntülendiği veya dosyalanabildiği ekrandır.
@@ -787,16 +733,14 @@ Pazarlama Yönetimi menüsü, platformda gerçekleştirilen Kampanya ve Kuponlar
 
 Kampanyalar sayfası, belirli kampanyaların oluşturulduğu ve yönetildiği alandır. Örneğin; oluşturulan bir kampanyayı görüntüleyerek, kampanya koşullarını, kitlesi, miktar ve ödül kriterlerini belirleyebiliriz.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 151343.png" alt=""><figcaption><p>Kampanyalar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 151441.png" alt=""><figcaption><p>Yeni Kampanya Ekle</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 151441.png" alt=""><figcaption><p>Yeni Kampanya Ekle</p></figcaption></figure>
 
 Kampanyalar sayfasında console yöneticileri, kayıtlı tüm kampanyaları listeleyebilir. Kampanyaları detaylı sınıflandırılması için sayfada bulunan tab'ler kullanılabilir;
 
 * Tümü; Kayıtlı olan, aktif/pasif tüm kampanyaların görüntülendiği sayfadır.
 * Yayında olanlar; tarihi sona ermemiş ve pasif durumunda olan kampanyaların listelendiği sayfadır.
 * Yayında olmayanlar; kullanıcı tarafından pasif veya donduruldu durumunda olan kampanyaların listelendiği sayfadır.
-* Süresi dolanlar; tarihi sona ermiş ve sistem tarafından pasif durumunda olan kampanyaların listelendiği sayfadır.
-
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152359.png" alt=""><figcaption><p>Yayında Olanlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152422.png" alt=""><figcaption><p>Yayında Olmayanlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152442.png" alt=""><figcaption><p>Süresi Dolanlar</p></figcaption></figure></div>
+* Süresi dolanlar; tarihi sona ermiş ve sistem tarafından pasif durumunda olan kampanyaların listelendiği sayfadır
 
 Console yöneticileri, kampanya detayına giderek; kampanya performansları, kitle, koşul/ ödüller, kurallar, ayarlar, kampanya özellikleri, sayfa yönetimi, SEO bilgileri ve sayfa adresleri gibi alanları yönetebilir ve düzenleyebilirler.
 
@@ -806,7 +750,7 @@ Console yöneticileri, kampanya detayına giderek; kampanya performansları, kit
 
 Kuponlar sayfası, indirim kuponlarının oluşturulduğu ve yönetildiği alandır. Örneğin; console yöneticileri, belirlenen miktarda bir satış yapılması koşulu belirleyerek satış sonrası kupon oluşmasını sağlayabilirler.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 152912.png" alt=""><figcaption><p>Kuponlar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153123.png" alt=""><figcaption><p>Yeni Kupon Ekleme</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153123.png" alt=""><figcaption><p>Yeni Kupon Ekleme</p></figcaption></figure>
 
 Kuponları detaylı sınıflandırılması için sayfada bulunan tab'ler kullanılabilir;
 
@@ -814,11 +758,7 @@ Kuponları detaylı sınıflandırılması için sayfada bulunan tab'ler kullan�
 * Pasif; pasif durumunda olan kuponların listelendiği sayfadır.
 * Süresi dolmuş; tarihi sona ermiş ve sistem tarafından pasif durumunda olan kuponların listelendiği sayfadır.
 
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153445.png" alt=""><figcaption><p>Pasif </p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153500.png" alt=""><figcaption><p>Süresi Dolmuş</p></figcaption></figure></div>
-
 Console yöneticileri, kupon detayına giderek; kupon gösterge paneline erişebilir ve koşul/ ödüller, kupon kodları, genel ayarlar ve maliyet ayarları gibi alanları yönetebilir ve düzenleyebilirler.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-02 153809 (1).png" alt=""><figcaption><p>Kupon Düzenleme Sayfası</p></figcaption></figure>
 
 ## Hedef Yönetimi
 
@@ -839,8 +779,6 @@ Satış Yönetimi menüsü, platformdaki satış süreçlerinin gözlemlendiği 
 ### Siparişler
 
 Siparişler sayfası, müşterilerin verdiği siparişleri ve bu siparişlere ait durumları görüntüleyebildiğimiz alandır. Console yöneticileri siparişlerin detaylarını görüntüleyerek ödeme kanalı ve miktarı gibi verilere ulaşabilirler.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 103552.png" alt=""><figcaption><p>Sipariş Yönetimi</p></figcaption></figure>
 
 Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre consolemlisteleme ekranlarında değişir;
 
@@ -870,27 +808,17 @@ Sipariş durumları merchant'ın siparişleri için aldığı kararlara göre co
 
 Console yöneticileri sipariş detayına giderek; "Sipariş Özeti", "Sipariş Hesap Dökümü", "Sipariş İçeriği", "Ödeme Bilgileri" ve "Müşteri Bilgilerini" görüntüleyebilirler.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 133244.png" alt=""><figcaption><p>Özet Bilgi ve Müşteri Bilgisi</p></figcaption></figure>
-
 Özet bilgide müşteri adı ve mail adresi ile birlikte; sipariş numarası, sipariş tarihi, tutarı ve sipariş durumu görüntülenir. Ayrıca sağ tarafta bulunan müşteri bilgisi paneli ile adres bilgileri ve ilgili müşterinin gerçekleştirmiş olduğu sipariş sayıları belirtilir.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 133927.png" alt=""><figcaption><p>Sipariş Hesap Dökümü</p></figcaption></figure>
 
 Sipariş hesap dökümü ile console yöneticileri, siparişe ait gelir ve maliyetleri görüntüleyebilir.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 134150.png" alt=""><figcaption><p>Sipariş İçeriği</p></figcaption></figure>
-
 Sipariş içeriği bölümünde siparişe ait ürün verileri ile birlikte console yöneticileri, sipariş hareketleri alanında işlem adımlarını ve tarihlerini görüntüleyebilirler.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 134417.png" alt=""><figcaption><p>Ödeme Bilgileri</p></figcaption></figure>
 
 Ödeme bilgileri bölümünde ödeme yöntemi, ödeme aracı ve ödeme tutarı gösterilir.
 
 ### Teslimat Yönetimi
 
 Teslimat Yönetimi menüsü, platformdaki teslimat süreçlerinin görüntülendiği bölümdür.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 162446.png" alt=""><figcaption><p>Teslimat Yönetimi</p></figcaption></figure>
 
 Teslimatlar sayfasında console yöneticileri teslimatlara ait; ilgili sipariş id'si, alıcı adı soy adı, adres ve teslimat durumlarının bilgilerini listeleyebilirler.
 
@@ -910,8 +838,6 @@ Console yöneticileri teslimat detayı sayfası ile teslimatlara ait bilgileri d
 ### Talepler
 
 Talepler sayfası, müşterilerden gelen “İptal” ya da “İade” taleplerinin görüntülendiği alandır.
-
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 165453.png" alt=""><figcaption><p>Talepler </p></figcaption></figure>
 
 Console yöneticileri platform müşterilerinin, teslimat ve siparişler için taleplerini listeleyebilirler aynı zamanda ilgili talep detaylarına giderek; sipariş bilgileri, talep bilgileri ve talebi onaylanan ürünler gibi bilgileri inceleyebilirler.
 
@@ -943,8 +869,6 @@ Console yöneticileri platform müşterilerinin, teslimat ve siparişler için t
 
 Çözüm Merkezi iletişim sayfası, müşteri taleplerinin yönetildiği alandır. Fatura talebi, iptal ve iade gibi talepleri bulunan müşterilerin ve bu müşterilere ait verilerin listelendiği alandır.
 
-<figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 175058.png" alt=""><figcaption><p>İletişim Sayfası</p></figcaption></figure>
-
 ## Sosyal Yetenekler
 
 ### Kullanıcı Listeleri
@@ -964,8 +888,6 @@ Kullanıcı Listeleri sayfası, platformdaki kullanıcıların listelendiği ve 
 ### Para İadeleri
 
 Para İadeleri sayfası, müşterilerden gelen iade taleplerinin ve bu taleplerin durumlarının görüntülendiği alandır.
-
-<div><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 180835.png" alt=""><figcaption><p>Para İadeleri</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2024-08-06 180953.png" alt=""><figcaption><p>Para İade Detayı</p></figcaption></figure></div>
 
 Console yöneticileri iade talepleri için oluşturulan para iadelerini detayına giderek onaylama ve reddetme işlemlerini gerçekleştirebilirler.
 
