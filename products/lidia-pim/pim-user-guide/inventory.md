@@ -33,5 +33,3 @@ The **Price Lists** page displays all available pricing lists in the system and 
 * **Name**: The descriptive name of the price list.
 * **Code**: Short code representation of the price list.
 * **Status**: Indicates if the price list is **active** or inactive.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_priceLists.png" alt=""><figcaption><p>Price Lists</p></figcaption></figure>

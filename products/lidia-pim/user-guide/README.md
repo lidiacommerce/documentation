@@ -28,9 +28,8 @@ Welcome to the **Lidia PIM User Guide**! This guide provides comprehensive docum
 
 
 
-| **Section**                                                                             | **Subsection**                | **Description**                                                     |
-| --------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------- |
 | [**Getting Started**](../pim-user-guide/getting-started.md)                             | Introduction                  | Introduction to Lidia PIM and its key functionalities.              |
+| --------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------- |
 |                                                                                         | Homepage                      | Overview of the main dashboard and its components.                  |
 |                                                                                         | Left menu navigation          | Explanation of the primary navigation menu structure.               |
 |                                                                                         | Account information           | Managing user account details and preferences.                      |

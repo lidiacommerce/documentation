@@ -24,10 +24,6 @@ The **Pools** section allows users to create **product groups** by defining spec
 
 Example: A **"Bathroom Accessories"** pool might contain related categories like **mirrors, soap dispensers, and towel holders.**
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_datapools (2).png" alt=""><figcaption><p>Data Pools</p></figcaption></figure>
-
-***
-
 ### **Categories**
 
 The **Categories** section enables users to classify products into **hierarchical groups** for better organization.
@@ -50,10 +46,6 @@ Example Category Structure:
 
 Categories ensure that **products are well-organized and easy to find**, improving usability for both customers and administrators.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_categories (1).png" alt=""><figcaption><p>Categories</p></figcaption></figure>
-
-***
-
 ### **Trademarks**
 
 The **Trademarks** section is responsible for managing **brands and manufacturers** associated with products.
@@ -71,10 +63,6 @@ Example:
   * Products: Galaxy Phones, Smart TVs, Refrigerators
 
 This section helps maintain **brand identity and consistency** across the product catalog.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_trademarks (1).png" alt=""><figcaption><p>Trademarks</p></figcaption></figure>
-
-***
 
 ### **Lists**
 
@@ -111,10 +99,6 @@ The **Products** section is where all **product information** is stored and mana
 
 This section ensures that **products are structured and enriched with relevant data** for sales and marketing.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_products (2).png" alt=""><figcaption><p>Products</p></figcaption></figure>
-
-***
-
 ### **Variants**
 
 The **Variants** section manages **product variations** such as **different sizes, colors, or materials**.
@@ -132,5 +116,3 @@ Example:
   * Variant 3: Size 11, Black
 
 The **Variants** section helps streamline **product customization and inventory management.**
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_variants.png" alt=""><figcaption><p>Variants</p></figcaption></figure>

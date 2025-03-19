@@ -35,9 +35,7 @@ Each feed contains:\
 **Product Count** – The number of products included in the feed.\
 **Status** – Indicates whether the feed is active or inactive.
 
-Users can add **new feeds** by clicking on the **"Add New Feed"** button.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_Feeds (4).png" alt=""><figcaption><p>Feed Management</p></figcaption></figure>
+Users can add **new feeds** by clicking on the **"Add New Feed"** button
 
 ***
 
@@ -52,8 +50,6 @@ When creating or editing a feed, users can define several key parameters:
 * **Feed Format:** The data format used for integration (e.g., JSON, XML).
 * **Access Control:** Manage authorization and access settings for the feed.
 * **Feed URL:** The endpoint for retrieving product data.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_feed_81.png" alt=""><figcaption><p>Feed Configuration</p></figcaption></figure>
 
 ### **Filtering Data for Feeds**
 

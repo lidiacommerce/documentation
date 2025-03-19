@@ -33,9 +33,7 @@ The **Audit Logs** section displays a **detailed history of system events**, all
 
 These logs enable **administrators and auditors** to **review historical changes** and ensure **compliance with internal policies and external regulations**.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_auditlogs.png" alt=""><figcaption><p>Audit Report</p></figcaption></figure>
-
-## **Features & Functionality**
+### **Features & Functionality**
 
 * **Search & Filter Options**
   * Users can **filter logs based on event type, entity type, or specific entity IDs**.

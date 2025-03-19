@@ -4,7 +4,7 @@ description: Lidia Commerce ürün ailesine ait Lidia PIM ürününün Türkçe 
 
 # Turkish
 
-## Başlarken
+Başlarken
 
 Başlamak için [https://pim.lidiacommerce.com/](https://pim.lidiacommerce.com/) adresini ziyaret edin. Giriş ekranı ile karşılaşacaksınız. Size atanmış e-posta ve şifre ile giriş yapabilirsiniz.\
 Giriş yaptıktan sonra ana sayfaya yönlendirileceksiniz.
@@ -25,10 +25,6 @@ Ana sayfa aşağıdaki bölümlerden oluşur:
 * **Kanallar ve Akışlar**: Ürün verilerinin e-ticaret siteleri, pazar yerleri ve diğer üçüncü taraf sistemlere aktarılmasını yönetir. Kullanıcılar kanalları yapılandırabilir ve veri akışlarını otomatikleştirmek için ayarlamalar yapabilir.
 
 Bu yapı, kullanıcıların ürün bilgilerini ve dağıtım süreçlerini daha verimli yönetmesine yardımcı olur.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_ (2).png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
-
-***
 
 ### Sol Menü
 
@@ -200,10 +196,6 @@ Her bildirim aşağıdaki detayları içerir:
 
 * Kullanıcılar tüm bildirimleri **okundu olarak işaretleyerek** bildirim ekranını temizleyebilirler.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_notifications.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ### **Bildirim Ayarları Sayfası**
 
 **Bildirim Ayarları Sayfası**, kullanıcıların hangi tür bildirimleri almak istediklerini seçmelerini sağlar. Mevcut bildirim kategorileri şunlardır:
@@ -245,8 +237,6 @@ Her bildirim aşağıdaki detayları içerir:
 
 * Kullanıcılar tercih ettikleri bildirim ayarlarını **Kaydet** düğmesi ile onaylayabilirler.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_notifications_settings.png" alt=""><figcaption><p>Settings</p></figcaption></figure>
-
 Bu yapılandırılmış **bildirim sistemi**, kullanıcıların kritik güncellemeler hakkında bilgilendirilmesini sağlarken, bildirim tercihlerini özelleştirmelerine de olanak tanır. Böylece kullanıcılar gereksiz bildirimlerden kaçınarak yalnızca önemli güncellemelere odaklanabilirler.
 
 ## Organizasyon
@@ -271,8 +261,6 @@ PIM sistemindeki **Organizasyonum** bölümü, kullanıcıların organizasyonlar
   Şirket hakkında kısa bir açıklama sağlar.
 
 Kullanıcılar, yapılan değişiklikleri **Kaydet** veya **İptal** edebilirler.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_administration_organizations_myorganization (1).png" alt=""><figcaption><p>Organizastion Detail</p></figcaption></figure>
 
 ### **Abonelikler Sayfası**
 
@@ -319,8 +307,6 @@ Bu bölümlerin her biri, ürün bilgilerini yapılandırma ve yönetme sürecin
 **Örnek:**\
 &#xNAN;_&#x42;anyo Aksesuarları_ havuzu, aynalar, sabunluklar ve havluluklar gibi ilgili kategorileri içerebilir.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_datapools (2).png" alt=""><figcaption><p>Data Pools</p></figcaption></figure>
-
 ***
 
 ### **Kategoriler (Categories)**
@@ -345,8 +331,6 @@ Bu bölümlerin her biri, ürün bilgilerini yapılandırma ve yönetme sürecin
 
 Bu yapı, ürünlerin iyi organize edilmesini ve hem müşteriler hem de yöneticiler için kolay bulunmasını sağlar.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_categories (1).png" alt=""><figcaption><p>Categories</p></figcaption></figure>
-
 ***
 
 ### **Markalar (Trademarks)**
@@ -366,8 +350,6 @@ Bu yapı, ürünlerin iyi organize edilmesini ve hem müşteriler hem de yöneti
   * **Ürünler:** Galaxy Telefonlar, Akıllı TV’ler, Buzdolapları
 
 Bu bölüm, marka kimliğini ve tutarlılığını ürün kataloğunda korumaya yardımcı olur.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_trademarks (1).png" alt=""><figcaption><p>Trademarks</p></figcaption></figure>
 
 ***
 
@@ -408,8 +390,6 @@ Her ürün şu ana veri bölümlerini içerir:
 
 Bu bölüm, ürünlerin satış ve pazarlama için yapılandırılmasını ve zenginleştirilmesini sağlar.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_products (2).png" alt=""><figcaption><p>Products</p></figcaption></figure>
-
 ***
 
 ### **Varyantlar (Variants)**
@@ -429,8 +409,6 @@ Bu bölüm, ürünlerin satış ve pazarlama için yapılandırılmasını ve ze
   * **Varyant 3:** Beden 44, Siyah
 
 Bu bölüm, ürün özelleştirmelerini ve stok yönetimini kolaylaştırır.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_variants.png" alt=""><figcaption><p>Variants</p></figcaption></figure>
 
 ## Envanter
 
@@ -456,8 +434,6 @@ PIM sistemindeki **Envanter Yönetimi** bölümü, ürünle ilgili envanter deta
 
 Bu sayfa, fiyatlandırma stratejilerinin etkili bir şekilde yönetilmesini ve güncellenmesini sağlar.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_priceLists.png" alt=""><figcaption><p>Price Lists</p></figcaption></figure>
-
 ## Medya Yönetimi
 
 ### **Merkezi Varlık Yönetimi**
@@ -468,8 +444,6 @@ Lidia PIM’in DAM sistemi, tüm dijital varlıklar için **tek bir doğruluk ka
 * **Kategori ve klasör yapılandırması ile düzenli varlık yönetimi**
 * **Toplu yönetim yetenekleri** sayesinde birden fazla dosyanın aynı anda yüklenmesi ve işlenmesi
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_documents (1).png" alt=""><figcaption><p>Media List</p></figcaption></figure>
-
 ***
 
 ### **Toplu Medya Yükleme & Doğrulama**
@@ -477,8 +451,6 @@ Lidia PIM’in DAM sistemi, tüm dijital varlıklar için **tek bir doğruluk ka
 * Kullanıcılar **birden fazla varlığı aynı anda yükleyebilir**, böylece manuel işlemler azalır.
 * **Resim, video, belge ve özel dosya formatları desteklenir.**
 * **Dosya doğrulama mekanizmaları**, doğru dosya türlerini, boyutları ve kaliteleri kontrol ederek geçersiz yüklemeleri önler.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_import.png" alt=""><figcaption><p>Bulk Media Upload</p></figcaption></figure>
 
 ### **Medya Kategorileri & Organizasyon**
 
@@ -508,8 +480,6 @@ DAM modülü, **hiyerarşik klasör yapılandırmasını** destekleyerek şu ava
 * **Özel klasörler**, farklı **ürün serileri, markalar veya içerik türleri** için oluşturulabilir.
 * **Sürükle & bırak (Drag-and-drop) desteği**, dosyaları hızlı bir şekilde düzenlemeye olanak tanır.
 * **Rol bazlı erişim yönetimi**, farklı ekiplerin medya varlıklarını güvenli bir şekilde yönetmesini sağlar.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_media_imageexplorer.png" alt=""><figcaption><p>Folder Based Storage</p></figcaption></figure>
 
 ### **Dosya Yönetimi & Belge Takibi**
 
@@ -558,8 +528,6 @@ Her feed şu temel bilgileri içerir:
 
 Kullanıcılar **"Yeni Feed Ekle"** butonuna tıklayarak yeni bir feed oluşturabilirler.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_Feeds (4).png" alt=""><figcaption><p>Feed Management</p></figcaption></figure>
-
 ### **Feed Yapılandırması & Özelleştirme**
 
 Bir feed oluştururken veya düzenlerken, kullanıcılar aşağıdaki temel parametreleri belirleyebilir:
@@ -571,8 +539,6 @@ Bir feed oluştururken veya düzenlerken, kullanıcılar aşağıdaki temel para
 * **Feed Formatı:** JSON, XML gibi kullanılacak veri formatını belirleme.
 * **Erişim Kontrolü:** Feed için **yetkilendirme ve erişim ayarlarını** yönetme.
 * **Feed URL:** Ürün verilerinin alındığı uç nokta.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_PIM_feed_81.png" alt=""><figcaption><p>Feed Configuration</p></figcaption></figure>
 
 ### **Feed’ler İçin Veri Filtreleme**
 
@@ -613,8 +579,6 @@ Lidia PIM’deki **Denetim Raporu** sayfası, sistemde gerçekleştirilen tüm i
 
 Bu günlükler, **yöneticilerin ve denetçilerin sistemde yapılan geçmiş değişiklikleri incelemesini** ve **iç politikalar ile dış düzenlemelere uyumluluğun sağlanmasını** mümkün kılar.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_metadata_auditlogs.png" alt=""><figcaption><p>Audit Report</p></figcaption></figure>
-
 ### **Özellikler & İşlevsellik**
 
 #### **Arama & Filtreleme Seçenekleri**
@@ -634,4 +598,3 @@ Bu günlükler, **yöneticilerin ve denetçilerin sistemde yapılan geçmiş de�
 
 Bu sayfa, **sistem yönetimini ve güvenlik takibini** kolaylaştırarak Lidia PIM platformunun **güvenli, uyumlu ve izlenebilir bir şekilde çalışmasını** sağlar.
 
-4o

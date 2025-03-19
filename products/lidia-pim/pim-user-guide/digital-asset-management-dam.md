@@ -28,17 +28,11 @@ The DAM system within **Lidia PIM** acts as a **single source of truth** for all
 * **Categorization & Folder Structuring** for better asset organization.
 * **Bulk Management Capabilities** for uploading and handling multiple assets at once.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_documents (1).png" alt=""><figcaption><p>Media List</p></figcaption></figure>
-
-***
-
 ### **Bulk Media Upload & Validation**
 
 * Users can **upload multiple assets simultaneously**, reducing manual effort.
 * Supports **image, video, document, and custom file formats**.
 * **Validation mechanisms** ensure correct file types, dimensions, and quality.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_document_import.png" alt=""><figcaption><p>Bulk Media Upload</p></figcaption></figure>
 
 ### **Media Categories & Organization**
 
@@ -67,10 +61,6 @@ The DAM module supports **hierarchical folder structuring**, enabling:
 * **Custom folders** for different product lines, brands, or content types.
 * **Drag-and-drop functionality** for organizing files efficiently.
 * **Role-based access management** for different teams handling assets.
-
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_media_imageexplorer.png" alt=""><figcaption><p>Folder Based Storage</p></figcaption></figure>
-
-***
 
 ### **File Management & Document Handling**
 

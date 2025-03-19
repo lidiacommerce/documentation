@@ -14,7 +14,7 @@ layout:
 
 # Getting Started
 
-## Getting Started
+Getting Started
 
 To begin, visit [https://pim.lidiacommerce.com/](https://pim.lidiacommerce.com/). You will be greeted by the login screen, where you can log in using your assigned email and password.
 
@@ -37,9 +37,7 @@ The homepage consists of the following sections:
 
 This structure provides users with a comprehensive view of their product information and its distribution, ensuring efficient and accurate product data management.
 
-<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_ (2).png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
-
-## Left Menu
+### Left Menu
 
 The left menu contains sections for managing the PIM system.
 
