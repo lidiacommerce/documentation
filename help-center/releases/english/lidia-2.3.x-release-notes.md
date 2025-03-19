@@ -31,7 +31,7 @@ These codes help you track the specific areas of improvement across the platform
 
 #### **MNG Cargo - Service Provider Integration** **Release date :**  04/03/2025 **Version number :** <mark style="color:purple;">LC-2.3.1.1 - LMC-2.3.1.1</mark>
 
-\
+MNG Cargo was available among Lidia's logistics service providers, but its integration was outdated. With this enhancement, the MNG Cargo integration has been updated to the latest version, enabling the automatic transfer of orders. This allows e-commerce managers to add MNG Cargo to their delivery profiles and ensure that their sellers use MNG Cargo as a marketplace-contracted shipping provider.\
 
 
 
@@ -40,7 +40,7 @@ These codes help you track the specific areas of improvement across the platform
 
 #### Addition of export capability **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.2</mark>
 
-\
+Orders were listed and viewable on the orders page, but there was no option to export selected order rows. With this enhancement, selected order rows can now be exported in Excel format, including the displayed column data. This allows users to filter and select specific orders for bulk export.\
 
 
 \
@@ -52,13 +52,13 @@ These codes help you track the specific areas of improvement across the platform
 
 #### Missing Invoice Notifications **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.3</mark>
 
-
+If an invoice was not submitted during the order process, the system did not provide any notifications. With this enhancement, the system now detects the absence of an invoice and notifies users accordingly. This enables sellers to complete the required invoice submission and prevent errors in invoicing processes.
 
 
 
 #### Product Information in Order Details **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.4</mark>
 
-
+Barcode information for products was available on the order details page, but the seller's item code associated with the product was missing. With this enhancement, both the barcode and seller's item code have been added to the order, delivery, and request details. This allows sellers to access more detailed product information in order details.
 
 
 
@@ -70,7 +70,7 @@ These codes help you track the specific areas of improvement across the platform
 
 #### **Merchant Dashboard** **Release date :** 18/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.1</mark>
 
-
+Sellers could track their order and sales data through the system, but there was no dedicated dashboard. With this enhancement, the Merchant Dashboard has been introduced, allowing sellers to visualize their sales performance through graphical reports.
 
 
 
@@ -82,13 +82,13 @@ These codes help you track the specific areas of improvement across the platform
 
 #### Character limit added to invoice number field in the invoice upload modal **Release date :** 18/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.2</mark>
 
-
+During invoice upload, there was no character limit for the invoice number field, which could lead to data inconsistencies. With this enhancement, a 16-character limit has been introduced to prevent erroneous data entry. This ensures that users enter invoice numbers within the defined limit, preventing incorrect information from being stored.
 
 
 
 #### Copyable column values on listing pages **Release date : 18**/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.2.3</mark>
 
-
+Column values on listing pages were only viewable but could not be copied directly. With this enhancement, users can now copy column values from listing pages. This allows users to quickly and efficiently retrieve relevant information for use in other areas.
 
 
 

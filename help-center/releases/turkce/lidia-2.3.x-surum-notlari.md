@@ -31,8 +31,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 #### **MNG Kargo - Hizmet sağlayıcısı entegrasyonu** Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.3.1.1 - LMC-2.3.1.1</mark>
 
-\
-
+Lidia lojistik hizmet sağlayıcıları arasında MNG Kargo mevcuttu fakat entegrasyonu güncel değildi. Bu geliştirme ile MNG Kargo entegrasyonu son hali ile güncellendi ve siparişler otomatik olarak aktarılabilir hale getirildi. Bu sayede satış yapan e-ticaret yöneticileri, MNG Kargo’yu teslimat profillerine ekleyebilir ve satıcılarının satış süreçlerinde pazaryeri anlaşmalı kargo olarak MNG Kargo'yu kullanmasını sağlayabilir.
 
 
 
@@ -40,8 +39,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 #### **Dışarı aktarma yeteneğinin eklenilmesi** Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.1.2</mark>
 
-\
-
+Siparişler sayfasında siparişler listelenip görüntülenebiliyordu fakat seçili sipariş satırlarını dışarı aktarma özelliği mevcut değildi. Bu geliştirme ile seçili sipariş satırları, listelenen sütun bilgileri ile birlikte Excel formatında dışa aktarılabilir. Bu sayede belirli filtreler ile seçilen siparişler topluca seçilip dışarı aktarılabilir.
 
 \
 
@@ -52,15 +50,13 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 #### Eksik Fatura Bilgilendirmeleri Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.1.3</mark>
 
-\
-Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve geliştirildi:
+Sipariş süreçlerinde fatura bilgileri eksik ise sistem tarafından herhangi bir uyarı verilmiyordu. Bu geliştirme ile eksik fatura bilgileri sistem tarafından kontrol edilerek kullanıcıya bildirim verilmeye başlandı. Bu sayede göndericiler eksik bilgileri tamamlayarak fatura süreçlerinde yaşanan hataları önleyebilmektedir.
 
 
 
-#### Sipariş Detayda Ürün Bilgilendirmeleri Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.1.4</mark>
+#### Sipariş, Teslimat ve Talep Detayda Ürün Bilgilendirmeleri Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.1.4</mark>
 
-\
-Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve geliştirildi:
+Sipariş detay sayfasında ürünlere ait barkod bilgisi mevcuttu fakat ürüne bağlı satıcı eşya kodu bilgisi mevcut değildi. Bu geliştirme ile sipariş, teslimat ve talep detaylarında ürünün hem barkodu hem de satıcı eşya kodu bilgileri eklenmiştir. Bu sayede göndericiler sipariş detaylarında ürünlere dair daha fazla bilgiye ulaşabilir.
 
 
 
@@ -72,9 +68,7 @@ Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve
 
 #### **Merchant Dashboard** Sürüm Tarihi: 18/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.2.1</mark>
 
-
-
-
+Satıcılar sipariş ve satış verilerini sistem üzerinden takip edebiliyordu fakat özel bir dashboard bulunmuyordu. Bu geliştirme ile Merchant Dashboard oluşturularak satıcıların satış performanslarını görselleştirilmiş grafikler ile görüntüleyebilmesi sağlandı.&#x20;
 
 
 
@@ -84,13 +78,13 @@ Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve
 
 #### Fatura yükleme modalında fatura numarası alanına karakter sınırı eklenilmesi Sürüm Tarihi: 18/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.2.2</mark>
 
-
+Fatura yükleme sırasında fatura numarası alanına girilen karakter sayısı kontrol edilmediğinden veri tutarsızlıkları yaşanabiliyordu. Bu geliştirme ile fatura numarası alanına 16 karakterlik bir sınır eklenerek hatalı veri girişi önlendi. Bu sayede kullanıcılar, belirlenen sınır dahilinde fatura numarası girebilmekte ve fatura numarasında hatalı bilgi tutulması engellenmektedir.
 
 
 
 #### Listeleme sayfalarında sütun değerlerinin kopyalanabilmesi Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.2.3</mark>
 
-
+Listeleme sayfalarında sütun değerleri yalnızca görüntülenebiliyor ancak doğrudan kopyalanamıyordu. Bu geliştirme ile listeleme sayfalarındaki sütun değerlerinin kopyalanabilmesi sağlandı. Bu sayede kullanıcılar, ilgili bilgileri hızlı ve pratik bir şekilde alıp farklı alanlarda kullanabilir.
 
 
 
