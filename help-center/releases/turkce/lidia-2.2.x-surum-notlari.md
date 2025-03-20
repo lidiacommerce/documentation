@@ -23,11 +23,11 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ***
 
-### <mark style="background-color:purple;">**Sürüm 2.2.1 - 4 Şubat 2025**</mark>
+## <mark style="color:purple;">**Sürüm 2.2.1 - 4 Şubat 2025**</mark>
 
-### 🎯 Yeni Geliştirmeler
+### Yeni Geliştirmeler
 
-### **Teslimat Yönetimi Geliştirmeleri**
+### 🎯 **Teslimat Yönetimi Geliştirmeleri**
 
 #### Gelişmiş Teslimat Hareketleri Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.3 - LMC-2.2.1.4</mark>
 
@@ -39,9 +39,9 @@ Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrın
 
 
 
-### 💡 İyileştirmeler
+### İyileştirmeler
 
-### **Satış Yönetimi İyileştirmeleri**
+### 💡**Satış Yönetimi İyileştirmeleri**
 
 #### **Stopaj Uygulaması** Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.1 - LMC-2.2.1.1</mark>
 
@@ -54,7 +54,7 @@ Gönderi hareket bilgileri sisteme dahil edilerek, kullanıcıların daha ayrın
 * **Satış Raporları (Platform & Partner Panelleri)**: Stopaj kesintisi, dışa aktarılabilir (Excel) rapor formatlarına tam olarak dahil edilmiştir.
 * **Operasyon, Maliyet ve Kampanya Raporları**: Stopaj kesintisi ve net ödeme detayları kapsamlı bir şekilde gösterilmektedir.
 
-### **Kullanıcı Deneyimi İyileştirmeleri**
+### 💡**Kullanıcı Deneyimi İyileştirmeleri**
 
 #### **Özel Hata Sayfaları Uygulaması** Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.1.2 - LMC-2.2.1.2</mark>
 
@@ -73,19 +73,13 @@ Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileş
 
 
 
-### 🔍 **Hata Düzeltmeleri**
-
-* "Şifremi Unuttum" yönlendirmelerinin giriş sayfasında eksik olması sorunu çözüldü.
-* İade kodunun e-posta ile gönderilmemesi sorunu çözüldü.
-* Kullanıcıların yanlış şifre girildiğinde giriş ekranına yönlendirilmesi sorunu düzeltildi.
-
 ***
 
-## <mark style="background-color:purple;">**Sürüm 2.2.2 - 18 Şubat 2025**</mark>
+## <mark style="color:purple;">**Sürüm 2.2.2 - 18 Şubat 2025**</mark>
 
-### 🎯 Yeni Geliştirmeler
+### Yeni Geliştirmeler
 
-### Katalog Yönetimi Geliştirmeleri
+### 🎯 Katalog Yönetimi Geliştirmeleri
 
 #### **İçerisinde Ürün Olan Kategorilerin Yönetimi** Sürüm Tarihi: 02/18/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
 
@@ -102,13 +96,20 @@ Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileş
 
 <figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
 
-### 🔍 **Hata Düzeltmeleri**
-
-* Tüm listelemelerde silinen öğelerin listelenmesi ile ilgili sorunlar giderildi.
-
 
 
 ***
+
+{% hint style="info" %}
+### **Hata Düzeltmeleri**
+
+* Tüm listelemelerde silinen öğelerin listelenmesi ile ilgili sorunlar giderildi.
+* "Şifremi Unuttum" yönlendirmelerinin giriş sayfasında eksik olması sorunu çözüldü.
+* İade kodunun e-posta ile gönderilmemesi sorunu çözüldü.
+* Kullanıcıların yanlış şifre girildiğinde giriş ekranına yönlendirilmesi sorunu düzeltildi.
+{% endhint %}
+
+
 
 Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve müşteri ihtiyaçlarına uyum sağlamak ve sürdürülebilirliği artırmak için tasarlanmıştır. Tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedefliyoruz. Gelecek ay daha fazlası için bizi takip etmeye devam edin!
 

@@ -23,7 +23,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ***
 
-## **Sürüm 2.3.1 - 4 Mart 2025**
+## <mark style="color:purple;">**Sürüm 2.3.1 - 4 Mart 2025**</mark>
 
 ### Yeni Geliştirmeler
 
@@ -60,7 +60,7 @@ Sipariş detay sayfasında ürünlere ait barkod bilgisi mevcuttu fakat ürüne 
 
 
 
-## **Sürüm 2.3.2 - 18 Mart 2025**
+## <mark style="color:purple;">**Sürüm 2.3.2 - 18 Mart 2025**</mark>
 
 ### Yeni Geliştirmeler
 
@@ -82,9 +82,17 @@ Fatura yükleme sırasında fatura numarası alanına girilen karakter sayısı 
 
 
 
-#### Listeleme sayfalarında sütun değerlerinin kopyalanabilmesi Sürüm Tarihi: 04/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.2.3</mark>
+#### Listeleme sayfalarında sütun değerlerinin kopyalanabilmesi Sürüm Tarihi: 18/03/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.3.2.3</mark>
 
 Listeleme sayfalarında sütun değerleri yalnızca görüntülenebiliyor ancak doğrudan kopyalanamıyordu. Bu geliştirme ile listeleme sayfalarındaki sütun değerlerinin kopyalanabilmesi sağlandı. Bu sayede kullanıcılar, ilgili bilgileri hızlı ve pratik bir şekilde alıp farklı alanlarda kullanabilir.
+
+
+
+### 💡 **Havuz Yönetimi İyileştirmeleri**
+
+#### Havuzlara reddetme deneyimde açıklama alanının da eklenilmesi Sürüm Tarihi: 18/03/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.3.2.1</mark>
+
+Havuzlarda reddetme işlemi sırasında yalnızca red nedenleri seçilebiliyordu ancak ek açıklama girme imkanı bulunmuyordu. Bu geliştirme ile red işlemi yapılırken hem red nedeni hem de açıklama girilebilecek hale getirildi. Bu sayede kullanıcılar, reddetme sebeplerini daha ayrıntılı ifade edebilir.
 
 
 
@@ -93,14 +101,14 @@ Listeleme sayfalarında sütun değerleri yalnızca görüntülenebiliyor ancak 
 ***
 
 {% hint style="info" %}
-### 🔍 **Hata Düzeltmeleri**
+### **Hata Düzeltmeleri**
 
 * Lidia Merchant Console'da dışarı aktarılan envanter verileri düzenlendi.
 {% endhint %}
 
 
 
-***
+
 
 Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve müşteri ihtiyaçlarına uyum sağlamak ve sürdürülebilirliği artırmak için tasarlanmıştır. Tüm kullanıcılar için daha sorunsuz ve verimli bir deneyim sunmayı hedefliyoruz. Gelecek ay daha fazlası için bizi takip etmeye devam edin!
 
