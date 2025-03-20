@@ -92,17 +92,25 @@ Column values on listing pages were only viewable but could not be copied direct
 
 
 
+### 💡 **Pool Management Improvements**
+
+**Adding a Description Field to the Rejection Process**\
+**Release Date:** 18/03/2025\
+**Version Number:** <mark style="color:purple;">LC-2.3.2.1</mark>&#x20;
+
+Previously, only rejection reasons could be selected during the rejection process in pools, but there was no option to enter additional explanations. With this improvement, users can now provide both a rejection reason and a description. This allows for a more detailed and clear expression of rejection reasons.
+
+
+
 
 
 {% hint style="info" %}
-### 🔍 Bug Fixes
+### Bug Fixes
 
 * Inventory data exported in Lidia Merchant Console was corrected.
 {% endhint %}
 
-####
 
-***
 
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
