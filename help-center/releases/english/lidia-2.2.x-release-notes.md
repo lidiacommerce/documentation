@@ -95,9 +95,7 @@ Additional shipment movement details have been incorporated into the system to p
 
 ### 📁 Catalog Management Enhancements
 
-**Managing Categories with Products**\
-Release Date: 02/18/2025\
-Version Number: <mark style="color:purple;">LC-2.2.2.1</mark>
+#### **Managing Categories with Products** Release Date: 02/18/2025 Version Number: <mark style="color:purple;">LC-2.2.2.1</mark>
 
 The system no longer allows the deletion of a category that contains products. To improve user clarity, a warning modal is now displayed during the category deletion process if the category contains products, as shown in the example below.
 
@@ -105,9 +103,7 @@ The system no longer allows the deletion of a category that contains products. T
 
 ***
 
-**Addition of Rejected Products Section to the Pool**\
-Release Date: 02/18/2025\
-Version Number: <mark style="color:purple;">LMC-2.2.2.1</mark>
+#### **Addition of Rejected Products Section to the Pool** Release Date: 02/18/2025 Version Number: <mark style="color:purple;">LMC-2.2.2.1</mark>
 
 A **"Rejected"** tab has been added to the product pool view. Sellers can now view rejected products separately in a dedicated tab.
 
