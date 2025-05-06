@@ -65,7 +65,7 @@ Hedef tanımlama süreçlerinde yalnızca gün ve saat bazlı seçim yapılabili
 
 ### 💡 **Sipariş Yönetimi İyileştirmeleri**
 
-#### Aynı siparişteki farklı teslimatların takibinin kolaylaştırılması Sürüm Tarihi: 08/04/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.4.1.3</mark>
+#### Aynı siparişteki farklı teslimatların takibinin kolaylaştırılması Sürüm Tarihi: 08/04/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.4.1.3 - LC-2.4.1.6</mark>
 
 Bir siparişe ait birden fazla teslimatın oluşturulabildiği senaryolarda, teslimatların takibi kullanıcılar açısından karmaşık hale gelebiliyordu. Bu iyileştirme ile birlikte aynı sipariş içerisindeki farklı teslimatların daha kolay izlenebilmesini sağlayacak arayüz ve deneyim güncellemeleri yapılmıştır. Bu geliştirme ile sipariş detay ekranına gelen kullanıcılar, aynı siparişe ait diğer teslimatları gruplu şekilde görüntüleyebilir,  her teslimatın ön bilgisi (örneğin: tarih, durum, ürün adedi) kolayca görülebilir ve kullanıcı, ilgilendiği teslimatın detayına hızlıca yönlendirilerek süreç takibini daha verimli bir şekilde gerçekleştirebilir.
 

@@ -64,7 +64,7 @@ In the goal definition process, it was previously only possible to select by day
 
 ### 💡 Order Management Improvements
 
-#### Making it easier to track different deliveries within the same order **Release date :** 08/04/2025 **Version number :** <mark style="color:purple;">LMC-2.4.1.3</mark>
+#### Making it easier to track different deliveries within the same order **Release date :** 08/04/2025 **Version number :** <mark style="color:purple;">LMC-2.4.1.3 - LC-2.4.1.6</mark>
 
 In scenarios where multiple deliveries can be created for a single order, tracking these deliveries could become complex for users. With this improvement, interface and experience updates have been made to enable easier tracking of different deliveries within the same order. With this improvement, users who access the order detail screen can view other deliveries belonging to the same order in grouped format, easily see each delivery’s summary (such as date, status, quantity), and be quickly redirected to the relevant delivery detail to manage the process more efficiently.
 
