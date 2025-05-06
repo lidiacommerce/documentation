@@ -89,7 +89,7 @@ Lidia Merchant Console'da ürünler liste halinde detaylı şekilde görüntüle
 {% hint style="info" %}
 ### **Hata Düzeltmeleri**
 
-* Lidia Merchant Console'da dışarı aktarılan envanter verileri düzenlendi.
+* \-
 {% endhint %}
 
 

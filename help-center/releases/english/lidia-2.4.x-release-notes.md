@@ -117,7 +117,7 @@ Lack of guidance encountered by users during the approval or rejection of return
 {% hint style="info" %}
 ### Bug Fixes
 
-* Inventory data exported in Lidia Merchant Console was corrected.
+* \-
 {% endhint %}
 
 

@@ -87,7 +87,7 @@ Although products could be viewed in a detailed list format within Lidia Merchan
 {% hint style="info" %}
 ### Bug Fixes
 
-* Inventory data exported in Lidia Merchant Console was corrected.
+* \-
 {% endhint %}
 
 

@@ -110,7 +110,7 @@ Teslimatı tamamlanmış birden fazla ürün içeren siparişlerde, adet bazınd
 {% hint style="info" %}
 ### **Hata Düzeltmeleri**
 
-* Lidia Merchant Console'da dışarı aktarılan envanter verileri düzenlendi.
+* \-
 {% endhint %}
 
 
