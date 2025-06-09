@@ -110,7 +110,8 @@ Teslimatı tamamlanmış birden fazla ürün içeren siparişlerde, adet bazınd
 {% hint style="info" %}
 ### **Hata Düzeltmeleri**
 
-* \-
+* Teslimatlarda kargo takip kodunun yansımaması&#x20;
+* Merchant Console'daki iptal siparişlerin gösterim hataları
 {% endhint %}
 
 
