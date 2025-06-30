@@ -98,6 +98,7 @@
 * [FAQ](help-center/faq.md)
 * [Releases](help-center/releases/README.md)
   * [Türkçe](help-center/releases/turkce/README.md)
+    * [Lidia 2.6.x sürüm notları](help-center/releases/turkce/lidia-2.6.x-surum-notlari.md)
     * [Lidia 2.5.x sürüm notları](help-center/releases/turkce/lidia-2.5.x-surum-notlari.md)
     * [Lidia 2.4.x sürüm notları](help-center/releases/turkce/lidia-2.4.x-surum-notlari.md)
     * [Lidia 2.3.x sürüm notları](help-center/releases/turkce/lidia-2.3.x-surum-notlari.md)
