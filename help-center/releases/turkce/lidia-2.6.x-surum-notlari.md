@@ -28,13 +28,53 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ### Yeni Geliştirmeler
 
-###
+### 🎯 **Finans Yönetimi Geliştirmeleri**
+
+#### Ödeme yöntemine göre komisyon oranı tanımlanabilmesi Sürüm Tarihi: 26/06/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.6.1.1</mark>
+
+Komisyon oranlarını yöneticiler tarafından kategori, marka, satıcı gibi metrikler ile tanımlanabiliyor, ödeme yöntemine göre farklılaştırılamıyordu. Bu geliştirme ile birlikte satıcıların ödeme yöntemine göre de farklı komisyon oranları tanımlayabilmesi sağlanmıştır.
+
+
+
+#### Hakediş kırılımlarında referans kodu bilgisinin düzenli bir formata geçirilmesi Sürüm Tarihi: 26/06/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.6.1.2</mark>
+
+Hakediş ekranlarında yer alan referans kodu bilgisi sistemde okunması zor bir formatta yer alıyordu. Bu geliştirme ile birlikte referans kodu bilgisi standart bir yapıya kavuşturularak daha anlaşılır hale getirilmiştir.
+
+
+
+### 🎯 **Raporlama Geliştirmeleri**
+
+#### Operasyon raporlarına ticari unvan bilgisinin de eklenilmesi Sürüm Tarihi: 26/06/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.6.1.3</mark>
+
+Operasyon raporlarında satıcılara ait ticari unvan bilgisi yer almıyordu. Bu geliştirme ile birlikte rapor içeriklerine ticari unvan alanı eklenerek kullanıcıların satıcı verilerini daha net ayırt edebilmesi sağlanmıştır.
+
+
+
+#### Login bilgisinin audit log olarak tutulması Sürüm Tarihi: 26/06/2025 Sürüm Numarası: <mark style="color:purple;">LP-2.6.1.1</mark>
+
+PIM tarafında kullanıcıların login bilgileri sistemde sınırlı şekilde izlenebiliyordu. Bu geliştirme ile birlikte login işlemleri daha kapsamlı şekilde audit loglara kaydedilmeye başlanmıştır.
 
 
 
 
 
+### 🎯 **Lojistik Yönetimi Geliştirmeleri**
 
+#### DHL (MNG) sağlayıcısının paket bazlı geliştirmesinin satıcı uygulamasına da entegre edilmesi Sürüm Tarihi: 26/06/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.6.1.1</mark>
+
+DHL (MNG) sağlayıcısına özel geliştirilen paket bilgisini de kayıt ederek taşıma desteği yalnızca entegrasyon düzeyinde kullanılabiliyordu. Bu geliştirme ile birlikte aynı özellik satıcı uygulamasına da entegre edilmiş ve taşıyıcı logosu da yeni değişikliklere göre güncellenmiştir.
+
+
+
+
+
+### İyileştirmeler
+
+### 💡 **Sipariş Yönetimi İyileştirmeleri**
+
+#### Sipariş detayındaki teslimat bilgilerinin düzenlenmesi, kargo takip yönlendirmesinin eklenilmesi Sürüm Tarihi: 08/04/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.6.1.4</mark>
+
+Sipariş detay ekranında teslimat bilgilerinde sadece teslimat numarası görünüyor ve yöneticiler kargo takip linkine doğrudan ulaşamıyordu. Bu geliştirme ile birlikte teslimat bilgileri alanına teslimat bilgisi, kargo takip kodu linki ve teslimat tipi birlikte bir düzende verilmiştir.
 
 
 
