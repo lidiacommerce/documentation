@@ -4,20 +4,6 @@ description: >-
   iyileştiren en son güncellemeleri ve geliştirmeleri keşfedin.
 cover: ../../../.gitbook/assets/5 (3).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lidia 2.1.x sürüm notları

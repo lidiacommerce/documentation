@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Inventory
 
 The **Inventory Management** section in the PIM system provides tools to manage and organize product-related inventory details, including **price lists** and variant pricing.

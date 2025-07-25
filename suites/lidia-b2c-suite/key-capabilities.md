@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Key Capabilities
 
 ## Capabilities of the **Lidia B2C Suite**

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Digital Asset Management (DAM)
 
 The **Digital Asset Management (DAM) module** in **Lidia PIM** provides a centralized system for **storing, organizing, and managing digital assets** such as **images, videos, documents, and product-related media**. It ensures seamless integration with **product data management**, allowing businesses to maintain a structured and accessible digital asset repository.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # PIM User Guide
 
 Welcome to the **Lidia PIM User Guide**! This guide provides comprehensive documentation to help you navigate and utilize Lidia PIM efficiently. Whether you're a new user or an experienced administrator, you will find all the essential information here.

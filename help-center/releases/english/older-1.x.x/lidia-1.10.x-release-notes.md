@@ -4,20 +4,6 @@ description: >-
   the functionality and user experience across the Lidia platform.
 cover: ../../../../.gitbook/assets/October.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lidia 1.10.x release notes

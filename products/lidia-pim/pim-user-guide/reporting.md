@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Reporting
 
 The **Audit Report** page in **Lidia PIM** provides a comprehensive **log of system activities**, ensuring transparency and traceability for all actions performed within the platform. This feature is essential for **tracking changes, monitoring updates, and maintaining data integrity**.

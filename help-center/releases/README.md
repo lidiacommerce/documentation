@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Releases
 
 On this page, you can find information about released versions and access the relevant release notes. Each release includes system improvements, bug fixes, and new features. You can access the relevant release notes from the list below.
