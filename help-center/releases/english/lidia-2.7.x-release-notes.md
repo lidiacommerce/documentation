@@ -24,56 +24,99 @@ These codes help you track the specific areas of improvement across the platform
 
 ***
 
-## <mark style="color:purple;">Releases in 2.6</mark>
+## <mark style="color:purple;">Releases in 2.7</mark>
 
 ### New Features
 
-### 🎯 Finance Management Enhancements
+### 🎯 Invoice Management Enhancements
 
-#### **Ability to define commission rates by payment method** **Release Date:** 26/06/2025 **Release Number:** <mark style="color:purple;">LC-2.6.1.1</mark>
+#### **Ability for Admins to Approve or Reject Seller Invoices** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LC-2.7.1.1 - LMC-2.7.1.1</mark>
 
-Commission rates could previously be configured by criteria such as category, brand, or seller, but could not be differentiated by payment method. With this enhancement, sellers can now define distinct commission rates based on the selected payment method.
+To ensure invoice validation and prevent off-system document entries, the invoice upload and approval workflows have been centralized under the "Invoice Center". With this enhancement, sellers can now upload order or return invoices through this module for platform admins to review. Admins can either approve or reject these invoices with comments. Rejected invoices can be revised and re-uploaded by sellers. This ensures end-to-end control and traceability of the invoice sharing process within the platform.
 
 
 
-#### **Standardizing the reference code format in payout breakdowns** **Release Date:** 26/06/2025 **Release Number:** <mark style="color:purple;">LC-2.6.1.2</mark>
+#### **Centralized Invoice Upload and Visibility for Sellers** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LMC-2.7.1.2</mark>
 
-The reference code displayed in the payout breakdowns was previously shown in an inconsistent and hard-to-read format. With this enhancement, the reference code has been standardized to improve clarity and consistency.
+Previously, sellers could only upload invoices through individual order detail pages, which limited overall visibility. With this update, sellers can now upload both order and return invoices via a centralized invoice page. A dedicated upload field has also been added under the return invoice detail view. Regardless of the entry point, all invoices can now be viewed, edited, or deleted from a single screen.
+
+
+
+#### **Unified Invoice View Across All Users** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LC-2.7.1.2 - LMC-2.7.1.3</mark>
+
+Invoices were previously listed on scattered screens, making it difficult for both sellers and admins to manage or search through them. This update introduces a centralized invoice screen accessible under the "Invoice Center" in the sidebar. Admins can now filter invoices by seller name or invoice type, view, and download them, while sellers can search, edit, or delete their own invoices from one place.
+
+
 
 
 
 ### 🎯 Reporting Enhancements
 
-#### **Adding trade name information to operational reports** **Release Date:** 26/06/2025 **Release Number:** <mark style="color:purple;">LC-2.6.1.3</mark>
+#### **Availability of Withholding Collection Report** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LMC-2.7.1.4</mark>
 
-Operational reports previously did not include trade name information for sellers. With this enhancement, trade names have been added to report outputs, allowing users to distinguish and analyze seller data more easily.
-
-
-
-#### **Logging login activity as part of audit logs** **Release Date:** 26/06/2025 **Release Number:** <mark style="color:purple;">LP-2.6.1.1</mark>
-
-Login activity in the PIM module was previously tracked in a limited capacity. With this enhancement, login events are now comprehensively recorded as part of the system’s audit log structure.
+In Turkey, marketplace commissions are subject to withholding, and while sellers are legally responsible for reporting them to the Revenue Administration (GİB), the preparation of this report is supported by the marketplace infrastructure provider. With this development, sellers can now generate GİB-compliant Excel reports from the Merchant Console. These can be accessed and exported via the "Withholding Collection Report" screen under the Reports section.
 
 
 
-### 🎯 Logistics Management Enhancements
 
 
 
-**Extending DHL (MNG) package-level integration to the seller app**\
-**Release Date: 26/06/2025**\
-**Release Number:&#x20;**<mark style="color:purple;">**LMC-2.6.1.1**</mark>\
-Package-level support for the DHL (MNG) shipping provider was previously available only at the integration level. With this enhancement, the same capability has been extended to the seller application, and the provider logo has been updated accordingly.
+
+### 🎯 **Platform Health** Enhancements
+
+
+
+#### **Manual Cache Clearing from Console** **Release Date: 22/07/2025** **Release Number:&#x20;**<mark style="color:purple;">**LC-2.7.1.3**</mark>
+
+Previously, only technical teams could manage cache mechanisms, and admins lacked the ability to manually clear caches. With this update, a "Cache Management" module has been introduced under Operational Tools. This screen lists all cache-enabled data entities and allows admins with the appropriate roles to manually trigger cache clearing actions via the console—improving agility and reducing dependency on technical teams.
+
+
+
+
+
+### 🎯 **Finance Management** Enhancements
+
+#### **Displaying Payment Method in Payout Breakdown** **Release Date: 22/07/2025** **Release Number:** <mark style="color:purple;">LMC-2.7.1.5 - LC-2.7.1.4</mark>
+
+The payment method (e.g., credit card, cash on delivery, bank transfer) for each order was previously not visible in payout breakdowns. With this update, the payment method is now shown for each payout item, allowing both sellers and admins to better analyze collection data and streamline financial and accounting workflows.
+
+
+
+#### **Seller Payouts Positioned by Period in Finance Module** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LMC-2.7.1.6</mark>
+
+Sellers previously lacked access to view their payouts based on periods or maturity dates. With this development, seller payouts are now recorded according to defined cycles and periods, and displayed under the "Finance Management > Payouts" section in the seller panel. Additionally, dashboards on this page offer clear insights into cost breakdowns across sales, campaigns, shipping, and more.
+
+
+
+#### **Exporting Payouts Based on Periods** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LMC-2.7.1.7 - LC-2.7.1.5</mark>
+
+While payout data could be viewed in the system, it wasn’t possible to export this data by period. With this enhancement, users can now export detailed Excel reports for each payout period, allowing admins and sellers to download and use the data for external reporting.
+
+
+
+#### **Date & Time-Based Commission Rate Definitions** **Release Date:** 22/07/2025 **Release Number:** <mark style="color:purple;">LC-2.7.1.6</mark>
+
+Previously, commission rates couldn’t be assigned to specific date or time ranges, limiting flexibility for dynamic campaign setups. With this improvement, users can define commission rates with both start and end dates and time intervals. Once the defined window expires, the system will automatically revert to the previously active rate to ensure seamless continuation of commission calculations.
+
+
+
+
+
+### 🎯 **Merchant Management** Enhancements
+
+#### **Defining Warehouse Address During Seller Registration** **Release Date: 22/07/2025** **Release Number:** <mark style="color:purple;">LC-2.7.1.7</mark>
+
+Admins previously couldn't define warehouse addresses while manually registering sellers, often resulting in incomplete logistics data. With this update, admins can now add a required warehouse address field during manual seller creation (excluding seller self-applications). This field is mandatory and must be filled before saving. The warehouse address can also be updated after registration if needed.
 
 
 
 ### Improvements
 
-### 💡 Order Management Improvements
+### 💡 **User Experience Enhancements**
 
-#### Enhancing delivery details and adding tracking redirection in order detail view **Release date :** 26/06/2025 **Version number :** <mark style="color:purple;">LC-2.6.1.4</mark>
+#### **Migration of Settings Pages to New Listing Interface** **Release date :** 22/07/2025 **Version number :** <mark style="color:purple;">LC-2.7.1.8</mark>
 
-In the order detail view, only the delivery number was previously shown, and users could not directly access the tracking link. With this improvement, the delivery section now includes the delivery ID, tracking link, and delivery type presented in a clear and structured layout.
+Some pages under the "Settings" menu were still using outdated listing and search components, creating inconsistencies across the interface. This update migrated those pages to the new listing architecture, ensuring that all Settings pages follow the same design language and provide a consistent and streamlined user experience.
 
 
 
