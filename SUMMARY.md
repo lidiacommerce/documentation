@@ -107,6 +107,7 @@
     * [Lidia 2.2.x sürüm notları](help-center/releases/turkce/lidia-2.2.x-surum-notlari.md)
     * [Lidia 2.1.x sürüm notları](help-center/releases/turkce/lidia-2.1.x-surum-notlari.md)
   * [English](help-center/releases/english/README.md)
+    * [Lidia 2.8.x release notes](help-center/releases/english/lidia-2.8.x-release-notes.md)
     * [Lidia 2.7.x release notes](help-center/releases/english/lidia-2.7.x-release-notes.md)
     * [Lidia 2.6.x release notes](help-center/releases/english/lidia-2.6.x-release-notes.md)
     * [Lidia 2.5.x release notes](help-center/releases/english/lidia-2.5.x-release-notes.md)
