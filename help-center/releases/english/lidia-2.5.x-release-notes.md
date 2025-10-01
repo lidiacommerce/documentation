@@ -80,6 +80,12 @@ Although products could be viewed in a detailed list format within Lidia Merchan
 
 
 
+### 🎯 Case Management Enhancements
+
+#### Ability to Renew Return Codes **Release date :** 05/05/2025 **Version number :** <mark style="color:purple;">LC-2.5.1.5</mark>
+
+Previously, once a return barcode was generated, no new code could be obtained if the validity period expired. This situation made it difficult to manage the process in cases where customers could not deliver the return within the given timeframe. With this enhancement, administrators can now generate a new return code from the request detail screen once the validity period of the initial code has expired. In this way, if a customer fails to complete the return delivery on time, the administrator can create a new code upon request and resend it to the customer. This improvement both enhances the customer experience and provides greater flexibility in the return process.
+
 
 
 

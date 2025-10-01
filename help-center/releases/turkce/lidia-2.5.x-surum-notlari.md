@@ -76,11 +76,15 @@ Lidia Merchant Console'da ürünler liste halinde detaylı şekilde görüntüle
 
 
 
+### 🎯 **Talep Yönetimi Geliştirmeleri**
 
 
 
+#### İade kodunun yenilenmesi yeteneği Sürüm Tarihi: 05/05/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.5.1.5</mark>
 
+Bir iade talebi için iade barkod kodu oluşturulduktan sonra kodun süresi geçtiğinde yeni bir barkod kodu alınamıyordu. Bu durum, müşterilerin belirlenen süre içinde iadeyi teslim edememesi halinde süreci yönetmeyi zorlaştırıyordu. Bu geliştirme ile birlikte, iade barkod kodunun geçerlilik süresi dolduktan sonra yöneticiler talep detay ekranından yeni bir iade kodu üretebilirler. Böylece müşteri, iade teslimini zamanında gerçekleştiremezse, talebe bağlı olarak yönetici onun için yeni bir kod oluşturup müşteriye yeniden gönderebilir. Bu iyileştirme hem müşteri deneyimini artırmakta hem de iade sürecinde esneklik sağlamaktadır.
 
+***
 
 
 
