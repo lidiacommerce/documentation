@@ -2,11 +2,11 @@
 description: >-
   Bu ay boyunca Lidia platformunda fonksiyonellik ve kullanıcı deneyimini
   iyileştiren en son güncellemeleri ve geliştirmeleri keşfedin.
-cover: ../../../.gitbook/assets/2 (7).png
+cover: ../../../.gitbook/assets/2.png
 coverY: 0
 ---
 
-# Lidia 2.9.x sürüm notları
+# Lidia 2.10. x sürüm notları
 
 Bu ayki sürüm, Lidia platformunun çeşitli bileşenlerinde önemli güncellemeler içeriyor. Bu bileşenler arasında **Console, Merchant Console, Ürün Bilgi Yönetimi (PIM) sistemleri ve Lidia Commerce Engine**bulunuyor. Yapılan iyileştirmeler, iş akışlarını optimize etmeyi ve tüm platform kullanıcıları için daha akıcı bir deneyim sunmayı amaçlıyor.
 
@@ -24,7 +24,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ***
 
-## <mark style="color:purple;">**Sürüm 2.9**</mark>
+## <mark style="color:purple;">**Sürüm 2.10**</mark>
 
 ### Yeni Geliştirmeler
 
