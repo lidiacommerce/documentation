@@ -22,6 +22,10 @@ In this document, you'll find release codes for different components of the Lidi
 These codes help you track the specific areas of improvement across the platform.
 {% endhint %}
 
+{% hint style="info" %}
+The release originally planned for September was postponed due to the Lidia Core infrastructure transition. Following the completion of the Core migration, the 2.10.x release was deployed collectively in October.
+{% endhint %}
+
 ***
 
 ## <mark style="color:purple;">Releases in 2.10</mark>
