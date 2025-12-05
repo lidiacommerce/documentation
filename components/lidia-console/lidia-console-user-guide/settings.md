@@ -1,2 +1,6 @@
 # Settings
 
+## Authorization
+
+*
+*
