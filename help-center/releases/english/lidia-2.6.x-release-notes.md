@@ -90,4 +90,4 @@ In the order detail view, only the delivery number was previously shown, and use
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

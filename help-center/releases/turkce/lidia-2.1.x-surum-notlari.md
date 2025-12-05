@@ -49,7 +49,7 @@ Daha önce platformda tarayıcı logosu eski bir görsel ile temsil edilmekteydi
 
 Daha önce pazaryeri anlaşmalı kargo firmalarına iade için üretilen kargo barkodu geçerlilik süresi yasal olarak belirlenmiş 14 günlük süreyi kapsamayabiliyordu. Bu geliştirme ile kargo iade barkodunun geçerlilik süresi yasal düzenlemelere uygun olarak 7+7 şeklinde toplam 14 gün olacak şekilde güncellenmiştir. Böylece müşterilere 14 günlük yasal iade süresi sağlanmış ve süreç yasal gerekliliklere uygun hale getirilmiştir.
 
-#### İptal ve iade detay ekranında barkod numarası gösterimi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.1.3</mark> 
+#### İptal ve iade detay ekranında barkod numarası gösterimi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.1.3</mark><br>
 
 Console panelinde sipariş detayındaki ürün satırlarında barkod numarası görüntülenmekteydi. Bu geliştirme ile iptal ve iade taleplerine ait detay ekranında da ürünlere ilişkin barkod numaralarının görüntülenmesi sağlanarak barkod bilgilerine her iki ekran üzerinden de erişim imkanı sunulmuştur.
 
@@ -66,8 +66,7 @@ Sipariş detayında bulunan fatura bilgileri alanında daha önceden fatura kesi
 #### Teslimat iptal kayıtlarının gösterilmesi Sürüm Tarihi: 07/01/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.1.1.1</mark>
 
 Yönetici tarafından gerçekleşen teslimat iptali sonrasında, tekrar kargoya verilen siparişlerin iptal kayıtları sipariş hareketlerinde gösterilmiyordu. Bu geliştirme ile siparişe ait tüm müdahaleler kayıt olarak gösterilmesi sağlanmıştır.\
-\
-
+<br>
 
 ***
 
@@ -122,4 +121,4 @@ Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve m
 
 
 \
-\
+<br>

@@ -45,8 +45,7 @@ Bu geliştirme ile birlikte filtre yönetimi sekmesindeki yapı daha kompakt bir
 
 #### Ürün ve varyant detaylarına barkod bilgisinin eklenilmesi Sürüm Tarihi: 23/10/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.10.2</mark>
 
-Ürün ve varyant detay ekranlarında grup kodu ve barkod bilgisi bulunmadığı için bilgi bütünlüğü eksik kalıyordu.Bu geliştirme ile ürün detaylarına grup kodu ve barkod alanları, varyant detaylarına ise grup kodu ve varyant kodu eklenmiştir\
-
+Ürün ve varyant detay ekranlarında grup kodu ve barkod bilgisi bulunmadığı için bilgi bütünlüğü eksik kalıyordu.Bu geliştirme ile ürün detaylarına grup kodu ve barkod alanları, varyant detaylarına ise grup kodu ve varyant kodu eklenmiştir<br>
 
 
 
@@ -139,4 +138,4 @@ Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve m
 
 
 \
-\
+<br>

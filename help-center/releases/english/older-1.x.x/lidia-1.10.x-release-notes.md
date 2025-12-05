@@ -44,8 +44,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 📑 Invoice Management
 
-*   <mark style="color:blue;">**LC-102401-03-**</mark> **Uploaded Invoice Details:** The information for uploaded invoices in order details has been updated to include invoice type, invoice number, and order reference number, instead of relying on limited address and tax ID fields.\
-
+*   <mark style="color:blue;">**LC-102401-03-**</mark> **Uploaded Invoice Details:** The information for uploaded invoices in order details has been updated to include invoice type, invoice number, and order reference number, instead of relying on limited address and tax ID fields.<br>
 
     ***
 
@@ -87,4 +86,4 @@ These codes help you track the specific areas of improvement across the platform
 
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
-\
+<br>

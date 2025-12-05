@@ -26,7 +26,7 @@ Once deployed on to your favorite infrastructure you can start managing your pro
 The Lidia Marketplace Suite is a robust solution for building and managing state-of-the-art online marketplaces. Here's how it aligns with the topics you've highlighted:
 
 {% hint style="info" %}
-To view Marketplace suite features in detail, please follow the [link](https://app.gitbook.com/o/-LelnTxjc6Q8VcVJf2Bf/s/-LelnWMSgdO9EDQG73lr/\~/changes/268/suites/lidia-marketplace-suite/features).
+To view Marketplace suite features in detail, please follow the [link](https://app.gitbook.com/o/-LelnTxjc6Q8VcVJf2Bf/s/-LelnWMSgdO9EDQG73lr/~/changes/268/suites/lidia-marketplace-suite/features).
 {% endhint %}
 
 ### Allows you to run an online marketplace business.
@@ -45,7 +45,7 @@ The suite is designed to foster network effects by providing:
 * **Customer-Centric Features:** An engaging user interface and integrated payment and logistics solutions that attract buyers, thereby enticing more sellers​​.
 * **Analytics-Driven Growth:** Advanced reporting tools to track marketplace performance and customer behavior, enabling informed decision-making to enhance platform appeal​.
 
-### Enables multiple streams of revenue include transaction fees, listing fees, advertising revenue, and premium services. 
+### Enables multiple streams of revenue include transaction fees, listing fees, advertising revenue, and premium services.<br>
 
 The Lidia Marketplace Suite supports diverse monetization strategies:
 

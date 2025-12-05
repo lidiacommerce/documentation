@@ -98,4 +98,4 @@ These codes help you track the specific areas of improvement across the platform
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

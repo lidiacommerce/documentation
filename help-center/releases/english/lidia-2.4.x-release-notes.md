@@ -47,8 +47,7 @@ With this improvement, scenarios requiring manual intervention have been reduced
 
 The installment interest information, which appeared in the order details but was not used in operational processes, has been removed from the order account summary section due to causing confusion for users and not contributing to workflow.
 
-\
-
+<br>
 
 ### 🎯 Goal Management Enhancements
 
@@ -126,4 +125,4 @@ Lack of guidance encountered by users during the approval or rejection of return
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

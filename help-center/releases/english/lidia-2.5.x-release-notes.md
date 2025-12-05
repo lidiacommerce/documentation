@@ -32,8 +32,7 @@ These codes help you track the specific areas of improvement across the platform
 
 #### **Defining coupons associated with multiple categories** **Release Date:** 05/05/2025 **Release Number:** <mark style="color:purple;">LC-2.5.1.1</mark>
 
-Previously, coupons could only be linked to a single category. With this improvement, a coupon can now be defined for multiple categories simultaneously. This enhancement allows campaign setups to be more flexible and enables a single coupon to be valid for products across different categories.\
-
+Previously, coupons could only be linked to a single category. With this improvement, a coupon can now be defined for multiple categories simultaneously. This enhancement allows campaign setups to be more flexible and enables a single coupon to be valid for products across different categories.<br>
 
 
 
@@ -43,8 +42,7 @@ Previously, coupons could only be linked to a single category. With this improve
 
 Initially, templates were created to calculate settlements based on each seller’s selected due date and payment terms, and cross-team communication ensured that the breakdowns included in the settlement were calculated accurately. With this improvement, settlements calculated individually for each seller can now be viewed directly under the seller detail page in the console. Settlement documents include detailed breakdowns and amounts for both deductions and earnings.
 
-\
-
+<br>
 
 ### 🎯 Logistics Management Enhancements
 
@@ -101,4 +99,4 @@ Previously, once a return barcode was generated, no new code could be obtained i
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

@@ -83,8 +83,7 @@ Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileş
 
 #### **İçerisinde Ürün Olan Kategorilerin Yönetimi** Sürüm Tarihi: 02/18/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.2.2.1</mark>
 
-İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinin içerisinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.\
-
+İçerisinde ürün olan bir kategori silinmek istendiğinde sistem buna izin vermemektedir. Bu durum kullanıcılar tarafından daha anlaşılır olması için; kategori silme işlemi sırasında eğer kategorinin içerisinde ürün varsa aşağıdaki görseldeki gibi uyarı modalı gösterilmesi sağlanmıştır.<br>
 
 ***
 
@@ -116,4 +115,4 @@ Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve m
 
 
 \
-\
+<br>

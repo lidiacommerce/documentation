@@ -41,8 +41,7 @@ Lidia lojistik hizmet sağlayıcıları arasında MNG Kargo mevcuttu fakat enteg
 
 Siparişler sayfasında siparişler listelenip görüntülenebiliyordu fakat seçili sipariş satırlarını dışarı aktarma özelliği mevcut değildi. Bu geliştirme ile seçili sipariş satırları, listelenen sütun bilgileri ile birlikte Excel formatında dışa aktarılabilir. Bu sayede belirli filtreler ile seçilen siparişler topluca seçilip dışarı aktarılabilir.
 
-\
-
+<br>
 
 ### İyileştirmeler
 
@@ -115,4 +114,4 @@ Bu güncellemeler, Lidia ürün ailesinin gelişimini hızlandırmak, pazar ve m
 
 
 \
-\
+<br>

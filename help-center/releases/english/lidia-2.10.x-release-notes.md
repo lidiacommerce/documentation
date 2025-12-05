@@ -125,4 +125,4 @@ This enhancement migrates all pages across the platform to the new listing inter
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

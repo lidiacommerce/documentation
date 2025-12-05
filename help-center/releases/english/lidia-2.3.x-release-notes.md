@@ -31,8 +31,7 @@ These codes help you track the specific areas of improvement across the platform
 
 #### **MNG Cargo - Service Provider Integration** **Release date :**  04/03/2025 **Version number :** <mark style="color:purple;">LC-2.3.1.1 - LMC-2.3.1.1</mark>
 
-MNG Cargo was available among Lidia's logistics service providers, but its integration was outdated. With this enhancement, the MNG Cargo integration has been updated to the latest version, enabling the automatic transfer of orders. This allows e-commerce managers to add MNG Cargo to their delivery profiles and ensure that their sellers use MNG Cargo as a marketplace-contracted shipping provider.\
-
+MNG Cargo was available among Lidia's logistics service providers, but its integration was outdated. With this enhancement, the MNG Cargo integration has been updated to the latest version, enabling the automatic transfer of orders. This allows e-commerce managers to add MNG Cargo to their delivery profiles and ensure that their sellers use MNG Cargo as a marketplace-contracted shipping provider.<br>
 
 
 
@@ -40,11 +39,9 @@ MNG Cargo was available among Lidia's logistics service providers, but its integ
 
 #### Addition of export capability **Release date :** 04/03/2025 **Version number :** <mark style="color:purple;">LMC-2.3.1.2</mark>
 
-Orders were listed and viewable on the orders page, but there was no option to export selected order rows. With this enhancement, selected order rows can now be exported in Excel format, including the displayed column data. This allows users to filter and select specific orders for bulk export.\
+Orders were listed and viewable on the orders page, but there was no option to export selected order rows. With this enhancement, selected order rows can now be exported in Excel format, including the displayed column data. This allows users to filter and select specific orders for bulk export.<br>
 
-
-\
-
+<br>
 
 ### Improvements
 
@@ -115,4 +112,4 @@ Previously, only rejection reasons could be selected during the rejection proces
 These updates are designed to enhance both the functionality and usability of Lidia Platform, ensuring a smoother and more efficient experience for all users. Stay tuned for further improvements next month!
 
 \
-\
+<br>

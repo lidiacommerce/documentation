@@ -6,8 +6,7 @@ description: >-
 
 # Türkçe
 
-Kullanıcı kılavuz dökümantasyonu 8 ana başlıkta incelenecektir.\
-
+Kullanıcı kılavuz dökümantasyonu 8 ana başlıkta incelenecektir.<br>
 
 1. [Giriş](turkce.md#giris)
 2. [Anasayfa](turkce.md#anasayfa)
@@ -40,8 +39,7 @@ Mağaza Performansı bölümü son iki ay özelinde önemli ve sürekli güncell
 
 ## Mağaza Yönetimi
 
-Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir. _**Mağaza Yönetimi alanı; "Mağaza Detayları" ve "Mağaza Kullanıcıları" olarak 2 bölümden oluşur.**_\
-
+Mağaza yönetimi bölümünde; satıcılar mağaza bilgilerini görüntüleyebilir, kullanıcılarını yönetebilir. _**Mağaza Yönetimi alanı; "Mağaza Detayları" ve "Mağaza Kullanıcıları" olarak 2 bölümden oluşur.**_<br>
 
 ### Mağaza Detayları
 
@@ -165,8 +163,7 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 <div><figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.24.55.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 12.26.17.png" alt=""><figcaption><p>İçeri aktar</p></figcaption></figure></div>
 
-\
-
+<br>
 
 ### Katalogtan Ürün Ekle
 
@@ -176,8 +173,7 @@ Seçilen kategoriyi veya tüm ürünleri excel olarak dışarı aktarabilirsiniz
 
 Stok ve fiyat bilgisi tanımlanmış satışta olan veya satışa çıkarılan merchant'ın tüm ürünleri Ürünlerim sayfalarında listelenir.
 
-Ürünlerim sayfalarında merchant'ın sattığı ürünlerin adı, barkodunu, satıcıya ait tekil kodu, ürünün marka ve kategorisi bilgisini, görselini, stok durumunu, komisyon oranını, fiyatını ve durumunu görebilirsiniz. \
-
+Ürünlerim sayfalarında merchant'ın sattığı ürünlerin adı, barkodunu, satıcıya ait tekil kodu, ürünün marka ve kategorisi bilgisini, görselini, stok durumunu, komisyon oranını, fiyatını ve durumunu görebilirsiniz. <br>
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 15.55.15.png" alt=""><figcaption><p>Ürünlerim</p></figcaption></figure>
 
@@ -198,8 +194,7 @@ _**Satış yönetimi; "Sipariş Yönetimi", "Teslimat Yönetimi", "Teslimat Prof
 ### Sipariş Yönetimi <a href="#altbaslik" id="altbaslik"></a>
 
 Sipariş yönetimi sayfasında müşteriler, tüm siparişlerinin; teslimat kodunu, müşterisinin bilgilerini, toplam tutarı, siparişinin tarihini ve sipariş durumunu görebilir.  \
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/Adsız tasarımz (2).jpg" alt=""><figcaption><p>Sipariş Yönetimi</p></figcaption></figure>
 
@@ -267,8 +262,7 @@ Burada merchant tanımladığı anlaşmalı kargo şirketlerinden istediğini se
 <img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 18.16.49 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-18 18.21.58.png" alt="" data-size="original">
 
 \
-Merchant kendi anlaşmalı kargosu ile gönderim sağladığı için, anlaşmalı kargo şirketinin verdiği takip kodunu sisteme "takip kodu" bölümünden tanımlayabilir ve bu sayede merchant ve  müşterisi bu kod ile kargo takibi yapabilir.\
-
+Merchant kendi anlaşmalı kargosu ile gönderim sağladığı için, anlaşmalı kargo şirketinin verdiği takip kodunu sisteme "takip kodu" bölümünden tanımlayabilir ve bu sayede merchant ve  müşterisi bu kod ile kargo takibi yapabilir.<br>
 
 <img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.11 (2).png" alt="" data-size="original"><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 12.38.30 (2).png" alt="" data-size="original">
 
@@ -319,8 +313,7 @@ Merchant kendisi gönderim sağlayacağı için, sistem üzerinden tanımlayaca�
 
 
 
-Seçili ürünleri **onaylamadan iptal** edebilirsiniz,\
-
+Seçili ürünleri **onaylamadan iptal** edebilirsiniz,<br>
 
 <div><figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.50.png" alt=""><figcaption><p>Sipariş içeriği</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Ekran Resmi 2023-10-19 11.20.57.png" alt=""><figcaption><p>Red onay ekranı</p></figcaption></figure></div>
 
@@ -400,8 +393,7 @@ Kargo maliyetleri bölümünde entegre edildiği takdirde satıcının görünt�
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-12 at 17.41.49.png" alt=""><figcaption><p>Kargo maliyetleri</p></figcaption></figure>
 
-\
-
+<br>
 
 ### Talep Yönetimi
 
@@ -558,8 +550,7 @@ Hedefler, mağaza satıcılarına yönelik hedeflerin görüntülenebildiği ala
 
 <figure><img src="../../../.gitbook/assets/hedf.jpg" alt=""><figcaption><p>Hedef Yönetimi</p></figcaption></figure>
 
-Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listelenir. \
-
+Yönetici tarafından oluşturulan hedefler, hedef yönetimi sayfasında listelenir. <br>
 
 <div><figure><img src="../../../.gitbook/assets/temel.jpg" alt=""><figcaption><p>Temel Bilgiler</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/hedef.jpg" alt=""><figcaption><p>Hedef Alanı</p></figcaption></figure></div>
 
@@ -617,8 +608,7 @@ Mağazaya ait ürünlerin ve bu ürünlere ait stok durumlarının raporlandığ
 
 
 
-\
-
+<br>
 
 
 

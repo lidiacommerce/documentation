@@ -110,8 +110,6 @@
     * [Türkçe](components/lidia-merchant-console/user-guide/turkce.md)
     * [Deutch](components/lidia-merchant-console/merchant-console-user-guide/deutch.md)
 * [Lidia Worker](components/lidia-worker.md)
-* [Altan aslan](components/altan-aslan/README.md)
-  * [Page 1](components/altan-aslan/page-1.md)
 * [Lidia Static](components/lidia-static.md)
 * [Lidia API](components/lidia-api.md)
 * [Lidia Custom UI](components/lidia-custom-ui.md)
