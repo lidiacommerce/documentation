@@ -25,6 +25,8 @@ Kullanıcı dokümantasyonu 14 ana başlıkta incelenecektir.
 
 
 
+
+
 ### Giriş
 
 Lidia Console, platformumuzun ürün yönetimi için özel olarak tasarlanmış bir yönetici panelidir. Bu panel, platformun yöneticilerine ürün onaylarına ve yönetimine olanak tanır. Ürünlerin onay süreçleri, işlem takibi ve yönetim işlemleri bu konsol üzerinden gerçekleştirilir. Console üzerinden yöneticiler merchantlarını ve bayilerini yönetebilir, önyüzde değişiklikler ve eklemeler yapabilir; ödeme alma ve yönetme gibi işlemlerin yönetimi sağlayabilirler.
@@ -53,8 +55,7 @@ Kullanıcılar sayfasında, console'u kullanacak kullanıcılarımızın listesi
 
 Kullanıcıların detay sayfalarındaki Yetkiler bölümünde console yöneticileri platforma tanımladıkları kullanıcılarının yetkilerini kısıtlayabilir veya belirleyebilir. Ayrıca detay sayfalarında kullanıcının durumu değiştirilebilir.\
 \
-Kullanıcı detay sayfalarında kullanıcıya özel etiket eklenebilir. \
-
+Kullanıcı detay sayfalarında kullanıcıya özel etiket eklenebilir. <br>
 
 Roller sayfasında ise belirlenen roller ve bunları kullanan aktif kullanıcı sayısı görüntülenebilir; yeni rol eklenebilir. Adminler de rol olarak belirlenebilir ve düzenlenebilir; sayfalardaki yetkileri düzenlenebilir. Ayrıca pasif olan roller de silinebilir.
 
@@ -115,8 +116,7 @@ Kurallar.
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-12-17 at 18.12.30.png" alt=""><figcaption><p>Ödeme Ayarları</p></figcaption></figure>
 
-\
-
+<br>
 
 _Hizmet Sağlayıcılar_
 
@@ -296,8 +296,7 @@ Eylem bölümünde ödeme türü veya taksit miktarı seçilebilir.&#x20;
 
 > Lojistik
 
-Lojistik bölümünde console yöneticileri güncelde bulunan hizmet sağlayıcılarını, teslimat profillerini ve teslimat kurallarını görüntüleyip, yönetebilirler.\
-
+Lojistik bölümünde console yöneticileri güncelde bulunan hizmet sağlayıcılarını, teslimat profillerini ve teslimat kurallarını görüntüleyip, yönetebilirler.<br>
 
 \
 _Hizmet sağlayıcıları_
