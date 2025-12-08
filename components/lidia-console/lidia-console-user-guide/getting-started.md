@@ -90,7 +90,9 @@ In the User Information section, the following details can be updated:
 
 In the Organization Details section, the following actions can be performed:
 
-* Edit company information\
-  (Company name, company type, integration code, tax office, tax number, trade registry number, and address details)
-* View and update organization users
-* Assign new authorized users based on appropriate roles
+Edit company information\
+(Company name, company type, integration code, tax office, tax number, trade registry number, and address details)
+
+View and update organization users
+
+Assign new authorized users based on appropriate roles
