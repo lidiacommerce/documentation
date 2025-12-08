@@ -10,8 +10,8 @@ Whether you are a first-time user or an experienced administrator managing the p
 **Tip:** If you're new to Lidia Console, start with the **Getting Started** section.
 {% endhint %}
 
-|                 |      |      |
-| --------------- | ---- | ---- |
-| Getting Started | 1111 | 1111 |
-|                 |      |      |
-|                 |      |      |
+|                                                                   |      |      |
+| ----------------------------------------------------------------- | ---- | ---- |
+| [Getting Started](../lidia-console-user-guide/getting-started.md) | 1111 | 1111 |
+|                                                                   |      |      |
+|                                                                   |      |      |
