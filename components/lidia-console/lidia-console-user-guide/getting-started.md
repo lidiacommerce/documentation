@@ -6,67 +6,67 @@ The Home Page is the first screen you encounter when you log in to the Lidia Con
 
 * #### Left Menu Navigation
 
-**Settings**\
+[**Settings**](settings.md)\
 Provides access to system preferences, core configurations, user roles, and overall platform settings.
 
-**Notification Center**\
+[**Notification Center**](notifications.md)\
 Allows you to view and manage system notifications, alerts, and updates.
 
-**Merchants** \
+[**Merchants** ](merchants.md)\
 Enables you to review seller applications submitted from the storefront, perform approval or rejection actions, and manage marketplace sellers and business partners.
 
-**Customers**\
+[**Customers**](customers.md)\
 Allows you to view registered customers, manage membership permissions, create new customer records, and maintain reference information.
 
-**Product Management**\
+[**Product Management**](product-management.md)\
 Used to manage all products, brands, categories, variants, product pools, and product listings included in or offered for sale on the platform.
 
-**Inventory**\
+[**Inventory**](inventory.md)\
 Provides an overview of all inventory data across the platform and allows inventory management.
 
-**Content**\
+[**Content**](content-management.md)\
 A content management area where interface orchestrations and experience sets are defined and associated with appropriate templates across the platform.
 
-**Media**\
+[**Media**](media.md)\
 Used to upload and manage all product-related images, videos, and files.
 
-**Goal Management**\
+[**Goal Management**](goals.md)\
 Allows you to define and track internal organizational goals and constraints.
 
-**Campaign Management**\
+[**Campaign Management**](campaigns-coupons.md)\
 Used to view existing campaigns and create new campaigns and coupon definitions.
 
-**Sales**\
+[**Sales**](orders.md)\
 Allows you to track and manage completed orders.
 
-**Logistics**\
+[**Logistics**](deliveries.md)\
 Used to track delivery and shipment processes related to orders.
 
-**Invoice Center**\
+[**Invoice Center**](invoice-center.md)\
 Allows you to monitor invoices generated for completed orders.
 
-**Finance**\
+[**Finance**](payments.md)\
 Provides tracking and management of payments and financial transactions.
 
-**After-Sales**\
+[**After-Sales**](after-sales.md)\
 Used to manage and track order cancellation and return processes.
 
-**Resolution Center**\
+[**Resolution Center**](resolution-center.md)\
 Allows you to track customer requests, complaints, and support tickets.
 
-**Social Capabilities**\
+[**Social Capabilities**](social-capabilities.md)\
 Used to monitor customer feedback and engagement.
 
-**Operational Processes / Operational Operations**\
+[**Operational Processes**](cache-management.md)\
 Used to manage technical and supportive processes related to platform operations.
 
-**Reports**\
+[**Reports**](reports.md)\
 Provides access to reports related to sales, operations, and cost data.
 
-**Audit Reports**\
+[**Audit Reports**](audit-reports.md)\
 Allows tracking of system activity logs and transaction records at the organizational level.
 
-**Lidia App Store**
+[**Lidia App Store**](lidia-app-store.md)
 
 
 
@@ -83,6 +83,9 @@ In the User Information section, the following details can be updated:
 * Email address
 * Phone number
 * Password update
+
+
+
 * #### Organization Details
 
 In the Organization Details section, the following actions can be performed:
