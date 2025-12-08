@@ -84,7 +84,7 @@ In the User Information section, the following details can be updated:
 * Phone number
 * Password update
 
-
+<figure><img src="../../../.gitbook/assets/WhatsApp Görsel ing1.jpg" alt=""><figcaption></figcaption></figure>
 
 * #### Organization Details
 
