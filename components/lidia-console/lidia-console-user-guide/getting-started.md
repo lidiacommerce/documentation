@@ -6,6 +6,8 @@ The Home Page is the first screen you encounter when you log in to the Lidia Con
 
 * #### Left Menu Navigation
 
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 [**Settings**](settings.md)\
 Provides access to system preferences, core configurations, user roles, and overall platform settings.
 
