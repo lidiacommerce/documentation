@@ -36,7 +36,7 @@ The Authorization section includes the pages where user roles and permissions ar
 
     By accessing an individual user’s detail page, you can view basic user information such as first and last name, email address, phone number, and date of birth, as well as role and permission details.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Depending on the permissions assigned to the user, this information and the assigned roles can be edited.
 {% endhint %}
 
