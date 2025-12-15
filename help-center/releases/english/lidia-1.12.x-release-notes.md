@@ -71,8 +71,6 @@ These codes help you track the specific areas of improvement across the platform
   Previously, the "City" and "District" fields in the merchant details page only allowed district-based searches. This update introduces city-based search functionality, enabling users to search by both city and district for improved usability.
 *
 
-    ***
-
 ### 💳 Payment Management Enhancements
 
 * <mark style="color:blue;">**LC-122401-02-**</mark>**Payment Options Import Error Notification**\
