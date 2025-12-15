@@ -42,8 +42,18 @@ Depending on the permissions assigned to the user, this information and the assi
 
 ## Legal
 
-*
-*
+The Legal section is the area where the organization’s legal obligations, documentation, and responsible institution information are centrally managed within the Lidia Console. This section ensures that legal content published on the platform is managed in an up-to-date, traceable, and versioned manner.
+
+*   ### **Legal Documents**
+
+    When accessing the Legal Documents section, a document list is displayed containing the document name, publisher, document code, version information, validity date, and active/passive status. In this area, legal documents such as KVKK texts, preliminary information forms, and similar documents can be uploaded, and uploaded documents can be versioned through this section.
+
+    Through document versioning, it is possible to perform checks in later stages, such as identifying who approved or did not approve specific versions of a document. From the Basic Information area on the document detail screen, the document content can be accessed and edited. Additionally, the complete version history of the document can be viewed through the Version History section on the detail screen.
+*   ### **Liables**
+
+    Under the Data Controllers section, a list is displayed containing the name, address, and country information of the institution or institutions responsible for the management of the Lidia Console. By navigating to the details of a record, the institution’s basic information and the list of legal documents published by that institution can be accessed.
+
+    Using the button located in the upper-right corner of the screen, a new data controller can be added, and the information of responsible institutions defined in the system can be managed.
 
 ## Payments
 
