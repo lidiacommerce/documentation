@@ -53,7 +53,7 @@ Through document versioning, it is possible to perform checks in later stages, s
 
     Under the liables section, a list is displayed containing the name, address, and country information of the institution or institutions responsible for the management of the Lidia Console. By navigating to the details of a record, the institution’s basic information and the list of legal documents published by that institution can be accessed.
 
-    Using the button located in the upper-right corner of the screen, a new data controller can be added, and the information of responsible institutions defined in the system can be managed.
+    Using the button located in the upper-right corner of the screen, a new data controller can be added.
 
 ## Payments
 
