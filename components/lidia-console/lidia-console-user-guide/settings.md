@@ -13,7 +13,7 @@ The Authorization section includes the pages where user roles and permissions ar
 
 *   ### **Roles**
 
-    Under the Roles section, the predefined roles provided by Lidia are displayed under **Lidia Roles**. These roles are configured to cover the platform’s standard usage scenarios. In addition, organization-specific roles can be created, existing roles can be deleted, and users assigned to a role can be viewed through the role detail screen. For each role, permissions can be configured across all system modules and capabilities.
+    Under the Roles section, the predefined roles provided by Lidia are displayed under **Lidia Roles**. These roles are configured to cover the platform’s standard usage scenarios. In addition, new roles can be created based on organization-specific needs, the created roles can be deleted, and users assigned to a role can be viewed through the role detail screen. For each role, permissions can be configured across all modules and capabilities available in the system.
 
     Roles can be configured with the following permission levels:
 
