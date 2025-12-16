@@ -130,7 +130,10 @@ The created rule set can be configured based on criteria such as category, brand
 
 ## Catalog
 
-*
+The Catalog section is where the full scope of product data to be offered for sale or included in the product assortment is defined. In this section, the product data space, constraints, locks, and rules are configured, and the conditions under which products are included in the system are determined. Category-based fields and attributes are also managed to ensure product information is created in a consistent and controlled manner.
+
+This area allows you to build the catalog architecture within the system and define an organization-specific product structure end to end. Through the Catalog, the product data space can be designed, data relationships can be established, and a solid foundation for product management can be created.
+
 *
 *
 * özellikler
