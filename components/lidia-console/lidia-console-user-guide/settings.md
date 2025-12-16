@@ -156,11 +156,13 @@ This area allows you to build the catalog architecture within the system and def
 This is an advanced feature that covers data locking not only during product flows but also at the product data level.
 {% endhint %}
 
-* özellikler
+*   ### **Properties**
 
-1.
-2.
+    The Properties section is where product characteristics are centrally defined and managed. When creating a new property in this section, basic information such as the property name, the property group it belongs to, and the data type it supports are defined. The selected data type determines which values the property can take and how it can be used across products.
 
+    All product properties defined in the system can be viewed on the listing page. From this page, existing properties can be edited, updated, or deleted when necessary. Centralized property management ensures that product data is created in a consistent structure and contributes to more effective filtering, search, and product comparison functionalities.
+
+    Properties are associated with **Property Groups** to create a more structured and meaningful organization. Under the Property Groups section, new property groups can be defined and existing groups can be listed. When navigating to the detail page of a property group, the list of property values associated with that group can be accessed. This relationship allows properties to be categorized and managed more efficiently, making the overall product data structure easier to control.
 * seçenekler
 
 1.
