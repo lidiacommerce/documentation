@@ -141,7 +141,9 @@ This area allows you to build the catalog architecture within the system and def
     During the field creation process, field names can be customized as needed. Field names such as short description, brand, category, color, weight, volumetric weight, and tax rate can be defined. The field types for these fields are selected from options such as attribute, option, category reference, brand reference, image source, and document source.
 
     In addition, validation and mapping information can be defined for each field to configure which information is mandatory during product entry and which rules must be met for products under the related schema to be accepted into the system. This allows product data entry standards to be controlled in an organization-specific manner. These configurations can also be managed by uploading custom documents under the **Documents** section.
-*
+*   ### **Product Relationships**
+
+    The Product Relationships section is where logical and functional relationships between products are defined within the system. In this section, the name and description of product relationships are created to ensure that relationship types are defined with a standardized structure across the platform. At this stage, only the basic definition of the relationship is configured; the products or product variants to which the relationship applies are defined later through the product and variant detail screens. This structure allows different relationship scenarios, such as cross-sell, alternative products, or complementary products, to be managed flexibly.
 * özellikler
 
 1.
