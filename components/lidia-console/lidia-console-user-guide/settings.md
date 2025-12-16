@@ -67,7 +67,7 @@ The Payments section is where the payment options, methods, and rules to be used
 
     Integration details and integration processes related to the payment channel are available in the **Integration Info** section. Payment transactions related to completed orders, including transaction amounts, transaction dates, and transaction types, can be reviewed in the **Transactions** section.
 
-{% hint style="info" %}
+{% hint style="success" %}
 ![](<../../../.gitbook/assets/image (1) (1).png>)\
 When adding a new payment channel, you may either select from the known providers available in the system or define a new provider from scratch.
 {% endhint %}
