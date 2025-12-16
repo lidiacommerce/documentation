@@ -151,6 +151,11 @@ This area allows you to build the catalog architecture within the system and def
     Through this section, data locks can be defined while importing product data from external sources, while editing product data within the Lidia Console, or while sending product data through flows, channels, services, or feeds. This ensures that critical product information remains protected from unauthorized or unintended changes.
 
     When adding a new data lock, the process requires defining the lock title, lock type, the source to which the lock will be applied, the lock scope, the related object type, the locked field, and a description.
+
+{% hint style="success" %}
+This is an advanced feature that covers data locking not only during product flows but also at the product data level.
+{% endhint %}
+
 * özellikler
 
 1.
