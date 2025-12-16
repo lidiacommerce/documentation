@@ -163,12 +163,24 @@ This is an advanced feature that covers data locking not only during product flo
     All product properties defined in the system can be viewed on the listing page. From this page, existing properties can be edited, updated, or deleted when necessary. Centralized property management ensures that product data is created in a consistent structure and contributes to more effective filtering, search, and product comparison functionalities.
 
     Properties are associated with **Property Groups** to create a more structured and meaningful organization. Under the Property Groups section, new property groups can be defined and existing groups can be listed. When navigating to the detail page of a property group, the list of property values associated with that group can be accessed. This relationship allows properties to be categorized and managed more efficiently, making the overall product data structure easier to control.
-* seçenekler
+*   ### **Options**
 
-1.
-2.
-3.
-4.
+    The Options section is where options, option groups, and the values associated with these options are centrally managed within the scope of product properties. This section is one of the core building blocks for creating product variants and standardizing product data.
+
+    **The Options page** is where all options defined in the system are listed. Through this page, new options can be created, existing options can be viewed, and edits can be made. Options form the basis of variant structures used on products and are managed by being associated with relevant option groups.
+
+    Under the **Option Groups** section, multiple options are grouped under meaningful structures. This allows options to be categorized, creating a more organized and manageable structure. In this section, new option groups can be defined, existing groups can be listed, and options associated with a group can be viewed through the group detail page.
+
+    **The Option Values page** is where each option value defined in the system is listed individually and can be edited. This section helps maintain the consistency of values used across products and prevents duplicate data entry.
+
+    In the **Option Value Groups** section, option values are organized under logical groups. Through these groups, related option values can be viewed and managed together. New value groups can be created from this section, and associated values can be accessed through the group detail page.
+
+    The Options section enables options and values to be managed in a reusable, controlled, and scalable structure, contributing to a more organized and sustainable product data architecture.
+
+{% hint style="info" %}
+- **Properties** are fields where descriptive information about a product is entered, such as Processor Type, Screen Size, or Color. These fields describe the product and typically do not affect the price.
+- **Options** represent product variants and usually affect the price. They are user-selectable fields that create variations, such as Memory Capacity or Color Options.
+{% endhint %}
 
 ## Tags
 
