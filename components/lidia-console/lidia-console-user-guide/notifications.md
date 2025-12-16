@@ -18,26 +18,26 @@ Notification preferences are grouped under the following main categories:
 
 #### **Order Notifications**
 
-* A new order has been created
-* Order status has been updated
-* Order has been canceled
-* A new return request has been created
+* [x] A new order has been created
+* [x] Order status has been updated
+* [x] Order has been canceled
+* [x] A new return request has been created
 
 #### **Delivery Notifications**
 
-* A new delivery has been created
-* Delivery status has been updated
-* Delivery address has been updated
+* [x] A new delivery has been created
+* [x] Delivery status has been updated
+* [x] Delivery address has been updated
 
 #### **Inventory Notifications**
 
-* There are products with low stock
-* There are products that are out of stock
+* [x] There are products with low stock
+* [x] There are products that are out of stock
 
 #### **Marketing Notifications**
 
-* A new coupon has been created
-* A new campaign has been created
+* [x] A new coupon has been created
+* [x] A new campaign has been created
 
 {% hint style="success" %}
 This structured notification system allows users to stay informed about critical updates while enabling them to customize their notification preferences for a cleaner and more focused experience.
