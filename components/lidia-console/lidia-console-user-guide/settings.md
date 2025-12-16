@@ -178,8 +178,9 @@ This is an advanced feature that covers data locking not only during product flo
     The Options section enables options and values to be managed in a reusable, controlled, and scalable structure, contributing to a more organized and sustainable product data architecture.
 
 {% hint style="info" %}
-- **Properties** are fields where descriptive information about a product is entered, such as Processor Type, Screen Size, or Color. These fields describe the product and typically do not affect the price.
-- **Options** represent product variants and usually affect the price. They are user-selectable fields that create variations, such as Memory Capacity or Color Options.
+**Properties** are fields where descriptive information about a product is entered, such as Processor Type, Screen Size, or Color. These fields describe the product and typically do not affect the price.
+
+**Options** represent product variants and usually affect the price. They are user-selectable fields that create variations, such as Memory Capacity or Color Options.
 {% endhint %}
 
 ## Tags
