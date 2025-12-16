@@ -134,7 +134,13 @@ The Catalog section is where the full scope of product data to be offered for sa
 
 This area allows you to build the catalog architecture within the system and define an organization-specific product structure end to end. Through the Catalog, the product data space can be designed, data relationships can be established, and a solid foundation for product management can be created.
 
-*
+*   ### **Data Schemas**
+
+    The Data Schemas section is where you define under which data schema the products to be uploaded to the system will be structured. From this page, you can view all your data schemas and create new ones. By navigating to the details of any data schema, new fields can be added through the **Data Schema Fields** section.
+
+    During the field creation process, field names can be customized as needed. Field names such as short description, brand, category, color, weight, volumetric weight, and tax rate can be defined. The field types for these fields are selected from options such as attribute, option, category reference, brand reference, image source, and document source.
+
+    In addition, validation and mapping information can be defined for each field to configure which information is mandatory during product entry and which rules must be met for products under the related schema to be accepted into the system. This allows product data entry standards to be controlled in an organization-specific manner. These configurations can also be managed by uploading custom documents under the **Documents** section.
 *
 * özellikler
 
