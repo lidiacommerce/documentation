@@ -185,9 +185,15 @@ This is an advanced feature that covers data locking not only during product flo
 
 ## Tags
 
-*
-*
-*
+The Tags section is where tags to be used across the system are defined and managed. Tags are used to provide classification, differentiation, and ease of management across products, categories, brands, documents, or system-related processes.
+
+When adding a new tag, the first step is to select the **tag type**. The tag type determines how the tag will be used within the system and how it will behave in the user interface. During tag type selection, descriptions for each tag type are displayed on the screen, and the appropriate tag type is selected accordingly.
+
+The tag types available in the system are as follows:
+
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+After selecting the tag type, the tag creation process is completed by entering the tag name, tag text, and tag code. The created tags can be used across relevant areas of the system and managed according to requirements.
 
 ## Extensions
 
