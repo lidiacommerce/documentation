@@ -14,7 +14,7 @@ Notification preferences are grouped under the following main categories:
 
 #### **Organization Notifications**
 
-* [ ] A new merchant has been added
+* [x] A new merchant has been added
 
 #### **Order Notifications**
 
