@@ -126,6 +126,8 @@ The Commercial section is where organizational commercial rules are defined and 
 
 The created rule set can be configured based on criteria such as category, brand, product, seller, variant, and payment instrument. This allows commercial operations to be managed in a flexible and controlled manner according to organizational requirements.
 
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 ## Catalog
 
 *
