@@ -101,7 +101,8 @@ When adding a new payment channel, you may either select from the known provider
 
 ## Logistics
 
-*
+The Logistics section is where delivery processes on the platform are managed and configured. Through this section, contracted service providers are defined and managed, delivery profiles are created, and custom delivery rules can be configured based on specific requirements. Logistics settings form the core structure that supports accurate and seamless order fulfillment.
+
 *
 *
 
