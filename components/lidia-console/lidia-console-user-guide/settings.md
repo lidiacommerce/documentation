@@ -103,8 +103,22 @@ When adding a new payment channel, you may either select from the known provider
 
 The Logistics section is where delivery processes on the platform are managed and configured. Through this section, contracted service providers are defined and managed, delivery profiles are created, and custom delivery rules can be configured based on specific requirements. Logistics settings form the core structure that supports accurate and seamless order fulfillment.
 
-*
-*
+*   ### **Service Providers**
+
+    The Service Providers section is the area where all contracted shipping companies and the shipping services they offer are managed. In this section, you can access the services provided by each shipping provider through labels such as standard shipping, bulky cargo, and next-day delivery. When accessing the detail screen of a service provider, the **Basic Information**, **Integration Information**, and **Service Information** sections are displayed.
+
+    In the Basic Information section, the provider name and code can be edited. In the Integration Information section, the pricing interface URL, authorization interface URL, and API key information can be managed. In the Service Information section, a new service identity can be added by selecting a service type from the available options, and a price list can be uploaded for the defined service identity. During the price list upload process, the sample Excel template provided by the Lidia Console can be downloaded, edited as needed, and then uploaded to successfully complete the process.
+
+    Thanks to these uploaded price lists, the system calculates estimated shipping costs at the moment products are prepared to be listed for sale on the platform and generates a shipping fee accordingly. This fee is later compared with the actual shipping cost, and this comparison is referenced in the calculation of settlement amounts.
+
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+*   ### **Profiles**
+
+    The Profiles section is where marketplace-recommended delivery profiles are managed and custom delivery profiles can be created. In this area, prioritization for small cargo and bulky cargo can be easily configured using the drag-and-drop method.
+*   ### **Rules**
+
+    The Rules section is the area where delivery processes can be customized based on predefined rules. Under this section, service provider matching can be configured according to criteria such as category, weight, volumetric weight, city, district, and distance.
 
 ## Commercial
 
