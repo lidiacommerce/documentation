@@ -38,3 +38,7 @@ Notification preferences are grouped under the following main categories:
 
 * A new coupon has been created
 * A new campaign has been created
+
+{% hint style="success" %}
+This structured notification system allows users to stay informed about critical updates while enabling them to customize their notification preferences for a cleaner and more focused experience.
+{% endhint %}
