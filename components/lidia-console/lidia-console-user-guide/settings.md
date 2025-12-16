@@ -57,13 +57,36 @@ Through document versioning, it is possible to perform checks in later stages, s
 
 ## Payments
 
-*
-*
-*
-*
-*
-*
-*
+The Payments section is where the payment options, methods, and rules to be used on the platform are defined. Users’ preferred payment methods are configured through this section. During the payment collection process on the frontend, Lidia Collectors reference these definitions to verify whether the relevant payment method is defined in the system, as well as to check installment options and transaction conditions.
+
+*   ### **Payment Channels**
+
+    Through the Payment Channels tab, a new payment channel can be added and all payment channels defined in the system can be listed. Each payment channel is a core component that determines how the payment flow operates and under which conditions it can be used.
+
+    When accessing the detail screen of a payment channel, four main sections are displayed. The channel name and channel code are shown in the **Basic Information** section. Installment options related to the payment channel, interest rates applied to installments, active or passive status information, editing actions, and adding new installment options are managed through the **Options** section.
+
+    Integration details and integration processes related to the payment channel are available in the **Integration Info** section. Payment transactions related to completed orders, including transaction amounts, transaction dates, and transaction types, can be reviewed in the **Transactions** section.
+*   ### **Payment Institutions**
+
+    The Payment Institutions section is where the payment institutions to be used on the platform are defined and managed. Through this section, new payment institutions can be added, existing institutions can be listed, and removed when necessary.
+
+    When accessing the detail screen of a payment institution, the institution’s basic information, related payment instruments, BIN codes, and payment channels are displayed. In the **Basic Information** section, the payment institution name, display name, and institution code are managed.
+
+    In the **Payment Instruments** section, payment instruments associated with the relevant payment institution can be added, existing associations can be removed, or updated. In the **BIN Codes** section, BIN codes belonging to the institution can be listed and new BIN codes can be added.
+*   ### **Payment Instruments and Instrument Groups**
+
+    The Payment Instruments section is where payment instruments belonging to a specific bank or payment provider are listed and defined. A new payment instrument can be added through this section. During the payment instrument creation process, the payment instrument name, code, associated instrument group, institution information, and instrument type are entered to complete the definition. From the detail page of a listed payment instrument, basic information, the BIN code list, and payment options can be viewed and edited.
+
+    The Instrument Groups section allows different variations or structures of the same payment instrument to be grouped under a single group. Through this section, new payment instrument groups can be defined, existing groups can be viewed, and filtering operations can be performed.
+*   ### **Payment Options**
+
+    The Payment Options section allows you to view and filter which payment institution offers which payment instrument and which installment options. Payment options can be listed based on payment institution, payment instrument, and installment details. When accessing the detail screen of any listed payment option, a description area containing basic information and a separate area containing technical parameters are displayed.
+*   ### **BIN Codes**
+
+    The BIN Codes section is where BIN codes defined in the system are listed and their active or passive statuses are reviewed.
+*   ### **Payment Rules**
+
+    The Payment Rules screen is where rule-based configurations for product payment transactions are defined. Through this screen, payment type and installment count rules can be created based on criteria such as category, brand, seller, price, and down payment amount.
 
 ## Logistics
 
