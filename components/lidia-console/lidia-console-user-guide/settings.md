@@ -122,6 +122,10 @@ The Logistics section is where delivery processes on the platform are managed an
 
 ## Commercial
 
+The Commercial section is where organizational commercial rules are defined and managed. In this section, existing rules are listed, viewed, and can be exported in Excel format when needed. When adding a new rule, the commission rule name, priority, and validity date are defined.
+
+The created rule set can be configured based on criteria such as category, brand, product, seller, variant, and payment instrument. This allows commercial operations to be managed in a flexible and controlled manner according to organizational requirements.
+
 ## Catalog
 
 *
