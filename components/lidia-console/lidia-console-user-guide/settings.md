@@ -144,6 +144,13 @@ This area allows you to build the catalog architecture within the system and def
 *   ### **Product Relationships**
 
     The Product Relationships section is where logical and functional relationships between products are defined within the system. In this section, the name and description of product relationships are created to ensure that relationship types are defined with a standardized structure across the platform. At this stage, only the basic definition of the relationship is configured; the products or product variants to which the relationship applies are defined later through the product and variant detail screens. This structure allows different relationship scenarios, such as cross-sell, alternative products, or complementary products, to be managed flexibly.
+*   ### **Data Locks**
+
+    The Data Locks section is used to ensure that certain information cannot be modified in a marketplace environment. These locks are not limited to the product creation process; they can also be applied during product data transfers from different platforms into the system. The source and target of where the lock is applied can be configured as needed.
+
+    Through this section, data locks can be defined while importing product data from external sources, while editing product data within the Lidia Console, or while sending product data through flows, channels, services, or feeds. This ensures that critical product information remains protected from unauthorized or unintended changes.
+
+    When adding a new data lock, the process requires defining the lock title, lock type, the source to which the lock will be applied, the lock scope, the related object type, the locked field, and a description.
 * özellikler
 
 1.
