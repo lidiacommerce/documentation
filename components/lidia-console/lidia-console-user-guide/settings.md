@@ -28,7 +28,7 @@ The Authorization section includes the pages where user roles and permissions ar
 
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
     \
     By accessing an individual user’s detail page, you can view basic user information such as first and last name, email address, phone number, and date of birth, as well as role and permission details.
@@ -45,7 +45,7 @@ The Legal section is the area where the organization’s legal obligations, docu
 
     When accessing the Legal Documents section, a document list is displayed containing the document ID, name, publisher, document code, version information, validity date, and active/passive status. In this area, legal documents such as KVKK texts, preliminary information forms, and similar documents can be uploaded, and uploaded documents can be versioned through this section.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Through document versioning, it is possible to perform checks in later stages, such as identifying who approved or did not approve specific versions of a document. From the Basic Information area on the document detail screen, the document content can be accessed and edited. Additionally, the complete version history of the document can be viewed through the Version History section on the detail screen.
 
@@ -66,6 +66,12 @@ The Payments section is where the payment options, methods, and rules to be used
     When accessing the detail screen of a payment channel, four main sections are displayed. The channel name and channel code are shown in the **Basic Information** section. Installment options related to the payment channel, interest rates applied to installments, active or passive status information, editing actions, and adding new installment options are managed through the **Options** section.
 
     Integration details and integration processes related to the payment channel are available in the **Integration Info** section. Payment transactions related to completed orders, including transaction amounts, transaction dates, and transaction types, can be reviewed in the **Transactions** section.
+
+{% hint style="info" %}
+![](<../../../.gitbook/assets/image (1).png>)\
+When adding a new payment channel, you may either select from the known providers available in the system or define a new provider from scratch.
+{% endhint %}
+
 *   ### **Payment Institutions**
 
     The Payment Institutions section is where the payment institutions to be used on the platform are defined and managed. Through this section, new payment institutions can be added, existing institutions can be listed, and removed when necessary.
