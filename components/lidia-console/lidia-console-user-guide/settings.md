@@ -111,7 +111,7 @@ The Logistics section is where delivery processes on the platform are managed an
 
     Thanks to these uploaded price lists, the system calculates estimated shipping costs at the moment products are prepared to be listed for sale on the platform and generates a shipping fee accordingly. This fee is later compared with the actual shipping cost, and this comparison is referenced in the calculation of settlement amounts.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 *   ### **Profiles**
 
