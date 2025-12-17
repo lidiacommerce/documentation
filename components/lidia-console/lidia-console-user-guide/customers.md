@@ -70,6 +70,7 @@ When the Permissions page is accessed, all customer permissions are displayed on
 
 ## **Reference Codes**
 
+A reference code is an identifier used to track where users or transactions originate from and to apply source-specific rules or benefits.\
 The Reference Codes screen is the area where reference codes to be used on the platform are defined and managed. Through this screen, new reference codes can be created and a list of all reference codes defined in the system can be viewed. Reference codes can be defined according to different usage types such as platform-based, seller-based, or user-based.
 
 When navigating to the details of any reference code, the Dashboard screen opens first. In the summary panel displayed on this screen, the creation date of the reference code, the start date, and the planned end date are shown. Through the 'stop refferal code validity' and 'expire refferal code'  buttons located in the same area, the active status of the code can be managed. In the side summary panel, statistics such as the usage count of the reference code and access and usage percentages are presented. At the bottom of the Home page, there is a usage detail chart that can be customized based on the selected date range, allowing the performance of the reference code to be visually monitored.
@@ -77,3 +78,6 @@ When navigating to the details of any reference code, the Dashboard screen opens
 Another section available on the reference code detail screen is the Conditions and Rewards page. Through this page, the conditions under which the reference code will be valid can be defined. By creating role-based, seller-based, or user-based rules, the scope of use and the benefits provided by the reference code can be configured.
 
 On the final section of the detail screen, the General Settings page, the basic configurations of the reference code are managed. In this area, the reference code name, reference code type, usage limit, and validity dates can be viewed and updated when necessary. This structure ensures that the lifecycle of reference codes is fully controlled end to end.
+
+
+
