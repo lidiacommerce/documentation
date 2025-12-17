@@ -132,3 +132,12 @@ In the summary area at the top of the page, the **Total Progress Payment** (TRY)
 In addition, this section displays the **Cargo interruption**, which represents the costs reflected to the seller for logistics services used in orders, the **Withholding Tax Amount**, calculated at a rate of 1% on the sales amount excluding VAT, and **Other Interruptions**, which include additional deduction items such as commissions, discounts, and penalties.
 
 At the bottom of the page, a list presents detailed payout information by period. This list includes Payout Period, Estimated Payment Date, Payout Amount, Deduction Amount, Net Payout Amount, and Status information. The list can be filtered by criteria such as date, minimum–maximum amount, and status to easily access relevant payout records.
+
+***
+
+#### **11. Services / Features**
+
+The Services / Features section is where additional services and features provided specifically for the seller are listed. Through this section, the types of services that the seller can benefit from are displayed.
+
+***
+
