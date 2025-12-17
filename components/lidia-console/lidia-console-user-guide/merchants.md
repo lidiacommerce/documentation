@@ -36,5 +36,25 @@ Once all steps are completed, the seller application is listed in the system wit
 
     Under the **Applications** section on the Seller List page, sellers who have applied through the onboarding process are listed. In this list, columns display the organization name, role, application owner, application date, and application status. This area is used for evaluating new seller applications and tracking the onboarding process.
 
+### **Seller Detail Screens**
 
+Within the Sellers section of the Lidia Console, the Seller List page allows you to navigate to each seller’s detail screens to track seller-related information. By clicking the Details button for a seller, multiple detail screens associated with that seller are displayed. These screens enable end-to-end monitoring of the seller’s store status, performance, company information, and operational structures.
+
+***
+
+#### **1. Store Dashboard**
+
+The Store Dashboard is the main screen where the overall status and performance of the seller’s store are summarized. In this area, store name, store code, associated organization, active and published status, and application details are displayed in the summary panel at the top.
+
+Below this section, the **first look** area displays the store rating, total earnings, number of active products, number of active categories, and a sales chart. From the store rating panel, access to the store evaluation report is provided, while the total earnings panel and sales chart allow navigation to the store sales reports.
+
+Under the **Store Performance** section, key performance metrics are displayed, including total order count, average order value, order fulfillment rate, average delivery time, return rate, and number of pending orders. From the total orders, order fulfillment rate, and pending orders sections, users can navigate to the [Orders](orders.md) page under the Sales section in the left menu to view all orders associated with the store.
+
+***
+
+#### **2. Main İnfo Screen**
+
+The Main İnfo screen is where store and company details related to the seller are displayed and managed. On this screen, store status information (such as active, passive, draft, ready to publish, deleted, or frozen) and store-related details such as the store name can be accessed.
+
+**Company information** including company type, tax office, tax number, and trade registry number, as well as detailed **address information**, are also available on this screen. At the bottom of the page, the **Warehouse Information** section displays the warehouses used by the store for return processing and product shipment operations. The addresses and types of return warehouses and outbound warehouses used for product shipments are listed here. Multiple warehouses can be added, and they can be set as default based on their operational purpose.
 
