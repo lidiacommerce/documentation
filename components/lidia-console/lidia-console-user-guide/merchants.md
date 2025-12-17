@@ -75,3 +75,17 @@ Lidia Console provides the following main filter categories during the filter co
 
 From the options under these categories, the ones suitable for your store can be selected to create customized filter sets. The created filter sets can be configured according to store needs, and the order of the filters within each set can be customized as desired.
 
+***
+
+#### **4. Page Management**
+
+The Page Management section is where the seller’s store page displayed on the marketplace is created and customized. In this section, the seller’s display name on the marketplace, page template, tags, and similar fields are configured to design the store page.
+
+From the **Add Section** area located at the bottom of the page, ready-made sections, blocks, and basic components provided by the Lidia Console can be added to the page. This structure allows flexible and manageable page layouts to be created without the need for coding.
+
+Within the Sections area, general content structures can be defined. For example, four-card homepage layouts, monthly deals sections, campaign showcases, or featured content areas can be created. When adding a section, a basic component is first selected from the list. These basic components include paragraph, button, simple list, divider, video, image, showcase, and advanced list.
+
+By combining the selected basic components, page sections are created and can be positioned on the store page in the desired order. This structure enables sellers to customize their store pages in line with their brand identity and marketing needs.
+
+***
+
