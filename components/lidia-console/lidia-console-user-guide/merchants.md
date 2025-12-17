@@ -92,3 +92,9 @@ By combining the selected basic components, page sections are created and can be
 #### **5. SEO Management**
 
 The SEO Management section is where search engine optimization settings for the seller’s store page are configured. Through this area, SEO-related information such as page titles, meta descriptions, keywords, and URL structures can be defined to improve the visibility of the store in search engines. Proper configuration of these settings helps increase organic traffic and enhances the discoverability of the store page.
+
+***
+
+#### **6. Page Addresses**
+
+The Page Addresses section is where the address = URL configurations of the store page are listed and managed. Through this page, different store addresses are displayed together with their priority, language/region, and status information. Page addresses are used to ensure proper routing and access management in stores with multi-language or multi-market structures.
