@@ -98,3 +98,11 @@ The SEO Management section is where search engine optimization settings for the 
 #### **6. Slug Addresses**
 
 The Page Addresses section is where the address = URL configurations of the store page are listed and managed. Through this page, different store addresses are displayed together with their priority, language/region, and status information. Page addresses are used to ensure proper routing and access management in stores with multi-language or multi-market structures.
+
+***
+
+#### **7. Authorized Persons**
+
+The Authorized Persons section is where users associated with the seller and their access permissions are managed. In this section, the username, email address, assigned role, and access status of authorized persons are displayed. The permission levels of seller-related users are controlled through this screen to ensure operational security and proper task distribution.
+
+Through this area, new authorized persons can be defined, and updates can be made to the roles or access statuses of existing users. The Authorized Persons section aims to centrally manage seller-based user access.
