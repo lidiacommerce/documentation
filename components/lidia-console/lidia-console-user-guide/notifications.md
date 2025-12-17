@@ -2,7 +2,7 @@
 
 The Lidia Marketplace Console Notification Center is the area where notifications related to all actions performed on the platform are tracked and where users are informed about real-time updates. Notifications can be filtered by notification type and date. Users can mark all notifications as read to clear existing alerts. They may also choose to view only unread notifications if desired.
 
-When a notification is clicked, the user is redirected to the relevant Console page associated with the notification’s category. For example, when the “A new order has been created” notification is selected, the user is redirected to the related order detail page under the **Orders** page within the **Sales** section in the left navigation menu, based on the corresponding order number.
+When a notification is clicked, the user is redirected to the relevant Console page associated with the notification’s category. For example, when the “A new order has been created” notification is selected, the user is redirected to the related order detail page under the Orders page within the Sales section in the left navigation menu, based on the corresponding order number.
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
