@@ -18,10 +18,9 @@ When the Add New Seller button is clicked, basic information such as the seller 
 
 The onboarding process consists of the following steps:
 
-* Authorized Person Information
+* Authorized Information
 * Company Information
-* Invoice and Payment Information
-* Profile and Definitions
+* Store and Operation Information
 * Company Documents
 * Preview and Approval
 
