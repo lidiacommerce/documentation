@@ -14,19 +14,19 @@ Provides access to system preferences, core configurations, user roles, and over
 [**Notification Center**](notifications.md)\
 Allows you to view and manage system notifications, alerts, and updates.
 
-[**Merchants** ](merchants.md)\
+[**Sellers**](sellers.md)\
 Enables you to review seller applications submitted from the storefront, perform approval or rejection actions, and manage marketplace sellers and business partners.
 
 [**Customers**](customers.md)\
 Allows you to view registered customers, manage membership permissions, create new customer records, and maintain reference information.
 
-[**Product Management**](product-management.md)\
+[**Catalog**](catalog.md)\
 Used to manage all products, brands, categories, variants, product pools, and product listings included in or offered for sale on the platform.
 
 [**Inventory**](inventory.md)\
 Provides an overview of all inventory data across the platform and allows inventory management.
 
-[**Content**](content-management.md)\
+[**Content Managenet**](content-management.md)\
 A content management area where interface orchestrations and experience sets are defined and associated with appropriate templates across the platform.
 
 [**Media**](media.md)\
@@ -35,19 +35,19 @@ Used to upload and manage all product-related images, videos, and files.
 [**Goal Management**](goals.md)\
 Allows you to define and track internal organizational goals and constraints.
 
-[**Campaign Management**](campaigns-coupons.md)\
+[**Campaign Management**](campaign-management.md)\
 Used to view existing campaigns and create new campaigns and coupon definitions.
 
-[**Sales**](orders.md)\
+[**Sales**](sales.md)\
 Allows you to track and manage completed orders.
 
-[**Logistics**](deliveries.md)\
+[**Logistics**](logistics.md)\
 Used to track delivery and shipment processes related to orders.
 
 [**Invoice Center**](invoice-center.md)\
 Allows you to monitor invoices generated for completed orders.
 
-[**Finance**](payments.md)\
+[**Finance**](finance.md)\
 Provides tracking and management of payments and financial transactions.
 
 [**After-Sales**](after-sales.md)\
@@ -59,7 +59,7 @@ Allows you to track customer requests, complaints, and support tickets.
 [**Social Capabilities**](social-capabilities.md)\
 Used to monitor customer feedback and engagement.
 
-[**Operational Processes**](cache-management.md)\
+[**Operational Tasks**](operational-tasks.md)\
 Used to manage technical and supportive processes related to platform operations.
 
 [**Reports**](reports.md)\

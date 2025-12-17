@@ -25,7 +25,7 @@ The Addresses screen is where customer address information is managed. In this s
 On the Orders screen, the customer’s entire order history is listed. For each order, information such as order number, product quantity, order date, order amount, payment method used, and order status is displayed. The order list can be filtered by date, order status (Draft, Pending Delivery, New, In Progress, Prepared, Invoiced, In Delivery Process, Delivered, Completed, Not Delivered, Returned, Cancelled, Expired), and request type (cancellation, return). When clicking on the details of any listed order, the user is redirected to the relevant order detail screen under **Sales > Orders** in the left menu.
 
 {% hint style="info" %}
-**Note:** This section is explained in detail in the Orders section. To review: [_Orders_](orders.md).
+**Note:** This section is explained in detail in the Orders section. To review: [_Orders_](sales.md).
 {% endhint %}
 
 #### **4. Payments**
@@ -33,7 +33,7 @@ On the Orders screen, the customer’s entire order history is listed. For each 
 On the Payments screen, all payment transactions related to the customer are listed. For each payment, information such as transaction code, transaction date, payment method used, instrument group, service provider, and institution is displayed. When clicking on the details of any payment, the user is redirected to the relevant payment detail page under **Finance > Payments** in the left menu.
 
 {% hint style="info" %}
-**Note:** This section is explained in detail in the Payments section. To review: [_Payments_](payments.md).
+**Note:** This section is explained in detail in the Payments section. To review: [_Payments_](finance.md).
 {% endhint %}
 
 #### **5. Campaigns**
@@ -41,7 +41,7 @@ On the Payments screen, all payment transactions related to the customer are lis
 On the Campaigns screen, the campaigns that the customer has benefited from are listed. Each campaign is displayed with information such as campaign name, campaign type, and start–end dates. The campaign list can be filtered based on campaign status and discount type (Membership, Promotion, Purchase, After-Sales). When clicking on a campaign detail, the user is redirected to the **Campaign Management > Campaigns** page in the left menu.
 
 {% hint style="info" %}
-**Note:** This section is explained in detail in the Campaigns section. To review: [_Campaigns_](campaigns-coupons.md).
+**Note:** This section is explained in detail in the Campaigns section. To review: [_Campaigns_](campaign-management.md).
 {% endhint %}
 
 #### **6. Coupons**
@@ -49,7 +49,7 @@ On the Campaigns screen, the campaigns that the customer has benefited from are 
 On the Coupons screen, the coupons used by the customer in their orders are listed. This list includes information such as coupon name, coupon type, discount type, discount amount, usage limit, and expiration date. When navigating to the details of any listed coupon, the user is redirected to the **Campaign Management > Coupons** page in the left menu.
 
 {% hint style="info" %}
-**Note:** This section is explained in detail in the Coupons section. To review: [_Coupons_](campaigns-coupons.md).
+**Note:** This section is explained in detail in the Coupons section. To review: [_Coupons_](campaign-management.md).
 {% endhint %}
 
 ***
