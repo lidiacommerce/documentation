@@ -89,3 +89,6 @@ By combining the selected basic components, page sections are created and can be
 
 ***
 
+#### **5. SEO Management**
+
+The SEO Management section is where search engine optimization settings for the seller’s store page are configured. Through this area, SEO-related information such as page titles, meta descriptions, keywords, and URL structures can be defined to improve the visibility of the store in search engines. Proper configuration of these settings helps increase organic traffic and enhances the discoverability of the store page.
