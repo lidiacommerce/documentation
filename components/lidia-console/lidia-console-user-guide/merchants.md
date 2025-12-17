@@ -6,7 +6,7 @@ Each seller’s application and profile information can be reviewed in detail, a
 
 *   ### **Seller List**
 
-    When the Seller List page is opened, there are two main sections: **Sellers** and **Applications**. Under the Sellers section, the names, ID numbers, and active/passive statuses of all sellers defined in the system are listed in the initial view. By clicking the Details button next to each seller, you can access a total of 13 different screens containing detailed information about the selected seller. The seller can be removed from the system using the delete (trash) button located on the same row.
+    When the Seller List page is opened, there are two main sections: **Sellers** and **Applications**. Under the Sellers section, the names, ID numbers, and active/passive statuses of all sellers defined in the system are listed in the initial view. By clicking the Details button next to each seller, you can access a total of 13 different screens containing detailed information about the selected seller. The seller can be removed from the system using the delete button located on the same row.
 
     The **Import Data** button located in the upper-right section of the Sellers page is used for bulk seller creation. Through this button, the sample Excel template provided by the Lidia Console can be downloaded. After editing this file by entering the required basic seller information and uploading it back to the system, sellers can be added to the list in bulk. This method is particularly used to reduce manual data entry during high-volume seller onboarding processes.
 
