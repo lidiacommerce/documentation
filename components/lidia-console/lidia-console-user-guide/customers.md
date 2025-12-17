@@ -63,3 +63,8 @@ The Permissions screen is where all permissions approved by the customer during 
 #### **8. Logs**
 
 On the Logs screen, the customer’s order and payment logs are listed separately along with date and IP address information. This area is used for tracking customer activities and supporting auditing processes.
+
+## **Permissions**
+
+When the Permissions page is accessed, all customer permissions are displayed on a single screen, listed according to customer ID numbers. This screen allows centralized monitoring of the legal, notification, and other permission types approved by customers and enables quick review of permission statuses.
+
