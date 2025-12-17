@@ -95,6 +95,6 @@ The SEO Management section is where search engine optimization settings for the 
 
 ***
 
-#### **6. Page Addresses**
+#### **6. Slug Addresses**
 
 The Page Addresses section is where the address = URL configurations of the store page are listed and managed. Through this page, different store addresses are displayed together with their priority, language/region, and status information. Page addresses are used to ensure proper routing and access management in stores with multi-language or multi-market structures.
