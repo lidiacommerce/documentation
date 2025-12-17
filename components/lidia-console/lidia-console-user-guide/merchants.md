@@ -122,3 +122,13 @@ The Products section aims to facilitate seller-based product tracking and enable
 The Orders section is where the seller’s orders are listed and order processes are tracked. Through this section, order statuses, order dates, and total amounts are displayed, enabling operational tracking of orders. The Orders section contributes to monitoring seller performance and managing order processes effectively.
 
 ***
+
+#### **10. Payouts**
+
+The Payouts section is where the seller’s financial earnings and payment processes are tracked in detail. This screen displays period-based revenues, deductions, and net payout amounts for the seller in a summarized manner.
+
+In the summary area at the top of the page, the **Total Payout Amount** (TRY) represents the net amount to be paid to the seller at the end of the period and is calculated by taking sales, returns, commissions, and other expenses into account. The **Sales Amount** shows the gross total of sales made within a specific period. **Pending Payments** include amounts that have been processed but not yet transferred to the seller, while **Past Payments** represent the total of completed payments made to the seller in previous periods.
+
+In addition, this section displays the **Shipping Deduction**, which represents the costs reflected to the seller for logistics services used in orders, the **Withholding Tax Amount**, calculated at a rate of 1% on the sales amount excluding VAT, and **Other Deductions**, which include additional deduction items such as commissions, discounts, and penalties.
+
+At the bottom of the page, a list presents detailed payout information by period. This list includes Payout Period, Estimated Payment Date, Payout Amount, Deduction Amount, Net Payout Amount, and Status information. The list can be filtered by criteria such as date, minimum–maximum amount, and status to easily access relevant payout records.
