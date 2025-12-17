@@ -149,3 +149,41 @@ After access to the seller panel is established, all actions performed are recor
 
 ***
 
+#### **13. Settings**
+
+The Settings section is where operational rules and restrictions related to the seller are managed. This section consists of four main headings: **Delivery Settings**, **Inventory Settings**, **Order Settings**, and **Payment Settings**. The configurations made here define the seller’s operational capabilities and limitations on the marketplace.
+
+* **Delivery Settings**
+
+In the Delivery Settings section, the delivery methods through which the seller can fulfill orders are defined. In this area, the appropriate options for the seller can be selected from the following:
+
+* [ ] Delivery using courier companies contracted by the marketplace
+* [ ] Delivery using courier companies contracted by the merchant
+* [ ] Use of the merchant’s own delivery method
+* [ ] Allowing the merchant to modify product weight information during the delivery creation stage only for shipments made with courier companies contracted by the marketplace
+
+- **Inventory Settings**
+
+The Inventory Settings section is where restrictions related to the seller’s product and stock management permissions are defined. Through this section, the following limitations can be applied:
+
+* [ ] Restricting the merchant’s ability to add products
+* [ ] Allowing the merchant to add products only under specified categories
+* [ ] Allowing the merchant to add products only under specified brands
+* [ ] Restricting the merchant’s ability to enter stock
+* [ ] Restricting the merchant’s ability to set prices
+
+These settings enable product and stock management to be carried out in a more controlled structure.
+
+* **Order Settings**
+
+In the Order Settings section, restrictions regarding the regions in which the seller can sell are defined. In this area, the following authorizations can be configured:
+
+* [ ] Allowing the merchant to select countries
+* [ ] Allowing the merchant to select provinces
+* [ ] Allowing the merchant to select districts
+
+In addition, requiring the merchant to approve the sales agreement can also be configured from this section.
+
+* **Payment Settings**
+
+In the Payment Settings section, the seller’s maturity periods and payout cycles are defined on a daily basis. Existing payment accounts can be viewed in this area; if needed, a new payment account can be added or existing payment account information can be updated. This structure ensures that payments to the seller are managed in a regular and controlled manner.
