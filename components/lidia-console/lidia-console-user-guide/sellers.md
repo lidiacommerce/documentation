@@ -151,7 +151,7 @@ After access to the seller panel is established, all actions performed are recor
 
 #### **13. Settings**
 
-The Settings section is where operational rules and restrictions related to the seller are managed. This section consists of four main headings: **Delivery Settings**, **Inventory Settings**, **Order Settings**, and **Payment Settings**. The configurations made here define the seller’s operational capabilities and limitations on the marketplace.
+The Settings section is where operational rules and restrictions related to the seller are managed. This section consists of four main headings: Delivery Settings, Inventory Settings, Order Settings, and Payment Settings. The configurations made here define the seller’s operational capabilities and limitations on the marketplace.
 
 * **Delivery Settings**
 
