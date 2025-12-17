@@ -107,8 +107,18 @@ The Authorized Persons section is where users associated with the seller and the
 
 Through this area, new authorized persons can be defined, and updates can be made to the roles or access statuses of existing users. The Authorized Persons section aims to centrally manage seller-based user access.
 
+***
+
 #### **8. Products**
 
 The Products section is where the seller’s products are listed and basic product information is displayed. On this page, products are listed under the columns Product Name, Barcode, Seller Unique Code, Commission Rate, Product Trademark, Product Category, Stock and Price. This structure allows the seller’s product portfolio, stock status, and pricing information to be monitored from a single screen.
 
 The Products section aims to facilitate seller-based product tracking and enable quick analysis of basic product performance information.
+
+***
+
+#### **9. Orders**
+
+The Orders section is where the seller’s orders are listed and order processes are tracked. Through this section, order statuses, order dates, and total amounts are displayed, enabling operational tracking of orders. The Orders section contributes to monitoring seller performance and managing order processes effectively.
+
+***
