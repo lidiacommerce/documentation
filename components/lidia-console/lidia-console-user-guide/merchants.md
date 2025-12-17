@@ -58,3 +58,20 @@ The Main İnfo screen is where store and company details related to the seller a
 
 **Company information** including company type, tax office, tax number, and trade registry number, as well as detailed **address information**, are also available on this screen. At the bottom of the page, the **Warehouse Information** section displays the warehouses used by the store for return processing and product shipment operations. The addresses and types of return warehouses and outbound warehouses used for product shipments are listed here. Multiple warehouses can be added, and they can be set as default based on their operational purpose.
 
+***
+
+#### **3. Filter Management**
+
+The Filter Management section is where the filters that will be displayed with priority on listing pages are defined in order to improve the user experience. Through this section, filters that help users find products more quickly and easily can be configured.
+
+Lidia Console provides the following main filter categories during the filter configuration process:
+
+* Categories
+* Trademarks
+* Price Range
+* Properties
+* Options
+* Tags
+
+From the options under these categories, the ones suitable for your store can be selected to create customized filter sets. The created filter sets can be configured according to store needs, and the order of the filters within each set can be customized as desired.
+
