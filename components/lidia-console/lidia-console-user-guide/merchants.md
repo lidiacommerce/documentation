@@ -145,7 +145,7 @@ The Services / Features section is where additional services and features provid
 
 The Access section is a management area designed to allow platform administrators to access the seller panel, [Lidia Merchant Console](../../lidia-merchant-console/), in a controlled and traceable manner. Through the **“Connect to Seller Panel”** button on this page, direct access to the relevant seller’s Merchant Console screen can be provided. This access is used for providing seller support, reviewing configurations, and quickly investigating operational issues.
 
-After access to the seller panel is established, all actions performed are recorded by the system. In the **Action Logs** section located at the bottom of the page, details such as the user who accessed the panel, the connection date and time, and the types of actions performed are listed in detail. This structure increases transparency in authorization processes, ensures traceability of actions, and supports operational security.
+After access to the seller panel is established, all actions performed are recorded by the system. In the **Transaction Records** section located at the bottom of the page, details such as the user who accessed the panel, the connection date and time, and the types of actions performed are listed in detail. This structure increases transparency in authorization processes, ensures traceability of actions, and supports operational security.
 
 ***
 
