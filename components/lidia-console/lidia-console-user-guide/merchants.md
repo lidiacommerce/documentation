@@ -106,3 +106,9 @@ The Page Addresses section is where the address = URL configurations of the stor
 The Authorized Persons section is where users associated with the seller and their access permissions are managed. In this section, the username, email address, assigned role, and access status of authorized persons are displayed. The permission levels of seller-related users are controlled through this screen to ensure operational security and proper task distribution.
 
 Through this area, new authorized persons can be defined, and updates can be made to the roles or access statuses of existing users. The Authorized Persons section aims to centrally manage seller-based user access.
+
+#### **8. Products**
+
+The Products section is where the seller’s products are listed and basic product information is displayed. On this page, products are listed under the columns Product Name, Barcode, Seller Unique Code, Commission Rate, Product Trademark, Product Category, Stock and Price. This structure allows the seller’s product portfolio, stock status, and pricing information to be monitored from a single screen.
+
+The Products section aims to facilitate seller-based product tracking and enable quick analysis of basic product performance information.
