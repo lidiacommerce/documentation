@@ -10,7 +10,11 @@ Each seller’s application and profile information can be reviewed in detail, a
 
     The **Import Data** button located in the upper-right section of the Sellers page is used for bulk seller creation. Through this button, the sample Excel template provided by the Lidia Console can be downloaded. After editing this file by entering the required basic seller information and uploading it back to the system, sellers can be added to the list in bulk. This method is particularly used to reduce manual data entry during high-volume seller onboarding processes.
 
-    Using the **Export Data** button, an Excel file containing the basic information of all listed sellers or selected sellers can be exported. This operation can be used for reporting, analysis, archiving, or data sharing with other systems. The **Add New Seller** button located next to the Export Data button is accessible on both the Sellers and Applications screens.
+    Using the **Export Data** button, an Excel file containing the basic information of all listed sellers or selected sellers can be exported. This operation can be used for reporting, analysis, archiving, or data sharing with other systems.&#x20;
+
+{% hint style="info" %}
+The **Add New Seller** button located next to the Export Data button is accessible on both the Sellers and Applications screens.
+{% endhint %}
 
 ### **Add New Seller**
 
