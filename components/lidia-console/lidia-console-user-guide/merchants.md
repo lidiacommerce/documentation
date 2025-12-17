@@ -187,3 +187,24 @@ In addition, requiring the merchant to approve the sales agreement can also be c
 * **Payment Settings**
 
 In the Payment Settings section, the seller’s maturity periods and payout cycles are defined on a daily basis. Existing payment accounts can be viewed in this area; if needed, a new payment account can be added or existing payment account information can be updated. This structure ensures that payments to the seller are managed in a regular and controlled manner.
+
+### Networks&#x20;
+
+The Networks section, located under the Sellers heading in the left navigation menu, is where dealerships and regional partners that your company has contracted with are managed. This section is designed to centrally track and manage business partners that operate under agreements with your organization, distinct from sellers that directly sell on the marketplace.
+
+From this page, all business partners defined in the system can be listed. Using the **Import Data** button located in the upper-right area, the sample Excel template provided by the Lidia Console can be downloaded. After making the necessary edits in this document, it can be uploaded back to the system to perform bulk dealer creation. This method helps reduce manual effort, especially when onboarding a large number of business partners.
+
+With the **Export Data** button, an Excel file containing the basic information of the listed business partners can be downloaded. This export can be used for reporting, analysis, archiving, or sharing data with other systems. The **Add New Dealer** button allows business partners to be added manually on an individual basis.
+
+When navigating to the detail page of any listed business partner, configurations can be managed under the following sections:
+
+* Main Info
+* Page Management
+* SEO Management
+* Slug Addresses
+* Authorized Persons
+* Orders
+* Services&#x20;
+* Settings
+
+This structure enables operational, content-related, and administrative information related to business partners to be controlled from a single centralized location. The Business Partners section allows the company to manage its dealer and partner network in a scalable, traceable, and controlled manner.
