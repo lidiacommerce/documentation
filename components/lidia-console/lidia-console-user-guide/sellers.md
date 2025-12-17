@@ -34,7 +34,7 @@ Once all steps are completed, the seller application is listed in the system wit
 
 *   ### **Applications**
 
-    Under the **Applications** section on the Seller List page, sellers who have applied through the onboarding process are listed. In this list, columns display the organization name, role, application owner, application date, and application status. This area is used for evaluating new seller applications and tracking the onboarding process.
+    Under the Applications section on the Seller List page, sellers who have applied through the onboarding process are listed. In this list, columns display the organization name, role, application owner, application date, and application status. This area is used for evaluating new seller applications and tracking the onboarding process.
 
 ### **Seller Detail Screens**
 
@@ -48,7 +48,7 @@ The Store Dashboard is the main screen where the overall status and performance 
 
 Below this section, the **first look** area displays the store rating, total earnings, number of active products, number of active categories, and a sales chart. From the store rating panel, access to the store evaluation report is provided, while the total earnings panel and sales chart allow navigation to the store sales reports.
 
-Under the **Store Performance** section, key performance metrics are displayed, including total order count, average order value, order fulfillment rate, average delivery time, return rate, and number of pending orders. From the total orders, order fulfillment rate, and pending orders sections, users can navigate to the [Orders](sales.md) page under the Sales section in the left menu to view all orders associated with the store.
+Under the **Store Performance** section, key performance metrics are displayed, including total order count, average order value, order fulfillment rate, average delivery time, return rate, and number of pending orders. From the total orders, order fulfillment rate, and pending orders sections, users can navigate to the Orders page under the [Sales](sales.md) section in the left menu to view all orders associated with the store.
 
 ***
 
