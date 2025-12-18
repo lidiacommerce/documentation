@@ -32,7 +32,7 @@ A content management area where interface orchestrations and experience sets are
 [**Media**](media.md)\
 Used to upload and manage all product-related images, videos, and files.
 
-[**Goal Management**](goals.md)\
+[**Goal Management**](goal-management.md)\
 Allows you to define and track internal organizational goals and constraints.
 
 [**Campaign Management**](campaign-management.md)\

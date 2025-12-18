@@ -73,7 +73,7 @@
     * [Inventory](components/lidia-console/lidia-console-user-guide/inventory.md)
     * [Content Management](components/lidia-console/lidia-console-user-guide/content-management.md)
     * [Media](components/lidia-console/lidia-console-user-guide/media.md)
-    * [Goals](components/lidia-console/lidia-console-user-guide/goals.md)
+    * [Goal Management](components/lidia-console/lidia-console-user-guide/goal-management.md)
     * [Campaign Management](components/lidia-console/lidia-console-user-guide/campaign-management.md)
     * [Sales](components/lidia-console/lidia-console-user-guide/sales.md)
     * [Logistics](components/lidia-console/lidia-console-user-guide/logistics.md)
