@@ -4,6 +4,11 @@ The Campaign Management section is the area where campaigns and coupons are cent
 
 This section essentially consists of two main headings: **Campaigns** and **Coupons**.
 
+{% hint style="info" %}
+_Campaigns_ operate based on a specific trigger point. This trigger may occur in different scenarios such as user registration, cart creation, the purchase process, or post-sale actions.\
+&#xNAN;_&#x43;oupons_, on the other hand, are not tied to a flow or scenario; they have a condition-based reward mechanism.
+{% endhint %}
+
 ### **Campaigns**
 
 The Campaigns section is the area where campaigns suitable for different marketing scenarios on the marketplace are created, managed, and their performance is tracked. This area enables the design of campaigns aimed at different business objectives such as customer acquisition, sales growth, and post-sales incentives.
@@ -43,6 +48,12 @@ When the detail screen of any listed coupon is opened, a total of five main page
 
 * On the **Dashboard**, the coupon’s creation date, start date, and planned end date are displayed. The coupon status can be managed using the Pause Coupon Validity and End Coupon Validity buttons on this screen. The side panel displays the number of coupon codes, reach and usage percentages, as well as revenue and cost information generated from the coupon. At the bottom of the page, a coupon usage detail chart is presented based on the selected date range.
 * On the **Conditions and Rewards** page, the conditions under which the coupon is valid and the rewards it provides are defined. Conditions can be created for fields such as category, brand, special list, seller, variant, cart amount, and per-user usage limit. The discount type to be applied can be configured as either a fixed amount or a percentage.
+
+{% hint style="success" %}
+_In campaigns_, the reward granted to the user can vary, such as a coupon, discount, bonus points, special payment options, or similar benefits.\
+&#xNAN;_&#x49;n coupons_, the reward is limited to a fixed amount or percentage-based discount.
+{% endhint %}
+
 * The **Coupon Codes** page is where coupon codes are managed. On this page, coupon codes are listed and can be added using two methods: Add Single Coupon Code and Add Bulk Coupon Codes. With the single coupon code option, a single code can be created by entering the code, user information, and the active/passive status of the code. When selecting the bulk coupon code option, two methods are available: uploading coupon codes in bulk via an Excel file or generating coupon codes automatically by the system. If continuing with the Excel method, the sample Excel document provided by the Console should be downloaded, edited accordingly, and uploaded back to the system. If continuing with system-generated codes, information such as the number of coupon codes to be created, the character length of the codes, and preferences for letter and number usage must be entered. Coupon codes can consist of letters, numbers, or both. Additionally, using the Export Data button on the Coupon Codes page, all listed coupon codes can be exported as an Excel document.
 * On the **General Settings** page, the basic information of the coupon can be viewed and edited. The coupon usage type is selected here as limited or unlimited. In the lower section of the page, the coupon content can be enriched by adding a short description, tags, and small and large images.
 * On the **Cost Settings** page, a target cost amount can be defined for the coupon. When the specified target cost is reached, coupon usage can be automatically stopped. The cost type can be selected as marketplace, seller, or shared.
