@@ -4,7 +4,7 @@ The Sales section is the central area where all orders that have taken place on 
 
 ## **Orders**
 
-The Orders page is located under the Sales module and is the area where all orders created on the platform are listed in detail, filtered, and tracked on an individual order basis. This page enables monitoring each step of the order lifecycle and allows intervention when necessary.
+The Orders page is located under the Sales module and is the area where all orders created on the platform are listed in detail, filtered, and tracked on an individual order basis. This page enables monitoring each step of the order lifecycle and allows intervention when necessary.From this list, you can export the selected orders or all orders to an Excel file using the Export Data button located in the upper-right corner of the screen, allowing you to document the order data.
 
 When you enter the Orders page, the summary panel located at the top of the screen displays key metrics that allow you to quickly review the overall situation. In this area, the Number of Orders, Number of Ordered Products, Number of Canceled / Returned Orders, Number of Approved Orders, and Number of Delivered / Completed Orders are shown respectively. The purpose of this summary panel is to enable you to evaluate the general status of order operations at a glance and to facilitate daily operational control.
 
