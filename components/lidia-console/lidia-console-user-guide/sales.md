@@ -12,3 +12,20 @@ Below the summary panel, the main table lists all orders in the system. This lis
 
 You can export selected orders or all orders in the list to Excel format using the Export Data button located at the top right of the page and document your order data. This feature provides operational convenience for use cases such as reporting, archiving, and data sharing with different teams.
 
+### **Order Detail**
+
+When you navigate to the detail of any order listed, the order’s date and time information along with the order tags assigned to the order are displayed at the top of the page under the Order Detail heading with the #XXXX ID number. An order may have more than one tag. Order tags are used to differentiate orders from one another, facilitate order tracking, and standardize operational classification. From this screen, you can add new tags to the order or remove existing ones.
+
+**1) Summary Template**
+
+The first template displayed on the order detail screen is the Summary section. This area presents the most critical order information in a single view. Within the summary template, the customer’s full name, email or phone number (displayed based on the method selected by the customer during registration), order date and time, order amount (TRY), order number (copyable), order reference number (copyable), and order status are shown. This template serves as a reference point to verify the core identity details of the order and to quickly initiate operational processes.
+
+**2) Customer Information Template**
+
+Located on the right side of the summary template, the Customer Information template displays detailed information about the customer who placed the order. This area includes the customer’s full name, Guest User / Registered User status, and email/phone details. In the row below, delivery information is shown, including the Contact Number and Delivery Address. Using the Update Delivery Address button, the delivery address can be changed; any update made here applies only to the relevant order.
+
+Following the customer template, the Individual Invoice Address and then the Platform Information section are displayed. The Platform Information section enables monitoring of the customer’s overall behavior on the platform and presents metrics such as Membership Date, Last Order Date, Total Order Amount, Total Order Count, and Total Cancellation/Return Request Count. This area supports operational decision-making by allowing a quick evaluation of the customer’s history.
+
+**3) Notes Section**
+
+Below the customer information template, the Notes section is located. By adding notes to orders, you can record important details related to the order, ensure information continuity within the team, and prevent the loss of critical information. Notes are visible only to users who have access to this page, and multiple notes can be added for the same order. This area is generally used for internal operational notes, exceptional case records, or customer communication notes.
