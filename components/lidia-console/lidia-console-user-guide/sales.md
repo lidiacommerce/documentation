@@ -29,3 +29,57 @@ Following the customer template, the Individual Invoice Address and then the Pla
 **3) Notes Section**
 
 Below the customer information template, the Notes section is located. By adding notes to orders, you can record important details related to the order, ensure information continuity within the team, and prevent the loss of critical information. Notes are visible only to users who have access to this page, and multiple notes can be added for the same order. This area is generally used for internal operational notes, exceptional case records, or customer communication notes.
+
+**4) Order Activity Template**
+
+Located below the Notes section, the Order Activity template lists all steps that occur from the moment the customer adds the product to the cart until the order is completed, together with date and time information, in chronological order. This section is critical for verifying the steps experienced during the order process and for performing root cause analysis in case of potential issues.
+
+The listed core steps are displayed under the following headings:
+
+* Entered the order process
+* Payment preference selected
+* Invoice address selected
+* Payment successfully completed
+* Order process completed
+* Order status updated
+* Order shipped
+* Order delivered
+
+The steps displayed vary depending on the current status of the order; for example, for orders with a status of new, the process is typically visible up to the “Order process completed” step, whereas for orders with a status of in delivery process, the steps may be displayed up to the “Order shipped” stage.
+
+**5) Order Account Breakdown Template**
+
+The Order Account Breakdown template, located below the summary template, presents the revenue and cost items of the order in an itemized and accounted manner with detailed sub-breakdowns. This area allows you to analyze the financial impact of the order, platform costs, and seller shares in a single consolidated view.
+
+**Revenue Table**
+
+* Product Price
+* Installment Difference
+* Shipping Fee
+* Total Revenue
+
+**Cost Table**
+
+* **Internal Costs**
+  * Platform Cost
+  * Payment Provider Cost
+  * Shipping Cost
+  * Seller Share
+  * Withholding Tax Deduction
+  * Refund Amount
+  * Cancellation Amount
+  * Marketplace Coupon Cost
+  * Seller Coupon Cost
+  * Marketplace Campaign Cost
+  * Seller Campaign Cost
+  * Loyalty Points Cost
+* **External Costs**
+  * External Coupon Cost
+  * External Loyalty Points Cost
+
+At the end of the template, the **Total Cost** information is displayed, completing the comprehensive financial summary of the order.
+
+
+
+
+
