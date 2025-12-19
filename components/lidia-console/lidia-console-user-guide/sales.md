@@ -124,7 +124,13 @@ Using the Create Request button located under this information, you can select p
 
 For an order with a created return request, the return reason, the user who made the update, and the update date are displayed. The View Request Details button redirects you to the [**After Sales**](after-sales.md) **> Returns** page in the Console side menu and displays the return details of the relevant order. Additionally, using the Send Return Code to Customer button, the return code of the related delivery can be sent to the customer’s email address.
 
+**7) Invoice Information Template**
 
+The Invoice Information template, located below the Order Content template, is not displayed at every stage of the order. This template generally becomes visible after the order reaches the delivery process stage and a delivery code is created. In this area, the invoice uploaded by the seller who fulfilled the order is listed with the following information: Invoice Type, Invoice Number, Invoice Issue Date, and Order Reference Number. You can access the issued invoice for the order by using the View Invoice button. Additionally, the Invoice Center button within the template redirects you to the [**Invoice Center**](invoice-center.md) **> Invoices** page located in the Console side menu. If the seller has not yet uploaded an invoice, the Request Invoice Upload button can be used to notify the seller and enable tracking of the invoicing process.
+
+**8) Payment Information Template**
+
+The Payment Information template is generally located below the Invoice Information template; if the invoice template is not displayed, it may appear under the Order Content template. In this area, Payment Method, Installment Information, Payer, and Paid Amount are displayed. If the payment was made in installments, the installment plan is listed in detail; the payment flow can be tracked through Installments, Status (paid/unpaid), Payment Date, Amount Due, and Remaining Amount information.
 
 
 
