@@ -79,6 +79,55 @@ The Order Account Breakdown template, located below the summary template, presen
 
 At the end of the template, the **Total Cost** information is displayed, completing the comprehensive financial summary of the order.
 
+**6) Order Content Template**
+
+The Order Content template, located below the Order Account Breakdown template, displays the operational progress and delivery stages of the products included in the order. In this area, seller information, product name, quantity, barcode number, and delivery stages of the ordered product(s) are listed. Delivery stages are displayed with different steps depending on the order status.
+
+If the order status is **new**, the delivery stages are displayed as follows:
+
+* New
+* To be prepared
+* To be shipped
+* To be delivered
+
+If the order status is **processing**, the delivery stages progress as follows:
+
+* Processing
+* To be prepared
+* To be shipped
+* To be delivered
+
+Products that move past the new stage and are taken into processing can be removed from the order at this stage using the Cancel Product button.
+
+When the order status is **prepared**, the delivery stages appear as follows:
+
+* Processing
+* Prepared
+* To be shipped
+* To be delivered
+
+For products that move from the to be prepared stage to the prepared stage, the preparation date and time are displayed. In the next stage, to be shipped, the planned shipment date is shown.
+
+If the order status is **in delivery process**, the stages are listed as follows:
+
+* Processing
+* Prepared
+* Delivery created
+* To be delivered
+
+At this stage, delivery type, carrier provider, and delivery code information are displayed. By clicking the View Delivery Process button, you can open the delivery detail screen and access delivery code, shipment tracking number, recipient, and sender information. Using the View in Detail button at the bottom of the page, you are redirected to the [**Logistics**](logistics.md) **> Deliveries** page located in the Console side menu. In addition, at this stage, you can change the delivery status or cancel the delivery using the Intervene Delivery button. All actions performed are logged with your user information; the intervention type may be updating the delivery status or canceling the delivery, and an intervention reason can also be entered.
+
+When the order status is **completed**, along with the information that the products have been delivered, the following details are displayed:
+
+* Delivery type
+* Carrier company that performed the delivery
+* Order completion duration
+* Seller’s average order completion time
+
+Using the Create Request button located under this information, you can select products and enter a return reason to create a return request. If a return is created using a marketplace-contracted carrier, the system provides a return code. In the request creation area, View Seller Performance and Account Breakdown buttons are also available. The account breakdown button displays a detailed, product-based financial summary of the customer’s purchase; this area can be considered a smaller-scale version of the Order Account Breakdown template explained above.
+
+For an order with a created return request, the return reason, the user who made the update, and the update date are displayed. The View Request Details button redirects you to the [**After Sales**](after-sales.md) **> Returns** page in the Console side menu and displays the return details of the relevant order. Additionally, using the Send Return Code to Customer button, the return code of the related delivery can be sent to the customer’s email address.
+
 
 
 
