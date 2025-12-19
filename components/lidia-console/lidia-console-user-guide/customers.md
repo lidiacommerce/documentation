@@ -25,7 +25,7 @@ The Addresses screen is where customer address information is managed. In this s
 On the Orders screen, the customer’s entire order history is listed. For each order, information such as order number, product quantity, order date, order amount, payment method used, and order status is displayed. The order list can be filtered by date, order status (Draft, Pending Delivery, New, In Progress, Prepared, Invoiced, In Delivery Process, Delivered, Completed, Not Delivered, Returned, Cancelled, Expired), and request type (cancellation, return). When clicking on the details of any listed order, the user is redirected to the relevant order detail screen under **Sales > Orders** in the left menu.
 
 {% hint style="info" %}
-**Note:** This section is explained in detail in the Orders section. To review: [_Orders_](sales.md).
+**Note:** This section is explained in detail in the Orders section. To review: [_Orders_](customers.md#id-3.-orders).
 {% endhint %}
 
 #### **4. Payments**
