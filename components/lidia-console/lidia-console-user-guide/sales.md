@@ -83,37 +83,33 @@ At the end of the template, the **Total Cost** information is displayed, complet
 
 The Order Content template, located below the Order Account Breakdown template, displays the operational progress and delivery stages of the products included in the order. In this area, seller information, product name, quantity, barcode number, and delivery stages of the ordered product(s) are listed. Delivery stages are displayed with different steps depending on the order status.
 
-If the order status is **new**, the delivery stages are displayed as follows:
+If the order status is **new**, the delivery stages are displayed as follows:\
+-New\
+-To be prepared\
+-To be shipped\
+-To be delivered
 
-* New
-* To be prepared
-* To be shipped
-* To be delivered
-
-If the order status is **processing**, the delivery stages progress as follows:
-
-* Processing
-* To be prepared
-* To be shipped
-* To be delivered
+If the order status is **processing**, the delivery stages progress as follows: \
+-Processing\
+-To be prepared\
+-To be shipped\
+-To be delivered
 
 Products that move past the new stage and are taken into processing can be removed from the order at this stage using the Cancel Product button.
 
-When the order status is **prepared**, the delivery stages appear as follows:
-
-* Processing
-* Prepared
-* To be shipped
-* To be delivered
+When the order status is **prepared**, the delivery stages appear as follows:\
+-Processing\
+-Prepared\
+-To be shipped\
+-To be delivered
 
 For products that move from the to be prepared stage to the prepared stage, the preparation date and time are displayed. In the next stage, to be shipped, the planned shipment date is shown.
 
-If the order status is **in delivery process**, the stages are listed as follows:
-
-* Processing
-* Prepared
-* Delivery created
-* To be delivered
+If the order status is **in delivery process**, the stages are listed as follows:\
+-Processing\
+-Prepared\
+-Delivery created\
+-To be delivered
 
 At this stage, delivery type, carrier provider, and delivery code information are displayed. By clicking the View Delivery Process button, you can open the delivery detail screen and access delivery code, shipment tracking number, recipient, and sender information. Using the View in Detail button at the bottom of the page, you are redirected to the [**Logistics**](logistics.md) **> Deliveries** page located in the Console side menu. In addition, at this stage, you can change the delivery status or cancel the delivery using the Intervene Delivery button. All actions performed are logged with your user information; the intervention type may be updating the delivery status or canceling the delivery, and an intervention reason can also be entered.
 
