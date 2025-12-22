@@ -22,3 +22,9 @@ Under the Request Information template, the Products Related to the Request temp
 On the right side of the return request detail screen, the Request Movements template is displayed. This template presents the lifecycle of the return request step by step in chronological order. All actions taken throughout the process are recorded here. A sample request flow consists of the steps Process Started, Process Updated, Approved, and Completed. This structure makes it easy to track the current stage of the return process and review all actions taken previously.
 
 The Returns section plays a critical role in ensuring the smooth execution of after-sales operations, maintaining customer satisfaction, and managing return processes under a standardized structure.
+
+## **Cancellations**
+
+The Cancellations section is the area where orders with cancellation requests created on the marketplace are listed and their processes are tracked. On this page, information such as request ID, cancellation request number, order amount (TL), request date, and request status is displayed. The listing screen can be filtered by date, request status, and the minimum–maximum order amount range.
+
+Cancellation requests are tracked under statuses such as New, In Progress, Completed, Accepted, Withdrawn, and Rejected. The detail screen and process management of cancellation requests follow the same workflow and template structure defined in the Returns section. Therefore, for detailed review and management steps of cancellation requests, the **Returns** section can be referenced.
