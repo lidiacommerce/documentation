@@ -68,7 +68,7 @@ Provides access to reports related to sales, operations, and cost data.
 [**Audit Reports**](audit-reports.md)\
 Allows tracking of system activity logs and transaction records at the organizational level.
 
-[**Lidia App Store**](lidia-app-store.md)
+[**Lidia App Store**](/broken/pages/BM7i4vEz5KVBGN4G3fgE)
 
 
 

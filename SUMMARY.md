@@ -85,7 +85,6 @@
     * [Operational Tasks](components/lidia-console/lidia-console-user-guide/operational-tasks.md)
     * [Reports](components/lidia-console/lidia-console-user-guide/reports.md)
     * [Audit Reports](components/lidia-console/lidia-console-user-guide/audit-reports.md)
-    * [Lidia App Store](components/lidia-console/lidia-console-user-guide/lidia-app-store.md)
   * [Features](components/lidia-console/features/README.md)
     * [User Roles & Permissions](components/lidia-console/features/user-roles-and-permissions.md)
     * [Order Management](components/lidia-console/features/order-management.md)
