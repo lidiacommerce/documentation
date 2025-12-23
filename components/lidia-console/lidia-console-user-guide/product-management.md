@@ -12,9 +12,9 @@ Each pool is created based on a specific category and a data schema linked to th
 
 If a data schema has not yet been created for the relevant category, a data schema must first be defined and then linked to that category. The data schema definition process is carried out via the [**Settings**](settings.md) **> Catalog > Product Families** page. On this page, under the Data Schema Fields heading, the required attributes, options, and other field definitions for the relevant product family are configured. These field definitions are created as combinations that differentiate and customize data schemas from one another. Data schemas play a critical role in category creation and in defining product standards.
 
-After all prerequisites are completed and pools are created, the defined product families are listed under the Manage Your Pool List heading. Each product family is displayed together with the total number of products it contains, the categories it is associated with, and its active/passive status. For active product families, if there are products that have not yet passed approval, the label “X Products Pending Approval” is displayed. Additionally, each product family includes a Manage Products button. If the number of products contained in a product family is 0, the Delete Product Family button becomes active alongside the Manage Products button.
+After all prerequisites are completed and pools are created, the defined product families are listed under the Manage Your Pool List heading. Each product family is displayed together with the total number of products it contains, the categories it is associated with, and its active/passive status. For active product families, if there are products that have not yet passed approval, the label “_X Products Pending Approval_” is displayed. Additionally, each product family includes a Manage Products button. If the number of products contained in a product family is 0, the Delete Product Family button becomes active alongside the Manage Products button.
 
-When the Manage Products button is clicked, four separate pages are displayed under the heading “View Products in the XXX Pool.” These pages are Pending Approval, Approved, Rejected, and Published. The number of products on each page is shown next to the page title.
+When the Manage Products button is clicked, four separate pages are displayed under the heading “_View Products in the XXX Pool._” These pages are Pending Approval, Approved, Rejected, and Published. The number of products on each page is shown next to the page title.
 
 The products listed on these pages are displayed in a comprehensive table consisting of the following columns:
 
@@ -25,7 +25,7 @@ The products listed on these pages are displayed in a comprehensive table consis
 -Attributes,\
 -Other Information (short description, tax rate, product status, pool status, creation date).
 
-On the **Pending Approval** page, **Approve / Reject** buttons are available for each product. Products can be approved or rejected individually or in bulk. During the rejection process, one of the system-provided rejection reasons must be selected. These rejection reasons include:
+On the Pending Approval page, Approve / Reject buttons are available for each product. Products can be approved or rejected individually or in bulk. During the rejection process, one of the system-provided rejection reasons must be selected. These rejection reasons include:
 
 * [x] Missing description
 * [x] Image not appropriate
