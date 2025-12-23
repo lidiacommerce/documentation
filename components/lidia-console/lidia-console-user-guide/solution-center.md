@@ -2,7 +2,7 @@
 
 The Solution Center is the central area where requests and feedback created by users, sellers, or the system within the marketplace are collected, categorized, and tracked in a unified structure. Through this section, it is possible to monitor what each request is related to, the type of request created, and its current status from a single screen. In addition, by managing request types, it becomes possible to control which topics users can create requests for and through which channels. The Solution Center plays a critical role in terms of operational visibility, feedback management, and process standardization.
 
-This section consists of two main headings: **Requests** and **Request Types**.
+This section consists of two main headings: **Cases** and **Case Types**.
 
 ### **Cases**
 
