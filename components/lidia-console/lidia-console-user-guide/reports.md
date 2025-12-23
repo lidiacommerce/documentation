@@ -24,3 +24,13 @@ In the comprehensive list displayed beneath the chart, the following fields are 
 
 The key distinction between operational reports and sales reports lies in the absence of a fixed order number at the center of the analysis. While sales reports typically structure listings around order numbers and order lines, operational reports emphasize product, merchant, category, logistics, and cost breakdowns. As a result, operational reports more clearly reveal product movements within the system independent of individual orders, highlight where operational intensity occurs, and identify the operational costs generated at different stages.
 
+### **Cost Reports**
+
+Cost Reports is a reporting area that enables detailed analysis of cost items related to transactions carried out on the platform. Like other reporting pages, this report is structured with a chart section at the top and a detailed listing area at the bottom. While the chart area allows for a quick view of overall trends, the main analysis is performed through the listing area.
+
+In this report, the listing is based on Delivery ID. For each delivery, the associated order, the seller who fulfilled it, and all financial breakdowns related to the delivery are displayed in a single row. The list includes total delivery amount, product cost, delivery fee, commission amount, installment difference, shipping cost, platform and other operational costs, as well as cancellation–return costs and loyalty point costs, if any. This structure enables the cost impact of each delivery on both the platform and the seller to be examined in a detailed and comparable manner.
+
+The primary purpose of Cost Reports is to make cost items generated throughout delivery and order processes visible on a per-item basis. Through this report, the costs created by each delivery on the platform and seller sides can be clearly tracked, supporting effective control of operational costs.
+
+When any row in the list is clicked, the user is directed to the relevant order detail screen under Sales > Orders in the Console left menu. This allows direct linkage between cost data and order details, enabling end-to-end analysis.
+
