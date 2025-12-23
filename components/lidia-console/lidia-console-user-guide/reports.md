@@ -40,3 +40,11 @@ The Campaign Report is located under the Marketing section within the Reports he
 
 In this report, the listing progresses based on the reference number. For each reference number, product barcode, customer and seller information, product category and brand details, address, invoice, and shipment information are displayed. One of the key fields that distinguishes the campaign report from other reports is the Audience Type; this field allows clear tracking of which target audience the campaign was applied to. In addition, campaign type, product cost, any cancellation–return costs, loyalty point usage, and status information are also shown. This structure enables the performance and impact of campaigns to be evaluated on a product, customer, and audience basis.
 
+### **Withholding Tax Declaration Reports**
+
+Withholding Tax Declaration Reports are a reporting area provided to track withholding tax calculations related to sales transactions on the platform in compliance with legal regulations and to support declaration processes. Unlike other reports, this report does not include charts; it is structured entirely around summary and detail lists focused on declaration and accounting. The purpose is to present the amounts subject to withholding tax on a periodic basis in a clear, traceable, and auditable manner.
+
+Under the Summary Reports heading, the list consists of the following columns: Period, Sender, VAT-Included Sales Amount, VAT-Excluded Sales Amount, Withholding Tax Rate, and Description. This view aims to present, at a summary level, which sales belonging to which seller or sender are subject to withholding tax, at what rate, and what the tax base amounts are for the relevant period. In this way, period-based withholding tax liabilities can be quickly reviewed and compared prior to declaration.
+
+On the Detail Reports page, the focus shifts to the collection aspect of withholding tax calculations. This section includes the fields Period, Total Collected Amount, and Description. Detail reports enable tracking of the total amounts collected from sales subject to withholding tax on a periodic basis and help ensure consistency between accounting records and declaration processes.
+
