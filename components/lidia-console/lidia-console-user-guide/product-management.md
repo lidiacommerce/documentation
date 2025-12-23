@@ -84,6 +84,6 @@ The Page Management section includes the page name, template, page code, and tag
 
 On the SEO page, the category’s meta title, meta description, and URL information can be configured. This area contributes to improved search engine indexing of category pages and helps increase organic traffic.
 
-* #### **Page Addresses**
+* #### **Slugs**
 
-Under the Page Addresses section, the **slug** information for the category is displayed. This area is used to track and manage category URL structures when needed.
+Under the Page Addresses section, the slug information for the category is displayed. This area is used to track and manage category URL structures when needed.
