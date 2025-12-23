@@ -86,4 +86,4 @@ On the SEO page, the category’s meta title, meta description, and URL informat
 
 * #### **Slugs**
 
-Under the Page Addresses section, the slug information for the category is displayed. This area is used to track and manage category URL structures when needed.
+Under the Slugs section, the slug information for the category is displayed. This area is used to track and manage category URL structures when needed.
