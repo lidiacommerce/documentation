@@ -69,7 +69,7 @@
     * [Notifications](components/lidia-console/lidia-console-user-guide/notifications.md)
     * [Sellers](components/lidia-console/lidia-console-user-guide/sellers.md)
     * [Customers](components/lidia-console/lidia-console-user-guide/customers.md)
-    * [Catalog](components/lidia-console/lidia-console-user-guide/catalog.md)
+    * [Product Management](components/lidia-console/lidia-console-user-guide/product-management.md)
     * [Inventory](components/lidia-console/lidia-console-user-guide/inventory.md)
     * [Content Management](components/lidia-console/lidia-console-user-guide/content-management.md)
     * [Media](components/lidia-console/lidia-console-user-guide/media.md)

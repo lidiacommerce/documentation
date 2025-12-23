@@ -20,7 +20,7 @@ Enables you to review seller applications submitted from the storefront, perform
 [**Customers**](customers.md)\
 Allows you to view registered customers, manage membership permissions, create new customer records, and maintain reference information.
 
-[**Catalog**](catalog.md)\
+[**Catalog**](product-management.md)\
 Used to manage all products, brands, categories, variants, product pools, and product listings included in or offered for sale on the platform.
 
 [**Inventory**](inventory.md)\

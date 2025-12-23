@@ -18,6 +18,6 @@ On the Inventory page, all products in the system are displayed in a single, con
 
 Product Name, Barcode Code, Seller Unique Code, Trade Name, Store, Brand, Categories, Product Type, Group Code, Stock Status, Price, Commission Rate, and Active/Passive status.
 
-All columns in the list are filterable, making it easy to analyze products based on different criteria. By clicking on any product listed under the Product Name column, the user is redirected to the Variants page under the [Catalog](catalog.md) section in the Console left menu, where detailed information about the selected product can be accessed.
+All columns in the list are filterable, making it easy to analyze products based on different criteria. By clicking on any product listed under the Product Name column, the user is redirected to the Variants page under the [Catalog](product-management.md) section in the Console left menu, where detailed information about the selected product can be accessed.
 
 Using the **Export Data to Excel** button located in the upper-right corner of the Inventory page, selected rows from the table or the entire inventory dataset can be exported as an Excel document. This feature enables easy sharing of inventory data for reporting, analysis, and operational tracking purposes.
