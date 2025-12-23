@@ -81,7 +81,7 @@
     * [Finance](components/lidia-console/lidia-console-user-guide/finance.md)
     * [After-Sales](components/lidia-console/lidia-console-user-guide/after-sales.md)
     * [Solution Center](components/lidia-console/lidia-console-user-guide/solution-center.md)
-    * [Social Capabilities](components/lidia-console/lidia-console-user-guide/social-capabilities.md)
+    * [Social Features](components/lidia-console/lidia-console-user-guide/social-features.md)
     * [Operational Tasks](components/lidia-console/lidia-console-user-guide/operational-tasks.md)
     * [Reports](components/lidia-console/lidia-console-user-guide/reports.md)
     * [Audit Reports](components/lidia-console/lidia-console-user-guide/audit-reports.md)

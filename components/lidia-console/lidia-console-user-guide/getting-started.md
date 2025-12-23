@@ -56,7 +56,7 @@ Used to manage and track order cancellation and return processes.
 [**Solution Center**](solution-center.md)\
 Allows you to track customer requests, complaints, and support tickets.
 
-[**Social Capabilities**](social-capabilities.md)\
+[**Social Capabilities**](social-features.md)\
 Used to monitor customer feedback and engagement.
 
 [**Operational Tasks**](operational-tasks.md)\
