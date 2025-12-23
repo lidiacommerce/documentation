@@ -53,7 +53,7 @@ Provides tracking and management of payments and financial transactions.
 [**After-Sales**](after-sales.md)\
 Used to manage and track order cancellation and return processes.
 
-[**Resolution Center**](solution-center.md)\
+[**Solution Center**](solution-center.md)\
 Allows you to track customer requests, complaints, and support tickets.
 
 [**Social Capabilities**](social-capabilities.md)\
