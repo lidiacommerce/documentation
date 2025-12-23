@@ -34,3 +34,9 @@ The primary purpose of Cost Reports is to make cost items generated throughout d
 
 When any row in the list is clicked, the user is directed to the relevant order detail screen under Sales > Orders in the Console left menu. This allows direct linkage between cost data and order details, enabling end-to-end analysis.
 
+### **Campaign Report**
+
+The Campaign Report is located under the Marketing section within the Reports heading and follows a structure similar to other reporting screens, consisting of a chart in the upper section and a detailed list in the lower section. While the chart area allows for a quick view of the overall impact of campaigns, detailed analysis is carried out through the listing area.
+
+In this report, the listing progresses based on the reference number. For each reference number, product barcode, customer and seller information, product category and brand details, address, invoice, and shipment information are displayed. One of the key fields that distinguishes the campaign report from other reports is the Audience Type; this field allows clear tracking of which target audience the campaign was applied to. In addition, campaign type, product cost, any cancellation–return costs, loyalty point usage, and status information are also shown. This structure enables the performance and impact of campaigns to be evaluated on a product, customer, and audience basis.
+
