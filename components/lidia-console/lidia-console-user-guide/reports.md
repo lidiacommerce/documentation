@@ -4,7 +4,7 @@ The Reports section is a centralized reporting area designed to measure, analyze
 
 Under the Reports heading, there are five main sub-sections: **Sales Reports**, **Operations Reports**, **Cost Reports**, **Campaign Reports**, and **Withholding Tax Declaration Reports**. All of these reports are structured to offer a consistent user experience. On each report screen, the Export Data button located in the upper-right corner allows the displayed report data to be exported in Excel format. This feature facilitates archiving reports, sharing them with different teams, and using them for further analysis.
 
-### Sales Report
+### **Sales Report**
 
 The Sales Report section is the main reporting area where all sales realized on the marketplace can be analyzed both in summary and in detail. Under this heading, the user is first presented with a graph showing sales amount and number of products sold on a date basis. Using the date range filter on the graph, the desired period can be selected, and once a filter is applied, the order list displayed below is filtered simultaneously. This synchronized structure enables sales performance for a specific period to be evaluated both visually and in tabular form together, helping to quickly analyze periodic trends as well as increases or decreases.
 
@@ -13,4 +13,14 @@ Directly below the graph, a comprehensive and detailed order list related to sal
 In addition, the sales report presents revenue items such as order shipment status, payment status, shipping revenue, product revenue, and maturity difference revenue; direct cost items such as product costs and payment provider costs; and indirect cost items such as shipping, platform, and marketing costs in detail. The report also includes the date on which the order was realized, any cancellation or return costs if applicable, loyalty points used, and the current order status. In this way, an end-to-end profitability analysis can be performed for each individual order.
 
 When the details of any order row listed are selected, the user is automatically redirected to the relevant order detail page under [**Sales**](sales.md) **> Orders** in the Console left menu. The information displayed on the order detail screen, the available actions, and the operational workflows are explained in detail under the Orders section within the [Sales](sales.md) heading. This redirection enables a seamless transition from reporting to operations, allowing analysis and action processes to be managed without interruption.
+
+### **Operational Reports**
+
+Operational Reports offer a visual structure similar to sales reports, but differ in purpose and focus. The primary objective of this report is to enable analysis of orders based on operational flow, product-level movements, and process performance rather than financial outcomes.
+
+Under this section, users are first presented with a date-based chart displaying sales amount and number of products sold. The desired date range can be selected directly on the chart to apply filtering. Based on the selected date range, both the chart and the list displayed immediately below it are updated synchronously. This structure allows operational intensity within a specific period to be evaluated simultaneously through both visual and tabular views. Although structurally similar to the sales report, the chart in operational reports is designed to track process volume and product movements rather than order performance.
+
+In the comprehensive list displayed beneath the chart, the following fields are presented on a single screen: reference number, barcode, customer full name, total order count, email information, merchant and trade name, current account code, category, brand, product code, product name and quantity, order address (city/district), invoice type, shipping company, shipment status, payment status, shipping and product revenues, product, platform, and marketing costs, transaction date, product cancellation and return costs, loyalty points, external costs, and order status. These fields enable end-to-end evaluation of the operational and logistics aspects of orders.
+
+The key distinction between operational reports and sales reports lies in the absence of a fixed order number at the center of the analysis. While sales reports typically structure listings around order numbers and order lines, operational reports emphasize product, merchant, category, logistics, and cost breakdowns. As a result, operational reports more clearly reveal product movements within the system independent of individual orders, highlight where operational intensity occurs, and identify the operational costs generated at different stages.
 
