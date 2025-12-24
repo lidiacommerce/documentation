@@ -103,3 +103,13 @@ In the SEO section, meta title, meta description, and other search engine optimi
 * **Slug**&#x20;
 
 The Slug section displays and manages the page’s URL structure. This field represents the page’s access address on the marketplace and is directly related to SEO.
+
+## **Redirects**
+
+The Redirects section is the area used to centrally manage URL changes on the marketplace. This structure aims to ensure that users and search engines are directed to the correct pages for moved pages, updated content, or URLs that are no longer in use. In this way, both user experience is preserved and potential SEO issues such as broken links and traffic loss are prevented.
+
+Using the Add Redirect button located in the upper right corner of the Redirects page, a new redirect can be defined. During this process, a redirect is created by entering the Old URL and New URL information. The defined redirects are listed with the Old URL, New URL, Redirect Code, and Status columns. The redirect code indicates which HTTP redirect type is used for the relevant URL redirect, while the status information shows whether the redirect is active or inactive.
+
+For scenarios that require bulk operations, the page includes an Import button. With this button, multiple redirects can be added at once by uploading a file prepared in Excel format. Similarly, by using the Export All button, all redirects defined in the system can be exported in Excel format. This feature provides operational convenience for documenting, backing up, and sharing redirect records with different teams.
+
+The Redirects section is a critical management area that supports the smooth publishing of changes made in content management, SEO activities, and page configurations.
