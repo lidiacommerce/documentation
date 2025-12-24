@@ -117,3 +117,35 @@ For each item listed, information such as priority order, item type, and item na
 The remaining sections on the special list detail screen are Features, Documents, Filter Management, Page Management, SEO, and Page Addresses. These sections function exactly the same as the corresponding structures described in the Categories section. Through these areas, the page structure, filtering options, content components, and SEO settings related to special lists can be managed in detail.
 
 With this structure, special lists become a key component of marketing, showcase, and campaign strategies, enabling products to be presented flexibly and in a controlled manner based on specific scenarios.
+
+## **Products**
+
+The Products section is the area where all products uploaded to the system by sellers are centrally tracked and managed. Products can be added to the system manually via the seller interface, through SAP integration, or by using Excel files. This section ensures that all products available on the marketplace are kept under control in terms of status, content accuracy, and structural consistency.
+
+On the Products screen, main product images, product name, associated brand, associated category, number of variants, product code, and product status are displayed in a single list view. Using the Export Data button located in the top-right corner of the page, selected products or the entire product list can be exported in Excel format. This feature provides convenience for reporting, auditing, and inventory control processes.
+
+When navigating to the detail page of any listed product, a comprehensive detail screen opens where all product-related configurations are managed. This screen consists of multiple sections, each dedicated to a different aspect of product management.
+
+* **Basic Information**\
+  The Basic Information section includes the product name, product code, brand, category, tax rate, short description, long description, and tags. All fields except the product code can be edited. This section defines the core descriptive content of the product and the textual information presented to customers on the marketplace.
+* **Variants**\
+  In the Variants section, all variants associated with the product are listed together with their variant codes. Existing variants can be deleted from this area. Clicking on the details of any variant redirects the user to the corresponding variant detail page under **Product Management > Variants** in the Console left menu. This structure ensures consistent and centralized management of product–variant relationships.
+*   **Attributes**
+
+    Under the Attributes section, new attributes can be added to the product or its variants from the attributes previously defined in the system. Existing attributes can also be removed when no longer needed. This section is used to manage the technical and distinguishing characteristics of the product.
+*   **Related Products**
+
+    The Related Products section is used to manage relationships between products. By clicking the Add New Product Relationship button, a relationship type is selected from those previously defined under  [**Settings**](settings.md) **> Catalog > Product Relationships**. One or more related products are then selected and linked to the product. This structure supports scenarios such as similar products, complementary products, or alternative product recommendations.
+*   **Media Management**
+
+    The Media Management section is where product images and documents are managed. Product images can be viewed, reordered, their statuses updated, and one image can be selected as the cover image. Using the Add New Image button, image files can be selected via the file explorer and added to the storefront.\
+    Similarly, documents can be added using the Add New Document button. Uploaded documents can be viewed, reordered, and their statuses updated as needed.
+*   **Page Management, SEO, and Page Addresses**
+
+    The Page Management, SEO, and Page Addresses sections are used to manage the product’s page structure, content components, and search engine visibility on the marketplace. These sections operate with the same logic and functionality as those used in category and special list management.
+*   **Inventory**
+
+    The final section, Inventory, displays the commercial information related to the product. This includes the seller (merchant) offering the product, variation value, price, and stock information. Inventory data is a critical part of product management for monitoring availability and managing sales readiness.
+
+    With this structure, the Products section brings together content, variant, relationship, media, and inventory management in a single center, providing a consistent, controlled, and scalable product management process across the marketplace.
+
