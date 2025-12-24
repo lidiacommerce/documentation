@@ -44,7 +44,7 @@ Pages is the area where all static and dynamic content presented to users on the
 * **Creating a Page**
 
 A new page can be added to the system using the Create New Page button located in the top-right corner of the Page Management screen. When creating a new page, the page characteristic must first be selected. The page characteristic defines the purpose of the page and the type of content it represents. This field can be one of the following options:\
-Standard,Category,Brand,Store,Campaign,Special List,Topic.
+Standard,Category,Brand,Store,Campaign,Special List,Topic.
 
 After selecting the page characteristic, the page is created by entering the Page Name, Page Code, and Location information. The selected page characteristic directly affects the template and structure used by the page.
 
