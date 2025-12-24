@@ -149,3 +149,47 @@ When navigating to the detail page of any listed product, a comprehensive detail
 
     With this structure, the Products section brings together content, variant, relationship, media, and inventory management in a single center, providing a consistent, controlled, and scalable product management process across the marketplace.
 
+## **Variants**
+
+In the Lidia Commerce infrastructure, the concepts of product and variant are clearly separated.\
+A product represents the main record offered for sale in the system and contains the top-level information shared by all variants. At the product level, information such as product name, brand, category, short and long descriptions, tax rate, and tags is defined. These details are considered common and valid for all variants associated with the product.
+
+A variant represents the sale-specific sub-breakdowns of a product. Variable attributes such as color, size, dimensions, or capacity are managed at the variant level. In Lidia, critical commercial information such as stock, price, barcode, and sales status is defined per variant. This structure allows multiple variants under a single product to be managed independently, enabling more flexible and accurate stock and pricing control. In summary, in Lidia, a product is a single main record, while variants are N individual sales units belonging to that product.
+
+* #### Variants Page
+
+The Variants page is the central area where all variants in the system are listed and managed. On this page, the following information is displayed for each variant in a single list:\
+Product image\
+Variant name\
+Associated brand\
+Associated category\
+Variant code
+
+This listing structure is designed for fast control and operational tracking, especially in large product catalogs.
+
+Using the filtering tools provided on the page, variants can be filtered by:
+
+* Brand
+* Category
+* Seller
+* Defined attributes in the system (e.g., color, capacity)
+* Defined options (e.g., size, dimensions)
+
+This filtering structure enables quick access to the correct variant, particularly in catalogs with a high number of variants.
+
+* #### **Variant Detail Screen**
+
+When navigating to the detail page of any listed variant, a detailed management screen opens where all configurations related to the variant can be managed. This screen follows the same logic as product management but is detailed specifically at the variant level.
+
+On the **Basic Information** page, fields such as variant name, variant code, associated product code, color information, short description, long description, and tags are displayed. These fields define how the variant is identified and presented on the marketplace.
+
+The other pages available on the variant detail screen are as follows:
+
+* **Attributes:** Used to manage attributes defined specifically for the variant. Technical or distinguishing details that differ from the product level are configured here.
+* **Related Variants:** Allows relationships to be established between variants. Alternative or complementary variant scenarios are managed in this section.
+* **Media Management:** Used to manage images and documents related to the variant. Image ordering, cover image selection, and status updates are handled here.
+* **Page Management:** Used to manage the page structure and content components of the variant on the marketplace.
+* **SEO:** Enables variant-level search engine optimization by configuring meta title, meta description, and URL settings.
+* **Slugs:** Used to manage the slugs where the variant is published.
+* **Inventory:** Contains pricing, stock, seller (merchant), and variation value information related to the variant. All commercial data that directly affects sales is controlled from this page.
+
