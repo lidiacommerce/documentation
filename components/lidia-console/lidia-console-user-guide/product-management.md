@@ -99,3 +99,21 @@ Brand ordering is not an area that is available by default to all users within t
 Brands listed in the table can be deleted; additionally, when navigating to the detail screen of any brand, access to the same eight detail pages explained under the Categories section (Basic Information, Features, Product Management, Custom Ordering, Filter Management, Page Management, SEO, and Page Addresses) is also available through this area.
 
 With this structure, brands are handled in an integrated manner with category, product, filtering, and page management processes, enabling the creation of a consistent, scalable, and manageable brand architecture across the marketplace.
+
+## **Special Lists**
+
+Special Lists are a management area that enables specific product, category, brand, or variant groups to be brought together and presented in line with a particular theme, period, or business objective within the marketplace. This structure allows the creation of special showcase pages such as Year-End Deals, Best Sellers, New Arrivals, and March Campaigns. Through special lists, products can be prioritized independently of the standard category structure, providing users with a more guided and focused shopping experience.
+
+Using the Add New List button located in the top-right corner of the Special Lists page, a new special list can be created by entering a list name and page address. All lists created in this way are displayed under the Special List Management section. When navigating to the detail page of any listed special list, users are presented with a total of eight main sections where the list configuration is managed.
+
+In the first section, Basic Information, fields such as list name, list code, short description, long description, images, and tags are available. This area allows viewing and editing of the core content information of the list. These details define how the list will be presented on the marketplace and which content it will be associated with.
+
+In the second section, List Items, the elements that make up the content of the list are managed. Using the Add New Item button, a single item can be added to the list by selecting a product, category, variant, or brand. During this process, a priority order and active/passive status are defined for each item. Next to the Add New Item button, the Bulk Add Item button allows users to download a sample Excel document provided by the Console, make the necessary edits, and upload it back to the system to add items in bulk. During bulk upload, if the list already contains items, the newly uploaded data replaces the existing items, and only the newly added items are saved.
+
+Using the Export Data button located next to the Bulk Add Item button, selected items or all items within the list can be exported in Excel format. This feature provides convenience for reporting and archiving list content.
+
+For each item listed, information such as priority order, item type, and item name is displayed. By clicking on any item, the content name can be selected and an image can be added. Listed items can be removed from the list when needed or toggled between active and passive states to control their visibility on the marketplace.
+
+The remaining sections on the special list detail screen are Features, Documents, Filter Management, Page Management, SEO, and Page Addresses. These sections function exactly the same as the corresponding structures described in the Categories section. Through these areas, the page structure, filtering options, content components, and SEO settings related to special lists can be managed in detail.
+
+With this structure, special lists become a key component of marketing, showcase, and campaign strategies, enabling products to be presented flexibly and in a controlled manner based on specific scenarios.
