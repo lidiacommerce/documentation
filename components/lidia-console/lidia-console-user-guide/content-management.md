@@ -113,3 +113,15 @@ Using the Add Redirect button located in the upper right corner of the Redirects
 For scenarios that require bulk operations, the page includes an Import button. With this button, multiple redirects can be added at once by uploading a file prepared in Excel format. Similarly, by using the Export All button, all redirects defined in the system can be exported in Excel format. This feature provides operational convenience for documenting, backing up, and sharing redirect records with different teams.
 
 The Redirects section is a critical management area that supports the smooth publishing of changes made in content management, SEO activities, and page configurations.
+
+## **Menus**
+
+Menus are the core navigation structures that enable users to move easily and quickly between pages within the marketplace. Positioned in fixed areas such as the header and footer, menus operate independently of page content and direct users to relevant pages or links through menu items. This structure aims to provide a consistent and clear user experience across the platform.
+
+Using the Add New Menu button located in the top-right corner of the Menus page, a new menu can be created in the system. During the menu creation process, the menu name is entered and the active/passive status of the menu is defined. Once completed, the menu appears in the menu list and becomes available for editing.
+
+When navigating to the detail view of a menu, the user is presented with the menu name and the area where menu items are managed. In this section, new menu items can be added, existing items can be updated or deleted, and the order of items can be rearranged. The ordering of menu items determines the priority in which they are displayed to users on the marketplace.
+
+When adding a new menu item, the item type is selected first. Item types may include category, brand, product, custom list, content, or custom link. After selecting the item type, the corresponding target is defined and the link behavior is configured. The link can be set to open on the same page or in a new browser tab. Additionally, label information can be added to the menu item, and a visual can be assigned if desired.
+
+Thanks to this flexible structure, menus provide a powerful control area for both content management and user experience. Menu structures support the platform’s information architecture while enabling users to reach the content they are looking for in the fewest possible steps, creating a cohesive and efficient navigation experience across the marketplace.
