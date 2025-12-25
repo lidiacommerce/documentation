@@ -17,3 +17,25 @@ At the top right of the Media List page, the Export Data button allows selected 
 Within Bulk Update operations, users can perform bulk status updates (such as active, passive, ready for publish, draft), apply bulk tag additions, and perform document matching. Through document matching, selected media items are grouped under the same usage area. Additionally, using the Download Selections option, users can download the original uploaded versions of the selected documents.
 
 The search bar on the Media List screen allows filtering by media name, and additional filtering options are available for file type and file extension. This structure enables efficient and controlled management of large-scale media archives.
+
+## **Import Documents**
+
+The Import Documents screen is a management area that allows a large number of images or documents to be uploaded to the system in a single operation. The upload process consists of the steps **Upload Document → Validate Data → Completed**, and each stage progresses in a controlled manner. With this structure, category, brand, and product images as well as document files can be added to the system quickly and securely in compliance with defined standards.
+
+There are four main template types available on the upload screen:
+
+* **Category Image** (2000×2000 px)
+* **Brand Image** (2000×2000 px)
+* **Product Image** (2000×2000 px)
+* **Document**
+
+To upload documents, first select the relevant document type, then add the files you want to upload in the area that opens. After the files are added, you can proceed to the next step using the Continue button.
+
+The next step is the Validate Data stage. On this screen, all uploaded files are automatically checked according to system rules. If any media within the uploaded bulk data does not meet the required conditions in terms of format, size, or content, the system displays a warning and requests that the relevant rows be corrected.
+
+* Supported formats for images: `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.jfif`, `.webp`, `.rar`, `.zip`
+* Supported formats for documents: `.rar`, `.zip`, `.3dmax`, `.3ds`, `.step`, `.stp`, `.dwg`, `.pdf`
+
+At this stage, the Show Only Invalid Rows button simplifies the editing process by listing only the files with errors. If there are no errors in the uploaded data, the message “Your bulk data has been uploaded successfully without errors!” is displayed on the screen, and the Continue option becomes active.
+
+In the final Confirmation step, the upload process is completed and all files are added to the system without issues. Additionally, if needed, additional files can be added during the data validation stage. This structure ensures that the bulk document upload process is managed in a controlled, traceable, and error-resistant manner.
