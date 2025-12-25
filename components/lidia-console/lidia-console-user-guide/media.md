@@ -40,7 +40,7 @@ At this stage, the Show Only Invalid Rows button simplifies the editing process 
 
 In the final Confirmation step, the upload process is completed and all files are added to the system without issues. Additionally, if needed, additional files can be added during the data validation stage. This structure ensures that the bulk document upload process is managed in a controlled, traceable, and error-resistant manner.
 
-#### Image Management
+## **Image Management**
 
 This area represents a structure generally referred to as Centralized Media Management (MAM / DAM-like structure). All images used within the marketplace are managed from a single central location under this section.
 
@@ -54,3 +54,16 @@ This structure allows:
 * Image types and update information to be tracked
 
 The Image Management area aims to ensure that all images used across the platform are managed in a structured, controlled, and sustainable way.
+
+## **File Management**
+
+File Management is the area where all documents used within the marketplace are stored and managed in a centralized structure. Similar to image management, it operates with a folder-based structure and provides a file-explorer-like experience.
+
+Through File Management:
+
+* Files such as PDFs, Excel documents, images, and similar formats can be uploaded
+* Files can be organized under folders
+* File type, size, and update information can be viewed
+* Associations between files and different content or data types can be managed
+
+This structure enables centralized control of documents, supports reuse, and ensures a standardized file management process across the platform.
