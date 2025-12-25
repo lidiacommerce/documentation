@@ -12,9 +12,9 @@ On the Warehouses page, a list of all warehouses defined by sellers is displayed
 
 On this page, a new warehouse can be defined using the **Add New Warehouse** button located in the upper-right corner by entering the warehouse name, warehouse code, and warehouse status information. In addition, the name, code, and status information of listed warehouses can be updated, and warehouses can be deleted when necessary. This structure allows sellers’ logistics processes to be managed in a more controlled and traceable manner.
 
-* ### **Inventory**
+* ### **Inventories**
 
-On the Inventory page, all products in the system are displayed in a single, consolidated list. This list allows users to track the overall status of the marketplace product inventory. The inventory table includes the following columns:
+On the Inventories page, all products in the system are displayed in a single, consolidated list. This list allows users to track the overall status of the marketplace product inventory. The inventory table includes the following columns:
 
 Product Name, Barcode Code, Seller Unique Code, Trade Name, Store, Brand, Categories, Product Type, Group Code, Stock Status, Price, Commission Rate, and Active/Passive status.
 

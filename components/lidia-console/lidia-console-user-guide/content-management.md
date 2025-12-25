@@ -4,7 +4,7 @@ Content section is the central area where the page structures, visual areas, and
 
 ## **Templates**
 
-In the marketplace system, **T**emplates are predefined structures that enable product and content information to be created with a standard visual and structural layout. Templates under the Content section are designed to ensure that, especially in PDP areas, headings, text fields, and content blocks are presented with the same visual hierarchy and layout logic. This structure provides consistency across the platform and prevents manual and unstructured content creation.
+In the marketplace system, Templates are predefined structures that enable product and content information to be created with a standard visual and structural layout. Templates under the Content section are designed to ensure that, especially in PDP areas, headings, text fields, and content blocks are presented with the same visual hierarchy and layout logic. This structure provides consistency across the platform and prevents manual and unstructured content creation.
 
 A new template can be created using the Add Template button located in the top-right corner of the Template Management page. During the template creation process, the template type and template name must first be defined. The template type is selected from the options provided by the system: Section, Showcase, Showcase Page, Special List, and Block. During the creation process, the system checks whether the template complies with the rule set of the selected type, and the creation is completed once compliance is confirmed.
 
@@ -126,9 +126,9 @@ When adding a new menu item, the item type is selected first. Item types may inc
 
 Thanks to this flexible structure, menus provide a powerful control area for both content management and user experience. Menu structures support the platform’s information architecture while enabling users to reach the content they are looking for in the fewest possible steps, creating a cohesive and efficient navigation experience across the marketplace.
 
-## Showcases
+## **Storefronts**
 
-Showcases are special page structures within the marketplace that enable specific content to be highlighted in a controlled and attention-grabbing manner. Unlike product listing or category pages, showcases are designed to present selected content—such as campaigns, collections, brands, or seasonal themes—under a single scenario. This structure helps users reach the content the platform aims to highlight more quickly and provides a smooth, guided browsing experience.
+Storefronts are special page structures within the marketplace that enable specific content to be highlighted in a controlled and attention-grabbing manner. Unlike product listing or category pages, showcases are designed to present selected content—such as campaigns, collections, brands, or seasonal themes—under a single scenario. This structure helps users reach the content the platform aims to highlight more quickly and provides a smooth, guided browsing experience.
 
 A new showcase can be created using the Add New Showcase button located in the top-right corner of the screen. During the showcase creation process, a showcase name is first entered, followed by the selection of a showcase template. The templates provided by the system include No Template, Category Detail Banner, Homepage Showcase, and Category Showcase. The selected template determines how the showcase will be structured and displayed on the marketplace.
 
