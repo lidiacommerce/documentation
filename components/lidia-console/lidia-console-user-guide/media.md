@@ -67,3 +67,16 @@ Through File Management:
 * Associations between files and different content or data types can be managed
 
 This structure enables centralized control of documents, supports reuse, and ensures a standardized file management process across the platform.
+
+## **Video Management**
+
+Video Management is the area where all videos used within the marketplace are stored and managed in a centralized structure. Similar to image and file management, it operates with a folder-based structure, allowing videos to be organized efficiently.
+
+Through Video Management:
+
+* Video files can be uploaded to the system
+* Videos can be organized under folders
+* Video type, size, and update information can be viewed
+* Associations between videos and different content or data types can be managed
+
+This structure ensures centralized control of video assets, supports reuse, and enables consistent video management across the platform.
