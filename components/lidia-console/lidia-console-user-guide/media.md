@@ -39,3 +39,18 @@ The next step is the Validate Data stage. On this screen, all uploaded files are
 At this stage, the Show Only Invalid Rows button simplifies the editing process by listing only the files with errors. If there are no errors in the uploaded data, the message “Your bulk data has been uploaded successfully without errors!” is displayed on the screen, and the Continue option becomes active.
 
 In the final Confirmation step, the upload process is completed and all files are added to the system without issues. Additionally, if needed, additional files can be added during the data validation stage. This structure ensures that the bulk document upload process is managed in a controlled, traceable, and error-resistant manner.
+
+#### Image Management
+
+This area represents a structure generally referred to as Centralized Media Management (MAM / DAM-like structure). All images used within the marketplace are managed from a single central location under this section.
+
+Image Management provides a folder-based structure that works similarly to a file explorer on a computer. Images are stored under specific folders and managed in an organized manner through these folders.
+
+This structure allows:
+
+* Images to be stored centrally and reused
+* Order and hierarchy to be maintained through folders
+* Read and write permissions to be controlled
+* Image types and update information to be tracked
+
+The Image Management area aims to ensure that all images used across the platform are managed in a structured, controlled, and sustainable way.
