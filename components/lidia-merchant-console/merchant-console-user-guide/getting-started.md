@@ -73,3 +73,30 @@ This template consists of five main sections that summarize your sales and inven
   Lists products with low or depleted stock levels according to their stock status, along with quantity information. Using the Price/Stock Actions option in the top-right corner, you are redirected to the [My Products ](product-management/my-products.md)page in the left navigation menu.
 * [x] **Top Returned Items**\
   Lists the products most frequently returned by customers, along with their return quantities.
+
+- ### **Account Information**
+
+You can access the Account Information page by clicking the profile area located in the top-right corner. This page allows you to view and update information at both the user and organization levels, within the scope of your authorization.
+
+***
+
+#### **User Information**
+
+In the User Information section, the personal details associated with your account can be updated through the following fields:
+
+* Profile picture
+* First and last name
+* Email address
+* Phone number
+* Password update
+
+#### **Organization Details**
+
+In the Organization Details section, the following store and company-related configurations can be managed:
+
+* **Store Information**\
+  Store status and store name information can be viewed and updated.
+* **Company Information**\
+  Company name, company type, tax office, tax number, trade registry number, and MERSİS number are available in this section.
+* **Address Information**\
+  Province and district, neighborhood, street, building number, phone number, email address, and website information are managed in this section.&#x20;
