@@ -9,4 +9,5 @@ Operational and administrative tasks are carried out through the modules listed 
 In the top-right section of the screen, you can change language preferences, access personal and organizational account information, and securely log out of the platform.
 
 * #### Left Menu Navigation
-* ####
+
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
