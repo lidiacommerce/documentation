@@ -52,3 +52,24 @@ General Statistics Results
 {% hint style="success" %}
 All KPI cards displayed under the General Statistics Results section are presented together with the **weekly change amount** for the last one-week period.
 {% endhint %}
+
+* ### **Sales Performance**
+
+This template allows you to view your earnings from sales in a graphical format. Based on the selected date range, you can monitor revenue changes and analyze your sales performance over time.
+
+* ### **Sales and Inventory Summaries**
+
+This template consists of five main sections that summarize your sales and inventory status, enabling you to quickly evaluate your operational performance.
+
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+* [x] **Categories**\
+  Displays how many different categories your product portfolio consists of. It allows you to check whether there have been any changes in the number of categories (added or removed) over the last week. Additionally, the **top 5 best-selling categories** and the number of products within each category are displayed.
+* [x] **Order Status Summary**\
+  Shows the percentage distribution of Pending Orders, Shipped Orders, and Delivered Orders. Using the View All option located in the top-right corner, you are redirected to the [Orders](../features/order-management.md) page in the left navigation menu.
+* [x] **Best Selling Products**\
+  Lists the products that have been sold the most since the day your store account was created on the platform, along with their sales quantities.
+* [x] **Products with Low Stock** \
+  Lists products with low or depleted stock levels according to their stock status, along with quantity information. Using the Price/Stock Actions option in the top-right corner, you are redirected to the [My Products ](product-management/my-products.md)page in the left navigation menu.
+* [x] **Top Returned Items**\
+  Lists the products most frequently returned by customers, along with their return quantities.
