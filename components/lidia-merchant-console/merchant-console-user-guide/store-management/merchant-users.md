@@ -17,9 +17,7 @@ When user creation, user management, or permission changes are required, these a
 {% endhint %}
 
 On the user detail screen of any user, the following information can be viewed:\
--First and last name\
--Email address\
--User role
+![](<../../../../.gitbook/assets/image (29).png>)
 
 These fields are view-only and cannot be edited.\
 Only the phone number field is editable.
