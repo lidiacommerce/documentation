@@ -2,13 +2,7 @@
 
 The Merchant Users page is the area where users with access to the Merchant Console are listed. In this section, all users who have system access on behalf of your store are displayed.
 
-The following information is shown for each user in the list:
-
-* First and last name
-* Email address
-* User role
-* Date the user was defined
-* User active / inactive status
+<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 All user definition and configuration processes displayed in this section, including roles and authorizations, are carried out through the Lidia Marketplace Console. The Merchant Console serves as the layer where these definitions are applied and displayed; user creation, role assignment, or role modification actions cannot be performed through this area.
 
