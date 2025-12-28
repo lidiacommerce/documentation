@@ -17,7 +17,7 @@ When user creation, user management, or permission changes are required, these a
 {% endhint %}
 
 On the user detail screen of any user, the following information can be viewed:\
-![](<../../../../.gitbook/assets/image (29).png>)
+![](<../../../../.gitbook/assets/image (30).png>)
 
 These fields are view-only and cannot be edited.\
 Only the phone number field is editable.
