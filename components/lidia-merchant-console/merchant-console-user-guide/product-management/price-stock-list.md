@@ -6,6 +6,8 @@ Through this screen, sellers can view the products in their inventory and update
 
 Using the Import Data button located in the top-right corner of the screen, price and stock data can be uploaded in bulk by selecting the relevant Excel file for the category. This method provides fast and error-free updates, especially for sellers with large product volumes.
 
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 On this page, the following information is displayed in a table format for each product variant in the inventory:
 
 * **Product Name:** The name of the product displayed to customers on the platform and used to identify the product.
@@ -26,11 +28,11 @@ Among these fields, Inventory Label, Stock Status, List Price, and Sale Price ar
 
 If there are products with low or depleted stock levels among the listed items, the system provides alert notifications to inform the seller.
 
-* **Low-stock products** are highlighted with a **yellow line** in the table.
-* **Out-of-stock products** are highlighted with a **red line**.
+* [x] **Low-stock products** are highlighted with a **yellow line** in the table.
+* [x] **Out-of-stock products** are highlighted with a **red line**.
 
 These visual indicators enable sellers to take quick action and help prevent sales losses caused by stock shortages.
 
-<figure><img src="../../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 All inventory data listed on the Price / Stock Management page can be exported in Excel format using the Export Data button. This feature can be used for reporting, auditing, archiving, and data sharing with external systems.
