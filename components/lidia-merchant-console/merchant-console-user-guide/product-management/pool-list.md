@@ -73,21 +73,15 @@ The downloaded Excel file consists of two main sheets:
   * Attributes
   * Other Information
 
-Using this sheet, **bulk product upload** can be performed by entering data for multiple products.
-
-***
+Using this sheet, bulk product upload can be performed by entering data for multiple products.
 
 #### 5) Excel Upload and Onboarding Steps
 
 After completing the Excel template, the file is uploaded to the system using the file selection tool. The upload process consists of the following onboarding steps:
 
-1. **Upload Excel Document**
-2. **Validate Data**
-3. **Completed**
+**Upload Excel Document -> Validate Data -> Completed**
 
 Once these steps are successfully completed, the product upload process is finalized.
-
-***
 
 #### 6) Pool Statuses and Product Flow
 
@@ -102,21 +96,21 @@ Uploaded products are managed under specific statuses before going live. The fol
 
 The process flows as follows:
 
-* **All**\
+* [x] **All**\
   All products entered via Excel are initially listed in this tab in a table format.
-* **Not Submitted for Approval**\
-  Products that have not yet been submitted to the Marketplace admin are listed here. Selected products can be sent to the approval process using the **Submit Selected Products for Approval** button.
-* **Pending Approval**\
+* [x] **Not Submitted for Approval**\
+  Products that have not yet been submitted to the Marketplace admin are listed here. Selected products can be sent to the approval process using the Submit Selected Products for Approval button.
+* [x] **Pending Approval**\
   Products submitted to the Marketplace admin for go-live approval are listed in this tab. The Marketplace admin views these products via\
-  **Marketplace Console → Product Management → Pools**.
-* **Approved / Rejected**\
+  **Marketplace Console →** [**Product Management** ](../../../lidia-console/lidia-console-user-guide/product-management.md)**→ Pools**.
+* [x] **Approved / Rejected**\
   The Marketplace admin:
-  * Uses the **Approve** action to move products to the **Approved** tab in both the Merchant Console and Marketplace Console.
-  * Uses the **Reject** action to move products to the **Rejected** tab in both consoles.
-* **Published**\
-  Approved products are published by the Marketplace Console admin. Once published, these products are listed under the **Published** tab in both the Merchant Console and Marketplace Console.
 
-***
+- Uses the **Approve** action to move products to the **Approved** tab in both the Merchant Console and Marketplace Console.
+- Uses the **Reject** action to move products to the **Rejected** tab in both consoles.
+
+* [x] **Published**\
+  Approved products are published by the Marketplace Console admin. Once published, these products are listed under the Published tab in both the Merchant Console and Marketplace Console.
 
 #### 7) Exporting Data
 
