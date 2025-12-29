@@ -87,12 +87,7 @@ Once these steps are successfully completed, the product upload process is final
 
 Uploaded products are managed under specific statuses before going live. The following tabs are displayed on the Pool List screen, each showing the number of products under the relevant status:
 
-* **All**
-* **Not Submitted for Approval**
-* **Pending Approval**
-* **Approved**
-* **Rejected**
-* **Published**
+<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 The process flows as follows:
 
