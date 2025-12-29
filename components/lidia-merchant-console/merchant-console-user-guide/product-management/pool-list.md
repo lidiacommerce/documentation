@@ -101,12 +101,12 @@ The process flows as follows:
 * [x] **Approved / Rejected**\
   The Marketplace admin:
 
-- Uses the **Approve** action to move products to the **Approved** tab in both the Merchant Console and Marketplace Console.
-- Uses the **Reject** action to move products to the **Rejected** tab in both consoles.
+- Uses the Approve action to move products to the Approved tab in both the Merchant Console and Marketplace Console.
+- Uses the Reject action to move products to the Rejected tab in both consoles.
 
 * [x] **Published**\
   Approved products are published by the Marketplace Console admin. Once published, these products are listed under the Published tab in both the Merchant Console and Marketplace Console.
 
 #### 7) Exporting Data
 
-Throughout the entire process, products listed in pools can be exported in Excel format using the **Export Data** button when needed. This feature can be used for reporting, validation, and archiving purposes.
+Throughout the entire process, products listed in pools can be exported in Excel format using the Export Data button when needed. This feature can be used for reporting, validation, and archiving purposes.
