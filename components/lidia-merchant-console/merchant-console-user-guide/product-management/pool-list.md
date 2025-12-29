@@ -24,40 +24,39 @@ Steps:
 3. The category schema configured in the Marketplace Console is displayed.
 4. By selecting from the defined categories and subcategories in the system, you create your product family.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This structure is designed based on a **single catalog** approach. A product family contains category-specific options and properties, as well as the mandatory / optional status of these fields. This approach eliminates the need to redefine the same fields for each product upload, allowing products to be added to a predefined standard structure, accelerating the process and reducing manual repetition.
 
 #### 2) Product Family List and the “Manage Products” Area
 
-All created product families are listed under the **Product Families** section on the Pool List page. The following information is displayed for each product family:
+All created product families are listed under the Product Families section on the Pool List page. The following information is displayed for each product family:
 
 * ID
 * Product family name
 * Related category(ies)
 * Product family status
 
-The **Manage Products** button next to each product family is the primary area where product upload and data management actions are performed.
-
-***
+The Manage Products button next to each product family is the primary area where product upload and data management actions are performed.
 
 #### 3) Downloading the Data Schema (Excel Template)
 
-After clicking the **Manage Products** button, the product upload process is initiated using the **Import Data** button located in the top-right section of the screen.
+After clicking the Manage Products button, the product upload process is initiated using the Import Data button located in the top-right section of the screen.
 
 At this step:
 
 1. The **Excel data schema** appropriate for the selected product family is downloaded.
-2. The Excel template provided for each product family is **different**.
+2. The Excel template provided for each product family is different.
 
-These differences arise from category-specific **attribute and option fields**, as well as the **mandatory / optional** definitions of these fields.
+These differences arise from category-specific attribute and option fields, as well as the mandatory / optional definitions of these fields.
 
-**HINT:**\
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
 The fields defined for each product family and their mandatory statuses are configured by the Marketplace Console admin via\
-**Marketplace Console → Settings → Catalog → Product Families**.\
+**Marketplace Console →** [**Settings**](../../../lidia-console/lidia-console-user-guide/settings.md) **→ Catalog → Product Families**.\
 Sellers using the Merchant Console do not have permission to modify these fields.
-
-***
+{% endhint %}
 
 #### 4) Excel Template Structure and Data Entry
 
