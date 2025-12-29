@@ -28,7 +28,7 @@ The Authorization section includes the pages where user roles and permissions ar
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     \
     By accessing an individual user’s detail page, you can view basic user information such as first and last name, email address, phone number, and date of birth, as well as role and permission details.
@@ -45,7 +45,7 @@ The Legal section is the area where the organization’s legal obligations, docu
 
     When accessing the Legal Documents section, a document list is displayed containing the document ID, name, publisher, document code, version information, validity date, and active/passive status. In this area, legal documents such as KVKK texts, preliminary information forms, and similar documents can be uploaded, and uploaded documents can be versioned through this section.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Through document versioning, it is possible to perform checks in later stages, such as identifying who approved or did not approve specific versions of a document. From the Basic Information area on the document detail screen, the document content can be accessed and edited. Additionally, the complete version history of the document can be viewed through the Version History section on the detail screen.
 
@@ -68,7 +68,7 @@ The Payments section is where the payment options, methods, and rules to be used
     Integration details and integration processes related to the payment channel are available in the **Integration Info** section. Payment transactions related to completed orders, including transaction amounts, transaction dates, and transaction types, can be reviewed in the **Transactions** section.
 
 {% hint style="info" %}
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)<br>
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)<br>
 
 When adding a new payment channel, you may either select from the known providers available in the system or define a new provider from scratch.
 {% endhint %}

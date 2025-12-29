@@ -7,9 +7,9 @@ Sellers can perform product upload operations through the Merchant Console using
 * **Bulk upload via Excel files**
 * **Data transfer via SAP integration**
 
-The Pool List page is the main workspace where product family creation, schema download, product upload, data validation, and approval/publishing processes are managed end to end.
-
-<figure><img src="../../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+The Pool List page is the main workspace where product family creation, schema download, product upload, data validation, and approval/publishing processes are managed end to end.\
+\
+![](<../../../../.gitbook/assets/image (34).png>)
 
 ***
 
@@ -24,7 +24,7 @@ Steps:
 3. The category schema configured in the Marketplace Console is displayed.
 4. By selecting from the defined categories and subcategories in the system, you create your product family.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This structure is designed based on a **single catalog** approach. A product family contains category-specific options and properties, as well as the mandatory / optional status of these fields. This approach eliminates the need to redefine the same fields for each product upload, allowing products to be added to a predefined standard structure, accelerating the process and reducing manual repetition.
 
@@ -50,7 +50,7 @@ At this step:
 
 These differences arise from category-specific attribute and option fields, as well as the mandatory / optional definitions of these fields.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The fields defined for each product family and their mandatory statuses are configured by the Marketplace Console admin via\
