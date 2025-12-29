@@ -15,20 +15,18 @@ The Pool List page is the main workspace where product family creation, schema d
 
 #### 1) Creating a Product Family
 
-When you enter the Pool List page, the process is initiated using the **Add New Product Family** button located in the top-right corner of the screen. Creating a product family is the mandatory first step to ensure products are uploaded with the correct schema.
+When you enter the Pool List page, the process is initiated using the Add New Product Family button located in the top-right corner of the screen. Creating a product family is the mandatory first step to ensure products are uploaded with the correct schema.
 
 Steps:
 
-1. Click the **Add New Product Family** button.
-2. Select a **category** to create a product family.
-3. The **category schema configured in the Marketplace Console** is displayed.
+1. Click the Add New Product Family button.
+2. Select a category to create a product family.
+3. The category schema configured in the Marketplace Console is displayed.
 4. By selecting from the defined categories and subcategories in the system, you create your product family.
 
-This structure is designed based on a **single catalog** approach. A product family contains category-specific **options (variants)** and **attributes**, as well as the **mandatory / optional** status of these fields. This approach eliminates the need to redefine the same fields for each product upload, allowing products to be added to a predefined standard structure, accelerating the process and reducing manual repetition.
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-> A product family can be created by the seller via the Merchant Console, or defined by the Marketplace Console admin following the same steps.
-
-***
+This structure is designed based on a **single catalog** approach. A product family contains category-specific options and properties, as well as the mandatory / optional status of these fields. This approach eliminates the need to redefine the same fields for each product upload, allowing products to be added to a predefined standard structure, accelerating the process and reducing manual repetition.
 
 #### 2) Product Family List and the “Manage Products” Area
 
