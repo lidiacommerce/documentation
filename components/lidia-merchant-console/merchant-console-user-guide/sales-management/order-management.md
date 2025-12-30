@@ -72,6 +72,7 @@ The order detail page is structured similarly to the order screen in the Marketp
     * **external loyalty point cost**
     * **total cost** (sum of all internal and external costs)
     * **seller share** (amount remaining to the seller after costs)
+    * **withholding tax** (statutory tax deduction)
     * **return amount** (cost related to returned items)
     * **cancellation amount** (cost related to cancelled orders)
     * **marketplace coupon cost**
