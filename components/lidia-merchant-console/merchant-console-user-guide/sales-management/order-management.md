@@ -94,6 +94,8 @@ Below these steps, the following action buttons are available:
 * **View Transport Document:** Displays the official transport document provided by the shipping company.
 * **View Transport Document as Sticker:** Displays the transport document in a label format suitable for attaching to the package.
 
+<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 * [x] All orders listed on the Orders page can be exported in Excel format using the Export Data button. This export can be used for reporting, accounting, and archiving purposes.
