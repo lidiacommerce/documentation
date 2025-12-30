@@ -51,33 +51,35 @@ The order detail page is structured similarly to the order screen in the Marketp
 
 ***
 
-* **Order Financial Breakdown**\
-  Located below the summary section, the Order Financial Breakdown presents the financial structure of the order and consists of two main parts: the Revenue Table and the Cost Table.\
-  \
-  **Revenue Table:**
-* **product amount** (total sales value of products)
-* **shipping fee** (shipping cost charged to the customer)
-* **total revenue** (sum of product and shipping amounts)\
-  \
-  **Cost Table – Internal Costs:**
-* **platform cost** (platform service fee)
-*  **payment provider cost** (payment processing fee)
-*  **shipping cost** (delivery cost)
-*  **seller share** (amount remaining to the seller after costs)
-*  **withholding tax** (statutory tax deduction)
-*  **return amount** (cost related to returned items)
-* **cancellation amount** (cost related to cancelled orders)
-* **marketplace coupon cost**
-* **seller coupon cost**
-* **marketplace campaign cost**
-* **seller campaign cost**
-* **loyalty point cost**
+*   **Order Financial Breakdown**\
+    Located below the summary section, the Order Financial Breakdown presents the financial structure of the order and consists of two main parts: the Revenue Table and the Cost Table.\
+    \
+    **Revenue Table:**
 
-**Cost Table – External Costs:**
+    * **product amount** (total sales value of products)
+    * **shipping fee** (shipping cost charged to the customer)
+    * **total revenue** (sum of product and shipping amounts)
 
-* **external coupon cost**
-* **external loyalty point cost**
-* **total cost** (sum of all internal and external costs)
+    **Cost Table – Internal Costs:**
+
+    * **platform cost** (platform service fee)
+    *      **payment provider cost** (payment processing fee)
+    *      **shipping cost** (delivery cost)
+    *      **seller share** (amount remaining to the seller after costs)
+    *      **withholding tax** (statutory tax deduction)
+    *      **return amount** (cost related to returned items)
+    * **cancellation amount** (cost related to cancelled orders)
+    * **marketplace coupon cost**
+    * **seller coupon cost**
+    * **marketplace campaign cost**
+    * **seller campaign cost**
+    * **loyalty point cost**
+
+    **Cost Table – External Costs:**
+
+    * **external coupon cost**
+    * **external loyalty point cost**
+    * **total cost** (sum of all internal and external costs)
 
 ***
 
