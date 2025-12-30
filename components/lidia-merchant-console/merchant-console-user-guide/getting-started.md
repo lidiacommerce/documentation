@@ -32,7 +32,7 @@ In the top-right section of the screen, you can change language preferences, acc
 
 The summary and statistical templates displayed on the home page enable sellers to monitor their business performance in a quick and comprehensive manner. All displayed values are updated in real time based on the date selection filter available on the screen.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 General Statistics Results
 
