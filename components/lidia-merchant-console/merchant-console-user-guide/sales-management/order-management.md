@@ -18,6 +18,8 @@ Approval or rejection of a newly received order is performed through the order d
 
 During the rejection process, one of the following rejection reasons can be selected -insufficient stock, incorrect product, other- and an additional explanation can be entered if desired. These actions can be performed from both the Marketplace Console and the Merchant Console.
 
+<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
 #### 3️⃣ Order Preparation and Delivery Transition
 
 Approved orders move to the **Ready** status and become eligible for shipment.
