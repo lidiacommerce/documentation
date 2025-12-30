@@ -54,10 +54,10 @@ The order detail page is structured similarly to the order screen in the Marketp
 * **Order Financial Breakdown**\
   Located below the summary section, the Order Financial Breakdown presents the financial structure of the order and consists of two main parts: the Revenue Table and the Cost Table.\
   \
-  **Revenue Table:**\
-  **product amount** (total sales value of products),\
-  **shipping fee** (shipping cost charged to the customer),\
-  **total revenue** (sum of product and shipping amounts).\
+  **Revenue Table:**
+* **product amount** (total sales value of products)
+* **shipping fee** (shipping cost charged to the customer)
+* **total revenue** (sum of product and shipping amounts)\
   \
   **Cost Table – Internal Costs:**
 * **platform cost** (platform service fee)
@@ -71,7 +71,7 @@ The order detail page is structured similarly to the order screen in the Marketp
 * **seller coupon cost**
 * **marketplace campaign cost**
 * **seller campaign cost**
-* **loyalty point cost**<br>
+* **loyalty point cost**
 
 **Cost Table – External Costs:**
 
