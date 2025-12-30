@@ -36,7 +36,7 @@ If there is a missing or unuploaded invoice, an Missing Invoice label is display
 
 <figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-* [x] Using the Upload Invoice button, the seller enters the invoice number, invoice party (buyer/platform), invoice date, invoice type (individual/corporate) and uploads the invoice file in PDF format. Uploaded invoices are listed and managed under Invoice Center → Invoices.
+* [x] Using the Upload Invoice button, the seller enters the invoice number, invoice side (buyer/platform), invoice date, invoice type (individual/corporate) and uploads the invoice file in PDF format. Uploaded invoices are listed and managed under Invoice Center → Invoices.
 
 - #### **Order Detail Page**&#x20;
 
