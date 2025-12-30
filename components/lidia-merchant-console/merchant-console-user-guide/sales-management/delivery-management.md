@@ -31,6 +31,8 @@ When navigating to the details of any listed delivery, all information related t
 
 If the delivery is carried out through a shipping provider integrated with the system, the Shipment Tracking button on the screen redirects the user to the shipment tracking page of the relevant shipping company. This allows real-time tracking of the delivery status through the carrier.
 
+<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 * **Summary Section**
 
 The Summary section at the top of the detail screen allows quick access to the core delivery information. This area includes:\
@@ -63,5 +65,3 @@ Example delivery movements:
 * Shipment Unloaded from Vehicle
 
 This section allows sellers to track the delivery process step by step and analyze the reasons for potential delays.
-
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
