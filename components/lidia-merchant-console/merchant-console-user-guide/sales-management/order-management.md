@@ -34,7 +34,7 @@ From the moment the delivery process begins, the seller is responsible for uploa
 If there is a missing or unuploaded invoice, an Missing Invoice label is displayed under the order status on the Orders page, and the following alert message appears:\
 “You have X pending invoice upload requests!”
 
-
+<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 * #### **Order Detail Page**&#x20;
 
