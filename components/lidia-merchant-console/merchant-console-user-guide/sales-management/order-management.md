@@ -36,7 +36,9 @@ If there is a missing or unuploaded invoice, an Missing Invoice label is display
 
 <figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-* #### **Order Detail Page**&#x20;
+* [x] Using the Upload Invoice button, the seller enters the invoice number, invoice party (buyer/platform), invoice date, invoice type (individual/corporate) and uploads the invoice file in PDF format. Uploaded invoices are listed and managed under Invoice Center → Invoices.
+
+- #### **Order Detail Page**&#x20;
 
 The order detail page is structured similarly to the order screen in the Marketplace Console and consists of three main sections.
 
@@ -94,8 +96,5 @@ Below these steps, the following action buttons are available:
 
 ***
 
-
-
-* [x] Using the Upload Invoice button, the seller enters the invoice number, invoice party (buyer/platform), invoice date, invoice type (individual/corporate) and uploads the invoice file in PDF format. Uploaded invoices are listed and managed under Invoice Center → Invoices.
 * [x] All orders listed on the Orders page can be exported in Excel format using the Export Data button. This export can be used for reporting, accounting, and archiving purposes.
 
