@@ -63,23 +63,23 @@ The order detail page is structured similarly to the order screen in the Marketp
     **Cost Table – Internal Costs:**
 
     * **platform cost** (platform service fee)
-    *      **payment provider cost** (payment processing fee)
-    *      **shipping cost** (delivery cost)
-    *      **seller share** (amount remaining to the seller after costs)
-    *      **withholding tax** (statutory tax deduction)
-    *      **return amount** (cost related to returned items)
-    * **cancellation amount** (cost related to cancelled orders)
-    * **marketplace coupon cost**
-    * **seller coupon cost**
-    * **marketplace campaign cost**
-    * **seller campaign cost**
-    * **loyalty point cost**
+    * **payment provider cost** (payment processing fee)
+    * **shipping cost** (delivery cost)
 
     **Cost Table – External Costs:**
 
     * **external coupon cost**
     * **external loyalty point cost**
     * **total cost** (sum of all internal and external costs)
+    * **seller share** (amount remaining to the seller after costs)
+    *      **withholding tax** (statutory tax deduction)
+    * **return amount** (cost related to returned items)
+    * **cancellation amount** (cost related to cancelled orders)
+    * **marketplace coupon cost**
+    * **seller coupon cost**
+    * **marketplace campaign cost**
+    * **seller campaign cost**
+    * **loyalty point cost**
 
 ***
 
