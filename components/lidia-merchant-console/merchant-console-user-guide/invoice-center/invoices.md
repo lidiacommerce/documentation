@@ -22,6 +22,8 @@ At this stage, invoices appear in the Merchant Console with a Pending status and
 
 For a rejected invoice, the seller can use the Add Invoice button again to make the necessary corrections and re-upload the invoice.
 
+<figure><img src="../../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 * [x] Invoices listed on the Invoice Center pages are displayed with the following information:
