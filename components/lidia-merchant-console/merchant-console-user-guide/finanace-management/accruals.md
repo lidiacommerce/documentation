@@ -17,19 +17,19 @@ These details ensure that payment processes proceed accurately and consistently.
 
 A secondary template displays a financial summary for the accrual period:
 
-**TOTAL PROGRESS PAYMENT:** Represents the net amount to be paid to the seller at the end of the period. This amount is calculated by taking sales, returns, commissions, and other expenses into account.
+TOTAL PROGRESS PAYMENT: Represents the net amount to be paid to the seller at the end of the period. This amount is calculated by taking sales, returns, commissions, and other expenses into account.
 
-**SALES AMOUNT:** Shows the gross total of sales completed within a specific period.
+SALES AMOUNT: Shows the gross total of sales completed within a specific period.
 
-**PENDING PAYMENTS:** Includes amounts that have been processed but not yet transferred to the seller.
+PENDING PAYMENTS: Includes amounts that have been processed but not yet transferred to the seller.
 
-**PAST PAYMENTS:** Represents the total of completed payments transferred to the seller in previous periods.
+PAST PAYMENTS: Represents the total of completed payments transferred to the seller in previous periods.
 
-**CARGO INTERRUPTION:** Represents shipping costs charged to the seller for logistics services used in orders.
+CARGO INTERRUPTION: Represents shipping costs charged to the seller for logistics services used in orders.
 
-**WITHOLDER:** Indicates the tax deduction calculated at a rate of 1% on the VAT-excluded sales amount.
+WITHOLDER: Indicates the tax deduction calculated at a rate of 1% on the VAT-excluded sales amount.
 
-**OTHER INTERRUPTIONS:** Includes additional deduction items such as commissions, discounts, and penalties.
+OTHER INTERRUPTIONS: Includes additional deduction items such as commissions, discounts, and penalties.
 
 This summary structure allows sellers to analyze their income–expense balance from a single screen.
 
@@ -71,5 +71,5 @@ At the bottom of the accrual detail page, the Transaction Movements section list
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* [x] Accrual detail pages and lists can be documented in **Excel format** using the **Export Data** button. This feature can be used for accounting processes, reporting, and archiving purposes.
+* [x] Accrual detail pages and lists can be documented in Excel format using the Export Data button. This feature can be used for accounting processes, reporting, and archiving purposes.
 
