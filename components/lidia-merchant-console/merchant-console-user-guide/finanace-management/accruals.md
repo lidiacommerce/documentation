@@ -53,15 +53,15 @@ The information shown on this screen includes:
 
 **Calculation Details:**
 
-* **Sales Amount:** The total sales amount obtained from orders included in the relevant accrual period.
-* **Total Shipping Amount:** The total shipping fees paid by customers during the relevant period.
-* **Total Platform Cost:** The total commission amount charged by the marketplace for the related orders.
-* **Total Shipping Cost:** The estimated shipping cost calculated based on real-time desi information received from carriers.
-* **Total Coupon Cost:** The total cost resulting from discounts applied through coupons and deducted from revenue.
-* **Total Campaign Cost:** The total cost calculated by deducting campaign-based discounts from revenue.
-* **Total Withholding Tax Amount:** The tax amount deducted at a rate of 1% on the VAT-excluded sales amount.
-* **Total Return Amount:** The total amount generated from returned orders included in the relevant period.
-* **Total Cancellation Amount:** The total amount generated from cancelled orders included in the relevant period.
+* **Total Product Revenue  :** It is the amount of sales you will receive from your orders included in the relevant payment day.  \
+  **Total Delivery Amount  :** The total amount paid by customers earned from your orders that are included in that payment day.  \
+  **Total Platform Cost:** It is the total commission fee received by the marketplace from your orders included in the relevant payment day.  \
+  **Total Delivery Cost:** Estimated amount based on real-time volume (desi) data from shipments on the relevant accrual date  \
+  **Total Coupon Cost:** It is the total cost amount of the provided discount amounts in the coupons created, deducted from the revenue.  \
+  **Total Promotion Cost:** It is the total cost amount of the discounts provided in the created campaigns, deducted from the revenue.  \
+  **Total Withholding Cost:** It is the tax amount deducted at a rate of 1% on the VAT-excluded sales amount included in the relevant entitlement date.  \
+  **Total Refund Fee:** It is the total refund amount from your orders included in the relevant payment day.  \
+  **Total Cancel Fee:** The total cancellation amount from your orders included in the relevant payment day.
 
 **Transaction Movements**
 
