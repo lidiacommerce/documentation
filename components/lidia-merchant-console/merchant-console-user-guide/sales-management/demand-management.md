@@ -49,6 +49,8 @@ The Demand Movements template shows the step-by-step progression of the demand p
 
 This section presents the current status of the demand and the timeline of previous actions in chronological order.
 
+<figure><img src="../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
 * #### **Filtering and Management Convenience**
 
 The filters available on the Demand Management screen allow demands to be managed more easily and efficiently. Sellers can filter demands by:
