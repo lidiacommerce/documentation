@@ -33,7 +33,7 @@ Delivery Profiles and Shipping Costs.
 
     This structure provides flexibility for sellers and enables customized shipping management for different product types or logistics scenarios.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### Shipping Costs
 
