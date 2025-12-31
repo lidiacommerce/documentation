@@ -33,6 +33,8 @@ A secondary template displays a financial summary for the accrual period:
 
 This summary structure allows sellers to analyze their income–expense balance from a single screen.
 
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * #### **Periodic Accruals List**
 
 The list displayed in the lower section of the page presents period-based accrual details. This list includes the following columns:
@@ -67,7 +69,7 @@ The information shown on this screen includes:
 
 At the bottom of the accrual detail page, the Transaction Movements section lists all financial transactions affecting the accrual calculation. For each transaction, the following information is displayed: transaction date, description, and amount. This structure provides step-by-step visibility into how the accrual amount was calculated.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] Accrual detail pages and lists can be documented in **Excel format** using the **Export Data** button. This feature can be used for accounting processes, reporting, and archiving purposes.
 
