@@ -9,7 +9,7 @@ Sellers can perform product upload operations through the Merchant Console using
 
 The Pool List page is the main workspace where product family creation, schema download, product upload, data validation, and approval/publishing processes are managed end to end.<br>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -24,7 +24,7 @@ Steps:
 3. The category schema configured in the Marketplace Console is displayed.
 4. By selecting from the defined categories and subcategories in the system, you create your product family.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This structure is designed based on a **single catalog** approach. A product family contains category-specific options and properties, as well as the mandatory / optional status of these fields. This approach eliminates the need to redefine the same fields for each product upload, allowing products to be added to a predefined standard structure, accelerating the process and reducing manual repetition.
 
