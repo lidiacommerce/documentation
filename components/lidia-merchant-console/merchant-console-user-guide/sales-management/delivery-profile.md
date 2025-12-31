@@ -33,11 +33,11 @@ Delivery Profiles and Shipping Costs.
 
     This structure provides flexibility for sellers and enables customized shipping management for different product types or logistics scenarios.
 
-
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Shipping Costs
 
-The Shipping Costs tab displays the cargo fees (₺) of shipping companies based on desi / kg. The prices shown on this screen are for informational purposes only and exclude VAT, taxes, and additional fees.
+The Shipping Costs tab displays the cargo fees (₺) of shipping companies based on desi / kg. The table shown on this page can be exported and downloaded in Excel format using the Export Data option. The prices shown on this screen are for informational purposes only and exclude VAT, taxes, and additional fees.
 
 When a shipping company is changed on an order basis, billing is carried out according to the price list of the shipping company from which the shipment is dispatched.
 
