@@ -1,7 +1,5 @@
 # Invoices
 
-### Invoice Section
-
 From the moment the delivery process begins, the seller is responsible for uploading an invoice for each processed delivery. The invoice upload process is performed using the Add Invoice button located in the top-right corner of this page.
 
 During invoice upload, the seller is required to provide the following information:
