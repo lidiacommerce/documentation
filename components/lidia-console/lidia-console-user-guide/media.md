@@ -33,8 +33,10 @@ To upload documents, first select the relevant document type, then add the files
 
 The next step is the Validate Data stage. On this screen, all uploaded files are automatically checked according to system rules. If any media within the uploaded bulk data does not meet the required conditions in terms of format, size, or content, the system displays a warning and requests that the relevant rows be corrected.
 
-* Supported formats for images: `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.jfif`, `.webp`, `.rar`, `.zip`
-* Supported formats for documents: `.rar`, `.zip`, `.3dmax`, `.3ds`, `.step`, `.stp`, `.dwg`, `.pdf`
+* Supported formats for images: \
+  `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.jfif`, `.webp`, `.rar`, `.zip`
+* Supported formats for documents:\
+  &#x20;`.rar`, `.zip`, `.3dmax`, `.3ds`, `.step`, `.stp`, `.dwg`, `.pdf`
 
 At this stage, the Show Only Invalid Rows button simplifies the editing process by listing only the files with errors. If there are no errors in the uploaded data, the message “Your bulk data has been uploaded successfully without errors!” is displayed on the screen, and the Continue option becomes active.
 
