@@ -13,8 +13,10 @@ There are four main template types available on the upload screen:
 * Product Image (2000 × 2000 px)
 * Document
 
-- [x] To upload documents, first select the relevant document type, then add the files you wish to upload to the opened area. After adding the files, you can proceed to the next step by clicking the Continue button.
--   [x] During the Data Validation step, all uploaded files are **automatically checked** according to system rules. If any media item within the uploaded bulk data does not meet the required conditions in terms of format, size, or content, the system displays a warning and requests correction of the relevant rows.
+<figure><img src="../../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+* [x] To upload documents, first select the relevant document type, then add the files you wish to upload to the opened area. After adding the files, you can proceed to the next step by clicking the Continue button.
+*   [x] During the Data Validation step, all uploaded files are **automatically checked** according to system rules. If any media item within the uploaded bulk data does not meet the required conditions in terms of format, size, or content, the system displays a warning and requests correction of the relevant rows.
 
     **Supported image formats:**\
     `.jpg .jpeg .png .gif .bmp .jfif .webp .rar .zip`  \
@@ -26,14 +28,14 @@ There are four main template types available on the upload screen:
     \
     At this stage, the Show Invalid Rows Only button simplifies the editing process for sellers by listing only the erroneous files.
 
-* If errors exist, the system displays the message:\
+- If errors exist, the system displays the message:\
   &#xNAN;**“X media items in your uploaded bulk data do not meet the required conditions!”**\
   In this case, the necessary corrections must be made by the uploader.
-* If no errors are detected, the message:\
+- If no errors are detected, the message:\
   &#xNAN;**“Your bulk data has been successfully uploaded without errors!”**\
   is displayed, and the Continue option becomes active.
 
-- [x] At the Final Approval step, the upload process is completed and all files are successfully added to the system. If necessary, additional files can be added during the data validation step.
+* [x] At the Final Approval step, the upload process is completed and all files are successfully added to the system. If necessary, additional files can be added during the data validation step.
 
 ***
 
