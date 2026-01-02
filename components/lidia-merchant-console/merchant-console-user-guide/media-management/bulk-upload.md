@@ -41,7 +41,7 @@ There are four main template types available on the upload screen:
 
 ***
 
-### Image Codes and Product Association
+### **Image Codes and Product Association**
 
 The file name assigned to each image during bulk or individual upload is considered the image code in the system. This code is used to associate images with products.
 
