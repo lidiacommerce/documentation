@@ -37,16 +37,18 @@ There are four main template types available on the upload screen:
 
 * [x] At the Final Approval step, the upload process is completed and all files are successfully added to the system. If necessary, additional files can be added during the data validation step.
 
+<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Image Codes and Product Association
 
-The **file name** assigned to each image during bulk or individual upload is considered the **image code** in the system. This code is used to associate images with products.
+The file name assigned to each image during bulk or individual upload is considered the image code in the system. This code is used to associate images with products.
 
 The product–image matching process works as follows:
 
-* To upload products, an Excel template is downloaded from the **Pool List** page.
-* While entering product data, the **Image Code** column in the template is filled with the image code specified during media upload.
-* The system automatically **matches the product with the corresponding image** based on the entered code.
+* To upload products, an Excel template is downloaded from the Pool List page.
+* While entering product data, the Image Code column in the template is filled with the image code specified during media upload.
+* The system automatically matches the product with the corresponding image based on the entered code.
 
 This structure eliminates the need to manually select images one by one during product upload, speeds up the process, and prevents incorrect associations.
