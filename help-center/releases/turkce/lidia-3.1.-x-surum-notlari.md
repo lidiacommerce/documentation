@@ -92,6 +92,14 @@ Bu geliştirme kapsamında, PIM genelindeki tüm listeleme sayfaları yeni liste
 
 
 
+
+
+#### Ödeme kurallarında yeni koşul seçeneklerinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.4</mark>
+
+
+
+
+
 ***
 
 {% hint style="info" %}
