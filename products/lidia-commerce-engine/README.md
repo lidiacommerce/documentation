@@ -36,7 +36,7 @@ The Lidia Commerce Engine is a powerhouse designed for modern digital commerce n
 
 Sectors illustrate the broad industry categories where Lidia PIM can drive substantial value. By identifying the unique needs and trends within these industries, we can strategically position our suite to address their specific challenges and opportunities.
 
-<div><figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure></div>
 

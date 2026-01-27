@@ -113,6 +113,8 @@ Bu geliştirme kapsamında kullanıcı hesap güvenliğini artırmak amacıyla �
 
 
 
+### 💡 **Kullanıcı Deneyimi İyileştirmeleri**
+
 #### Tüm sayfaların yeni listeleme arayüzüne taşınması Sürüm Tarihi: 23/10/2025 Sürüm Numarası: <mark style="color:purple;">LC-2.10.10</mark>
 
 Bu geliştirme kapsamında, platform genelindeki tüm listeleme sayfaları yeni listeleme arayüzü altyapısına taşınmıştır.
