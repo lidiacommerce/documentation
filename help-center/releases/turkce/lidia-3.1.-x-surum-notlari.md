@@ -41,6 +41,22 @@ Bu dönüşümle birlikte platformun temel çalışma mimarisi yeniden yapıland
 
 
 
+### 🎯 Katalog **Yönetimi Geliştirmeleri**
+
+#### Varyant taşıma yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.1</mark>
+
+
+
+
+
+#### Ürün/Varyant güncellemelerini havuza geri besleme yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
+
+
+
+
+
+
+
 ### 🎯 Medya Yönetimi **Geliştirmeleri**
 
 #### Medya yöneticisinin yeni uygulama ile değiştirilmesi Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.2 - LMC-3.1.2</mark>
@@ -52,7 +68,7 @@ Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir p
 
 ### 🎯 Satıcı Yönetimi **Geliştirmeleri**
 
-#### Satıcı yönetimi onaylama ve reddetme yetenekleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.1</mark>
+#### Satıcı yönetimi onaylama ve reddetme yetenekleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.3</mark>
 
 
 
@@ -74,7 +90,7 @@ Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir p
 
 ### 💡 **Satıcı Yönetimi İyileştirmeleri**
 
-#### Satıcı yönetimi listeleme iyileştirmeleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
+#### Satıcı yönetimi listeleme iyileştirmeleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.4</mark>
 
 
 
@@ -88,13 +104,13 @@ Bu geliştirme kapsamında, PIM genelindeki tüm listeleme sayfaları yeni liste
 
 
 
-#### Envanter listelemede fiyat aralığına göre filtreleme yeteneğinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.3</mark>
+#### Envanter listelemede fiyat aralığına göre filtreleme yeteneğinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.5</mark>
 
 
 
 
 
-#### Ödeme kurallarında yeni koşul seçeneklerinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.4</mark>
+#### Ödeme kurallarında yeni koşul seçeneklerinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.6</mark>
 
 
 
