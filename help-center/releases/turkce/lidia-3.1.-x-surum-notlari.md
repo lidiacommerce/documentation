@@ -34,7 +34,7 @@ Eylül ayında planlanan sürüm geçişi, Lidia platformunun Core altyapı geç
 
 ### 🎯 Platform Altyapı **Geliştirmeleri**
 
-#### Core framework dönüşümü Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.1 - LMC-3.1.1</mark>
+#### Core framework dönüşümü Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LMC-3.1.1</mark>
 
 Lidia platformunun ölçeklenebilirliğini artırmak, modüler yapıyı standartlaştırmak ve tüm bileşenlerin performansını optimize etmek amacıyla kapsamlı bir Core dönüşüm süreci tamamlanmıştır.\
 Bu dönüşümle birlikte platformun temel çalışma mimarisi yeniden yapılandırılmış, servisler arası iletişim ve veri işleme süreçleri Lidia Core altyapısına taşınmıştır. Yeni yapıda Lidia Merchant Console; daha yüksek işlem hızı, geliştirme ortamında bağımsız modül dağıtımı ve sürüm yönetiminde esneklik sağlayarak gelecek dönem geliştirmelerinin daha kararlı bir temel üzerinde ilerlemesine olanak tanır.
@@ -59,7 +59,7 @@ Bu dönüşümle birlikte platformun temel çalışma mimarisi yeniden yapıland
 
 ### 🎯 Medya Yönetimi **Geliştirmeleri**
 
-#### Medya yöneticisinin yeni uygulama ile değiştirilmesi Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.2 - LMC-3.1.2</mark>
+#### Medya yöneticisinin yeni uygulama ile değiştirilmesi Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.1 - LMC-3.1.2</mark>
 
 Önceki medya yöneticisi uygulamasında zaman zaman kararlılık ve performans sorunları yaşanıyordu.\
 Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir plugin ile değiştirilmiştir.
@@ -98,7 +98,7 @@ Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir p
 
 ### 💡 **Kullanıcı Deneyimi İyileştirmeleri**
 
-#### Tüm sayfaların yeni listeleme arayüzüne taşınması Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.3 - LMC-3.1.4</mark>
+#### Tüm sayfaların yeni listeleme arayüzüne taşınması Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.2 - LMC-3.1.4</mark>
 
 Bu geliştirme kapsamında, PIM genelindeki tüm listeleme sayfaları yeni listeleme arayüzü altyapısına taşınmıştır.
 
