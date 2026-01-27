@@ -72,7 +72,7 @@ Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir p
 
 ### İyileştirmeler
 
-### 💡 **Güvenlik İyileştirmeleri**
+### 💡 **Satıcı Yönetimi İyileştirmeleri**
 
 #### Satıcı yönetimi listeleme iyileştirmeleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
 
