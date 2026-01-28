@@ -4,15 +4,10 @@
 
 Bu sayfada, yayımlanan sürümler hakkında bilgiler bulabilir ve ilgili sürüm notlarına erişebilirsiniz. Her sürüm, sistem iyileştirmeleri, hata düzeltmeleri ve yeni özellikler içerir. İlgili sürüm notlarına aşağıdaki listeden erişebilirsiniz.
 
-| Sürüm           | Yayın Tarihi | Güncelleme Konuları                                                                                                 | Detay                                                        |
-| --------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **Lidia 2.2.2** | Şubat 2025   | Katalog yönetimi geliştirmeleri, çeşitli hataların giderilmesi.                                                     | [Buraya tıkla](daha-eski-2.x.x/lidia-2.2.x-surum-notlari.md) |
-| **Lidia 2.2.1** | Şubat 2025   | Kullanıcı deneyimi iyileştirmeleri, teslimat yönetimi ve satış yönetimi güncellemeleri.                             | [Buraya tıkla](daha-eski-2.x.x/lidia-2.2.x-surum-notlari.md) |
-| **Lidia 2.1.2** | Ocak 2025    | Satış sonrası hizmetler, sosyal özellikler, kullanıcı deneyimi iyileştirmeleri ve teslimat yönetimi güncellemeleri. | [Buraya tıkla](daha-eski-2.x.x/lidia-2.1.x-surum-notlari.md) |
-| **Lidia 2.1.1** | Ocak 2025    | Kullanıcı deneyimi iyileştirmeleri, sipariş ve teslimat yönetimi güncellemeleri.                                    | [Buraya tıkla](daha-eski-2.x.x/lidia-2.1.x-surum-notlari.md) |
+<table data-header-hidden><thead><tr><th width="152.62109375">Sürüm</th><th width="157.08203125">Yayın Tarihi</th><th>Güncelleme Konuları</th><th>Detay</th></tr></thead><tbody><tr><td><strong>Lidia 3.1.1</strong></td><td>Ocak 2026</td><td>Platform altyapı dönüşümü, katalog ve varyant yönetimi geliştirmeleri, satıcı yönetimi ve kullanıcı deneyimi iyileştirmeleri.</td><td><a href="lidia-3.1.-x-surum-notlari.md">Buraya tıkla</a></td></tr></tbody></table>
 
-| Sürüm           | Güncelleme Konuları                             | Detay                                   |
-| --------------- | ----------------------------------------------- | --------------------------------------- |
-| **Lidia 1.x.x** | Önceki sürümler hakkında daha detaylı bilgiler. | [Buraya tıkla](../english/older-1.x.x/) |
+| **Lidia 2.x.x** | Temel ticaret yetenekleri, marketplace özellikleri ve kademeli platform geliştirmeleri. | [Buraya tıkla](daha-eski-2.x.x/)        |
+| --------------- | --------------------------------------------------------------------------------------- | --------------------------------------- |
+| **Lidia 1.x.x** | Platformun ilk sürümlerine ait temel ticaret yetenekleri.                               | [Buraya tıkla](../english/older-1.x.x/) |
 
 Bu sayfa, yeni sürümler yayımlandıkça güncellenecektir.

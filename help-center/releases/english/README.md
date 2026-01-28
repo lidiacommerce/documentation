@@ -8,18 +8,12 @@ On this page, you can find information about released versions and access the re
 
 #### Release Notes
 
-| Version         | Release Date  | Key Updates                                                                                               | Details                                                 |
-| --------------- | ------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Lidia 2.2.2** | February 2025 | Catalog management Improvements, various bugfixes.                                                        | [Click here](older-2.x.x/lidia-2.2.x-release-notes.md)  |
-| **Lidia 2.2.1** | February 2025 | User experience enhancements, delivery managements and sales management updates.                          | [Click here](older-2.x.x/lidia-2.2.x-release-notes.md)  |
-| **Lidia 2.1.2** | January 2025  | After sales services, social abilities, user ser experience enhancements and delivery management updates. | [Click here](older-2.x.x/lidia-2.1.x-release-notes.md)  |
-| **Lidia 2.1.1** | January 2025  | User experience improvements, order and delivery management updates.                                      | [Click here](older-2.x.x/lidia-2.1.x-release-notes.md)  |
-| Lidia 1.2.x     | December 2024 | User experience improvements, order and delivery management updates. PIM new features.                    | [Click here](older-1.x.x/lidia-1.12.x-release-notes.md) |
+<table data-header-hidden><thead><tr><th width="123.18359375">Version</th><th>Release Date</th><th width="250.90234375">Key Updates</th><th>Details</th></tr></thead><tbody><tr><td><strong>Lidia 3.1.1</strong></td><td>January 2026</td><td>Core platform transformation, catalog and variant management enhancements, seller workflow improvements, user experience optimizations.</td><td><a href="lidia-3.1.x-release-notes.md">Click here</a></td></tr></tbody></table>
 
 ***
 
-| Version         | Key Updates                                | Details                    |
-| --------------- | ------------------------------------------ | -------------------------- |
-| **Lidia 1.x.x** | Detailed information about older releases. | [Click here](older-1.x.x/) |
+| **Lidia 2.x.x** | Core commerce capabilities, marketplace features, and incremental platform improvements. | [Click here](older-2.x.x/) |
+| --------------- | ---------------------------------------------------------------------------------------- | -------------------------- |
+| **Lidia 1.x.x** | Initial platform capabilities and foundational commerce features.                        | [Click here](older-1.x.x/) |
 
 This page will be updated as new versions are released.
