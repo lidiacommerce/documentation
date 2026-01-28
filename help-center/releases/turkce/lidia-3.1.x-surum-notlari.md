@@ -6,7 +6,7 @@ cover: ../../../.gitbook/assets/1.png
 coverY: 0
 ---
 
-# Lidia 3.1. x sürüm notları
+# Lidia 3.1.x sürüm notları
 
 Bu ayki sürüm, Lidia platformunun çeşitli bileşenlerinde önemli güncellemeler içeriyor. Bu bileşenler arasında **Console, Merchant Console, Ürün Bilgi Yönetimi (PIM) sistemleri ve Lidia Commerce Engine**bulunuyor. Yapılan iyileştirmeler, iş akışlarını optimize etmeyi ve tüm platform kullanıcıları için daha akıcı bir deneyim sunmayı amaçlıyor.
 
@@ -41,13 +41,13 @@ Bu dönüşümle birlikte platformun temel çalışma mimarisi yeniden yapıland
 
 #### Varyant taşıma yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.1</mark>
 
-Bu geliştirme ile birlikte ürünlere ait varyantların farklı katalog yapıları veya havuzlar arasında taşınabilmesi desteklenmiştir. Lidia Console yöneticileri, mevcut varyant yapılarını yeniden oluşturmaya gerek kalmadan, ilgili ürün ve varyantları hedef kataloğa güvenli ve kontrollü bir şekilde aktarabilir. Taşıma işlemi, Lidia Console’da ürün ve varyant detaylarında yer alan ürün kodu değiştirme ekranları üzerinden adım adım gerçekleştirilir; bu sayede seçilen ürün veya varyant, başka bir ürün kodu altında konumlandırılarak katalog yapısı bozulmadan yönetilebilir.
+Bu geliştirme ile birlikte ürünlere ait varyantların farklı katalog yapıları veya havuzlar arasında taşınabilmesi desteklenmiştir. Lidia Console yöneticileri, mevcut varyant yapılarını yeniden oluşturmaya gerek kalmadan, ilgili varyantları hedef kataloğa güvenli ve kontrollü bir şekilde aktarabilir. Taşıma işlemi, Lidia Console’da varyant detaylarında yer alan ürün kodu değiştirme ekranları üzerinden adım adım gerçekleştirilir; bu sayede seçilen varyant, başka bir ürün kodu altında konumlandırılarak katalog yapısı bozulmadan yönetilebilir.
 
 
 
-#### Ürün/Varyant güncellemelerini havuza geri besleme yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
+#### Varyant güncellemelerini havuza geri besleme yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
 
-Bu geliştirme ile ürün ve varyant bazında yapılan güncellemelerin, ilgili veri havuzuna geri beslenmesi sağlanmıştır. Lidia Console’da ürün ve varyant detaylarında yer alan havuzu geri besleme butonu üzerinden işlem tetiklenebilir; kısa süre içerisinde yapılan değişiklikler ilgili havuz verisine yansıtılır.\
+Bu geliştirme ile varyant bazında yapılan güncellemelerin, ilgili veri havuzuna geri beslenmesi sağlanmıştır. Lidia Console’da varyant detaylarında yer alan havuzu geri besleme butonu üzerinden işlem tetiklenebilir; kısa süre içerisinde yapılan değişiklikler ilgili havuz verisine yansıtılır.\
 Bu sayede farklı kaynaklardan veya ekranlar üzerinden yapılan güncellemelerin havuz verisiyle senkron kalması mümkün hale gelmiş, veri tutarsızlıklarının önüne geçilmiştir. Kullanıcılar, tüm süreçlerde güncel ürün ve varyant bilgilerine tekil ve güvenilir bir veri kaynağı üzerinden erişebilir.
 
 

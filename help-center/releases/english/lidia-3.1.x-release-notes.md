@@ -44,14 +44,14 @@ Under the new architecture, Lidia Merchant Console delivers higher processing pe
 
 #### Variant transfer capability **Release Date:** 27/01/2026 **Release Number:** <mark style="color:purple;">LC-3.1.1</mark>
 
-With this enhancement, variants belonging to products can be transferred between different catalog structures or data pools. Lidia Console administrators can securely and reliably move products and their variants to a target catalog without the need to recreate existing variant structures.\
-The transfer process is performed step by step via the product code change screens available in product and variant detail pages within Lidia Console, allowing selected products or variants to be repositioned under a different product code while preserving catalog integrity.
+With this enhancement, variants belonging to products can be transferred between different catalog structures or data pools. Lidia Console administrators can securely and reliably move their variants to a target catalog without the need to recreate existing variant structures.\
+The transfer process is performed step by step via the product code change screens available in product and variant detail pages within Lidia Console, allowing selected variants to be repositioned under a different product code while preserving catalog integrity.
 
 
 
 #### Product / Variant updates pool feedback capability **Release Date:** 27/01/2026 **Release Number:** <mark style="color:purple;">LC-3.1.2</mark>
 
-With this enhancement, product- and variant-level updates can be fed back into the relevant data pool. The process can be triggered via the feed back to pool button located on product and variant detail pages in Lidia Console, and the applied changes are reflected in the corresponding pool within a short period of time. This ensures that updates made across different sources or screens remain synchronized with pool data, preventing data inconsistencies. Users can access up-to-date product and variant information through a single, reliable source across all processes.
+With this enhancement, variant-level updates can be fed back into the relevant data pool. The process can be triggered via the feed back to pool button located on variant detail pages in Lidia Console, and the applied changes are reflected in the corresponding pool within a short period of time. This ensures that updates made across different sources or screens remain synchronized with pool data, preventing data inconsistencies. Users can access up-to-date variant information through a single, reliable source across all processes.
 
 
 
