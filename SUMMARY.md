@@ -142,7 +142,7 @@
 * [FAQ](help-center/faq.md)
 * [Releases](help-center/releases/README.md)
   * [Türkçe](help-center/releases/turkce/README.md)
-    * [Lidia 3.1. x sürüm notları](help-center/releases/turkce/lidia-3.1.-x-surum-notlari.md)
+    * [Lidia 3.1.x sürüm notları](help-center/releases/turkce/lidia-3.1.x-surum-notlari.md)
     * [Daha eski (2.x.x)](help-center/releases/turkce/daha-eski-2.x.x/README.md)
       * [Lidia 2.10. x sürüm notları](help-center/releases/turkce/daha-eski-2.x.x/lidia-2.10.-x-surum-notlari.md)
       * [Lidia 2.8.x sürüm notları](help-center/releases/turkce/daha-eski-2.x.x/lidia-2.8.x-surum-notlari.md)

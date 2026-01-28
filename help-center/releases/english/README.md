@@ -4,9 +4,7 @@
 
 On this page, you can find information about released versions and access the relevant release notes. Each release includes system improvements, bug fixes, and new features. You can access the relevant release notes from the list below.
 
-***
 
-#### Release Notes
 
 <table data-header-hidden><thead><tr><th width="123.18359375">Version</th><th>Release Date</th><th width="250.90234375">Key Updates</th><th>Details</th></tr></thead><tbody><tr><td><strong>Lidia 3.1.1</strong></td><td>January 2026</td><td>Core platform transformation, catalog and variant management enhancements, seller workflow improvements, user experience optimizations.</td><td><a href="lidia-3.1.x-release-notes.md">Click here</a></td></tr></tbody></table>
 
