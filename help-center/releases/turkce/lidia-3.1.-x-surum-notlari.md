@@ -22,10 +22,6 @@ Bu dokümanda, Lidia platformunun farklı bileşenleri için sürüm kodlarını
 Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğunu takip etmenize yardımcı olur.
 {% endhint %}
 
-{% hint style="info" %}
-Eylül ayında planlanan sürüm geçişi, Lidia platformunun Core altyapı geçiş süreci nedeniyle ertelenmiştir. Bu kapsamda, Core geçişinin tamamlanmasının ardından Ekim ayında 2.10.x sürümü ile birlikte toplu deployment gerçekleştirilmiştir.
-{% endhint %}
-
 ***
 
 ## <mark style="color:purple;">**Sürüm 3.1**</mark>
