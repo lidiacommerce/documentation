@@ -2,7 +2,7 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
-cover: ../../../.gitbook/assets/feb.png
+cover: ../../../../.gitbook/assets/feb.png
 coverY: 0
 ---
 
@@ -68,7 +68,7 @@ In this release, custom error pages were designed and developed to improve user 
 * **500 - Internal Server Error**: Displays an informative message with options to navigate back to the homepage or the previous page.
 * **"Something Went Wrong"**: A generic error page with redirection options to the homepage or the previous page.
 
-<div><figure><img src="../../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Somethings went wrong</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
 
 #### **Browser Tab Structure** **Release date :**  02/04/2025 **Version number : &#x20;**<mark style="color:purple;">**LMC-2.2.1.3**</mark>
 
@@ -99,7 +99,7 @@ Additional shipment movement details have been incorporated into the system to p
 
 The system no longer allows the deletion of a category that contains products. To improve user clarity, a warning modal is now displayed during the category deletion process if the category contains products, as shown in the example below.
 
-<figure><img src="../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/console.nevade.com_metadata_categories.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +109,7 @@ A **"Rejected"** tab has been added to the product pool view. Sellers can now vi
 
 
 
-<figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

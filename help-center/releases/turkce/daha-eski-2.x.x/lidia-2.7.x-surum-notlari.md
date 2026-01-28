@@ -2,7 +2,7 @@
 description: >-
   Bu ay boyunca Lidia platformunda fonksiyonellik ve kullanıcı deneyimini
   iyileştiren en son güncellemeleri ve geliştirmeleri keşfedin.
-cover: ../../../.gitbook/assets/1 (7).png
+cover: ../../../../.gitbook/assets/1 (7).png
 coverY: 0
 ---
 

@@ -2,7 +2,7 @@
 description: >-
   Bu ay boyunca Lidia platformunda fonksiyonellik ve kullanıcı deneyimini
   iyileştiren en son güncellemeleri ve geliştirmeleri keşfedin.
-cover: ../../../.gitbook/assets/6 (3).png
+cover: ../../../../.gitbook/assets/6 (3).png
 coverY: 0
 ---
 
@@ -65,7 +65,7 @@ Bu sürümde, kullanıcı deneyimini içinyaygın hata sayfaları tasarlandı ve
 * **500 - Dahili Sunucu Hatası**: Anlamlı bir mesaj ve ana sayfaya veya önceki sayfaya yönlendirme seçenekleri sunar.
 * **Oops!** : Genel bir hata sayfası, ana sayfaya veya önceki sayfaya yönlendirme seçenekleriyle.
 
-<div><figure><img src="../../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Sunucu Hatası</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Master (6).png" alt=""><figcaption><p>Sunucu Hatası</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Master (5).png" alt=""><figcaption><p>500 Error</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Master (4).png" alt=""><figcaption><p>404 Error</p></figcaption></figure></div>
 
 #### **Tarayıcı Sekmesi Yapısı İyileştirmeleri** Sürüm Tarihi: 02/04/2025 Sürüm Numarası: <mark style="color:purple;">LMC-2.2.1.3</mark>
 
@@ -93,7 +93,7 @@ Tarayıcı sekmesi yapısı, daha iyi bir navigasyon sağlamak amacıyla iyileş
 
 
 
-<figure><img src="../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/partner.nevade.com_metadata_datapoolitems_5966.png" alt=""><figcaption></figcaption></figure>
 
 
 

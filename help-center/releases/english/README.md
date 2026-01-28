@@ -8,13 +8,13 @@ On this page, you can find information about released versions and access the re
 
 #### Release Notes
 
-| Version         | Release Date  | Key Updates                                                                                               | Details                                     |
-| --------------- | ------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| **Lidia 2.2.2** | February 2025 | Catalog management Improvements, various bugfixes.                                                        | [Click here](lidia-2.2.x-release-notes.md)  |
-| **Lidia 2.2.1** | February 2025 | User experience enhancements, delivery managements and sales management updates.                          | [Click here](lidia-2.2.x-release-notes.md)  |
-| **Lidia 2.1.2** | January 2025  | After sales services, social abilities, user ser experience enhancements and delivery management updates. | [Click here](lidia-2.1.x-release-notes.md)  |
-| **Lidia 2.1.1** | January 2025  | User experience improvements, order and delivery management updates.                                      | [Click here](lidia-2.1.x-release-notes.md)  |
-| Lidia 1.2.x     | December 2024 | User experience improvements, order and delivery management updates. PIM new features.                    | [Click here](lidia-1.12.x-release-notes.md) |
+| Version         | Release Date  | Key Updates                                                                                               | Details                                                 |
+| --------------- | ------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **Lidia 2.2.2** | February 2025 | Catalog management Improvements, various bugfixes.                                                        | [Click here](older-2.x.x/lidia-2.2.x-release-notes.md)  |
+| **Lidia 2.2.1** | February 2025 | User experience enhancements, delivery managements and sales management updates.                          | [Click here](older-2.x.x/lidia-2.2.x-release-notes.md)  |
+| **Lidia 2.1.2** | January 2025  | After sales services, social abilities, user ser experience enhancements and delivery management updates. | [Click here](older-2.x.x/lidia-2.1.x-release-notes.md)  |
+| **Lidia 2.1.1** | January 2025  | User experience improvements, order and delivery management updates.                                      | [Click here](older-2.x.x/lidia-2.1.x-release-notes.md)  |
+| Lidia 1.2.x     | December 2024 | User experience improvements, order and delivery management updates. PIM new features.                    | [Click here](older-1.x.x/lidia-1.12.x-release-notes.md) |
 
 ***
 

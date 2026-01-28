@@ -4,12 +4,12 @@
 
 Bu sayfada, yayımlanan sürümler hakkında bilgiler bulabilir ve ilgili sürüm notlarına erişebilirsiniz. Her sürüm, sistem iyileştirmeleri, hata düzeltmeleri ve yeni özellikler içerir. İlgili sürüm notlarına aşağıdaki listeden erişebilirsiniz.
 
-| Sürüm           | Yayın Tarihi | Güncelleme Konuları                                                                                                 | Detay                                        |
-| --------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| **Lidia 2.2.2** | Şubat 2025   | Katalog yönetimi geliştirmeleri, çeşitli hataların giderilmesi.                                                     | [Buraya tıkla](lidia-2.2.x-surum-notlari.md) |
-| **Lidia 2.2.1** | Şubat 2025   | Kullanıcı deneyimi iyileştirmeleri, teslimat yönetimi ve satış yönetimi güncellemeleri.                             | [Buraya tıkla](lidia-2.2.x-surum-notlari.md) |
-| **Lidia 2.1.2** | Ocak 2025    | Satış sonrası hizmetler, sosyal özellikler, kullanıcı deneyimi iyileştirmeleri ve teslimat yönetimi güncellemeleri. | [Buraya tıkla](lidia-2.1.x-surum-notlari.md) |
-| **Lidia 2.1.1** | Ocak 2025    | Kullanıcı deneyimi iyileştirmeleri, sipariş ve teslimat yönetimi güncellemeleri.                                    | [Buraya tıkla](lidia-2.1.x-surum-notlari.md) |
+| Sürüm           | Yayın Tarihi | Güncelleme Konuları                                                                                                 | Detay                                                        |
+| --------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Lidia 2.2.2** | Şubat 2025   | Katalog yönetimi geliştirmeleri, çeşitli hataların giderilmesi.                                                     | [Buraya tıkla](daha-eski-2.x.x/lidia-2.2.x-surum-notlari.md) |
+| **Lidia 2.2.1** | Şubat 2025   | Kullanıcı deneyimi iyileştirmeleri, teslimat yönetimi ve satış yönetimi güncellemeleri.                             | [Buraya tıkla](daha-eski-2.x.x/lidia-2.2.x-surum-notlari.md) |
+| **Lidia 2.1.2** | Ocak 2025    | Satış sonrası hizmetler, sosyal özellikler, kullanıcı deneyimi iyileştirmeleri ve teslimat yönetimi güncellemeleri. | [Buraya tıkla](daha-eski-2.x.x/lidia-2.1.x-surum-notlari.md) |
+| **Lidia 2.1.1** | Ocak 2025    | Kullanıcı deneyimi iyileştirmeleri, sipariş ve teslimat yönetimi güncellemeleri.                                    | [Buraya tıkla](daha-eski-2.x.x/lidia-2.1.x-surum-notlari.md) |
 
 | Sürüm           | Güncelleme Konuları                             | Detay                                   |
 | --------------- | ----------------------------------------------- | --------------------------------------- |

@@ -2,7 +2,7 @@
 description: >-
   Discover the latest updates and improvements introduced this month, enhancing
   the functionality and user experience across the Lidia platform.
-cover: ../../../.gitbook/assets/3 (3).png
+cover: ../../../../.gitbook/assets/3 (3).png
 coverY: 0
 ---
 
