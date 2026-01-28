@@ -82,7 +82,8 @@ Lidia Console yöneticileri, satıcı başvurularını kontrol ederek onaylayabi
 
 #### Teslimat taşıma belgesinin sticker olarak çıkartılabilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LMC-3.1.3</mark>
 
-
+Bu geliştirme ile teslimatlara ait taşıma belgelerinin sticker formatında çıktı alınabilmesi sağlanmıştır.\
+Bu sayede depo ve lojistik operasyonlarında paketleme süreçleri hızlandırılmış, taşıma belgelerinin fiziksel olarak ürünlere eklenmesi daha pratik hale getirilmiştir. Özellikle yüksek hacimli gönderimlerde operasyonel verimlilik artırılmıştır.
 
 
 
@@ -94,7 +95,7 @@ Lidia Console yöneticileri, satıcı başvurularını kontrol ederek onaylayabi
 
 #### Satıcı yönetimi listeleme iyileştirmeleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.4</mark>
 
-
+Bu iyileştirme ile satıcı yönetimi listeleme ekranında, satıcı ekleme sürecinin hangi adımda kaldığına dair durum bilgisi eklenmiştir. Daha önce listeleme ekranında satıcıların onboarding sürecindeki ilerleme durumu görüntülenemediğinden, kullanıcılar süreç takibinde ek aksiyonlar almak zorunda kalıyordu. Yapılan bu iyileştirme sayesinde platform yöneticileri, satıcıların ekleme ve onay süreçlerinde hangi aşamada bulunduğunu doğrudan listeleme üzerinden izleyebilir ve satıcı yönetimi operasyonlarını daha şeffaf ve kontrollü bir şekilde yürütebilir.
 
 
 
@@ -102,19 +103,21 @@ Lidia Console yöneticileri, satıcı başvurularını kontrol ederek onaylayabi
 
 #### Tüm sayfaların yeni listeleme arayüzüne taşınması Sürüm Tarihi: 05/01/2026 - 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.1.2 - LMC-3.1.4</mark>
 
-Bu geliştirme kapsamında, PIM genelindeki tüm listeleme sayfaları yeni listeleme arayüzü altyapısına taşınmıştır.
+Bu geliştirme kapsamında, Lidia PIM ve Lidia Merchant Console genelindeki tüm listeleme sayfaları yeni listeleme arayüzü altyapısına taşınmıştır.
 
 
 
 #### Envanter listelemede fiyat aralığına göre filtreleme yeteneğinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.5</mark>
 
-
+Bu iyileştirme ile Lidia Console'daki envanter listeleme ekranına fiyat aralığına göre filtreleme yeteneği eklenmiştir. Kullanıcılar, belirledikleri minimum ve maksimum fiyat değerlerine göre ürünleri kolayca filtreleyerek ilgili envantere daha hızlı ulaşabilir. Bu geliştirme, özellikle geniş ürün listelerinde arama ve yönetim süreçlerini önemli ölçüde hızlandırır.
 
 
 
 #### Ödeme kurallarında yeni koşul seçeneklerinin eklenilmesi Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.6</mark>
 
-
+Bu geliştirme ile ödeme kuralları tanımlanırken kullanılabilecek koşul seçenekleri genişletilmiştir.\
+Ödeme kuralı oluşturma sürecine ürün ve varyant bazlı koşul tanımlama yetenekleri eklenmiştir.\
+Ayrıca ödeme kurallarında daha önce zorunlu olan kategori seçimi kaldırılmış, koşul alanı çoklu seçimi destekleyecek şekilde güncellenmiştir. Bu sayede platform yöneticileri, ödeme kurallarını ürün, varyant ve birden fazla kategori bazında daha esnek ve hedefli kurgulayabilir.
 
 
 
@@ -123,7 +126,7 @@ Bu geliştirme kapsamında, PIM genelindeki tüm listeleme sayfaları yeni liste
 {% hint style="info" %}
 ### **Hata Düzeltmeleri**
 
-* Core dönüşümünden kaynaklı Console stabilizasyonu için çeşitli hatalar giderilmiştir.
+* Core dönüşümünden kaynaklı PIM ve Merchant Console stabilizasyonu için çeşitli hatalar giderilmiştir.
 {% endhint %}
 
 
