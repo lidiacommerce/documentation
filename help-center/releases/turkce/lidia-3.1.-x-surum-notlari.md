@@ -45,13 +45,14 @@ Bu dönüşümle birlikte platformun temel çalışma mimarisi yeniden yapıland
 
 #### Varyant taşıma yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.1</mark>
 
-
+Bu geliştirme ile birlikte ürünlere ait varyantların farklı katalog yapıları veya havuzlar arasında taşınabilmesi desteklenmiştir. Lidia Console yöneticileri, mevcut varyant yapılarını yeniden oluşturmaya gerek kalmadan, ilgili ürün ve varyantları hedef kataloğa güvenli ve kontrollü bir şekilde aktarabilir. Taşıma işlemi, Lidia Console’da ürün ve varyant detaylarında yer alan ürün kodu değiştirme ekranları üzerinden adım adım gerçekleştirilir; bu sayede seçilen ürün veya varyant, başka bir ürün kodu altında konumlandırılarak katalog yapısı bozulmadan yönetilebilir.
 
 
 
 #### Ürün/Varyant güncellemelerini havuza geri besleme yeteneği Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.2</mark>
 
-
+Bu geliştirme ile ürün ve varyant bazında yapılan güncellemelerin, ilgili veri havuzuna geri beslenmesi sağlanmıştır. Lidia Console’da ürün ve varyant detaylarında yer alan havuzu geri besleme butonu üzerinden işlem tetiklenebilir; kısa süre içerisinde yapılan değişiklikler ilgili havuz verisine yansıtılır.\
+Bu sayede farklı kaynaklardan veya ekranlar üzerinden yapılan güncellemelerin havuz verisiyle senkron kalması mümkün hale gelmiş, veri tutarsızlıklarının önüne geçilmiştir. Kullanıcılar, tüm süreçlerde güncel ürün ve varyant bilgilerine tekil ve güvenilir bir veri kaynağı üzerinden erişebilir.
 
 
 
@@ -70,7 +71,8 @@ Bu geliştirme kapsamında, mevcut medya yöneticisi daha modern ve stabil bir p
 
 #### Satıcı yönetimi onaylama ve reddetme yetenekleri Sürüm Tarihi: 27/01/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.1.3</mark>
 
-
+Bu geliştirme ile satıcı yönetimi süreçlerine onaylama ve reddetme adımları eklenmiştir.\
+Lidia Console yöneticileri, satıcı başvurularını kontrol ederek onaylayabilir veya gerekçesiyle birlikte reddedebilir. Bu iyileştirme sayesinde satıcı onboarding süreçleri daha kontrollü, izlenebilir ve standart bir yapıya kavuşturulmuştur.
 
 
 
