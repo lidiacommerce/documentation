@@ -114,7 +114,7 @@ With this enhancement, the condition options available while defining payment ru
 {% hint style="info" %}
 ### Bug Fixes
 
-* Various bugs have been fixed for Lidia PIIM and Lidia Merchant Console stabilization caused by Core conversion.
+* Various bugs have been fixed for Lidia PIM and Lidia Merchant Console stabilization caused by Core conversion.
 {% endhint %}
 
 
