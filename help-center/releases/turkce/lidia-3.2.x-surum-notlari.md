@@ -56,13 +56,7 @@ Bu güncelleme ile birlikte uygulama artık İngilizce (EN), Türkçe (TR) ve Al
 
 Bu geliştirme kapsamında kullanıcı hesap güvenliğini artırmak amacıyla “Şifremi hatırla” özelliği kaldırılmış ve platform genelinde güçlü parola politikaları devreye alınmıştır. Artık şifreler en az 11 karakter uzunluğunda olacak şekilde, en az bir büyük harf, bir küçük harf, bir rakam ve bir özel karakter içerecek biçimde oluşturulmalıdır. Şifreler belirli aralıklarla periyodik olarak değiştirilir; bu süre varsayılan olarak 60 gün olarak tanımlanmış olup, sistem tarafından konfigüre edilebilir. Ayrıca son beş şifrenin yeniden kullanılması engellenmiş, üç başarısız giriş denemesi sonrasında hesabın geçici olarak 15 dakika kilitlenmesi kuralı eklenmiştir.
 
-### 💡 **Arama İyileştirmeleri**
-
-#### Fatura Listesi Arama Davranışına Yeni Opsiyonların Eklenmesi Sürüm Tarihi: 23/02/2026 Sürüm Numarası: <mark style="color:purple;">LC-3.2.1</mark>
-
-Bu geliştirme kapsamında Fatura Merkezi arama deneyimi genişletilmiştir. Kullanıcılar artık alan dropdown’ı üzerinden Sipariş ID, Teslimat ID veya İade Kodu/ID seçerek fatura araması gerçekleştirebilmektedir.
-
-Arama yalnızca geçerli bir alan seçildiğinde ve en az 3 karakter girildiğinde tetiklenir. Mevcut loading ve boş sonuç davranışları mevcut arama akışı içerisinde değişiklik olmaksızın çalışmaya devam etmektedir.
+###
 
 
 
