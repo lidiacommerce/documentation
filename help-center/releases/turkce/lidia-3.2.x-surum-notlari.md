@@ -62,7 +62,11 @@ Bu geliştirme kapsamında kullanıcı hesap güvenliğini artırmak amacıyla �
 
 Bu geliştirme kapsamında Fatura Merkezi arama deneyimi genişletilmiştir. Kullanıcılar artık alan dropdown’ı üzerinden Sipariş ID, Teslimat ID veya İade Kodu/ID seçerek fatura araması gerçekleştirebilmektedir.
 
-Arama yalnızca geçerli bir alan seçildiğinde ve en az 3 karakter girildiğinde tetiklenir. Mevcut loading ve boş sonuç davranışları mevcut arama akışı içerisinde değişiklik olmaksızın çalışmaya devam etmektedir.
+Arama yalnızca geçerli bir alan seçildiğinde ve en az 3 karakter girildiğinde tetiklenir. Mevcut yükleniyor ve boş sonuç davranışları mevcut arama akışı içerisinde değişiklik olmaksızın çalışmaya devam etmektedir.
+
+
+
+
 
 ***
 
