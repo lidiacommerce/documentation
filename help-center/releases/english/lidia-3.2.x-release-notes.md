@@ -69,7 +69,7 @@ As part of this enhancement, the Invoice Center search experience has been expan
 
 Search is triggered only when a valid field is selected and at least 3 characters are entered. Existing loading and empty-state behaviors continue to operate without any change within the current search flow.
 
-
+***
 
 {% hint style="info" %}
 ### Bug Fixes
