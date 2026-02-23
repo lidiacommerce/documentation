@@ -61,7 +61,13 @@ As part of this enhancement, the “Remember me” button has been removed to st
 
 
 
+### 💡 Search Enhancements
 
+#### **Addition of New Options to Invoice List Search Behavior** **Release Date:** 23/02/2026 **Release Number:** <mark style="color:purple;">LC-3.2.1</mark>
+
+As part of this enhancement, the Invoice Center search experience has been expanded. Users can now search invoices by selecting Order ID, Delivery ID, or Return Code/ID from the field dropdown.
+
+Search is triggered only when a valid field is selected and at least 3 characters are entered. Existing loading and empty-state behaviors continue to operate without any change within the current search flow.
 
 
 
