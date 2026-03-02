@@ -46,6 +46,7 @@
 * [Lidia PIM](products/lidia-pim/README.md)
   * [Overview](products/lidia-pim/overview.md)
   * [Quick Start Guide](products/lidia-pim/quick-start-guide.md)
+  * [🆕 Quick Start Guide](products/lidia-pim/quick-start-guide-1.md)
   * [PIM User Guide](products/lidia-pim/user-guide/README.md)
     * [Getting Started](products/lidia-pim/pim-user-guide/getting-started.md)
     * [Settings](products/lidia-pim/pim-user-guide/settings.md)
