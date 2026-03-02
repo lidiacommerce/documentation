@@ -120,13 +120,21 @@ Bu alanlar girilmeden alan kaydedilemez.
 **Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
 {% endhint %}
 
+
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/image (51).png" alt="Yeni Alan Ekle"><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
 * **Açıklama** alanı opsiyoneldir; alanın kullanım amacını ürün yükleyen kullanıcıya açıklamak için önerilir.
 * **Sıralama** alanı opsiyoneldir. Sayısal değer kabul eder ve alanın ekranda hangi sırada görüntüleneceğini belirler.
-* **Minimum Aralık Değeri / Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
+* **Minimum-Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
 * **Veri Tipi** alanı opsiyoneldir. Alanın sistemde hangi veri yapısına karşılık geleceğini tanımlamak için kullanılır.
 * **Nesne Alanı** opsiyoneldir. Alanın hangi nesne ile ilişkilendirileceğini tanımlamak için kullanılır.
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Yeni Alan Ekle</td><td><a href="../../.gitbook/assets/Ekran görüntüsü 2026-03-02 221811.png">Ekran görüntüsü 2026-03-02 221811.png</a></td></tr></tbody></table>
+{% endcolumn %}
+{% endcolumns %}
 
 #### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
 
