@@ -96,23 +96,45 @@ Veri şeması alanları, ürün kartında hangi bilgilerin toplanacağını beli
 {% endstep %}
 
 {% step %}
-**Açılan pencerede alan bilgilerini doldurun ve kaydedin.**
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**alan bilgilerini**</mark>**&#x20;doldurun ve kaydedin.**
 {% endstep %}
 {% endstepper %}
 
 Alan kaydedildiğinde veri şemasına eklenir ve ürün yapısında kullanılabilir hale gelir.
 
-> &#x20;**Not:** İhtiyaca göre aynı şemaya birden fazla alan ekleyebilirsiniz.
+> &#x20;**Not:** İhtiyaca göre aynı şemaya <mark style="background-color:purple;">birden fazla alan</mark> ekleyebilirsiniz.
 
-#### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
-
-Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanların veri tipleri ve kullanım amaçları aşağıda listelenmiştir.
+Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar ve bu alanların veri tipleri aşağıda listelenmiştir.
 
 <table><thead><tr><th width="155.1851806640625">Veri Tipi</th><th>Kullanım</th><th>Örnek Alan</th></tr></thead><tbody><tr><td><em>Text</em></td><td>Serbest metin girişi gereken alanlar</td><td><mark style="background-color:purple;">Alan Adı</mark>, Açıklama, Stil</td></tr><tr><td><em>Select</em></td><td>Önceden tanımlı seçeneklerden seçim yapılacak alanlar</td><td><mark style="background-color:purple;">Alan Türü</mark>, <mark style="background-color:purple;">Alan Değeri</mark>,  Alan (Eşleştirme), Veri Tipi, Nesne Alanı, Dil</td></tr><tr><td><em>Boolean</em></td><td>Açık/Kapalı veya Evet/Hayır kontrolü gereken alanlar</td><td>Liste Ayracı, Kilitli, Veri Tipi Eşleşsin, Zorunlu</td></tr><tr><td><em>Number</em></td><td>Sayısal değer girilmesi gereken alanlar</td><td>Sıralama, Minimum Aralık Değeri, Maksimum Aralık Değeri</td></tr></tbody></table>
 
-* Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde hangi yapı ile ilişkilendirileceğini belirler. Alan türünü, alanın ürün üzerindeki kullanım amacına göre seçmeniz önerilir.
+Yeni Alan Ekle penceresinde aşağıdaki alanların doldurulması gerekir:
+
+* <mark style="background-color:purple;">**Alan Adı**</mark> (_text_)
+* <mark style="background-color:purple;">**Alan Türü**</mark> (_select_)
+* <mark style="background-color:purple;">**Alan Değeri**</mark> (_select_)
+
+Bu alanlar girilmeden alan kaydedilemez.
+
+{% hint style="info" %}
+**Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
+{% endhint %}
+
+* **Açıklama** alanı opsiyoneldir; alanın kullanım amacını ürün yükleyen kullanıcıya açıklamak için önerilir.
+* **Sıralama** alanı opsiyoneldir. Sayısal değer kabul eder ve alanın ekranda hangi sırada görüntüleneceğini belirler.
+* **Minimum Aralık Değeri / Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
+* **Veri Tipi** alanı opsiyoneldir. Alanın sistemde hangi veri yapısına karşılık geleceğini tanımlamak için kullanılır.
+* **Nesne Alanı** opsiyoneldir. Alanın hangi nesne ile ilişkilendirileceğini tanımlamak için kullanılır.
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Yeni Alan Ekle</td><td><a href="../../.gitbook/assets/Ekran görüntüsü 2026-03-02 221811.png">Ekran görüntüsü 2026-03-02 221811.png</a></td></tr></tbody></table>
+
+#### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
+
+Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde hangi yapı ile ilişkilendirileceğini belirler. Alan türünü, alanın ürün üzerindeki kullanım amacına göre seçmeniz önerilir.
 
 <table><thead><tr><th width="160.55560302734375">Alan Türü</th><th>Açıklama</th></tr></thead><tbody><tr><td><strong>Özellik</strong></td><td>Fiyat veya stok değişimine neden olmayan ürün niteliklerini tutar. Örn. materyal, enerji sınıfı, teknik özellikler.</td></tr><tr><td><strong>Seçenek</strong></td><td>Fiyat veya stokta farklılık yaratan varyant bilgilerini tutar. Örn. renk, beden, depolama kapasitesi.</td></tr><tr><td><strong>Kategori</strong></td><td>Ürünün kategori yapısı ile ilişkilendirilmesini sağlar.</td></tr><tr><td><strong>Marka</strong></td><td>Ürünün marka bilgisi ile eşleşmesini sağlar.</td></tr><tr><td><strong>Referanslar</strong></td><td>Ürünün diğer kayıtlarla ilişkilendirilmesini sağlar.</td></tr></tbody></table>
+
+**Özellik** veya **Seçenek** için önceden tanımlanan değerler, **Alan Değeri** alanında aşağıdaki veri tiplerini destekler: _<mark style="color:purple;">Metin, Tam Sayı, Ondalık Sayı, Ölçü, Tekil Kod, Tek Satır Metin, Uzun Metin, Zengin Metin, Tekli Seçim, Çoklu Seçim, Liste, Var/Yok, Tarih, E-posta, Tel No, URL, Fiyat, Yüzde, Süre, Resim, Dosya</mark>_. Bu sayede alan yapısını ihtiyaçlarınıza göre esnek şekilde özelleştirebilirsiniz.
 
 {% hint style="info" %}
 Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde işlenmesi için önemlidir.
@@ -146,3 +168,14 @@ Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez 
 {% hint style="info" %}
 &#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.
 {% endhint %}
+
+#### :arrow\_forward: <mark style="color:$info;">Şema oluşturulmadan neden kategori/havuz oluşturulamaz?</mark>
+
+Veri şeması, ürün verisinin hangi alanlar üzerinden yönetileceğini belirleyen temel yapıdır. Kategori ve havuz yapıları, ürünleri bu şemaya göre organize eder ve işler.
+
+<mark style="background-color:purple;">Kategori teknik olarak veri şeması olmadan oluşturulabilir; ancak bu kategori taslak durumda kalır ve havuz oluşturma adımında seçilemez.</mark> Bunun nedeni, havuz ve ürün yapılarının çalışabilmesi için kategoriye bağlı bir veri şemasının bulunmasının gerekli olmasıdır.
+
+Veri şeması tanımlandığında kategori artık havuz oluşturma sürecinde kullanılabilir.
+
+> **Not:** Bu bağımlılık, ürün verisinin eksik veya tutarsız bir yapı ile ilerlemesini önlemek amacıyla uygulanır.
+
