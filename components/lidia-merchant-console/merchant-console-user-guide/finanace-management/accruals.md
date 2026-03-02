@@ -33,7 +33,7 @@ OTHER INTERRUPTIONS: Includes additional deduction items such as commissions, di
 
 This summary structure allows sellers to analyze their income–expense balance from a single screen.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 * #### **Periodic Accruals List**
 
@@ -69,7 +69,7 @@ The information shown on this screen includes:
 
 At the bottom of the accrual detail page, the Transaction Movements section lists all financial transactions affecting the accrual calculation. For each transaction, the following information is displayed: transaction date, description, and amount. This structure provides step-by-step visibility into how the accrual amount was calculated.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * [x] Accrual detail pages and lists can be documented in Excel format using the Export Data button. This feature can be used for accounting processes, reporting, and archiving purposes.
 

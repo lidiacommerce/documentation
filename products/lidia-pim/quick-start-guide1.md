@@ -5,7 +5,7 @@ description: >-
   hazırlanmıştır.
 ---
 
-# Quick Start Guide
+# 🆕 Quick Start Guide
 
 Ürün ekleme süreci belirli bir kurulum sırasını takip eder. Bu rehberde ilerledikçe:
 
@@ -108,19 +108,7 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 
 <table><thead><tr><th width="155.1851806640625">Veri Tipi</th><th>Kullanım</th><th>Örnek Alan</th></tr></thead><tbody><tr><td><em>Text</em></td><td>Serbest metin girişi gereken alanlar</td><td><mark style="background-color:purple;">Alan Adı</mark>, Açıklama, Stil</td></tr><tr><td><em>Select</em></td><td>Önceden tanımlı seçeneklerden seçim yapılacak alanlar</td><td><mark style="background-color:purple;">Alan Türü</mark>, <mark style="background-color:purple;">Alan Değeri</mark>,  Alan (Eşleştirme), Veri Tipi, Nesne Alanı, Dil</td></tr><tr><td><em>Boolean</em></td><td>Açık/Kapalı veya Evet/Hayır kontrolü gereken alanlar</td><td>Liste Ayracı, Kilitli, Veri Tipi Eşleşsin, Zorunlu</td></tr><tr><td><em>Number</em></td><td>Sayısal değer girilmesi gereken alanlar</td><td>Sıralama, Minimum Aralık Değeri, Maksimum Aralık Değeri</td></tr></tbody></table>
 
-Yeni Alan Ekle penceresinde aşağıdaki alanların doldurulması gerekir:
-
-* <mark style="background-color:purple;">**Alan Adı**</mark> (_text_)
-* <mark style="background-color:purple;">**Alan Türü**</mark> (_select_)
-* <mark style="background-color:purple;">**Alan Değeri**</mark> (_select_)
-
-Bu alanlar girilmeden alan kaydedilemez.
-
-{% hint style="info" %}
-**Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
-{% endhint %}
-
-
+***
 
 {% columns %}
 {% column %}
@@ -128,6 +116,13 @@ Bu alanlar girilmeden alan kaydedilemez.
 {% endcolumn %}
 
 {% column %}
+*   Yeni Alan Ekle penceresinde aşağıdaki alanların doldurulması gerekir:
+
+    * <mark style="background-color:purple;">**Alan Adı**</mark> (_text_)
+    * <mark style="background-color:purple;">**Alan Türü**</mark> (_select_)
+    * <mark style="background-color:purple;">**Alan Değeri**</mark> (_select_)
+
+    Bu alanlar girilmeden alan kaydedilemez.
 * **Açıklama** alanı opsiyoneldir; alanın kullanım amacını ürün yükleyen kullanıcıya açıklamak için önerilir.
 * **Sıralama** alanı opsiyoneldir. Sayısal değer kabul eder ve alanın ekranda hangi sırada görüntüleneceğini belirler.
 * **Minimum-Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
@@ -135,6 +130,10 @@ Bu alanlar girilmeden alan kaydedilemez.
 * **Nesne Alanı** opsiyoneldir. Alanın hangi nesne ile ilişkilendirileceğini tanımlamak için kullanılır.
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="info" %}
+**Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
+{% endhint %}
 
 #### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
 
@@ -173,6 +172,8 @@ Bir alanı zorunlu yapmak için:
 
 Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez veya import edilemez.
 
+<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 &#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.
 {% endhint %}
@@ -181,9 +182,11 @@ Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez 
 
 Veri şeması, ürün verisinin hangi alanlar üzerinden yönetileceğini belirleyen temel yapıdır. Kategori ve havuz yapıları, ürünleri bu şemaya göre organize eder ve işler.
 
-<mark style="background-color:purple;">Kategori teknik olarak veri şeması olmadan oluşturulabilir; ancak bu kategori taslak durumda kalır ve havuz oluşturma adımında seçilemez.</mark> Bunun nedeni, havuz ve ürün yapılarının çalışabilmesi için kategoriye bağlı bir veri şemasının bulunmasının gerekli olmasıdır.
+* [x] <mark style="background-color:purple;">Kategori teknik olarak veri şeması olmadan oluşturulabilir; ancak bu kategori taslak durumda kalır ve havuz oluşturma adımında seçilemez.</mark> Bunun nedeni, havuz ve ürün yapılarının çalışabilmesi için kategoriye bağlı bir veri şemasının bulunmasının gerekli olmasıdır.
 
 Veri şeması tanımlandığında kategori artık havuz oluşturma sürecinde kullanılabilir.
 
 > **Not:** Bu bağımlılık, ürün verisinin eksik veya tutarsız bir yapı ile ilerlemesini önlemek amacıyla uygulanır.
+
+#### :arrow\_forward: <mark style="color:$info;">Örnek senaryo</mark>
 
