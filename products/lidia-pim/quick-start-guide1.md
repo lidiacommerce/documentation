@@ -133,14 +133,16 @@ Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde i
 
 #### :arrow\_forward: <mark style="color:$info;">Zorunlu alan nasıl tanımlanır?</mark>
 
-Bir alanı zorunlu olarak işaretlediğinizde, ürün oluşturma ve import işlemleri sırasında bu alanın doldurulması gerekir. Bu sayede eksik veri girişi engellenir ve ürün verisi daha kontrollü ilerler.
+Bir alanı <mark style="background-color:purple;">zorunlu</mark> olarak işaretlediğinizde, ürün oluşturma ve import işlemleri sırasında bu alanın doldurulması gerekir. Bu sayede eksik veri girişi engellenir ve ürün verisi daha kontrollü ilerler.
 
 Bir alanı zorunlu yapmak için:
 
 1. Veri şeması detay sayfasında ilgili alanı ekleyin veya düzenleyin.
-2. Açılan pencerede **Zorunlu** seçeneğini aktif edin.
+2. Açılan pencerede <mark style="background-color:purple;">**Zorunlu**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">seçeneğini aktif</mark> edin.
 3. Değişiklikleri kaydedin.
 
 Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez veya import edilemez.
 
-⚠️ Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları minimum seviyede tutmanız önerilir.
+{% hint style="info" %}
+&#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.
+{% endhint %}
