@@ -32,10 +32,10 @@ Veri şeması, ürünleriniz için hangi bilgilerin tutulacağını ve bu bilgil
 
 Basitçe ifade etmek gerekirse veri şeması:
 
-* ürün kartında hangi alanların görüneceğini belirler
-* bu alanların veri tipini tanımlar
-* hangi bilgilerin zorunlu olduğunu kontrol eder
-* benzer ürünlerin aynı yapıda yönetilmesini sağlar
+* <mark style="background-color:purple;">ürün kartında hangi alanların görüneceğini belirler</mark>
+* <mark style="background-color:purple;">bu alanların veri tipini tanımlar</mark>
+* <mark style="background-color:purple;">hangi bilgilerin zorunlu olduğunu kontrol eder</mark>
+* <mark style="background-color:purple;">benzer ürünlerin aynı yapıda yönetilmesini sağlar</mark>
 
 Veri şeması sayesinde ürünleriniz rastgele değil, tanımlı ve kontrol edilen bir yapı içinde ilerler.
 
@@ -109,6 +109,8 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 <table><thead><tr><th width="155.1851806640625">Veri Tipi</th><th>Kullanım</th><th>Örnek Alan</th></tr></thead><tbody><tr><td><em>Text</em></td><td>Serbest metin girişi gereken alanlar</td><td><mark style="background-color:purple;">Alan Adı</mark>, Açıklama, Stil</td></tr><tr><td><em>Select</em></td><td>Önceden tanımlı seçeneklerden seçim yapılacak alanlar</td><td><mark style="background-color:purple;">Alan Türü</mark>, <mark style="background-color:purple;">Alan Değeri</mark>,  Alan (Eşleştirme), Veri Tipi, Nesne Alanı, Dil</td></tr><tr><td><em>Boolean</em></td><td>Açık/Kapalı veya Evet/Hayır kontrolü gereken alanlar</td><td>Liste Ayracı, Kilitli, Veri Tipi Eşleşsin, Zorunlu</td></tr><tr><td><em>Number</em></td><td>Sayısal değer girilmesi gereken alanlar</td><td>Sıralama, Minimum Aralık Değeri, Maksimum Aralık Değeri</td></tr></tbody></table>
 
 ***
+
+
 
 {% columns %}
 {% column %}
