@@ -52,3 +52,36 @@ Veri şeması sayesinde:
 * hatalı veya eksik veri girişleri önlenir
 * ürün grupları kategori bazında doğru şekilde yönetilir
 
+#### :arrow\_forward: <mark style="color:$info;">Veri Şeması Nasıl Oluşturulur?</mark>
+
+{% stepper %}
+{% step %}
+#### Veri şeması sayfasına gidin
+
+Şu yolu izleyin:
+
+**Ayarlar > Katalog > Ürün Aileleri**
+
+**Sonuç:** Veri şeması boş liste ekranı açılır.
+
+
+{% endstep %}
+
+{% step %}
+#### Yeni veri şeması oluşturun
+
+**Yeni Veri Şeması Ekle** butonuna tıklayın.
+
+Açılan pencerede:
+
+* **Veri Şeması Türü** alanı varsayılan olarak _Ürün_ gelir
+* **Şema Adı** alanını doldurun
+* **Eşleştirme Anahtarı** alanını doldurun
+
+Kaydet butonuna tıklayın.
+
+**Sonuç:** Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.
+
+
+{% endstep %}
+{% endstepper %}
