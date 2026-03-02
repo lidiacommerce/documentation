@@ -58,30 +58,48 @@ Veri şeması sayesinde:
 {% step %}
 #### Veri şeması sayfasına gidin
 
-Şu yolu izleyin:
-
-**Ayarlar > Katalog > Ürün Aileleri**
-
-**Sonuç:** Veri şeması boş liste ekranı açılır.
-
-
+Şu yolu izleyin:\
+<mark style="background-color:purple;">**Ayarlar > Katalog > Ürün Aileleri**</mark>\
+Sonuç: Veri şeması boş liste ekranı açılır.
 {% endstep %}
 
 {% step %}
 #### Yeni veri şeması oluşturun
 
-**Yeni Veri Şeması Ekle** butonuna tıklayın.
-
+**Yeni Veri Şeması Ekle** butonuna tıklayın.\
 Açılan pencerede:
 
-* **Veri Şeması Türü** alanı varsayılan olarak _Ürün_ gelir
-* **Şema Adı** alanını doldurun
-* **Eşleştirme Anahtarı** alanını doldurun
+* <mark style="background-color:purple;">**Veri Şeması Türü**</mark> alanı <mark style="background-color:purple;">varsayılan olarak</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">Ürün</mark>_ gelir
+* <mark style="background-color:purple;">**Şema Adı**</mark> alanını doldurun
+* <mark style="background-color:purple;">**Eşleştirme Anahtarı**</mark> alanını doldurun
 
-Kaydet butonuna tıklayın.
-
-**Sonuç:** Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.
-
-
+Kaydet butonuna tıklayın.\
+Sonuç: Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.
 {% endstep %}
 {% endstepper %}
+
+#### :arrow\_forward: <mark style="color:$info;">Veri Şeması Alanları Nasıl Eklenir?</mark>
+
+Veri şeması alanları, ürün kartında hangi bilgilerin toplanacağını belirleyen yapı taşlarıdır.&#x20;
+
+{% stepper %}
+{% step %}
+**Oluşturduğunuz&#x20;**<mark style="background-color:purple;">**veri şemasının detay**</mark>**&#x20;sayfasını açın.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Veri Şeması Alanları**</mark>**&#x20;sekmesine gidin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Yeni Alan Ekle**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
+
+{% step %}
+**Açılan pencerede alan bilgilerini doldurun ve kaydedin.**
+{% endstep %}
+{% endstepper %}
+
+Alan kaydedildiğinde veri şemasına eklenir ve ürün yapısında kullanılabilir hale gelir.
+
+> &#x20;İhtiyaca göre aynı şemaya birden fazla alan ekleyebilirsiniz.
