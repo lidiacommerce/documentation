@@ -66,7 +66,7 @@ Sonuç: Veri şeması boş liste ekranı açılır.
 {% step %}
 #### Yeni veri şeması oluşturun
 
-**Yeni Veri Şeması Ekle** butonuna tıklayın.\
+<mark style="background-color:purple;">**Yeni Veri Şeması Ekle**</mark> butonuna tıklayın.\
 Açılan pencerede:
 
 * <mark style="background-color:purple;">**Veri Şeması Türü**</mark> alanı <mark style="background-color:purple;">varsayılan olarak</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">Ürün</mark>_ gelir
