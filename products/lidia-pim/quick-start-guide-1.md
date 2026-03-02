@@ -1,4 +1,4 @@
-# 🆕 Quick Start Guide
+# Quick Start Guide
 
 Lidia PIM’e hoş geldiniz. Bu rehber, ilk ürününüzü sisteme sorunsuz şekilde ekleyebilmeniz için gerekli temel adımlarda size yol göstermek amacıyla hazırlanmıştır.
 
@@ -11,11 +11,11 @@ Lidia PIM’e hoş geldiniz. Bu rehber, ilk ürününüzü sisteme sorunsuz şek
 
 En sorunsuz deneyim için adımları sırayla tamamlamanız önerilir.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Başlamadan önce**
 
 Gerekli kullanıcı yetkilerine sahip olduğunuzdan emin olun.
 {% endhint %}
 
-test
+## :rocket:<mark style="color:$primary;background-color:purple;">Veri modelinizi inşa edin</mark>
 
