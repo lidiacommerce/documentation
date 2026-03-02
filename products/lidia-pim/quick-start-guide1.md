@@ -102,4 +102,19 @@ Veri şeması alanları, ürün kartında hangi bilgilerin toplanacağını beli
 
 Alan kaydedildiğinde veri şemasına eklenir ve ürün yapısında kullanılabilir hale gelir.
 
-> &#x20;İhtiyaca göre aynı şemaya birden fazla alan ekleyebilirsiniz.
+> &#x20;**Not:** İhtiyaca göre aynı şemaya birden fazla alan ekleyebilirsiniz.
+
+#### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
+
+Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanların veri tipleri ve kullanım amaçları aşağıda listelenmiştir.
+
+<table><thead><tr><th width="155.1851806640625">Veri Tipi</th><th>Kullanım</th><th>Örnek Alan</th></tr></thead><tbody><tr><td><em>Text</em></td><td>Serbest metin girişi gereken alanlar</td><td><mark style="background-color:purple;">Alan Adı</mark>, Açıklama, Stil</td></tr><tr><td><em>Select</em></td><td>Önceden tanımlı seçeneklerden seçim yapılacak alanlar</td><td><mark style="background-color:purple;">Alan Türü</mark>, <mark style="background-color:purple;">Alan Değeri</mark>,  Alan (Eşleştirme), Veri Tipi, Nesne Alanı, Dil</td></tr><tr><td><em>Boolean</em></td><td>Açık/Kapalı veya Evet/Hayır kontrolü gereken alanlar</td><td>Liste Ayracı, Kilitli, Veri Tipi Eşleşsin, Zorunlu</td></tr><tr><td><em>Number</em></td><td>Sayısal değer girilmesi gereken alanlar</td><td>Sıralama, Minimum Aralık Değeri, Maksimum Aralık Değeri</td></tr></tbody></table>
+
+* Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde hangi yapı ile ilişkilendirileceğini belirler. Alan türünü, alanın ürün üzerindeki kullanım amacına göre seçmeniz önerilir.
+
+<table><thead><tr><th width="160.55560302734375">Alan Türü</th><th>Açıklama</th></tr></thead><tbody><tr><td><strong>Özellik</strong></td><td>Fiyat veya stok değişimine neden olmayan ürün niteliklerini tutar. Örn. materyal, enerji sınıfı, teknik özellikler.</td></tr><tr><td><strong>Seçenek</strong></td><td>Fiyat veya stokta farklılık yaratan varyant bilgilerini tutar. Örn. renk, beden, depolama kapasitesi.</td></tr><tr><td><strong>Kategori</strong></td><td>Ürünün kategori yapısı ile ilişkilendirilmesini sağlar.</td></tr><tr><td><strong>Marka</strong></td><td>Ürünün marka bilgisi ile eşleşmesini sağlar.</td></tr><tr><td><strong>Referanslar</strong></td><td>Ürünün diğer kayıtlarla ilişkilendirilmesini sağlar.</td></tr></tbody></table>
+
+{% hint style="info" %}
+Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde işlenmesi için önemlidir.
+{% endhint %}
+
