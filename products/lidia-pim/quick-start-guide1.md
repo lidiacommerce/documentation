@@ -1,6 +1,11 @@
-# Quick Start Guide
+---
+description: >-
+  Lidia PIM’e hoş geldiniz. Bu rehber, ilk ürününüzü sisteme sorunsuz şekilde
+  ekleyebilmeniz için gerekli temel adımlarda size yol göstermek amacıyla
+  hazırlanmıştır.
+---
 
-Lidia PIM’e hoş geldiniz. Bu rehber, ilk ürününüzü sisteme sorunsuz şekilde ekleyebilmeniz için gerekli temel adımlarda size yol göstermek amacıyla hazırlanmıştır.
+# Quick Start Guide
 
 Ürün ekleme süreci belirli bir kurulum sırasını takip eder. Bu rehberde ilerledikçe:
 
@@ -34,11 +39,16 @@ Basitçe ifade etmek gerekirse veri şeması:
 
 Veri şeması sayesinde ürünleriniz rastgele değil, tanımlı ve kontrol edilen bir yapı içinde ilerler.
 
-<details open>
+> **Örneğin** benzer ürünler için her seferinde yeni alanlar tanımlayıp yeni kural setleri oluşturmak yerine, oluşturduğunuz televizyon veri şemasını hem televizyon hem de HD televizyon ürünleri için kullanabilirsiniz. İhtiyaç duyduğunuz durumlarda ise bu ürün grupları için ayrı veri şemaları tanımlayarak her birini kendi alan ve kural yapısıyla yönetebilirsiniz.&#x20;
 
-<summary>Örneğin benzer ürünler için her seferinde yeni alanlar tanımlayıp yeni kural setleri oluşturmak yerine, oluşturduğunuz televizyon veri şemasını hem televizyon hem de HD televizyon ürünleri için kullanabilirsiniz. İhtiyaç duyduğunuz durumlarda ise bu ürün grupları için ayrı veri şemaları tanımlayarak her birini kendi alan ve kural yapısıyla yönetebilirsiniz</summary>
+#### :arrow\_forward: <mark style="color:$info;">Neden Gereklidir?</mark>
 
+Lidia PIM’de ürün verisinin sağlıklı ilerleyebilmesi için kategori, havuz ve ürün yapıları veri şemasına bağlı çalışır.
 
+Veri şeması sayesinde:
 
-</details>
+* ürün verisi standart bir yapıda toplanır
+* zorunlu alanlar kontrol altına alınır
+* hatalı veya eksik veri girişleri önlenir
+* ürün grupları kategori bazında doğru şekilde yönetilir
 
