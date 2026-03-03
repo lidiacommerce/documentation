@@ -114,13 +114,13 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 
 {% columns %}
 {% column %}
-## Yeni Alan Ekle
+## <mark style="background-color:purple;">Yeni Alan Ekle</mark>
 
 Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını ve yayına nasıl taşınacağını belirleyen alanların tanımlandığı ekrandır.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### 1. Temel Bilgiler
+#### <mark style="background-color:purple;">1. Temel Bilgiler</mark>
 
 * **Alan Adı** _(Zorunlu)_\
   Oluşturulan alanın sistemde ve ürün ekranlarında görünecek adıdır.
@@ -157,7 +157,7 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
   Alan için ön yüzde veya arayüzde uygulanacak özel stil bilgisidir.\
   Gelişmiş kullanım senaryoları için opsiyoneldir.
 
-#### 2. Validasyon Bilgileri
+#### <mark style="background-color:purple;">2. Validasyon Bilgileri</mark>
 
 * **Veri Tipi Eşleşsin**\
   Alan için tanımlanan veri tipi ile girilen değerin uyumlu olmasını zorunlu kılar.
@@ -174,7 +174,7 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 
 
 
-#### 3. Eşleştirme (Mapping) Bilgileri
+#### <mark style="background-color:purple;">3. Eşleştirme (Mapping) Bilgileri</mark>
 
 Bu bölüm, oluşturulan alanın değerinin sistemde hangi nesneye ve o nesnenin hangi alanına yazılacağını belirler.\
 Alan, Veri Tipi ve Nesne Alanı bir bütün olarak değerlendirilmelidir.
@@ -212,7 +212,7 @@ Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde
 
 <table><thead><tr><th width="160.55560302734375">Alan Türü</th><th>Açıklama</th></tr></thead><tbody><tr><td><strong>Özellik</strong></td><td>Fiyat veya stok değişimine neden olmayan ürün niteliklerini tutar. Örn. materyal, enerji sınıfı, teknik özellikler.</td></tr><tr><td><strong>Seçenek</strong></td><td>Fiyat veya stokta farklılık yaratan varyant bilgilerini tutar. Örn. renk, beden, depolama kapasitesi.</td></tr><tr><td><strong>Kategori</strong></td><td>Ürünün kategori yapısı ile ilişkilendirilmesini sağlar.</td></tr><tr><td><strong>Marka</strong></td><td>Ürünün marka bilgisi ile eşleşmesini sağlar.</td></tr><tr><td><strong>Referanslar</strong></td><td>Ürünün diğer kayıtlarla ilişkilendirilmesini sağlar.</td></tr></tbody></table>
 
-**Özellik** veya **Seçenek** için önceden tanımlanan değerler, **Alan Değeri** alanında aşağıdaki veri tiplerini destekler: _<mark style="color:purple;">Metin, Tam Sayı, Ondalık Sayı, Ölçü, Tekil Kod, Tek Satır Metin, Uzun Metin, Zengin Metin, Tekli Seçim, Çoklu Seçim, Liste, Var/Yok, Tarih, E-posta, Tel No, URL, Fiyat, Yüzde, Süre, Resim, Dosya</mark>_. Bu sayede alan yapısını ihtiyaçlarınıza göre esnek şekilde özelleştirebilirsiniz.
+**Özellik** veya **Seçenek** için önceden tanımlanan değerler, **Alan Değeri** alanında aşağıdaki veri tiplerini destekler: _<mark style="color:purple;">Metin, Tam Sayı, Ondalık Sayı, Ölçü, Tekil Kod, Tek Satır Metin, Uzun Metin, Zengin Metin, Tekli Seçim, Çoklu Seçim, Liste, Var/Yok, Tarih, E-posta, Tel No, URL, Fiyat, Yüzde, Süre</mark>_. Bu sayede alan yapısını ihtiyaçlarınıza göre esnek şekilde özelleştirebilirsiniz.
 
 {% hint style="info" %}
 Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde işlenmesi için önemlidir.
