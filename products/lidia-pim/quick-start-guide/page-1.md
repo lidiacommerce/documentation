@@ -40,3 +40,37 @@ Televizyon örneğinden devam edelim, önce bir özellik tanımlayalım ve veri 
 Bu sayede ürün oluşturma sırasında kullanıcı yalnızca tanımladığınız değerler arasından seçim yapabilir. Yeni değer girilemez; yalnızca mevcut seçenekler kullanılabilir.
 
 Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün yapısı oluşturursunuz.
+
+
+
+* **Özellik Grubu Nedir?**
+
+**Özellik grubu**, benzer özellikleri bir arada düzenlemek için kullanılır. Özellik grupları, PIM kullanıcısı olarak ürün verinizi daha düzenli yönetmenize yardımcı olur. İlgili özellikleri aynı başlık altında toplayarak hem ürün girişini hem de veri yönetimini kolaylaştırabilirsiniz.
+
+> Örneğin televizyon ürünü için **Ekran Boyutu, Çözünürlük ve Panel Teknolojisi** gibi özellikleri oluşturduysanız, bu özellikleri **Ekran Özellikleri** adlı bir özellik grubu altında toplayın. Bu şekilde ilgili özellikleri aynı başlık altında düzenleyebilir ve ürün kartında daha düzenli bir yapı oluşturabilirsiniz.
+
+
+
+* **Özellik Nasıl Oluşturulur?**
+
+{% stepper %}
+{% step %}
+**Ayarlar > Katalog > Özellikler sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**Özellik Ekle butonuna tıklayın.**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan modalda:</p><ul><li><strong>Özellik Adı</strong> → Zorunlu</li><li><strong>Özellik Kodu</strong> → Zorunlu</li><li><strong>Özellik Grubu</strong> → Opsiyonel</li></ul><p>Bu alanlar doldurulduktan sonra <strong>Devam Et</strong> butonuna tıklayın.</p><p>Özellik oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 003712.png">Ekran görüntüsü 2026-03-04 003712.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+**Detay sayfasında ilgili özelleştirmeleri yapın.**
+
+* Veri Tipi seçilir
+* Gerekirse özellik grubu bağlanır
+* Seçim tipindeyse değerler eklenir
+
+Kaydedin.
+{% endstep %}
+{% endstepper %}
