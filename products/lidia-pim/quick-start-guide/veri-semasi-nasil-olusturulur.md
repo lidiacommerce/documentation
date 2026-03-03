@@ -3,9 +3,10 @@ description: >-
   Lidia PIM’e hoş geldiniz. Bu rehber, ilk ürününüzü sisteme sorunsuz şekilde
   ekleyebilmeniz için gerekli temel adımlarda size yol göstermek amacıyla
   hazırlanmıştır.
+icon: list-radio
 ---
 
-# 🆕 Quick Start Guide
+# Veri şeması nasıl oluşturulur?
 
 Ürün ekleme süreci belirli bir kurulum sırasını takip eder. Bu rehberde ilerledikçe:
 
