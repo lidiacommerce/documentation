@@ -114,10 +114,97 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (51).png" alt="Yeni Alan Ekle"><figcaption></figcaption></figure>
+## Yeni Alan Ekle
+
+Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını ve yayına nasıl taşınacağını belirleyen alanların tanımlandığı ekrandır.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 1. Temel Bilgiler
+
+* **Alan Adı** _(Zorunlu)_\
+  Oluşturulan alanın sistemde ve ürün ekranlarında görünecek adıdır.
+* **Açıklama** _(Opsiyonel)_\
+  Alanının ne amaçla kullanıldığını açıklamak için kullanılır.
+* **Alan Türü** _(Zorunlu)_\
+  Alanının sistemde nasıl davranacağını belirler.\
+  Alan türü değerleri:\
+  &#xNAN;_-özellik_\
+  _-seçenek_\
+  _-kategori_\
+  _-marka_\
+  _-referanslar_
+* **Alan Değeri** _(Koşullu – Zorunlu)_\
+  Yalnızca Alan Türü = Özellik veya Seçenek olduğunda görüntülenir.\
+  Bu alan, alanın hangi değer setiyle çalışacağını belirler.
+* **Liste Ayracı** _(Opsiyonel)_\
+  Bu alanın ön yüzde ürün listeleme ekranlarında ayıraç olarak kullanılıp kullanılmayacağını belirler. Açık olduğunda, alan değeri farklı olan ürünler listelemede ayrı itemlar olarak gösterilebilir.
+
+> Örnek:\
+> iPhone 12 – Siyah / Beyaz / Mavi renkleri listelemede ayrı ürünler gibi gösterilebilir.
+
+* **Kilitli** _(Opsiyonel)_\
+  Alan kilitlendiğinde, ürün ekranlarında düzenlenemez hale gelir.
+* **Sıralama** _(Opsiyonel)_\
+  Alanların ürün ekranında hangi sırayla gösterileceğini belirler.\
+  Sayısal bir değer alır. Küçük değerler üstte gösterilir.
+* **Stil** _(Opsiyonel)_\
+  Alan için ön yüzde veya arayüzde uygulanacak özel stil bilgisidir.\
+  Gelişmiş kullanım senaryoları için opsiyoneldir.
 {% endcolumn %}
 
 {% column %}
+
+
+#### 2. Validasyon Bilgileri
+
+* **Veri Tipi Eşleşsin**\
+  Alan için tanımlanan veri tipi ile girilen değerin uyumlu olmasını zorunlu kılar.
+
+> Örnek:\
+> Sayı beklenen bir alana metin girilmesini engeller.
+
+* **Zorunlu**\
+  Bu alan işaretlendiğinde, ürün veya varyant yayına alınmadan önce bu alanın doldurulması gerekir.
+* **Minimum Aralık Değeri** _(Opsiyonel)_\
+  Sayısal alanlar için girilebilecek en düşük değeri belirler.
+* **Maksimum Aralık Değeri** _(Opsiyonel)_\
+  Sayısal alanlar için girilebilecek en yüksek değeri belirler.
+
+
+
+#### 3. Eşleştirme (Mapping) Bilgileri
+
+Bu bölüm, oluşturulan alanın değerinin sistemde hangi nesneye ve o nesnenin hangi alanına yazılacağını belirler.\
+Alan, Veri Tipi ve Nesne Alanı bir bütün olarak değerlendirilmelidir.
+
+* **Alan**\
+  Verinin hangi yapı üzerinden saklanacağını belirtir.\
+  Genellikle 'Meta Verileri' olarak gelir.
+*   **Veri Tipi**
+
+    Veri Tipi, girilen değerin sistemde hangi nesneye ait olduğunu belirtir.
+
+_Veri tipi değerleri:_\
+&#xNAN;_\[ Ürün Dokümanı ] \[ Ürün Doküman Etiketi ] \[ Kategori ] \[ Kategori Boyutu ] \[ Kategori Filtresi ]_ \
+_\[ Kategori Filtre Seçeneği ] \[ Kategori Görseli ] \[ Kategori Ürünleri] \[ Kategori Özelliği ] \[ Kategori Etiketi ] \[ Kategori Tercümesi ] \[ Kategori Varyant Listesi ] \[ Marka ] \[ Marka Filtresi ] \[ Marka Filtre Seçeneği ] \[ Marka Görseli ] \[ Marka Ürünleri ] \[ Marka Özelliği ] \[ Marka Etiketi ] \[ Marka Tercümesi ] \[ Marka Varyant Listesi ] \[ Para Birimi ] \[ Para Birimi Tercümesi ] \[ Özel Liste Dokümanı ] \[ Özel Liste Doküman Görseli ] \[ Veri Akışı ] \[ Veri Akış Kategorisi ]_ \
+_\[ Veri Akış Özel Listesi ] \[ Veri Akış Satış Etkinliği ] \[ Veri Akış Markası ] \[ Veri Havuzu ] \[ Veri Havuzu Etiketi ] \[ Veri Havuzu Özelliği ] \[ Veri Havuzu Ögesi ] \[ Veri Havuzu Öge Etiketi ] \[ Veri Havuzu Öge Alan Değeri ] \[ Veri Şeması ] \[ Veri Şema Kategorisi ] \[ Veri Şema Alanı ]_ \
+_\[ Veri Şema Şablonu ] \[ Ambalaj ]_ \
+_\[ Ambalaj Boyutu ] \[ Fiyat ] \[ Fiyat Listesi ] \[ Satış Etkinliği ] \[ Satış Etkinlik Etiketi ] \[ Satış Etkinlik Özelliği ] \[ Satış Etkinlik Ögesi ] \[ Varyant ] \[ Varyant Etiketi ]_ \
+_\[ Varyant Özelliği ] \[ Varyant Tercümesi ] \[ Varyant Özellik Tercümesi ] \[ Varyant Seçenek Değeri ] \[ Garanti ]_
+
+*   **Nesne Alanı**
+
+    Seçilen veri tipinin içindeki hedef alanı belirtir.
+
+    Örnek: Name, TaxRate, ParentId, OptionValues, IntegrationCode
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+
+
 *   Yeni Alan Ekle penceresinde aşağıdaki alanların doldurulması gerekir:
 
     * <mark style="background-color:purple;">**Alan Adı**</mark> (_text_)
@@ -130,8 +217,6 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 * **Minimum-Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
 * **Veri Tipi** alanı opsiyoneldir. Alanın sistemde hangi veri yapısına karşılık geleceğini tanımlamak için kullanılır.
 * **Nesne Alanı** opsiyoneldir. Alanın hangi nesne ile ilişkilendirileceğini tanımlamak için kullanılır.
-{% endcolumn %}
-{% endcolumns %}
 
 {% hint style="info" %}
 **Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
@@ -174,7 +259,7 @@ Bir alanı zorunlu yapmak için:
 
 Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez veya import edilemez.
 
-<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 &#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.
@@ -190,5 +275,21 @@ Veri şeması tanımlandığında kategori artık havuz oluşturma sürecinde ku
 
 > **Not:** Bu bağımlılık, ürün verisinin eksik veya tutarsız bir yapı ile ilerlemesini önlemek amacıyla uygulanır.
 
-#### :arrow\_forward: <mark style="color:$info;">Örnek senaryo</mark>
+#### :arrow\_forward: <mark style="color:$info;">Örnek Senaryo: Televizyon Ürünü için Veri Şeması Oluşturma</mark>
+
+Televizyon kategorisindeki ürünlerinizi <mark style="background-color:purple;">belirli bir kural seti ile, tutarlı ve kontrollü</mark> bir yapıda yayınlamak istediğinizi düşünün.
+
+Bu yapılandırmayı sağlayabilmek için ilk adım, televizyon ürünlerine özel bir veri şeması oluşturmaktır.
+
+1.**Ayarlar > Katalog > Ürün Aileleri** yolunu izleyin.\
+2.**Yeni Veri Şeması Ekle** butonuna tıklayın.\
+3.Açılan pencerede:
+
+* **Veri Şeması Türü:** Ürün
+* **Şema Adı:** Televizyon
+* **Eşleştirme Anahtarı:** tv
+
+Kaydet butonuna tıklayın.
+
+Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.<br>
 

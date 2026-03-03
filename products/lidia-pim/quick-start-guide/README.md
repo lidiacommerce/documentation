@@ -31,7 +31,7 @@ Once logged in, you will be redirected to the homepage.
 
 ### Homepage
 
-<figure><img src="../../.gitbook/assets/dev-pim.lidiacommerce.com_ (2).png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dev-pim.lidiacommerce.com_ (2).png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
 
 ## Bulk Product Addition
 
