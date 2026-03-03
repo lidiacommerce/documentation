@@ -134,11 +134,7 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 * **Alan Türü** _(Zorunlu)_\
   Alanının sistemde nasıl davranacağını belirler.\
   Alan türü değerleri:\
-  &#xNAN;_-özellik_\
-  _-seçenek_\
-  _-kategori_\
-  _-marka_\
-  _-referanslar_
+  ![](<../../../.gitbook/assets/image (53).png>)
 * **Alan Değeri** _(Koşullu – Zorunlu)_\
   Yalnızca Alan Türü = Özellik veya Seçenek olduğunda görüntülenir.\
   Bu alan, alanın hangi değer setiyle çalışacağını belirler.
@@ -203,7 +199,7 @@ _\[ Varyant Özelliği ] \[ Varyant Tercümesi ] \[ Varyant Özellik Tercümesi 
 
     Seçilen veri tipinin içindeki hedef alanı belirtir.
 
-    Örnek: Name, TaxRate, ParentId, OptionValues, IntegrationCode
+    Örnek: Name, TaxRate, ParentId, OptionValues, IntegrationCode, ShortDescription, LongDescription, ProductId, Type, Unit, Link, Options
 
 
 {% endcolumn %}
