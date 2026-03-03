@@ -78,6 +78,11 @@ Sonuç: Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.
 {% endstep %}
 {% endstepper %}
 
+> **Eşleştirme Anahtarı**, Lidia PIM ile Lidia Console’daki veri şemaları arasında alanların birbiriyle bağlanmasını sağlar.
+>
+> Müşteri hem **Lidia PIM** hem de **Lidia Console** kullanıyorsa, iki tarafta da ayrı veri şemaları bulunur.\
+> Bu alan, PIM’de oluşturulan bir alanın Console’daki hangi alanla eşleşeceğini tanımlar.
+
 #### :arrow\_forward: <mark style="color:$info;">Veri Şeması Alanları Nasıl Eklenir?</mark>
 
 Veri şeması alanları, ürün kartında hangi bilgilerin toplanacağını belirleyen yapı taşlarıdır.&#x20;
@@ -165,7 +170,7 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 > Örnek:\
 > Sayı beklenen bir alana metin girilmesini engeller.
 
-* **Zorunlu**\
+* **Zorunlu** _(Opsiyonel)_\
   Bu alan işaretlendiğinde, ürün veya varyant yayına alınmadan önce bu alanın doldurulması gerekir.
 * **Minimum Aralık Değeri** _(Opsiyonel)_\
   Sayısal alanlar için girilebilecek en düşük değeri belirler.
@@ -179,10 +184,10 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 Bu bölüm, oluşturulan alanın değerinin sistemde hangi nesneye ve o nesnenin hangi alanına yazılacağını belirler.\
 Alan, Veri Tipi ve Nesne Alanı bir bütün olarak değerlendirilmelidir.
 
-* **Alan**\
+* **Alan** _(Opsiyonel)_\
   Verinin hangi yapı üzerinden saklanacağını belirtir.\
   Genellikle 'Meta Verileri' olarak gelir.
-*   **Veri Tipi**
+*   **Veri Tipi** _(Opsiyonel)_
 
     Veri Tipi, girilen değerin sistemde hangi nesneye ait olduğunu belirtir.
 
@@ -194,7 +199,7 @@ _\[ Veri Şema Şablonu ] \[ Ambalaj ]_ \
 _\[ Ambalaj Boyutu ] \[ Fiyat ] \[ Fiyat Listesi ] \[ Satış Etkinliği ] \[ Satış Etkinlik Etiketi ] \[ Satış Etkinlik Özelliği ] \[ Satış Etkinlik Ögesi ] \[ Varyant ] \[ Varyant Etiketi ]_ \
 _\[ Varyant Özelliği ] \[ Varyant Tercümesi ] \[ Varyant Özellik Tercümesi ] \[ Varyant Seçenek Değeri ] \[ Garanti ]_
 
-*   **Nesne Alanı**
+*   **Nesne Alanı** _(Opsiyonel)_
 
     Seçilen veri tipinin içindeki hedef alanı belirtir.
 
@@ -265,15 +270,27 @@ Televizyon kategorisindeki ürünlerinizi <mark style="background-color:purple;"
 
 Bu yapılandırmayı sağlayabilmek için ilk adım, televizyon ürünlerine özel bir veri şeması oluşturmaktır.
 
-1.**Ayarlar > Katalog > Ürün Aileleri** yolunu izleyin.\
-2.**Yeni Veri Şeması Ekle** butonuna tıklayın.\
-3.Açılan pencerede:
+{% stepper %}
+{% step %}
+**Ayarlar > Katalog > Ürün Aileleri yolunu izleyin.**
+{% endstep %}
 
-* **Veri Şeması Türü:** Ürün
-* **Şema Adı:** Televizyon
-* **Eşleştirme Anahtarı:** tv
+{% step %}
+**Yeni Veri Şeması Ekle butonuna tıklayın.**
 
-Kaydet butonuna tıklayın.
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan pencerede:<br><strong>Veri Şeması Türü:</strong> Ürün<br><strong>Şema Adı:</strong> Televizyon<br><strong>Eşleştirme Anahtarı:</strong> TV</p><p>Kaydet butonuna tıklayın.Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/image (52).png">image (52).png</a></td></tr></tbody></table>
+{% endstep %}
 
-Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.<br>
+{% step %}
+**Alanları ekleyin.**<br>
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 142557.png">Ekran görüntüsü 2026-03-03 142557.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
 
