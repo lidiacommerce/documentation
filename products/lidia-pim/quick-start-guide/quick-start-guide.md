@@ -280,13 +280,13 @@ Bu yapılandırmayı sağlayabilmek için ilk adım, televizyon ürünlerine öz
 {% step %}
 **Alanları ekleyin.**<br>
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><ol><li>Veri şaması detay sayfası <strong>Temel Bilgiler</strong> alanı açık gelir.</li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 144520.png">Ekran görüntüsü 2026-03-03 144520.png</a></td></tr><tr><td><ol start="2"><li>Veri şeması detay sayfası <strong>Veri Şeması Alanları</strong> açılır.<br><strong>Yeni Alan Ekle</strong> butonuna tıklanır.<br></li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145011.png">Ekran görüntüsü 2026-03-03 145011.png</a></td></tr><tr><td><p></p><ol start="3"><li><strong>Alan Adı:</strong> Marka<br><strong>Alan Türü:</strong> Marka<br><strong>Açıklama:</strong> Ürünün ait olduğu markayı seçiniz.<br><strong>Sıralama:</strong> 1<br><strong>Kilitli:</strong> Pasif<br><strong>Zorunlu:</strong> Aktif<br><strong>Veri Tipi:</strong> Marka</li></ol></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145748.png">Ekran görüntüsü 2026-03-03 145748.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><ol><li>Veri şaması detay sayfası <strong>Temel Bilgiler</strong> alanı açık gelir.</li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 144520.png">Ekran görüntüsü 2026-03-03 144520.png</a></td></tr><tr><td><ol start="2"><li>Veri şeması detay sayfası <strong>Veri Şeması Alanları</strong> açılır.<br><strong>Yeni Alan Ekle</strong> butonuna tıklanır.<br></li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145011.png">Ekran görüntüsü 2026-03-03 145011.png</a></td></tr><tr><td><p></p><ol start="3"><li><strong>Alan Adı:</strong> Marka<br><strong>Alan Türü:</strong> Marka<br><strong>Açıklama:</strong> Ürünün ait olduğu markayı seçiniz.<br><strong>Sıralama:</strong> 1<br><strong>Kilitli:</strong> Pasif<br><strong>Zorunlu:</strong> Aktif<br><strong>Veri Tipi:</strong> Marka</li></ol></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145748.png">Ekran görüntüsü 2026-03-03 145748.png</a></td></tr><tr><td><ol start="4"><li>Ürünümün içermesini istediğim bilgileri alan olarak veri şemama ekledim. İstediğim kadar alan ekleyebilir ve konfigüre edebilirim.</li></ol></td><td></td></tr></tbody></table>
 {% endstep %}
 
 {% step %}
-###
+**Veri Şeması oluşturuldu**
 
-
+> Oluşturduğunuz her veri şeması kadar havuz sistem tarafından otomatik oluşturulur.
 {% endstep %}
 {% endstepper %}
 
