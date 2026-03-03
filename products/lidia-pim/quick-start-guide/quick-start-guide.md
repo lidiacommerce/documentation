@@ -119,7 +119,7 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 
 {% columns %}
 {% column %}
-## <mark style="background-color:purple;">Yeni Alan Ekle</mark>
+### <mark style="background-color:purple;">Yeni Alan Ekle</mark>
 
 Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını ve yayına nasıl taşınacağını belirleyen alanların tanımlandığı ekrandır.
 
