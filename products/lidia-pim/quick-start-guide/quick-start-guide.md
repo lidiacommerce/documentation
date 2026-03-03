@@ -148,13 +148,14 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 * **Sıralama** _(Opsiyonel)_\
   Alanların ürün ekranında hangi sırayla gösterileceğini belirler.\
   Sayısal bir değer alır. Küçük değerler üstte gösterilir.
-* **Stil** _(Opsiyonel)_\
-  Alan için ön yüzde veya arayüzde uygulanacak özel stil bilgisidir.\
-  Gelişmiş kullanım senaryoları için opsiyoneldir.
 {% endcolumn %}
 
 {% column %}
 
+
+* **Stil** _(Opsiyonel)_\
+  Alan için ön yüzde veya arayüzde uygulanacak özel stil bilgisidir.\
+  Gelişmiş kullanım senaryoları için opsiyoneldir.
 
 #### 2. Validasyon Bilgileri
 
@@ -204,23 +205,6 @@ _\[ Varyant Özelliği ] \[ Varyant Tercümesi ] \[ Varyant Özellik Tercümesi 
 {% endcolumns %}
 
 
-
-*   Yeni Alan Ekle penceresinde aşağıdaki alanların doldurulması gerekir:
-
-    * <mark style="background-color:purple;">**Alan Adı**</mark> (_text_)
-    * <mark style="background-color:purple;">**Alan Türü**</mark> (_select_)
-    * <mark style="background-color:purple;">**Alan Değeri**</mark> (_select_)
-
-    Bu alanlar girilmeden alan kaydedilemez.
-* **Açıklama** alanı opsiyoneldir; alanın kullanım amacını ürün yükleyen kullanıcıya açıklamak için önerilir.
-* **Sıralama** alanı opsiyoneldir. Sayısal değer kabul eder ve alanın ekranda hangi sırada görüntüleneceğini belirler.
-* **Minimum-Maksimum Aralık Değeri** opsiyoneldir. Sayısal aralık kısıtı gereken alanlarda alt ve üst limit tanımlamak için kullanılır.
-* **Veri Tipi** alanı opsiyoneldir. Alanın sistemde hangi veri yapısına karşılık geleceğini tanımlamak için kullanılır.
-* **Nesne Alanı** opsiyoneldir. Alanın hangi nesne ile ilişkilendirileceğini tanımlamak için kullanılır.
-
-{% hint style="info" %}
-**Alan Değeri**, yalnızca Alan Türü = **Özellik** veya **Seçenek** seçildiğinde görüntülenir ve bu durumda zorunludur.
-{% endhint %}
 
 #### :arrow\_forward: <mark style="color:$info;">Alan Tipleri Nelerdir?</mark>
 
