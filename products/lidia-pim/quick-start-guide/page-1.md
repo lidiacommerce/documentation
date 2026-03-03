@@ -25,7 +25,7 @@ Bir özellik oluşturulduktan sonra, bu özelliğin hangi formatta veri kabul ed
 
 ```
 Desteklenen veri tipleri: 
--Tekil Kod   -Tek Satır Metin   -Uzun Metin   -Zengin Metin   -Tekli Seçim   -Çoklu Seçim   
+-Tekil Kod   -Tek Satır Metin   -Uzun Metin   -Zengin Metin   -Tekli Seçim  -Çoklu Seçim
 -Liste   -Var/Yok   -Tarih   -E-posta   -Tel No   -URL   -Fiyat   -Yüzde   -Süre   -Ölçü
 ```
 
