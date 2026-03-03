@@ -274,19 +274,19 @@ Bu yapılandırmayı sağlayabilmek için ilk adım, televizyon ürünlerine öz
 {% step %}
 **Yeni Veri Şeması Ekle butonuna tıklayın.**
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan pencerede:<br><strong>Veri Şeması Türü:</strong> Ürün<br><strong>Şema Adı:</strong> Televizyon<br><strong>Eşleştirme Anahtarı:</strong> TV</p><p>Kaydet butonuna tıklayın.Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/image (52).png">image (52).png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan pencerede:<br><strong>Veri Şeması Türü:</strong> Ürün<br><strong>Şema Adı:</strong> Televizyon<br><strong>Eşleştirme Anahtarı:</strong> TV</p><p>Kaydet butonuna tıklayın. Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/image (52).png">image (52).png</a></td></tr></tbody></table>
 {% endstep %}
 
 {% step %}
 **Alanları ekleyin.**<br>
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><ol><li>Veri şaması detay sayfası <strong>Temel Bilgiler</strong> alanı açık gelir.</li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 144520.png">Ekran görüntüsü 2026-03-03 144520.png</a></td></tr><tr><td><ol start="2"><li>Veri şeması detay sayfası <strong>Veri Şeması Alanları</strong> açılır.<br><strong>Yeni Alan Ekle</strong> butonuna tıklanır.<br></li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145011.png">Ekran görüntüsü 2026-03-03 145011.png</a></td></tr><tr><td><p></p><ol start="3"><li><strong>Alan Adı:</strong> Marka<br><strong>Alan Türü:</strong> Marka<br><strong>Açıklama:</strong> Ürünün ait olduğu markayı seçiniz.<br><strong>Sıralama:</strong> 1<br><strong>Kilitli:</strong> Pasif<br><strong>Zorunlu:</strong> Aktif<br><strong>Veri Tipi:</strong> Marka</li></ol></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145748.png">Ekran görüntüsü 2026-03-03 145748.png</a></td></tr><tr><td><ol start="4"><li>Ürünümün içermesini istediğim bilgileri alan olarak veri şemama ekledim. İstediğim kadar alan ekleyebilir ve konfigüre edebilirim.</li></ol></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><ol><li>Veri şaması detay sayfası <strong>Temel Bilgiler</strong> alanı açık gelir.</li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 144520.png">Ekran görüntüsü 2026-03-03 144520.png</a></td></tr><tr><td><ol start="2"><li>Veri şeması detay sayfası <strong>Veri Şeması Alanları</strong> açılır.<br><strong>Yeni Alan Ekle</strong> butonuna tıklanır.<br></li></ol></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145011.png">Ekran görüntüsü 2026-03-03 145011.png</a></td></tr><tr><td><p></p><ol start="3"><li><strong>Alan Adı:</strong> Marka<br><strong>Alan Türü:</strong> Marka<br><strong>Açıklama:</strong> Ürünün ait olduğu markayı seçiniz.<br><strong>Sıralama:</strong> 1<br><strong>Kilitli:</strong> Pasif<br><strong>Zorunlu:</strong> Aktif<br><strong>Veri Tipi:</strong> Marka</li></ol></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-03 145748.png">Ekran görüntüsü 2026-03-03 145748.png</a></td></tr><tr><td><ol start="4"><li><p>Televizyon ürünlerim için gerekli alanları veri şemama ekledim. Bu alanlar sayesinde ürün bilgilerimi belirlediğim kural seti doğrultusunda yönetebilirim.</p><p>İhtiyaç duyduğum kadar alan ekledim, mevcut alanları düzenleyebilir ve istersem veri yapımı gereksinimlerime göre yeniden yapılandırabilirim.</p></li></ol></td><td></td></tr></tbody></table>
 {% endstep %}
 
 {% step %}
-**Veri Şeması oluşturuldu**
+:tada:**Veri şemanız başarıyla oluşturuldu.**
 
-> Oluşturduğunuz her veri şeması kadar havuz sistem tarafından otomatik oluşturulur.
+> **Not:** Oluşturduğunuz her veri şeması için sistem tarafından otomatik olarak bir havuz oluşturulur. Bu havuz, ilgili veri şemasına bağlı ürünlerin yönetileceği temel yapıyı temsil eder.
 {% endstep %}
 {% endstepper %}
 
