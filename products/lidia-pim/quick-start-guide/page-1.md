@@ -192,3 +192,34 @@ Lidia PIM’de ürün veri modelinizi iş ihtiyaçlarınıza göre esnek şekild
 🎉**Seçenek başarıyla oluşturuldu.**
 {% endstep %}
 {% endstepper %}
+
+#### :arrow\_forward:<mark style="color:$info;">Örnek Kullanım Senaryosu: Televizyon</mark>
+
+Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri** hem de **seçenekleri** birlikte tanımlayalım.
+
+Öncelikle televizyon ürününü tanımlayan **özellikleri** oluşturalım. Bu alanlar ürünün teknik bilgilerini tutar ve genellikle varyant oluşturmaz.
+
+{% tabs %}
+{% tab title="Enerji Sınıfı" %}
+
+{% endtab %}
+
+{% tab title="Garanti Süresi" %}
+
+{% endtab %}
+
+{% tab title="Model Yılı" %}
+
+{% endtab %}
+
+{% tab title="Dahili Uydu Alıcı" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (55).png" alt="" width="235"><figcaption></figcaption></figure></div>
+
+b
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (57).png" alt="" width="264"><figcaption></figcaption></figure></div>
+{% endtab %}
+{% endtabs %}
+
+
+
