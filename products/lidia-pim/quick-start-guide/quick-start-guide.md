@@ -245,7 +245,7 @@ Bir alanı zorunlu yapmak için:
 
 Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez veya import edilemez.
 
-<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 &#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.
