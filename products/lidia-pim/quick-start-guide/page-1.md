@@ -44,17 +44,13 @@ Veri tipi olarak **Tekli Seçim** veya **Çoklu Seçim** seçildiğinde, özelli
 
 Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün yapısı oluşturursunuz.
 
+
+
 * <mark style="background-color:purple;">**Özellik Grubu Nedir?**</mark>
 
 **Özellik grubu**, benzer özellikleri bir arada düzenlemek için kullanılır. Özellik grupları, PIM kullanıcısı olarak ürün verinizi daha düzenli yönetmenize yardımcı olur. İlgili özellikleri aynı başlık altında toplayarak hem ürün girişini hem de veri yönetimini kolaylaştırabilirsiniz.
 
 > Örneğin televizyon ürünü için **Ekran Boyutu, Çözünürlük ve Panel Teknolojisi** gibi özellikleri oluşturduysanız, bu özellikleri **Ekran Özellikleri** adlı bir özellik grubu altında toplayın. Bu şekilde ilgili özellikleri aynı başlık altında düzenleyebilir ve ürün kartında daha düzenli bir yapı oluşturabilirsiniz.
-
-
-
-* **Özellik Nasıl Oluşturulur?**
-
-
 
 #### :arrow\_forward:<mark style="color:$info;">Seçenek Nedir?</mark>
 
@@ -94,7 +90,7 @@ Seçenek değer grubu oluşturmak için:
 3. Açılan pencerede **Seçenek Değer Grubu Adı** , **Görüntülenecek Ad** ve **Değer Grubu Kodu** alanlarını doldurun, kaydedin.
 4.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="117"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="117"><figcaption></figcaption></figure></div>
 5. Seçenek değerlerini oluşturduktan sonra ilgili değerin **detay sayfası**na gidin ve bu değeri oluşturduğunuz **seçenek değer grubuna** bağlayın.
 
 Bu sayede benzer seçenek değerlerini aynı grup altında düzenleyebilirsiniz.
@@ -155,11 +151,7 @@ Lidia PIM’de ürün veri modelinizi iş ihtiyaçlarınıza göre esnek şekild
 {% step %}
 **Detay sayfasında ilgili özelleştirmeleri yapın.**
 
-* Veri Tipi seçilir
-* Gerekirse özellik grubu bağlanır
-* Seçim tipindeyse değerler eklenir
-
-Kaydedin.
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p></p><ul><li>Veri Tipi seçilir</li><li>Gerekirse özellik grubu bağlanır</li><li>Seçim tipindeyse değerler eklenir</li></ul><p>Kaydedin.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 123437.png">Ekran görüntüsü 2026-03-04 123437.png</a></td></tr></tbody></table>
 {% endstep %}
 {% endstepper %}
 
