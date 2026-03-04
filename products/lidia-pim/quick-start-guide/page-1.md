@@ -54,28 +54,6 @@ Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün
 
 * **Özellik Nasıl Oluşturulur?**
 
-{% stepper %}
-{% step %}
-**Ayarlar > Katalog > Özellikler sayfasına gidin.**
-{% endstep %}
-
-{% step %}
-**Özellik Ekle butonuna tıklayın.**
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan modalda:</p><ul><li><strong>Özellik Adı</strong> → Zorunlu</li><li><strong>Özellik Kodu</strong> → Zorunlu</li><li><strong>Özellik Grubu</strong> → Opsiyonel</li></ul><p>Bu alanlar doldurulduktan sonra <strong>Devam Et</strong> butonuna tıklayın.</p><p>Özellik oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 003712.png">Ekran görüntüsü 2026-03-04 003712.png</a></td></tr></tbody></table>
-{% endstep %}
-
-{% step %}
-**Detay sayfasında ilgili özelleştirmeleri yapın.**
-
-* Veri Tipi seçilir
-* Gerekirse özellik grubu bağlanır
-* Seçim tipindeyse değerler eklenir
-
-Kaydedin.
-{% endstep %}
-{% endstepper %}
-
 
 
 #### :arrow\_forward:<mark style="color:$info;">Seçenek Nedir?</mark>
@@ -140,3 +118,48 @@ Seçenek değer grubu oluşturmak için:
 5. Seçenek grubu oluşturduktan sonra, ilgili seçeneğin detay sayfasına gidin ve **Seçenek Grubu** alanından oluşturduğunuz grubu seçerek seçeneği bu gruba bağlayın.
 
 Bu şekilde televizyon ürününe ait varyant seçeneklerini düzenli bir yapı içinde yönetebilirsiniz.
+
+
+
+#### :arrow\_forward:<mark style="color:$info;">Seçenek ve Özellik Aralarındaki Fark Nedir?</mark>
+
+**Özellikler**, ürünün teknik veya açıklayıcı niteliklerini ifade eder. Ürünü tanımlar ancak fiyat veya stokta farklılık oluşturmaz.
+
+**Seçenekler** ise ürünün farklı versiyonlarını oluşturmak için kullanılır. Genellikle fiyat veya stokta farklılık yaratan bilgiler seçenek olarak tanımlanır.
+
+{% hint style="info" %}
+Alan tanımlarken şu kuralı kullanabilirsiniz: Ürünün farklı bir versiyonunu oluşturuyorsa **seçenek**, yalnızca ürün bilgisini tanımlıyorsa **özellik** olarak tanımlayın.
+{% endhint %}
+
+> Örneğin televizyon ürünü için **Enerji Sınıfı**, **Garanti Süresi** veya **Model Yılı** gibi bilgiler genellikle **özellik** olarak tanımlanır. Bu bilgiler ürünü tanımlar ancak çoğu senaryoda farklı bir varyant oluşturmaz.
+>
+> Buna karşılık **Ekran Boyutu**, **Renk** veya **Çözünürlük** gibi alanlar genellikle **seçenek** olarak tanımlanır. Bu alanların farklı değerleri ürünün farklı versiyonlarını oluşturabilir ve fiyat veya stok bilgisini etkileyebilir.
+>
+> Ancak bu ayrım tamamen sizin ürün modelleme tercihinize bağlıdır. Örneğin bazı işletmeler için **Enerji Sınıfı** ürün fiyatını etkileyen bir varyant olabilir. Böyle bir durumda bu alanı **seçenek** olarak tanımlayabilirsiniz.
+
+Lidia PIM’de ürün veri modelinizi iş ihtiyaçlarınıza göre esnek şekilde kurgulayabilir, hangi alanların **özellik** hangi alanların **seçenek** olacağına siz karar verebilirsiniz.
+
+#### :arrow\_forward:<mark style="color:$info;">Özellik nasıl oluşturulur?</mark>
+
+{% stepper %}
+{% step %}
+**Ayarlar > Katalog > Özellikler sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**Özellik Ekle butonuna tıklayın.**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan modalda:</p><ul><li><strong>Özellik Adı</strong> → Zorunlu</li><li><strong>Özellik Kodu</strong> → Zorunlu</li><li><strong>Özellik Grubu</strong> → Opsiyonel</li></ul><p>Bu alanlar doldurulduktan sonra <strong>Devam Et</strong> butonuna tıklayın.</p><p>Özellik oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 003712.png">Ekran görüntüsü 2026-03-04 003712.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+**Detay sayfasında ilgili özelleştirmeleri yapın.**
+
+* Veri Tipi seçilir
+* Gerekirse özellik grubu bağlanır
+* Seçim tipindeyse değerler eklenir
+
+Kaydedin.
+{% endstep %}
+{% endstepper %}
+
