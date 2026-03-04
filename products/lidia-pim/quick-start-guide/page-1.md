@@ -227,3 +227,4 @@ b
 
 
 
+#### :arrow\_forward:<mark style="color:$info;">Özellikler ve seçenekler veri şemasına nasıl eklenir?</mark>
