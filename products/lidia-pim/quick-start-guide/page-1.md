@@ -201,7 +201,11 @@ Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri
 
 {% tabs %}
 {% tab title="Enerji Sınıfı" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163628.png" alt="" width="235"><figcaption></figcaption></figure></div>
 
+yazıyazı
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163752.png" alt="" width="264"><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Garanti Süresi" %}
