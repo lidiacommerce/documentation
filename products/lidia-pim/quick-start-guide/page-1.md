@@ -36,12 +36,13 @@ Veri tipi olarak **Tekli Seçim** veya **Çoklu Seçim** seçildiğinde, özelli
 > * **Özellik:** Enerji Sınıfı
 > * **Veri Tipi:** Çoklu Seçim
 > * **Tanımlanan Değerler:** A, B, C, D, E, F
+> *
+>
+>     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (54).png" alt="" width="188"><figcaption></figcaption></figure></div>
 >
 > Bu sayede ürün oluşturma sırasında kullanıcı yalnızca tanımladığınız değerler arasından seçim yapabilir. Yeni değer girilemez; yalnızca mevcut seçenekler kullanılabilir.
 
 Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün yapısı oluşturursunuz.
-
-
 
 * **Özellik Grubu Nedir?**
 
