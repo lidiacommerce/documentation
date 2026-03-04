@@ -151,9 +151,44 @@ Lidia PIM’de ürün veri modelinizi iş ihtiyaçlarınıza göre esnek şekild
 {% step %}
 **Detay sayfasında ilgili özelleştirmeleri yapın.**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p></p><ul><li>Veri Tipi seçilir</li><li>Gerekirse özellik grubu bağlanır</li><li>Seçim tipindeyse değerler eklenir</li></ul><p>Kaydedin.</p></td><td data-object-fit="fill"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 123437.png">Ekran görüntüsü 2026-03-04 123437.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p></p><ul><li>Veri Tipi seçilir</li><li>Gerekirse özellik grubu bağlanır</li><li>Seçim tipindeyse değerler eklenir</li></ul><p>Kaydedin.</p></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 123437.png">Ekran görüntüsü 2026-03-04 123437.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+🎉**Özellik başarıyla oluşturuldu.**
 {% endstep %}
 {% endstepper %}
 
 #### :arrow\_forward:<mark style="color:$info;">Seçenek nasıl eklenir?</mark>
 
+{% stepper %}
+{% step %}
+**Ayarlar > Katalog > Seçenekler > Seçenekler sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**Seçenek Ekle butonuna tıklayın.**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p></p><p>Açılan <strong>Yeni Seçenek Ekle</strong> penceresinde aşağıdaki alanları doldurun:</p><ul><li><strong>Seçenek Grubu (Opsiyonel)</strong></li><li><strong>Seçenek Adı (Zorunlu)</strong></li><li><strong>Görüntülenecek Ad (Zorunlu)</strong></li><li><strong>Seçenek Kodu (Zorunlu)</strong></li><li><strong>Veri Tipi (Zorunlu)</strong><br><em>Metin</em>, <em>Tam Sayı</em>, <em>Ondalık Sayı</em> veya <em>Ölçü</em>.</li></ul><p>Alanları doldurduktan sonra <strong>Devam Et</strong> butonuna tıklayın.<br>Seçenek oluşturulur ve detay sayfasına yönlendirilirsiniz.</p></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 155611.png">Ekran görüntüsü 2026-03-04 155611.png</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+**Detay sayfasında ilgili özelleştirmeleri yapın.**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p></p><ul><li>Veri Tipi seçilir, değiştirilir.</li><li>Gerekirse seçenek grubu bağlanır</li></ul></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 160316.png">Ekran görüntüsü 2026-03-04 160316.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+**Detay sayfasında Seçenek Değerleri tab’ine gidin.**
+{% endstep %}
+
+{% step %}
+**Değer Ekle butonuna tıklayın.**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p>Açılan pencerede aşağıdaki alanları doldurun:</p><ul><li><strong>Değer Adı (Zorunlu)</strong></li><li><strong>Değer Kodu (Zorunlu)</strong></li></ul><p>Alanları doldurduktan sonra <strong>Devam Et</strong> butonuna tıklayın.<br>Seçenek değeri oluşturulur ve ilgili seçeneğe eklenmiş olur.<br>İstenirse seçenek değer grubu bağlanır</p></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 161248.png">Ekran görüntüsü 2026-03-04 161248.png</a></td></tr></tbody></table>
+{% endstep %}
+
+{% step %}
+🎉**Seçenek başarıyla oluşturuldu.**
+{% endstep %}
+{% endstepper %}
