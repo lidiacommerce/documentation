@@ -27,7 +27,7 @@ This listing enables sellers to quickly analyze the overall status of their prod
 
     These visual indicators help sellers quickly identify stock levels and take timely action.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] Sellers can filter listed products by **category and brand** to access products more quickly. This feature provides significant management convenience, especially for sellers with large product portfolios.
 * [x] All products listed on the Products page can be exported in Excel document format using the Export Data button. This feature can be used for reporting, validation, and archiving purposes.
@@ -51,7 +51,7 @@ The Media Management tab is where uploaded images and documents related to the p
 
 Image uploads are not performed on this page. New media uploads are handled through the Pool List page.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For detailed information about image uploads, please refer to the [**Pool List**](pool-list.md) page.

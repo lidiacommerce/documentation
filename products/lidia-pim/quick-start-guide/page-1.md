@@ -19,7 +19,7 @@ icon: list-radio
 
 
 
-* **Özellik Veri Tipi Nedir?**
+* <mark style="background-color:purple;">**Özellik Veri Tipi Nedir?**</mark>
 
 Bir özellik oluşturulduktan sonra, bu özelliğin hangi formatta veri kabul edeceği belirlenir. Buna veri tipi denir.
 
@@ -44,7 +44,7 @@ Veri tipi olarak **Tekli Seçim** veya **Çoklu Seçim** seçildiğinde, özelli
 
 Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün yapısı oluşturursunuz.
 
-* **Özellik Grubu Nedir?**
+* <mark style="background-color:purple;">**Özellik Grubu Nedir?**</mark>
 
 **Özellik grubu**, benzer özellikleri bir arada düzenlemek için kullanılır. Özellik grupları, PIM kullanıcısı olarak ürün verinizi daha düzenli yönetmenize yardımcı olur. İlgili özellikleri aynı başlık altında toplayarak hem ürün girişini hem de veri yönetimini kolaylaştırabilirsiniz.
 
@@ -75,3 +75,68 @@ Bu yöntemle veri girişini kontrol altında tutarsınız ve tutarlı bir ürün
 Kaydedin.
 {% endstep %}
 {% endstepper %}
+
+
+
+#### :arrow\_forward:<mark style="color:$info;">Seçenek Nedir?</mark>
+
+**Seçenek**, ürünün farklı versiyonlarını oluşturmak için kullanılan alanlardır. Genellikle fiyat veya stokta farklılık yaratan bilgiler seçenek olarak tanımlanır.
+
+> Örneğin televizyon ürününde **Çözünürlük** bir seçenek olabilir. Bu seçenek, televizyonun hangi çözünürlükte sunulduğunu belirler ve kendine ait seçenek değerleri içerir, kendine ait seçenek değerleri vardır.
+
+Bir seçenek oluştururken, seçeneğin hangi veri tipinde değer alacağını belirleyebilirsiniz.
+
+Desteklenen veri tipleri şunlardır:
+
+* [x] Metin, Tam Sayı, Ondalık Sayı, Ölçü
+
+
+
+* <mark style="background-color:purple;">**Seçenek Değeri Nedir?**</mark>
+
+**Seçenek değeri**, bir seçeneğe ait kullanılabilir değerleri ifade eder. Bir seçenek oluşturduktan sonra, o seçeneğe ait istediğiniz kadar seçenek değeri ekleyebilirsiniz.
+
+> Örneğin **Çözünürlük** bir TV seçeneği ise, buna ait seçenek değerleri **4K**, **8K** gibi değerler olabilir. Ürün oluştururken kullanıcı bu değerler arasından seçim yapar.\
+> Başka bir örnek olarak **Renk** seçeneğini düşünün. Bu seçeneğe ait değerler **Siyah**, **Mavi**, **Bebek Mavisi** gibi farklı renkler olabilir.
+
+Seçenek değerlerini tamamen ihtiyaçlarınıza göre tanımlayabilirsiniz.
+
+
+
+* <mark style="background-color:purple;">**Seçenek Değer Grubu Nedir?**</mark>
+
+**Seçenek değer grubu**, benzer seçenek değerlerini bir arada düzenlemek için kullanılır. Çok sayıda seçenek değeri bulunan alanlarda değerleri daha düzenli yönetmenize yardımcı olur.
+
+> Örneğin televizyon ürünü için **Renk** seçeneğini oluşturduğunuzu düşünün. Bu seçeneğe ait değerler **Gri, Gümüş, Antrasit, Beyaz, Siyah** gibi farklı tonlar olabilir. Bu değerlerden benzer gördüklerinizi örneğin gri+gümüş+antrasit üçlüsünü **Gri Tonları** adlı bir seçenek değer grubunda toplayabilirsiniz.
+
+Seçenek değer grubu oluşturmak için:
+
+1. **Ayarlar > Katalog > Seçenekler > Seçenek Değer Grupları** sayfasına gidin.
+2. **Seçenek Değer Grubu Ekle** butonuna tıklayın.
+3. Açılan pencerede **Seçenek Değer Grubu Adı** , **Görüntülenecek Ad** ve **Değer Grubu Kodu** alanlarını doldurun, kaydedin.
+4.
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="117"><figcaption></figcaption></figure></div>
+5. Seçenek değerlerini oluşturduktan sonra ilgili değerin **detay sayfası**na gidin ve bu değeri oluşturduğunuz **seçenek değer grubuna** bağlayın.
+
+Bu sayede benzer seçenek değerlerini aynı grup altında düzenleyebilirsiniz.
+
+
+
+* <mark style="background-color:purple;">**Seçenek Grubu Nedir?**</mark>
+
+**Seçenek grubu**, birden fazla seçeneği mantıksal olarak aynı başlık altında toplamak için kullanılır. Bu yapı özellikle çok sayıda seçenek bulunan ürünlerde yönetimi kolaylaştırır.
+
+> Örneğin televizyon ürününde **Renk**, **Panel Teknolojisi,** **Çözünürlük, Dahili Wi-Fi** gibi birden fazla farklı seçenek oluşturduysanız, bu seçeneklerden renk, panel teknolojisi ve çözünürlüğü ekran özelliği olarak nitelendirebilir, **Ekran Özellikleri** adlı bir seçenek grubunda bir araya getirebilirsiniz.
+
+Seçenek değer grubu oluşturmak için:
+
+1. **Ayarlar > Katalog > Seçenekler > Seçenek Grupları** sayfasına gidin.
+2. **Seçenek Grubu Ekle** butonuna tıklayın.
+3. Açılan pencerede **Seçenek Grubu Adı, Görüntülenecek Ad** ve **Grubu Kodu** alanlarını doldurun, kaydedin.
+4.
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="116"><figcaption></figcaption></figure></div>
+5. Seçenek grubu oluşturduktan sonra, ilgili seçeneğin detay sayfasına gidin ve **Seçenek Grubu** alanından oluşturduğunuz grubu seçerek seçeneği bu gruba bağlayın.
+
+Bu şekilde televizyon ürününe ait varyant seçeneklerini düzenli bir yapı içinde yönetebilirsiniz.

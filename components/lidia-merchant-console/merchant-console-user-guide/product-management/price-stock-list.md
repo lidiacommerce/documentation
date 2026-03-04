@@ -33,6 +33,6 @@ If there are products with low or depleted stock levels among the listed items, 
 
 These visual indicators enable sellers to take quick action and help prevent sales losses caused by stock shortages.
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 All inventory data listed on the Price / Stock Management page can be exported in Excel format using the Export Data button. This feature can be used for reporting, auditing, archiving, and data sharing with external systems.
