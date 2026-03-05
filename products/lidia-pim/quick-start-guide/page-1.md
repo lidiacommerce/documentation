@@ -223,7 +223,7 @@ yazıyazı
 {% endtab %}
 
 {% tab title="Model Yılı" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="233"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="233"><figcaption></figcaption></figure></div>
 
 \
 <br>
@@ -232,11 +232,11 @@ yazıyazı
 {% endtab %}
 
 {% tab title="Dahili Uydu Alıcı" %}
-<div align="left"><figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="230"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="230"><figcaption></figcaption></figure></div>
 
 
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="334"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="334"><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
 
