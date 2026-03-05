@@ -240,6 +240,32 @@ yazıyazı
 {% endtab %}
 {% endtabs %}
 
+Şimdi ürünün farklı versiyonlarını oluşturmak için **seçenekleri** tanımlayalım. Bu alanlar ürünün varyantlarını oluşturur ve fiyat veya stok bilgisini etkileyebilir.
+
+{% tabs %}
+{% tab title="Ekran Boyutu" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="233"><figcaption></figcaption></figure></div>
+
+<br>
+
+<br>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (71).png" alt="" width="291"><figcaption></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Çözünürlük" %}
+
+{% endtab %}
+
+{% tab title="Panel Teknolojisi" %}
+
+{% endtab %}
+
+{% tab title="Renk" %}
+
+{% endtab %}
+{% endtabs %}
+
 
 
 
