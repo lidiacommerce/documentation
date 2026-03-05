@@ -254,6 +254,13 @@ yazıyazı
 {% endtab %}
 
 {% tab title="Çözünürlük" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="230"><figcaption></figcaption></figure></div>
+
+\
+<br>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="294"><figcaption></figcaption></figure></div>
+
 
 {% endtab %}
 
@@ -265,6 +272,12 @@ yazıyazı
 
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
