@@ -38,7 +38,7 @@ Veri tipi olarak **Tekli Seçim** veya **Çoklu Seçim** seçildiğinde, özelli
 > * **Tanımlanan Değerler:** A, B, C, D, E, F
 > *
 >
->     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="131"><figcaption></figcaption></figure></div>
+>     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="131"><figcaption></figcaption></figure></div>
 >
 > Bu sayede ürün oluşturma sırasında kullanıcı yalnızca tanımladığınız değerler arasından seçim yapabilir. Yeni değer girilemez; yalnızca mevcut seçenekler kullanılabilir.
 
@@ -90,7 +90,7 @@ Seçenek değer grubu oluşturmak için:
 3. Açılan pencerede **Seçenek Değer Grubu Adı** , **Görüntülenecek Ad** ve **Değer Grubu Kodu** alanlarını doldurun, kaydedin.
 4.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="117"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="117"><figcaption></figcaption></figure></div>
 5. Seçenek değerlerini oluşturduktan sonra ilgili değerin **detay sayfası**na gidin ve bu değeri oluşturduğunuz **seçenek değer grubuna** bağlayın.
 
 Bu sayede benzer seçenek değerlerini aynı grup altında düzenleyebilirsiniz.
@@ -206,24 +206,55 @@ Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri
 yazıyazı
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163752.png" alt="" width="264"><figcaption></figcaption></figure></div>
+
+
 {% endtab %}
 
 {% tab title="Garanti Süresi" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="233"><figcaption></figcaption></figure></div>
 
+
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (59).png" alt="" width="335"><figcaption></figcaption></figure></div>
+
+
+
+<br>
 {% endtab %}
 
 {% tab title="Model Yılı" %}
+<div align="left"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="233"><figcaption></figcaption></figure></div>
 
+\
+<br>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (63).png" alt="" width="353"><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Dahili Uydu Alıcı" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (55).png" alt="" width="235"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-b
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (57).png" alt="" width="264"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="334"><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
