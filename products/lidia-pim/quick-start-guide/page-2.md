@@ -118,9 +118,28 @@ Bu havuz içinde ürünlerinizi oluşturmaya veya yüklemeye başlayabilirsiniz.
 {% endstep %}
 {% endstepper %}
 
+> Havuz oluşturma penceresinde listelenen kategorilerden herhangi biri bir veri şemasına bağlı değilse seçilemez. Bu durumda kategori adının yanında <mark style="background-color:purple;">**\[Veri şeması yok]**</mark> uyarısı görüntülenir. <mark style="color:purple;background-color:purple;">Havuz oluşturabilmek için önce ilgili kategoriye bir veri şeması bağlamanız gerekir.</mark>
 
+#### :arrow\_forward:<mark style="color:$info;">Havuz Yönetimi Nasıl Yapılır?</mark>
 
+Oluşturduğunuz bir havuzun içindeki ürünleri yönetmek için havuz detay sayfasına gitmeniz gerekir.
 
+Bunun için Havuzlar sayfasında ilgili havuzu bulun ve <mark style="background-color:purple;">**Ürünleri Yönet**</mark> butonuna tıklayın. Bu işlem sizi havuzun detay sayfasına yönlendirir.
 
+{% hint style="info" %}
+**Önemli:** Yeni oluşturulan bir havuz başlangıçta **boş** olarak oluşturulur. İçinde ürün bulunmayan, boş havuzlar silinebilir. Ancak içinde ürün bulunan havuzlar silinemez.
+{% endhint %}
 
+Havuza ürün yükleme işlemi <mark style="background-color:purple;">**Excel dosyası**</mark> aracılığıyla gerçekleştirilir.
+
+Yüklenen ürünler ilk olarak havuz detay sayfasındaki Tümü sekmesi altında listelenir. Bu aşamada ürünler sistemde oluşturulmuş olsa da henüz yayınlanmış sayılmaz.\
+Ürünler, havuz içinde <mark style="background-color:purple;">yayınlanmayı bekleyen</mark> ürünler olarak tutulur.
+
+Ürünleri yayınladıktan sonra ilgili ürünler havuz detay sayfasındaki <mark style="background-color:purple;">Yayındakiler</mark> sekmesi altında listelenmeye başlar.
+
+**Havuz yaşam döngüsü:** _Ürün Yükleme → Havuz (Tümü) → Yayınlama → Yayındakiler_
+
+{% hint style="info" %}
+&#x20;**Not:** Havuzda listelenen ürünleri **dışa aktarabilirsiniz**. Yayınlanmış ürünler ve yayınlanmayı bekleyen ürünler ayrı ayrı dışa aktarılabilir.
+{% endhint %}
 
