@@ -55,11 +55,36 @@ Bu ilişki sayesinde ürünler doğru veri modeli ile oluşturulur.
 Eğer henüz bir veri şeması oluşturmadıysanız, [**Veri Şeması Nasıl Oluşturulur?**](https://docs.lidiacommerce.com/products/lidia-pim/quick-start-guide/veri-semasi-nasil-olusturulur) sayfasındaki adımları takip edebilirsiniz.
 {% endhint %}
 
+#### :arrow\_forward:<mark style="color:$info;">Kategori Nasıl Tanımlanır, Veri Şeması ile Nasıl İlişkilendirilir?</mark>
 
+Kategori oluşturmak için aşağıdaki adımları izleyin:
 
+{% stepper %}
+{% step %}
+**Katalog > Kategoriler sayfasına gidin.**
+{% endstep %}
 
+{% step %}
+**Kategori Ekle** **butonuna tıklayın.**
 
-Bu nedenle bir havuz oluşturabilmek için öncelikle ilgili ürün kategorisinin tanımlanmış olması gerekir.
+Açılan pencerede aşağıdaki alanları doldurun:
 
-Şimdi bu aşamayı başlatmak için önce **kategori nasıl tanımlanır** ona bakalım.
+* **İsim (Zorunlu)**
+* **Boyut**&#x20;
+* **Veri Şeması**&#x20;
+* **Üst Kategori**
+* **Kod (Zorunlu)**
+
+> Kategorinizi hiyerarşik bir yapıda oluşturmak istiyorsanız, **Üst Kategori (Opsiyonel)** alanından kategoriyi bağlamak istediğiniz üst kategoriyi seçebilirsiniz.
+
+> :warning:Aynı pencerede **Veri Şeması** alanı da yer alır. Bu alan seçilmeden kategori kaydedilebilir ve kategori oluşturulabilir. Ancak bu durumda kategori _<mark style="background-color:purple;">**taslak**</mark>_ statüsünde oluşturulur.
+>
+> Yeni bir kategori oluştururken veri şeması seçmeniz önerilir. Bu sayede kategori doğrudan ilgili veri modeli ile ilişkilendirilmiş olur. \
+> Eğer veri şeması seçmeden taslak bir kategori oluşturduysanız, <mark style="background-color:purple;">kategori detay sayfasına</mark> giderek daha sonra **veri şeması** bağlayabilirsiniz.
+{% endstep %}
+
+{% step %}
+🎉**Kategori başarıyla oluşturuldu.**
+{% endstep %}
+{% endstepper %}
 
