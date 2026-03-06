@@ -281,7 +281,6 @@ Model yılı özelliği oluşturulmuş olur, artık veri şemasına bağlayabili
 2. **Özellik Ekle** butonuna tıklayın.
 3. Açılan pencerede aşağıdaki alanları doldurun:
    * **Özellik Adı:** Dahili Uydu Alıcı
-   * **Görüntülenecek Ad:** Dahili Uydu Alıcı
    * **Özellik Kodu:** dahili\_uydu\_alici
    *
 
