@@ -493,20 +493,20 @@ Alanları doldurduktan sonra Kaydet butonuna tıklayın.
 {% step %}
 Alan veri şemasına eklenir ve ürün oluşturma sırasında kullanılabilir hale gelir.
 
-:tada:Artık veri şemamızı kategoriye bağlayabilir, havuz oluşturma işlemine geçebiliriz.
+:tada:Artık veri şemamızı <mark style="background-color:purple;">kategoriye</mark> bağlayabilir, havuz oluşturma işlemine geçebiliriz.
 {% endstep %}
 {% endstepper %}
 
 > Televizyon örneğimizden devam edelim ve veri şeması için oluşturduğunuz özellikleri veri şemasına ekleyelim.
 >
-> Öncelikle **Televizyon veri şemasının** detay sayfasına gidin ve **Yeni Alan Ekle** butonuna tıklayın. Açılan pencerede **Alan Türü** olarak **Özellik** seçin. Ardından Alan Değeri alanından daha önce oluşturduğunuz özelliklerden birini seçin, eklemeyi tamamlayın:
+> Öncelikle <mark style="background-color:purple;">**Televizyon veri şeması**</mark>**nın** detay sayfasına gidin ve **Yeni Alan Ekle** butonuna tıklayın. Açılan pencerede <mark style="background-color:purple;">**Alan Türü**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">olarak</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Özellik**</mark> seçin. Ardından Alan Değeri alanından daha önce oluşturduğunuz özelliklerden birini seçin, eklemeyi tamamlayın:
 >
 > * Enerji Sınıfı
 > * Garanti Süresi
 > * Model Yılı
 > * Dahili Uydu Alıcı
 >
-> Aynı adımları izleyerek seçenekleri de veri şemasına ekleyebilirsiniz. Bunun için **Alan Türü** olarak Seçenek seçin ve Alan Değeri alanından daha önce oluşturduğunuz seçenekleri ekleyin:
+> Aynı adımları izleyerek seçenekleri de veri şemasına ekleyebilirsiniz. Bunun için <mark style="background-color:purple;">**Alan Türü**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">olarak Seçenek</mark> seçin ve Alan Değeri alanından daha önce oluşturduğunuz seçenekleri ekleyin:
 >
 > * Ekran Boyutu
 > * Çözünürlük
