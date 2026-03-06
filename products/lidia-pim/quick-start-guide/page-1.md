@@ -439,11 +439,18 @@ Seçenek oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
 5. **Seçenek Değerleri** tab’ine gidin.
 6. **Değer Ekle** butonuna tıklayın.
 7. Açılan **Yeni Değer** penceresinde aşağıdaki alanları doldurun:
-   * **Değer Adı:** LED         &#x20;
+   * **Değer Adı:** Siyah         &#x20;
    * **Görüntülenecek Değer Adı:** LED         &#x20;
-   * **Değer Kodu:** LED     &#x20;
+   * **Değer Kodu:** SYH
+   *
 
-Renk seçeneği oluşturulmuş olur.
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (84).png" alt="" width="233"><figcaption></figcaption></figure></div>
+8. Tek tek aşağıdaki değerleri oluşturun:
+
+* **Siyah**
+* **Gri**
+
+Renk seçeneği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 {% endtabs %}
 
