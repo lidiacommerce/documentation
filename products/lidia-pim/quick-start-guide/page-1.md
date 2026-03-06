@@ -227,7 +227,7 @@ Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163752.png" alt="" width="264"><figcaption></figcaption></figure></div>
 
-Enerji sınıfı özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
+:tada:Enerji sınıfı özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Garanti Süresi" %}
@@ -304,34 +304,150 @@ Dahili uydu alıcı özelliği oluşturulmuş olur, artık veri şemasına bağl
 
 {% tabs %}
 {% tab title="Ekran Boyutu" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="233"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Ekran Boyutu Seçeneğini Oluşturma**</mark>
 
-<br>
+1. **Ayarlar > Katalog > Seçenekler > Seçenekler** sayfasına gidin.
+2. **Seçenek Ekle** butonuna tıklayın.
+3. Açılan **Yeni Seçenek Ekle** penceresinde aşağıdaki alanları doldurun:
+   * **Seçenek Adı:** Ekran Boyutu (inç)              _(Zorunlu)_
+   * **Görüntülenecek Ad:** Ekran Boyutu (inç)  _(Zorunlu)_
+   * **Seçenek Kodu:** ekrn12                               _(Zorunlu)_
+   * **Veri Tipi:** Ölçü                                             _(Zorunlu)_
+   *
 
-<br>
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="233"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Seçenek oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (71).png" alt="" width="291"><figcaption></figcaption></figure></div>
+
+5. **Seçenek Değerleri** tab’ine gidin.
+6. **Değer Ekle** butonuna tıklayın.
+7.  Açılan **Yeni Değer** penceresinde aşağıdaki alanları doldurun:
+
+    * **Değer Adı:** 75 inç           &#x20;
+    * **Görüntülenecek Değer Adı:** 75 inç &#x20;
+    * **Değer Kodu:** 75
+    *
+
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (76).png" alt="" width="232"><figcaption></figcaption></figure></div>
+
+
+8. Tek tek aşağıdaki değerleri oluşturun:
+
+* **55 inç**
+* **65 inç**
+* **75 inç**
+
+:tada:Ekran Boyutu seçeneği ve değerleri oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Çözünürlük" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="230"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Çözünürlük Seçeneğini Oluşturma**</mark>
 
-\
-<br>
+1. **Ayarlar > Katalog > Seçenekler > Seçenekler** sayfasına gidin.
+2. **Seçenek Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Seçenek Adı:** Çözünürlük              _(Zorunlu)_
+   * **Görüntülenecek Ad:** Çözünürlük  _(Zorunlu)_
+   * **Seçenek Kodu:** CZNRLK                _(Zorunlu)_
+   * **Veri Tipi:** Metin                               _(Zorunlu)_
+   *
+
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="230"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Seçenek oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="294"><figcaption></figcaption></figure></div>
 
+5. **Seçenek Değerleri** tab’ine gidin.
+6. **Değer Ekle** butonuna tıklayın.
+7. Açılan **Yeni Değer** penceresinde aşağıdaki alanları doldurun:
+   * **Değer Adı:** 4K         &#x20;
+   * **Görüntülenecek Değer Adı:** 4K  &#x20;
+   * **Değer Kodu:** 4K &#x20;
+   *
 
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (78).png" alt="" width="231"><figcaption></figcaption></figure></div>
+8. Tek tek aşağıdaki değerleri oluşturun:
+   * **4K**
+   * **8K**
+
+Çözünürlük seçeneği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Panel Teknolojisi" %}
+<mark style="color:$primary;">**Panel Teknolojisi Seçeneğini Oluşturma**</mark>
 
+1. **Ayarlar > Katalog > Seçenekler > Seçenekler** sayfasına gidin.
+2. **Seçenek Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Seçenek Adı:** Panel Teknolojisi               _(Zorunlu)_
+   * **Görüntülenecek Ad:** Panel Teknolojisi   _(Zorunlu)_
+   * **Seçenek Kodu:** PNL-TKNLJ                    _(Zorunlu)_
+   * **Veri Tipi:** Metin                                         _(Zorunlu)_
+   *
+
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (79).png" alt="" width="232"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Seçenek oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (80).png" alt="" width="312"><figcaption></figcaption></figure></div>
+
+5. **Seçenek Değerleri** tab’ine gidin.
+6. **Değer Ekle** butonuna tıklayın.
+7.  Açılan **Yeni Değer** penceresinde aşağıdaki alanları doldurun:
+
+    * **Değer Adı:** LED         &#x20;
+    * **Görüntülenecek Değer Adı:** LED         &#x20;
+    * **Değer Kodu:** LED           &#x20;
+    *
+
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (81).png" alt="" width="231"><figcaption></figcaption></figure></div>
+
+
+8. Tek tek aşağıdaki değerleri oluşturun:
+   * **LED**
+   * **OLED**
+   * **QLED**
+
+Panel Teknolojisi seçeneği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Renk" %}
+<mark style="color:$primary;">**Renk Seçeneğini Oluşturma**</mark>
 
+1. **Ayarlar > Katalog > Seçenekler > Seçenekler** sayfasına gidin.
+2. **Seçenek Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Seçenek Adı:** Renk              _(Zorunlu)_
+   * **Görüntülenecek Ad:** Renk  _(Zorunlu)_
+   * **Seçenek Kodu:** RENK          _(Zorunlu)_
+   * **Veri Tipi:** Metin                     _(Zorunlu)_
+   *
+
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (82).png" alt="" width="233"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Seçenek oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (83).png" alt="" width="255"><figcaption></figcaption></figure></div>
+
+5. **Seçenek Değerleri** tab’ine gidin.
+6. **Değer Ekle** butonuna tıklayın.
+7. Açılan **Yeni Değer** penceresinde aşağıdaki alanları doldurun:
+   * **Değer Adı:** LED         &#x20;
+   * **Görüntülenecek Değer Adı:** LED         &#x20;
+   * **Değer Kodu:** LED     &#x20;
+
+Renk seçeneği oluşturulmuş olur.
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
