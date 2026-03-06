@@ -50,7 +50,7 @@
     * [Veri şeması nasıl oluşturulur?](products/lidia-pim/quick-start-guide/quick-start-guide.md)
     * [Özellik ve Seçenek nasıl tanımlanır?](products/lidia-pim/quick-start-guide/page-1.md)
     * [Havuz nedir, nasıl yönetilir?](products/lidia-pim/quick-start-guide/page-2.md)
-    * [Page 3](products/lidia-pim/quick-start-guide/page-3.md)
+    * [PIM'e ürün nasıl eklenir?](products/lidia-pim/quick-start-guide/pime-urun-nasil-eklenir.md)
   * [PIM User Guide](products/lidia-pim/user-guide/README.md)
     * [Getting Started](products/lidia-pim/pim-user-guide/getting-started.md)
     * [Settings](products/lidia-pim/pim-user-guide/settings.md)

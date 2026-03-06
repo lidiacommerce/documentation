@@ -55,17 +55,17 @@ Bu ilişki sayesinde ürünler doğru veri modeli ile oluşturulur.
 Eğer henüz bir veri şeması oluşturmadıysanız, [**Veri Şeması Nasıl Oluşturulur?**](https://docs.lidiacommerce.com/products/lidia-pim/quick-start-guide/veri-semasi-nasil-olusturulur) sayfasındaki adımları takip edebilirsiniz.
 {% endhint %}
 
-#### :arrow\_forward:<mark style="color:$info;">Kategori Nasıl Tanımlanır, Veri Şeması ile Nasıl İlişkilendirilir?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Kategori Nasıl Oluşturulur?</mark>
 
 Kategori oluşturmak için aşağıdaki adımları izleyin:
 
 {% stepper %}
 {% step %}
-**Katalog > Kategoriler sayfasına gidin.**
+<mark style="background-color:purple;">**Katalog > Kategoriler**</mark>**&#x20;sayfasına gidin.**
 {% endstep %}
 
 {% step %}
-**Kategori Ekle** **butonuna tıklayın.**
+<mark style="background-color:purple;">**Kategori Ekle**</mark> **butonuna tıklayın.**
 
 Açılan pencerede aşağıdaki alanları doldurun:
 
@@ -77,7 +77,7 @@ Açılan pencerede aşağıdaki alanları doldurun:
 
 > Kategorinizi hiyerarşik bir yapıda oluşturmak istiyorsanız, **Üst Kategori (Opsiyonel)** alanından kategoriyi bağlamak istediğiniz üst kategoriyi seçebilirsiniz.
 
-> :warning:Aynı pencerede **Veri Şeması** alanı da yer alır. Bu alan seçilmeden kategori kaydedilebilir ve kategori oluşturulabilir. Ancak bu durumda kategori _<mark style="background-color:purple;">**taslak**</mark>_ statüsünde oluşturulur.
+> :warning:Aynı pencerede <mark style="background-color:purple;">**Veri Şeması**</mark> alanı da yer alır. Bu alan seçilmeden kategori kaydedilebilir ve kategori oluşturulabilir. Ancak bu durumda kategori _<mark style="background-color:purple;">**taslak**</mark>_ statüsünde oluşturulur.
 >
 > Yeni bir kategori oluştururken veri şeması seçmeniz önerilir. Bu sayede kategori doğrudan ilgili veri modeli ile ilişkilendirilmiş olur. \
 > Eğer veri şeması seçmeden taslak bir kategori oluşturduysanız, <mark style="background-color:purple;">kategori detay sayfasına</mark> giderek daha sonra **veri şeması** bağlayabilirsiniz.
@@ -87,4 +87,40 @@ Açılan pencerede aşağıdaki alanları doldurun:
 🎉**Kategori başarıyla oluşturuldu.**
 {% endstep %}
 {% endstepper %}
+
+#### :arrow\_forward:<mark style="color:$info;">Havuz Nasıl Oluşturulur?</mark>
+
+Kategori oluşturma işlemini tamamladıktan sonra <mark style="background-color:purple;">havuz oluşturma</mark> adımına geçebilirsiniz.
+
+Yeni bir havuz oluşturmak için aşağıdaki adımları izleyin:
+
+{% stepper %}
+{% step %}
+<mark style="background-color:purple;">**Ayarlar > Katalog > Havuzlar**</mark>**&#x20;sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Yeni Ürün Ailesi Ekle**</mark> **butonuna tıklayın.**
+
+Açılan pencerede sistemde tanımlı kategoriler, varsa alt kategorileriyle birlikte listelenir.
+
+Yeni bir ürün ailesi oluşturmak ve içerisine ürün ekleyebilmek için bir kategori seçmeniz gerekir.
+{% endstep %}
+
+{% step %}
+**Bir kategori seçtikten sonra&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
+
+{% step %}
+:tada:**Seçilen kategoriye bağlı olarak sistem, ürün eklemeye hazır&#x20;**<mark style="background-color:purple;">**boş bir havuz**</mark>**&#x20;oluşturur.**
+
+Bu havuz içinde ürünlerinizi oluşturmaya veya yüklemeye başlayabilirsiniz.
+{% endstep %}
+{% endstepper %}
+
+
+
+
+
+
 
