@@ -159,7 +159,7 @@ Lidia PIM’de ürün veri modelinizi iş ihtiyaçlarınıza göre esnek şekild
 {% endstep %}
 {% endstepper %}
 
-#### :arrow\_forward:<mark style="color:$info;">Seçenek nasıl eklenir?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Seçenek nasıl oluşturulur?</mark>
 
 {% stepper %}
 {% step %}
@@ -201,44 +201,104 @@ Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri
 
 {% tabs %}
 {% tab title="Enerji Sınıfı" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163628.png" alt="" width="235"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Enerji Sınıfı Özelliğini Oluşturma**</mark>
 
-yazıyazı
+1. **Ayarlar > Katalog > Özellikler** sayfasına gidin.
+2. **Özellik Ekle** butonuna tıklayın.
+3.  Açılan pencerede aşağıdaki alanları doldurun:
+
+    * **Özellik Adı:** Enerji Sınıfı
+    * **Özellik Kodu:** ENRJ-1
+    *
+
+        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163628.png" alt="" width="235"><figcaption></figcaption></figure></div>
+
+
+4. **Devam Et** butonuna tıklayın.
+
+Özellik oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
+
+5. **Veri Tipi** olarak **Çoklu Seçim** seçin.
+6. **Değer Ekle** butonuna tıklayarak aşağıdaki değerleri oluşturun:
+   * A
+   * B
+   * C
+   * D
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Ekran görüntüsü 2026-03-04 163752.png" alt="" width="264"><figcaption></figcaption></figure></div>
 
-
+Enerji sınıfı özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Garanti Süresi" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="233"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Garanti Süresi Özelliğini Oluşturma**</mark>
 
+1. **Ayarlar > Katalog > Özellikler** sayfasına gidin.
+2. **Özellik Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Özellik Adı:** Garanti Süresi (Ay)
+   * **Özellik Kodu:** GRNT
+   *
 
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="233"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Özellik oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.
+
+5. **Veri Tipi** olarak **Tam Sayı** seçin.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (59).png" alt="" width="335"><figcaption></figcaption></figure></div>
 
-
-
-<br>
+Garanti süresi özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Model Yılı" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="233"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Model Yılı Özelliğini Oluşturma**</mark>
 
-\
-<br>
+1. **Ayarlar > Katalog > Özellikler** sayfasına gidin.
+2. **Özellik Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Özellik Adı:** Model Yılı
+   * **Özellik Kodu:** MDL
+   *
+
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="233"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Özellik oluşturulduktan sonra detay sayfasına yönlendirilirsiniz. Detay sayfasında:
+
+5. **Veri Tipi** olarak **Tam Sayı** seçin.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (63).png" alt="" width="353"><figcaption></figcaption></figure></div>
+
+Model yılı özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 
 {% tab title="Dahili Uydu Alıcı" %}
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="230"><figcaption></figcaption></figure></div>
+<mark style="color:$primary;">**Dahili Uydu Alıcı Özelliğini Oluşturma**</mark>
 
+1. **Ayarlar > Katalog > Özellikler** sayfasına gidin.
+2. **Özellik Ekle** butonuna tıklayın.
+3. Açılan pencerede aşağıdaki alanları doldurun:
+   * **Özellik Adı:** Dahili Uydu Alıcı
+   * **Görüntülenecek Ad:** Dahili Uydu Alıcı
+   * **Özellik Kodu:** dahili\_uydu\_alici
+   *
 
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="230"><figcaption></figcaption></figure></div>
+4. **Devam Et** butonuna tıklayın.
+
+Özellik oluşturulduktan sonra detay sayfasına yönlendirilirsiniz. Detay sayfasında:
+
+5. **Veri Tipi** olarak **Var/Yok** seçin.
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="334"><figcaption></figcaption></figure></div>
+
+Dahili uydu alıcı özelliği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 {% endtabs %}
+
+
 
 Şimdi ürünün farklı versiyonlarını oluşturmak için **seçenekleri** tanımlayalım. Bu alanlar ürünün varyantlarını oluşturur ve fiyat veya stok bilgisini etkileyebilir.
 
