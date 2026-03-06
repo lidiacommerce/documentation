@@ -454,30 +454,64 @@ Renk seçeneği oluşturulmuş olur, artık veri şemasına bağlayabilirsiniz.
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### :arrow\_forward:<mark style="color:$info;">Özellikler ve seçenekler veri şemasına nasıl eklenir?</mark>
+
+Özellikleri ve seçenekleri oluşturduktan sonra, bu alanları ürün veri modelinizde kullanabilmek için veri şemasına eklemelisiniz.
+
+Bunun için:
+
+{% stepper %}
+{% step %}
+**Ayarlar > Katalog > Ürün Aileleri** sayfasına gidin.
+{% endstep %}
+
+{% step %}
+Özellik ve seçenekleri eklemek istediğiniz veri şemasını açın.
+{% endstep %}
+
+{% step %}
+Veri şeması detay sayfasında **Veri Şeması Alanları** tab’ine gidin.
+{% endstep %}
+
+{% step %}
+**Yeni Alan Ekle** butonuna tıklayın.
+
+* Alan Adı (Zorunlu)\
+  Veri şemasına eklemek istediğiniz alanın adını girin.
+* Alan Türü (Zorunlu)\
+  Eklemek istediğiniz alanın türünü seçin.
+  * Özellik eklemek için    -> Özellik
+  * Seçenek eklemek için -> Seçenek
+* Alan Değeri (Zorunlu)\
+  Alan Türü olarak **Özellik** veya **Seçenek** seçtiğinizde bu alan görünür.\
+  Bu bölümden daha önce oluşturduğunuz özelliği veya seçeneği seçin.
+{% endstep %}
+
+{% step %}
+Alanları doldurduktan sonra Kaydet butonuna tıklayın.
+{% endstep %}
+
+{% step %}
+Alan veri şemasına eklenir ve ürün oluşturma sırasında kullanılabilir hale gelir.
+
+:tada:Artık veri şemamızı kategoriye bağlayabilir, havuz oluşturma işlemine geçebiliriz.
+{% endstep %}
+{% endstepper %}
+
+> Televizyon örneğimizden devam edelim ve veri şeması için oluşturduğunuz özellikleri veri şemasına ekleyelim.
+>
+> Öncelikle **Televizyon veri şemasının** detay sayfasına gidin ve **Yeni Alan Ekle** butonuna tıklayın. Açılan pencerede **Alan Türü** olarak **Özellik** seçin. Ardından Alan Değeri alanından daha önce oluşturduğunuz özelliklerden birini seçin, eklemeyi tamamlayın:
+>
+> * Enerji Sınıfı
+> * Garanti Süresi
+> * Model Yılı
+> * Dahili Uydu Alıcı
+>
+> Aynı adımları izleyerek seçenekleri de veri şemasına ekleyebilirsiniz. Bunun için **Alan Türü** olarak Seçenek seçin ve Alan Değeri alanından daha önce oluşturduğunuz seçenekleri ekleyin:
+>
+> * Ekran Boyutu
+> * Çözünürlük
+> * Panel Teknolojisi
+> * Renk
+>
+> Bu şekilde televizyon ürünleri için tanımladığınız özellik ve seçenekleri veri şemasına ekleyebilir ve ürün modelinizde kullanabilirsiniz.
