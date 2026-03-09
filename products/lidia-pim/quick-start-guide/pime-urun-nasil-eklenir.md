@@ -43,3 +43,36 @@ icon: list-radio
 \
 Tüm bu adımlar tamamlandıysa artık ürünlerinizi Excel kullanarak sisteme yüklemeye hazırsınız.
 
+#### :arrow\_forward:<mark style="color:$info;">Excel Şablonu Nasıl İndirilir?</mark>
+
+Lidia PIM’de ürünlerinizi Excel dosyası kullanarak sisteme ekleyebilirsiniz. Bu yöntem sayesinde ister tek bir ürün girebilir, ister çok sayıda ürünü aynı anda toplu olarak yükleyebilirsiniz. Ürün bilgileri, havuzun bağlı olduğu veri şemasına göre oluşturulan Excel şablonu üzerinden sisteme aktarılır.
+
+{% stepper %}
+{% step %}
+**Katalog > Havuzlar sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**Ürün yüklemek istediğiniz havuzu bulun ve&#x20;**<mark style="background-color:purple;">**Ürünleri Yönet**</mark>**&#x20;butonuna tıklayarak havuz detay sayfasını açın.**&#x20;
+
+> **Not:** Daha önce ürün yüklenmemiş bir havuzda, detay sayfasında boş bir liste görünümü ile karşılaşırsınız. Eğer havuza daha önce ürün yüklenmişse, bu ürünler havuz detay sayfasında liste halinde görüntülenir.&#x20;
+{% endstep %}
+
+{% step %}
+**Ekranda yer alan&#x20;**<mark style="background-color:purple;">**İçeri Veri Aktar**</mark>**&#x20;butonuna tıklayın.**&#x20;
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+4\. Açılan pencerede Taslak Excel Şeması seçeneğini görecekiniz.
+
+5\. Bu seçeneğe tıklayarak Excel şablonunu indirebilirsiniz. Her havuz için oluşturulan Excel şablonu kendine özeldir. Şablon, havuzu oluştururken seçtiğiniz veri şeması ve bu veri şemasına eklediğiniz alanlara göre otomatik olarak oluşturulur. Bu nedenle farklı havuzlar için indirilen Excel şablonları farklı alan kombinasyonları içerebilir.

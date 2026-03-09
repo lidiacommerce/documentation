@@ -512,5 +512,9 @@ Alan veri şemasına eklenir ve ürün oluşturma sırasında kullanılabilir ha
 > * Çözünürlük
 > * Panel Teknolojisi
 > * Renk
+> *
+>
+>     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (86).png" alt="" width="375"><figcaption></figcaption></figure></div>
 >
 > Bu şekilde televizyon ürünleri için tanımladığınız özellik ve seçenekleri veri şemasına ekleyebilir ve ürün modelinizde kullanabilirsiniz.
+
