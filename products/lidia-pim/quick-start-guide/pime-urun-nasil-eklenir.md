@@ -34,11 +34,11 @@ icon: list-radio
 
 * [x] **4.Ürün kategorisi oluşturulmuş ve veri şeması kategoriye bağlanmış olmalıdır.**
 
-> Kategori ve veri şeması ilişkisi hakkında detaylar için → Kategori Nasıl Oluşturulur?
+> Kategori ve veri şeması ilişkisi hakkında detaylar için → [Kategori Nasıl Oluşturulur?](page-2.md#kategori-nasil-olusturulur)
 
 * [x] **5.İlgili kategoriye bağlı bir havuz oluşturulmuş olmalıdır.**
 
-> Havuz oluşturma adımlarını görmek için → Havuzları Anlayın ve Yönetin
+> Havuz oluşturma adımlarını görmek için → [Havuzları Anlayın ve Yönetin](page-2.md#havuzlari-anlayin-ve-yonetin)
 
 \
 Tüm bu adımlar tamamlandıysa artık ürünlerinizi Excel kullanarak sisteme yüklemeye hazırsınız.
