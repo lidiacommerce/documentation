@@ -106,6 +106,5 @@ Zorunlu alanlar **kırmızı renkle işaretlenir**.
 Bu alanlar boş bırakılırsa ürün yükleme işlemi sırasında hata oluşur.
 {% endhint %}
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
->
