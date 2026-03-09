@@ -60,19 +60,16 @@ Lidia PIM’de ürünlerinizi Excel dosyası kullanarak sisteme ekleyebilirsiniz
 
 {% step %}
 **Ekranda yer alan&#x20;**<mark style="background-color:purple;">**İçeri Veri Aktar**</mark>**&#x20;butonuna tıklayın.**&#x20;
-
-
 {% endstep %}
 
 {% step %}
-###
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Taslak Şemayı İndir**</mark>**&#x20;seçeneğini görecekiniz.**
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (87).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+Bu seçeneğe tıklayarak Excel şablonunu indirebilirsiniz.
+
+> Her havuz için oluşturulan Excel şablonu kendine özeldir. Şablon, havuzu oluştururken seçtiğiniz veri şeması ve bu veri şemasına eklediğiniz alanlara göre otomatik olarak oluşturulur. Bu nedenle farklı havuzlar için indirilen Excel şablonları farklı alan kombinasyonları içerebilir.
 {% endstep %}
 {% endstepper %}
 
-
-
-4\. Açılan pencerede Taslak Excel Şeması seçeneğini görecekiniz.
-
-5\. Bu seçeneğe tıklayarak Excel şablonunu indirebilirsiniz. Her havuz için oluşturulan Excel şablonu kendine özeldir. Şablon, havuzu oluştururken seçtiğiniz veri şeması ve bu veri şemasına eklediğiniz alanlara göre otomatik olarak oluşturulur. Bu nedenle farklı havuzlar için indirilen Excel şablonları farklı alan kombinasyonları içerebilir.
