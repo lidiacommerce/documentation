@@ -73,3 +73,38 @@ Bu seçeneğe tıklayarak Excel şablonunu indirebilirsiniz.
 {% endstep %}
 {% endstepper %}
 
+#### :arrow\_forward:<mark style="color:$info;">Excel Dosyası Nasıl Doldurulur?</mark>
+
+İndirdiğiniz Excel dosyası, ürün bilgilerini sisteme yüklemek için doldurmanız gereken alanları içerir. Dosya içinde her alanın ne anlama geldiğini ve hangi alanların zorunlu olduğunu görebilirsiniz.&#x20;
+
+İndirdiğiniz Excel dosyası iki sayfadan oluşur:
+
+1. **Şablon Bilgileri**
+2. **Ürünler**
+
+Her iki sayfa da ürün yükleme sürecinde farklı bir amaçla kullanılır.
+
+***
+
+:star:**Şablon Bilgileri Sayfası**
+
+Excel dosyasındaki ilk sayfa Şablon Bilgileri sayfasıdır. Bu sayfa, Excel dosyasında dolduracağınız tüm alanlar hakkında bilgi içerir.
+
+Bu sayfada:
+
+* Alan adları
+* Alan açıklamaları
+* Alanların zorunlu veya opsiyonel olup olmadığı
+
+gösterilir.
+
+Sistem tarafından otomatik oluşturulan alanlarda alan açıklamaları hazır olarak gelir. Eğer veri şeması oluştururken kendi alanlarınız için açıklama eklediyseniz (örneğin özellik, seçenek, marka veya kategori alanları), bu açıklamalar da Excel dosyasında görüntülenir.
+
+{% hint style="danger" %}
+Zorunlu alanlar **kırmızı renkle işaretlenir**.
+
+Bu alanlar boş bırakılırsa ürün yükleme işlemi sırasında hata oluşur.
+{% endhint %}
+
+
+
