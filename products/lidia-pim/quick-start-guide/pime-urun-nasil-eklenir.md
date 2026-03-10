@@ -118,6 +118,8 @@ Excel dosyasında bazı alanlar <mark style="background-color:purple;">sistem ta
 
 <table><thead><tr><th valign="top">Zorunlu</th><th valign="top">Opsiyonel</th><th valign="top">Salt Okunur</th></tr></thead><tbody><tr><td valign="top"><p>Bu alanlardan aşağıdakiler <strong>zorunlu alanlardır</strong> ve ürün yükleme sırasında doldurulmaları gerekir:</p><p></p><ul><li><mark style="color:purple;">Ürün Adı</mark></li><li><mark style="color:purple;">Ürün Tekil Kodu</mark></li><li><mark style="color:purple;">Satıcı Eşya Kodu</mark></li><li><mark style="color:purple;">Grup Kodu</mark></li><li><mark style="color:purple;">Resim Kodu</mark></li><li><mark style="color:purple;">Ürün Durumu</mark></li><li><mark style="color:purple;">Havuz Durumu</mark></li></ul></td><td valign="top"><p>Bu alanlardan aşağıdakiler  <strong>opsiyoneldir</strong> ve ürünleri etiketlemek veya sınıflandırmak için kullanılabilir.</p><p></p><ul><li><mark style="color:purple;">Etiketler</mark></li><li><mark style="color:purple;">Rozetler</mark></li><li><mark style="color:purple;">Yönetsel Etiketler</mark></li><li><mark style="color:purple;">Diğer Etiketler</mark></li></ul></td><td valign="top"><p>Bu alanlardan aşağıdakiler  <strong>salt okunur</strong> yapıdadır ve kullanıcı tarafından düzenlenemez.</p><p></p><p></p><ul><li><mark style="color:purple;">Güncellenme Tarihi</mark></li><li><mark style="color:purple;">Oluşturulma Tarihi</mark></li></ul></td></tr></tbody></table>
 
+***
+
 :star:**Ürünler Sayfası**
 
 Excel dosyasındaki ikinci sayfa Ürünler sayfasıdır. <mark style="background-color:purple;">Ürün bilgilerini gireceğiniz asıl sayfa</mark> burasıdır. Şablon Bilgileri sayfasında açıklamalarını gördüğünüz alanları, bu sayfada <mark style="background-color:purple;">ürün bazında</mark> doldurursunuz.
@@ -171,3 +173,36 @@ Aynı bölümde yer alan <mark style="background-color:purple;">**Ürün Durumu*
 
 <table><thead><tr><th width="158.5185546875">Ürün Durumu</th><th width="153.40740966796875">Havuz Durumu</th><th>Sonuç</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>Ürün havuzda aktif ve yayınlanmaya hazır</td></tr><tr><td>1</td><td>0</td><td>Havuz pasif olduğu için ürün yüklenemez</td></tr><tr><td>0</td><td>1</td><td>Ürün pasif olarak havuza eklenir, yayınlanamaz</td></tr><tr><td>0</td><td>0</td><td>Havuz pasif olduğu için ürün yüklenemez</td></tr><tr><td>-</td><td>-99</td><td>Ürün sistemden silinir</td></tr></tbody></table>
 
+#### :arrow\_forward:<mark style="color:$info;">Ürün Yükleme İşlemi Nasıl Yapılır?</mark>
+
+Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağıdaki adımları izleyin.
+
+{% stepper %}
+{% step %}
+**Katalog > Havuzlar sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**Ürün yüklemek istediğiniz havuzu bulun ve&#x20;**<mark style="background-color:purple;">**Ürünleri Yönet**</mark>**&#x20;butonuna tıklayarak havuz detay sayfasını açın.**
+
+
+{% endstep %}
+
+{% step %}
+**Sayfanın üst bölümünde yer alan&#x20;**<mark style="background-color:purple;">**Veriyi İçe Aktar**</mark>**&#x20;butonuna tıklayın.**
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure></div>

@@ -79,6 +79,8 @@ Açılan pencerede aşağıdaki alanları doldurun:
 
 > :warning:Aynı pencerede <mark style="background-color:purple;">**Veri Şeması**</mark> alanı da yer alır. Bu alan seçilmeden kategori kaydedilebilir ve kategori oluşturulabilir. Ancak bu durumda kategori _<mark style="background-color:purple;">**taslak**</mark>_ statüsünde oluşturulur.
 >
+> ![](<../../../.gitbook/assets/image (91).png>)
+>
 > Yeni bir kategori oluştururken veri şeması seçmeniz önerilir. Bu sayede kategori doğrudan ilgili veri modeli ile ilişkilendirilmiş olur. \
 > Eğer veri şeması seçmeden taslak bir kategori oluşturduysanız, <mark style="background-color:purple;">kategori detay sayfasına</mark> giderek daha sonra **veri şeması** bağlayabilirsiniz.
 {% endstep %}
