@@ -2,4 +2,4 @@
 title: Untitled
 ---
 
-<div align="left" data-with-frame="true"><figure><img src="../assets/image.png" alt="" width="233"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../assets/image (1).png" alt="" width="233"><figcaption></figcaption></figure></div>

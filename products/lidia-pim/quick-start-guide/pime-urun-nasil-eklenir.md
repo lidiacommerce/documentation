@@ -198,12 +198,18 @@ Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağ
 Bu alana yalnızca Excel formatında (.xlsx) dosya yükleyebilirsiniz.
 
 Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:purple;background-color:purple;">Yeni Excel Dokümanı Yükle → Veriyi Kontrol Et → Tamamlandı.</mark>_
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="210"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
+**Excel dosyası yüklendikten sonra&#x20;**<mark style="background-color:purple;">**Yeni Excel Dokümanı Yükle**</mark>**&#x20;adımı tamamlanır ve&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklanarak bir sonraki adıma geçilir.**
+{% endstep %}
 
+{% step %}
+**Veriyi Kontrol Et adımında sistem Excel dosyasındaki verileri kontrol eder.  Ardından Devam Et butonuna tıklayarak içe aktarımı onaylama adımına geçilir.**
 
-
+Eğer veriler hatasız ise yüklediğiniz ürünler ekranda listelenir ve hatasız uyarısı görüntülenir.
 {% endstep %}
 {% endstepper %}
 
