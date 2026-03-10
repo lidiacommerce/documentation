@@ -100,11 +100,17 @@ gösterilir.
 
 Sistem tarafından otomatik oluşturulan alanlarda alan açıklamaları hazır olarak gelir. Eğer veri şeması oluştururken kendi alanlarınız için açıklama eklediyseniz (örneğin özellik, seçenek, marka veya kategori alanları), bu açıklamalar da Excel dosyasında görüntülenir.
 
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+> Televizyon örneği üzerinden ilerlediğimiz bu senaryoda **Marka** ve **Kategori** alanları için veri şeması oluşturulurken açıklama bilgisi eklenmiştir. Bu nedenle Excel dosyasında bu alanların **Alan Açıklaması** sütununun dolu olduğu görülür. Örneğe göz atmak için: [<mark style="color:$info;">Örnek Senaryo: Televizyon Ürünü için Veri Şeması Oluşturma</mark>](quick-start-guide.md#ornek-senaryo-televizyon-urunu-icin-veri-semasi-olusturma)
+>
+> Bu alanlar haricinde açıklaması dolu olan diğer alanlar ise **sistem tarafından otomatik olarak oluşturulan ve açıklaması sistem tarafından eklenen alanlardır**.
+
 {% hint style="danger" %}
 Zorunlu alanlar **kırmızı renkle işaretlenir**.
 
 Bu alanlar boş bırakılırsa ürün yükleme işlemi sırasında hata oluşur.
 {% endhint %}
 
-<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure></div>
+:star:**Ürünler Sayfası**
 
