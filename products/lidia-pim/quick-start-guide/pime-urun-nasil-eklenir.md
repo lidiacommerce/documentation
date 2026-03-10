@@ -223,7 +223,7 @@ Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:pur
 {% endstep %}
 {% endstepper %}
 
-
+***
 
 Excel yükleme işlemi tamamlandığında ürünler havuza eklenir ve yayınlanmayı bekler. Bu ürünleri <mark style="background-color:purple;">havuz detay sayfasında Tümü sekmesi</mark> altında görebilirsiniz. Ürünleri canlıya almak için aşağıdaki adımları izleyin.
 
@@ -282,6 +282,8 @@ Bu ekranda ürünler **Yeni Ürünler**, **Güncellenen Ürünler**, **Yeni Vary
 #### :arrow\_forward:<mark style="color:$info;">Olası Hatalar ve Çözüm Yolları</mark>
 
 
+
+#### :arrow\_forward:Import sonrası kontrol adımları
 
 _<mark style="color:$info;">Veriyi Kontrol Et</mark>_ adımında sistem Excel dosyasındaki verileri kontrol eder. Eğer dosyada hata varsa işlem tamamlanmaz ve aşağıdaki uyarı görüntülenir:
 
