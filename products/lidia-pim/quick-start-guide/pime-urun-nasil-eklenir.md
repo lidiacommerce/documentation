@@ -185,17 +185,23 @@ Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağ
 {% step %}
 **Ürün yüklemek istediğiniz havuzu bulun ve&#x20;**<mark style="background-color:purple;">**Ürünleri Yönet**</mark>**&#x20;butonuna tıklayarak havuz detay sayfasını açın.**
 
-
+<a href="https://pim.lidiacommerce.com/metadata/data-pools" class="button primary">Ürünleri Yönet</a>
 {% endstep %}
 
 {% step %}
 **Sayfanın üst bölümünde yer alan&#x20;**<mark style="background-color:purple;">**Veriyi İçe Aktar**</mark>**&#x20;butonuna tıklayın.**
-
-
 {% endstep %}
 
 {% step %}
-###
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Dosyayı yüklemek için tıklayın**</mark>**&#x20;alanına tıklayın ve hazırladığınız dolu Excel dosyasını seçin.**
+
+Bu alana yalnızca Excel formatında (.xlsx) dosya yükleyebilirsiniz.
+
+Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:purple;background-color:purple;">Yeni Excel Dokümanı Yükle → Veriyi Kontrol Et → Tamamlandı.</mark>_
+{% endstep %}
+
+{% step %}
+
 
 
 {% endstep %}
@@ -203,6 +209,38 @@ Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağ
 
 
 
+#### :arrow\_forward:<mark style="color:$info;">Olası Hatalar ve Çözüm Yolları</mark>
 
+
+
+_<mark style="color:$info;">Veriyi Kontrol Et</mark>_ adımında sistem Excel dosyasındaki verileri kontrol eder. Eğer dosyada hata varsa işlem tamamlanmaz ve aşağıdaki uyarı görüntülenir:
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+**İçe aktarım tamamlanamadı!**\
+Excel ile içeri veri aktarımı tamamlanamadı. Lütfen Excel dökümanını kontrol ederek tekrar deneyiniz.
+{% endhint %}
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+
+
