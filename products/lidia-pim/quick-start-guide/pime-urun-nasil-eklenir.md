@@ -175,11 +175,13 @@ Aynı bölümde yer alan <mark style="background-color:purple;">**Ürün Durumu*
 
 #### :arrow\_forward:<mark style="color:$info;">Ürün Yükleme İşlemi Nasıl Yapılır?</mark>
 
-Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağıdaki adımları izleyin.
+Ürün ekleme süreci iki temel aşamadan oluşur. İlk aşamada ürün bilgileri Excel dosyası kullanılarak <mark style="background-color:purple;">havuza yüklenir</mark>. İkinci aşamada ise havuza eklenen bu ürünler <mark style="background-color:purple;">kontrol edilerek yayınlanır</mark>. Aşağıdaki adımlarda ürünleri havuza yükledikten sonra nasıl yayınlayacağınızı inceleyebilirsiniz.
+
+#### <i class="fa-file-arrow-up">:file-arrow-up:</i> <mark style="color:$primary;">**Havuza ürün yükleme adımları**</mark>
 
 {% stepper %}
 {% step %}
-**Katalog > Havuzlar sayfasına gidin.**
+<mark style="background-color:purple;">**Katalog > Havuzlar**</mark>**&#x20;sayfasına gidin.**
 {% endstep %}
 
 {% step %}
@@ -218,12 +220,56 @@ Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:pur
 
 {% step %}
 :tada:**Havuza ürün aktarımı tamamlandı**
-
-
 {% endstep %}
 {% endstepper %}
 
 
+
+Excel yükleme işlemi tamamlandığında ürünler havuza eklenir ve yayınlanmayı bekler. Bu ürünleri <mark style="background-color:purple;">havuz detay sayfasında Tümü sekmesi</mark> altında görebilirsiniz. Ürünleri canlıya almak için aşağıdaki adımları izleyin.
+
+#### <i class="fa-arrow-down-to-square">:arrow-down-to-square:</i> <mark style="color:$primary;">**Havuzdaki Ürünleri Yayınlama Adımları**</mark>
+
+{% stepper %}
+{% step %}
+**Havuz detay sayfasında&#x20;**<mark style="background-color:purple;">**Tümü**</mark>**&#x20;sekmesine gidin, Yayınlamak istediğiniz ürünleri veya tüm ürünleri seçin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Ürünleri Yayınla**</mark>**&#x20;butonuna tıklayın.**
+
+Açılan pencerede aşağıdaki seçeneklerden birini seçin:
+
+* **Yalnızca seçilen ürünleri yayınla**
+* **Tüm ürün havuzunu yayınla**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (97).png" alt="" width="234"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Açılan doğrulama penceresinde&#x20;**<mark style="background-color:purple;">**Tüm Ürünler Yayınlanabilir kontrolü**</mark>**&#x20;yapılır.**\
+**Kontrol tamamlandıktan sonra&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (98).png" alt="" width="234"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Yayınlanacak ürünleri kontrol edin.**
+
+Bu ekranda ürünler **Yeni Ürünler**, **Güncellenen Ürünler**, **Yeni Varyantlar** ve **Güncellenen Varyantlar** başlıkları altında listelenir.
+
+> İlk kez yüklenen ürünler **Yeni Ürünler** ve **Yeni Varyantlar** altında görünür. Mevcut ürünlerde yapılan değişiklikler ise **Güncellenen Ürünler** ve **Güncellenen Varyantlar** başlıklarında gösterilir. Değiştirilen alanlar sarı renkle işaretlenir.
+{% endstep %}
+
+{% step %}
+
+
+
+{% endstep %}
+{% endstepper %}
 
 #### :arrow\_forward:<mark style="color:$info;">Olası Hatalar ve Çözüm Yolları</mark>
 
@@ -255,6 +301,30 @@ Excel ile içeri veri aktarımı tamamlanamadı. Lütfen Excel dökümanını ko
 
 
 <figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+
+
+havuzda yayınlanmayı bekliyo
+
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+m
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+
+
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="236"><figcaption></figcaption></figure></div>
+
+
 
 
 
