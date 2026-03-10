@@ -112,5 +112,62 @@ Zorunlu alanlar **kırmızı renkle işaretlenir**.
 Bu alanlar boş bırakılırsa ürün yükleme işlemi sırasında hata oluşur.
 {% endhint %}
 
+<i class="fa-arrow-turn-down-right">:arrow-turn-down-right:</i> **Sistem Tarafından Eklenen Alanlar**
+
+Excel dosyasında bazı alanlar <mark style="background-color:purple;">sistem tarafından otomatik</mark> olarak oluşturulur. Bu alanlar her havuz için standart olarak bulunur ve ürün yönetimi sürecinin doğru şekilde ilerlemesi için kullanılır.
+
+<table><thead><tr><th valign="top">Zorunlu</th><th valign="top">Opsiyonel</th><th valign="top">Salt Okunur</th></tr></thead><tbody><tr><td valign="top"><p>Bu alanlardan aşağıdakiler <strong>zorunlu alanlardır</strong> ve ürün yükleme sırasında doldurulmaları gerekir:</p><p></p><ul><li><mark style="color:purple;">Ürün Adı</mark></li><li><mark style="color:purple;">Ürün Tekil Kodu</mark></li><li><mark style="color:purple;">Satıcı Eşya Kodu</mark></li><li><mark style="color:purple;">Grup Kodu</mark></li><li><mark style="color:purple;">Resim Kodu</mark></li><li><mark style="color:purple;">Ürün Durumu</mark></li><li><mark style="color:purple;">Havuz Durumu</mark></li></ul></td><td valign="top"><p>Bu alanlardan aşağıdakiler  <strong>opsiyoneldir</strong> ve ürünleri etiketlemek veya sınıflandırmak için kullanılabilir.</p><p></p><ul><li><mark style="color:purple;">Etiketler</mark></li><li><mark style="color:purple;">Rozetler</mark></li><li><mark style="color:purple;">Yönetsel Etiketler</mark></li><li><mark style="color:purple;">Diğer Etiketler</mark></li></ul></td><td valign="top"><p>Bu alanlardan aşağıdakiler  <strong>salt okunur</strong> yapıdadır ve kullanıcı tarafından düzenlenemez.</p><p></p><p></p><ul><li><mark style="color:purple;">Güncellenme Tarihi</mark></li><li><mark style="color:purple;">Oluşturulma Tarihi</mark></li></ul></td></tr></tbody></table>
+
 :star:**Ürünler Sayfası**
+
+Excel dosyasındaki ikinci sayfa Ürünler sayfasıdır. <mark style="background-color:purple;">Ürün bilgilerini gireceğiniz asıl sayfa</mark> burasıdır. Şablon Bilgileri sayfasında açıklamalarını gördüğünüz alanları, bu sayfada <mark style="background-color:purple;">ürün bazında</mark> doldurursunuz.
+
+Ürünler sayfasında yer alan alanlar, ürün bilgilerini daha düzenli şekilde girebilmeniz için farklı başlıklar altında gruplanmıştır. Aşağıda bu başlıkların her birinin ne anlama geldiğini ve ürün girişinde nasıl kullanıldığını inceleyebilirsiniz.
+
+
+
+* **Temel Bilgiler Alanları**
+
+Temel Bilgiler alanı, ürünün sistemde tanımlanabilmesi için gerekli olan ana alanları içerir. Bu alanlar her havuz için sistem tarafından oluşturulur ve ürün kaydının oluşturulabilmesi için doldurulmaları gerekir.
+
+Bu bölümde _**Ürün Adı, Ürün Tekil Kodu, Lidia Kodu, Satıcı Eşya Kodu, Grup Kodu ve Resim Kodu**_ alanları yer alır.
+
+Ürün Adı, Ürün Tekil Kodu, Satıcı Eşya Kodu, Grup Kodu ve Resim Kodu alanlarının doldurulması gerekir. <mark style="color:$info;background-color:purple;">**Lidia Kodu**</mark> ise Lidia PIM sistemi tarafından otomatik olarak oluşturulduğu için kullanıcı tarafından doldurulmaz ve boş bırakılması gerekir.
+
+
+
+* **Kategori ve Marka Alanları**
+
+Kategori ve marka alanları, ürünün hangi kategori altında yer aldığını ve hangi markaya ait olduğunu belirlemek için kullanılır. <mark style="background-color:purple;">**Bu alanlar Excel dosyasında yalnızca veri şemasını oluştururken ilgili alanları veri şemasına eklediyseniz görünür.**</mark>
+
+Bu alanların zorunlu olup olmaması veri şemasına eklerken zorunlu seçeneğini aktif edip etmemenize bağlıdır. Eğer bu alanlar veri şemasında zorunlu olarak tanımlandıysa, Excel dosyasında da doldurulmaları gerekir. Boş bırakılması durumunda ürün yükleme sırasında sistem hata verecektir.
+
+* [x] Kategori ve marka alanlarında veri girmek için hücreye tıkladığınızda, sistemde tanımlı olan değerler arasından seçim yapabileceğiniz bir **seçim listesi** görüntülenir. Bu sayede ürün bilgileri sistemde tanımlı kategori ve marka değerleri ile uyumlu şekilde girilir.
+
+> Televizyon örneğinde veri şemasını oluştururken **Kategori** ve **Marka** alanlarını da veri şemasına eklemiştik. Bu nedenle televizyon havuzu için Excel şablonunu indirdiğinizde, kategori ve marka alanlarının Excel dosyasında otomatik olarak oluşturulduğunu görebilirsiniz. Bu alanlarda hücreye tıkladığınızda, sistemde tanımlı kategori ve marka değerleri arasından seçim yapabilirsiniz.
+
+
+
+* **Özellik ve Seçenek Alanları**
+
+Veri şemasına eklediğiniz özellikler ve seçenekler, Excel dosyasında otomatik olarak sütunlar halinde oluşturulur. Bu alanlar ürünün teknik özelliklerini ve varyant bilgilerini temsil eder.
+
+Bu alanların zorunlu olup olmaması, veri şemasına eklerken zorunlu seçeneğini aktif edip etmemenize bağlıdır. Zorunlu olarak tanımlanan alanların Excel dosyasında boş bırakılması ürün yükleme sırasında hata oluşmasına neden olur.
+
+Özellik ve seçenek alanlarında da hücreye tıkladığınızda daha önce sistemde tanımlanan değerleri seçebileceğiniz bir **seçim listesi** görüntülenir.
+
+> Televizyon örneğinde daha önce **Enerji Sınıfı, Garanti Süresi ve Model Yılı** gibi alanları özellik olarak; **Ekran Boyutu, Çözünürlük ve Panel Teknolojisi** gibi alanları ise seçenek olarak tanımlamıştık. Bu nedenle televizyon havuzu için Excel şablonunu indirdiğinizde, veri şemasına eklediğiniz bu özellik ve seçenek alanlarının Excel dosyasında otomatik olarak oluşturulduğunu görebilirsiniz.
+
+
+
+* **Diğer Bilgiler Alanı**
+
+Excel dosyasında ayrıca Diğer Bilgiler başlığı altında sistem tarafından otomatik olarak oluşturulan bazı alanlar yer alır. Bu bölümde _**Etiketler, Rozetler, Yönetsel Etiketler ve Diğer Etiketler**_ gibi alanlar bulunur. Bu alanların doldurulması zorunlu değildir ve ürünleri etiketlemek veya sınıflandırmak için kullanılabilir.
+
+Aynı bölümde yer alan <mark style="background-color:purple;">**Ürün Durumu**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ve</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Havuz Durumu**</mark> alanları ise ürünün sistemde nasıl kaydedileceğini belirleyen önemli alanlardır.
+
+* [x] Ürün Durumu alanı ürünün aktif veya pasif olup olmadığını belirler. Bu alanda **1 değeri ürünün aktif**, **0 değeri ise ürünün pasif** olduğunu ifade eder.
+* [x] Havuz Durumu alanı ise ürünün havuz içindeki durumunu belirler. Bu alanda **1 değeri aktif havuzu**, **0 değeri pasif havuzu**, **-99 değeri ise ürünün sistemden silinmesini** ifade eder.
+
+<table><thead><tr><th width="158.5185546875">Ürün Durumu</th><th width="153.40740966796875">Havuz Durumu</th><th>Sonuç</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>Ürün havuzda aktif ve yayınlanmaya hazır</td></tr><tr><td>1</td><td>0</td><td>Havuz pasif olduğu için ürün yüklenemez</td></tr><tr><td>0</td><td>1</td><td>Ürün pasif olarak havuza eklenir, yayınlanamaz</td></tr><tr><td>0</td><td>0</td><td>Havuz pasif olduğu için ürün yüklenemez</td></tr><tr><td>-</td><td>-99</td><td>Ürün sistemden silinir</td></tr></tbody></table>
 
