@@ -189,11 +189,11 @@ Excel dosyanızı hazırladıktan sonra ürünleri havuza yüklemek için aşağ
 {% endstep %}
 
 {% step %}
-**Sayfanın üst bölümünde yer alan&#x20;**<mark style="background-color:purple;">**Veriyi İçe Aktar**</mark>**&#x20;butonuna tıklayın.**
+**Sayfanın üst bölümünde yer alan "**<mark style="background-color:purple;">**Veriyi İçe Aktar"**</mark>**&#x20;butonuna tıklayın.**
 {% endstep %}
 
 {% step %}
-**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Dosyayı yüklemek için tıklayın**</mark>**&#x20;alanına tıklayın ve hazırladığınız dolu Excel dosyasını seçin.**
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**"Dosyayı yüklemek için tıklayın"**</mark>**&#x20;alanına tıklayın ve hazırladığınız dolu Excel dosyasını seçin.**
 
 Bu alana yalnızca Excel formatında (.xlsx) dosya yükleyebilirsiniz.
 
@@ -203,13 +203,23 @@ Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:pur
 {% endstep %}
 
 {% step %}
-**Excel dosyası yüklendikten sonra&#x20;**<mark style="background-color:purple;">**Yeni Excel Dokümanı Yükle**</mark>**&#x20;adımı tamamlanır ve&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklanarak bir sonraki adıma geçilir.**
+**Excel dosyası yüklendikten sonra&#x20;**<mark style="background-color:purple;">**Yeni Excel Dokümanı Yükle**</mark>**&#x20;adımı tamamlanır,&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın ve bir sonraki adıma geçin.**
 {% endstep %}
 
 {% step %}
-**Veriyi Kontrol Et adımında sistem Excel dosyasındaki verileri kontrol eder.  Ardından Devam Et butonuna tıklayarak içe aktarımı onaylama adımına geçilir.**
+<mark style="background-color:purple;">**Veriyi Kontrol Et**</mark>**&#x20;adımında sistem kontrolünden geçilir, ardından&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın ve içe aktarımı onaylama adımına geçin.**
+{% endstep %}
 
-Eğer veriler hatasız ise yüklediğiniz ürünler ekranda listelenir ve hatasız uyarısı görüntülenir.
+{% step %}
+<mark style="background-color:purple;">**"İçe aktarımı onaylıyorum"**</mark>**&#x20;butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (94).png" alt="" width="155"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+:tada:**Havuza ürün aktarımı tamamlandı**
+
+
 {% endstep %}
 {% endstepper %}
 
@@ -239,8 +249,6 @@ Excel ile içeri veri aktarımı tamamlanamadı. Lütfen Excel dökümanını ko
 <figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 
-
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 
 
