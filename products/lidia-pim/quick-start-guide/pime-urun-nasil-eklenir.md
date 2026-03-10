@@ -257,17 +257,25 @@ Açılan pencerede aşağıdaki seçeneklerden birini seçin:
 {% endstep %}
 
 {% step %}
-**Yayınlanacak ürünleri kontrol edin.**
+**Yayınlamadan önce ürünleri inceleyerek kontrol edin.**
 
 Bu ekranda ürünler **Yeni Ürünler**, **Güncellenen Ürünler**, **Yeni Varyantlar** ve **Güncellenen Varyantlar** başlıkları altında listelenir.
 
-> İlk kez yüklenen ürünler **Yeni Ürünler** ve **Yeni Varyantlar** altında görünür. Mevcut ürünlerde yapılan değişiklikler ise **Güncellenen Ürünler** ve **Güncellenen Varyantlar** başlıklarında gösterilir. Değiştirilen alanlar sarı renkle işaretlenir.
+> <mark style="background-color:purple;">İlk kez yüklenen ürünler</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Yeni Ürünler**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ve</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Yeni Varyantlar**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">altında görünür.</mark> Mevcut ürünlerde yapılan değişiklikler ise Güncellenen Ürünler ve Güncellenen Varyantlar başlıklarında gösterilir. Değiştirilen alanlar sarı renkle işaretlenir.
 {% endstep %}
 
 {% step %}
+<mark style="background-color:purple;">**Onayla ve Yayına Al**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
 
+{% step %}
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Yayınla**</mark>**&#x20;butonuna tıklayın.**
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="236"><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+:tada:**İlk ürününüzü PIM’e yüklediniz ve yayınladınız.**
 {% endstep %}
 {% endstepper %}
 
@@ -321,8 +329,6 @@ m
 
 
 
-
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (100).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
 
 
