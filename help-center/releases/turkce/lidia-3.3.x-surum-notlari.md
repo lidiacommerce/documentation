@@ -43,7 +43,7 @@ Ayrıca varyant detayında yapılan değişikliklerin havuz verisi ile senkron k
 
 ### İyileştirmeler
 
-### 💡 **Havuz Yönetimi İyileştirmeleri**
+### 💡 Havuz Yönetimi İyileştirmeleri
 
 #### Havuz yayınlama doğrulama deneyimi iyileştirmesi Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.2.4</mark>
 
