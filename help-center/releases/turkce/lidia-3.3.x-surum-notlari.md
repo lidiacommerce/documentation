@@ -30,14 +30,23 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 ### Yeni Geliştirmeler
 
-### 🎯 Ürün Varyant Yönetimi Geliştirmeleri
+### 🎯 **Ürün Varyant Yönetimi Geliştirmeleri**
 
-#### Varyant İlişkisi Güncelleme Yeteneği ve Havuz Senkronizasyon Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.3.1</mark>
+#### **Varyant İlişkisi Güncelleme Yeteneği** Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.3.1</mark>
 
-Bu geliştirme kapsamında Lidia PIM’de yayınlanmış ürünlere ait varyant ilişkilerinin daha esnek şekilde yönetilebilmesi sağlanmıştır.\
-Daha önce değiştirilemeyen Grup Kodu / Ürün Kodu alanı artık varyant detayı üzerinden güncellenebilir hale getirilmiştir. Böylece yanlış ürün grubuna bağlı varyantlar doğru ürün altında yeniden konumlandırılabilmektedir.
+Bu geliştirme kapsamında Lidia PIM’de yayınlanmış ürünlere ait varyant ilişkilerinin daha esnek şekilde yönetilebilmesi sağlanmıştır.
 
-Ayrıca varyant detayında yapılan değişikliklerin havuz verisi ile senkron kalmasını sağlamak amacıyla “Verilerle Havuzu Geri Besle” aksiyonu eklenmiştir. Bu aksiyon sayesinde yapılan güncellemeler kontrollü şekilde ürün havuzuna yansıtılabilmektedir.
+Daha önce değiştirilemeyen Grup Kodu / Ürün Kodu alanı artık varyant detayı üzerinden güncellenebilir hale getirilmiştir. Böylece yanlış ürün grubuna bağlı varyantlar doğru ürün altında yeniden konumlandırılabilmektedir. Bu yetenek sayesinde hatalı varyant eşleşmeleri kullanıcılar tarafından doğrudan PIM üzerinden yönetilebilir hale gelmiştir.
+
+
+
+### 🎯 **Veri Senkronizasyonu Geliştirmeleri**
+
+#### **Verilerle Havuzu Geri Besle Aksiyonunun Eklenmesi** Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.3.2</mark>
+
+Bu geliştirme kapsamında varyant detayında yapılan güncellemelerin ürün havuzu ile senkron kalmasını sağlamak amacıyla **“Verilerle Havuzu Geri Besle”** aksiyonu eklenmiştir.
+
+Bu aksiyon sayesinde varyant veya ürün detayında yapılan değişiklikler kullanıcı kontrolünde ürün havuzuna yansıtılabilmekte ve havuz verisi ile canlı ürün verisinin tutarlı şekilde yönetilmesi sağlanmaktadır.
 
 
 
@@ -47,7 +56,7 @@ Ayrıca varyant detayında yapılan değişikliklerin havuz verisi ile senkron k
 
 ### 💡 Havuz Yönetimi İyileştirmeleri
 
-#### Havuz yayınlama doğrulama deneyimi iyileştirmesi Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.2.4</mark>
+#### **Havuz yayınlama doğrulama deneyimi iyileştirmesi** Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.3.3</mark>
 
 Bu iyileştirme kapsamında Lidia PIM havuz ekranında ürün yayınlama süreci daha şeffaf ve yönlendirici hale getirilmiştir.\
 Yayınlama işlemi öncesinde sistem tarafından otomatik doğrulama çalıştırılarak yayınlanabilir ve yayınlanamaz ürün sayıları kullanıcıya açık şekilde gösterilmektedir.\
