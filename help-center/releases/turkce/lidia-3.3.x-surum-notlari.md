@@ -47,7 +47,7 @@ Ayrıca varyant detayında yapılan değişikliklerin havuz verisi ile senkron k
 
 #### Havuz yayınlama doğrulama deneyimi iyileştirmesi Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.2.4</mark>
 
-Bu geliştirme kapsamında Lidia PIM havuz ekranında ürün yayınlama süreci daha şeffaf ve yönlendirici hale getirilmiştir.\
+Bu iyileştirme kapsamında Lidia PIM havuz ekranında ürün yayınlama süreci daha şeffaf ve yönlendirici hale getirilmiştir.\
 Yayınlama işlemi öncesinde sistem tarafından otomatik doğrulama çalıştırılarak yayınlanabilir ve yayınlanamaz ürün sayıları kullanıcıya açık şekilde gösterilmektedir.\
 Yayınlanamayan ürünler için neden bazlı açıklamalar sunulmakta ve kullanıcıya tam yayınlama, kısmi yayınlama veya eksik bilgileri tamamlayarak tekrar deneme seçenekleri sağlanmaktadır.
 
