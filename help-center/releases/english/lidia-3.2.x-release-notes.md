@@ -49,16 +49,6 @@ The application is now available in three languages: English (EN), Turkish (TR),
 
 
 
-### 🎯Product Variant Management Enhancements
-
-#### **Variant Relationship Update Capability and Pool Synchronization** **Release Date:** 11/03/2026 **Version Number:** <mark style="color:purple;">LP-3.2.3</mark>
-
-With this development, variant relationships of published products in Lidia PIM can now be managed more flexibly. The Group Code / Product Code field, which previously could not be modified, is now editable through the variant detail page. This enables variants that were incorrectly associated with a product group to be repositioned under the correct product.
-
-Additionally, a “Feed Pool with Data” action has been introduced to ensure that updates made on the variant detail remain synchronized with pool data. Through this action, the changes can be reflected to the product pool in a controlled manner.
-
-
-
 ### Improvements
 
 ### 💡 Security Enhancements
@@ -79,15 +69,7 @@ Search is triggered only when a valid field is selected and at least 3 character
 
 
 
-### 💡 Pool Management Improvements
 
-#### **Improvement of the Pool Publishing Validation Experience** **Release Date:** 11/03/2026 **Version Number:** <mark style="color:purple;">LP-3.2.4</mark>
-
-With this development, the product publishing process on the Lidia PIM pool screen has been made more transparent and user-guided.
-
-Before the publishing process starts, the system now runs an automatic validation and clearly displays the number of publishable and non-publishable products to the user. For products that cannot be published, reason-based explanations are provided, and users are given options to proceed with full publishing, partial publishing, or complete missing information and try again.
-
-With this improvement, users can quickly identify publishing issues and manage the publishing process without interrupting operational workflows.
 
 ***
 
