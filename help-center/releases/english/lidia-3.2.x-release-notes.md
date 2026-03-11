@@ -79,7 +79,7 @@ Search is triggered only when a valid field is selected and at least 3 character
 
 
 
-### 💡 **Pool Management Improvements**
+### 💡 Pool Management Improvements
 
 #### **Improvement of the Pool Publishing Validation Experience** **Release Date:** 11/03/2026 **Version Number:** <mark style="color:purple;">LP-3.2.4</mark>
 
