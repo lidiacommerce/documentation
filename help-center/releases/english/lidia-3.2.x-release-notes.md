@@ -77,6 +77,18 @@ As part of this enhancement, the Invoice Center search experience has been expan
 
 Search is triggered only when a valid field is selected and at least 3 characters are entered. Existing loading and empty-state behaviors continue to operate without any change within the current search flow.
 
+
+
+### 💡 **Pool Management Improvements**
+
+#### **Improvement of the Pool Publishing Validation Experience** **Release Date:** 11/03/2026 **Version Number:** <mark style="color:purple;">LP-3.2.4</mark>
+
+With this development, the product publishing process on the Lidia PIM pool screen has been made more transparent and user-guided.
+
+Before the publishing process starts, the system now runs an automatic validation and clearly displays the number of publishable and non-publishable products to the user. For products that cannot be published, reason-based explanations are provided, and users are given options to proceed with full publishing, partial publishing, or complete missing information and try again.
+
+With this improvement, users can quickly identify publishing issues and manage the publishing process without interrupting operational workflows.
+
 ***
 
 {% hint style="info" %}
