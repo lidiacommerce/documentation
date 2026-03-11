@@ -48,7 +48,7 @@ Bu güncelleme ile birlikte uygulama artık İngilizce (EN), Türkçe (TR) ve Al
 
 ### 🎯 Ürün Varyant Yönetimi Geliştirmeleri
 
-#### Varyant İlişkisi Güncelleme Yeteneği ve Havuz Senkronizasyonu                  Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.2.3</mark>
+#### Varyant İlişkisi Güncelleme Yeteneği ve Havuz Senkronizasyon Sürüm Tarihi: 11/03/2026 Sürüm Numarası: LP-3.2.3
 
 Bu geliştirme kapsamında Lidia PIM’de yayınlanmış ürünlere ait varyant ilişkilerinin daha esnek şekilde yönetilebilmesi sağlanmıştır.\
 Daha önce değiştirilemeyen Grup Kodu / Ürün Kodu alanı artık varyant detayı üzerinden güncellenebilir hale getirilmiştir. Böylece yanlış ürün grubuna bağlı varyantlar doğru ürün altında yeniden konumlandırılabilmektedir.
