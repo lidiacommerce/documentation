@@ -46,17 +46,6 @@ Bu güncelleme ile birlikte uygulama artık İngilizce (EN), Türkçe (TR) ve Al
 
 
 
-### 🎯 Ürün Varyant Yönetimi Geliştirmeleri
-
-#### Varyant İlişkisi Güncelleme Yeteneği ve Havuz Senkronizasyon Sürüm Tarihi: 11/03/2026 Sürüm Numarası: LP-3.2.3
-
-Bu geliştirme kapsamında Lidia PIM’de yayınlanmış ürünlere ait varyant ilişkilerinin daha esnek şekilde yönetilebilmesi sağlanmıştır.\
-Daha önce değiştirilemeyen Grup Kodu / Ürün Kodu alanı artık varyant detayı üzerinden güncellenebilir hale getirilmiştir. Böylece yanlış ürün grubuna bağlı varyantlar doğru ürün altında yeniden konumlandırılabilmektedir.
-
-Ayrıca varyant detayında yapılan değişikliklerin havuz verisi ile senkron kalmasını sağlamak amacıyla “Verilerle Havuzu Geri Besle” aksiyonu eklenmiştir. Bu aksiyon sayesinde yapılan güncellemeler kontrollü şekilde ürün havuzuna yansıtılabilmektedir.
-
-
-
 
 
 ### İyileştirmeler
@@ -78,16 +67,6 @@ Bu geliştirme kapsamında Fatura Merkezi arama deneyimi genişletilmiştir. Kul
 Arama yalnızca geçerli bir alan seçildiğinde ve en az 3 karakter girildiğinde tetiklenir. Mevcut yükleniyor ve boş sonuç davranışları mevcut arama akışı içerisinde değişiklik olmaksızın çalışmaya devam etmektedir.
 
 
-
-### 💡 **Havuz Yönetimi İyileştirmeleri**
-
-#### Havuz yayınlama doğrulama deneyimi iyileştirmesi Sürüm Tarihi: 11/03/2026 Sürüm Numarası: <mark style="color:purple;">LP-3.2.4</mark>
-
-Bu geliştirme kapsamında Lidia PIM havuz ekranında ürün yayınlama süreci daha şeffaf ve yönlendirici hale getirilmiştir.\
-Yayınlama işlemi öncesinde sistem tarafından otomatik doğrulama çalıştırılarak yayınlanabilir ve yayınlanamaz ürün sayıları kullanıcıya açık şekilde gösterilmektedir.\
-Yayınlanamayan ürünler için neden bazlı açıklamalar sunulmakta ve kullanıcıya tam yayınlama, kısmi yayınlama veya eksik bilgileri tamamlayarak tekrar deneme seçenekleri sağlanmaktadır.
-
-Bu iyileştirme ile birlikte kullanıcıların yayınlama sürecindeki hataları hızlı şekilde tespit etmesi ve operasyonu kesintiye uğratmadan yönetmesi hedeflenmiştir.
 
 
 
