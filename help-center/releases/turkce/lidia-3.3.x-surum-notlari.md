@@ -2,6 +2,8 @@
 description: >-
   Bu ay boyunca Lidia platformunda fonksiyonellik ve kullanıcı deneyimini
   iyileştiren en son güncellemeleri ve geliştirmeleri keşfedin.
+cover: ../../../.gitbook/assets/1.png
+coverY: 0
 ---
 
 # Lidia 3.3.x sürüm notları
@@ -24,7 +26,7 @@ Bu kodlar, platform genelindeki iyileştirmelerin hangi alanlara yönelik olduğ
 
 
 
-## <mark style="color:purple;">**Sürüm 3.2**</mark>
+## <mark style="color:purple;">**Sürüm 3.3**</mark>
 
 ### Yeni Geliştirmeler
 
