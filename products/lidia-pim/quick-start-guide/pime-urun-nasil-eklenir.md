@@ -400,9 +400,9 @@ Yayınlama tamamlandıktan sonra ürünler havuz detay sayfasındaki hen _<mark 
 
 {% stepper %}
 {% step %}
-###
+**Katalog > Havuzlar sayfasına gidin.**
 
-
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (106).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
