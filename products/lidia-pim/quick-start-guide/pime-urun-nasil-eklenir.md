@@ -281,22 +281,142 @@ Bu ekranda ürünler **Yeni Ürünler**, **Güncellenen Ürünler**, **Yeni Vary
 
 #### :arrow\_forward:<mark style="color:$info;">Olası Hatalar ve Çözüm Yolları</mark>
 
+Ürün yükleme ve yayınlama süreçlerinde sistem bazı doğrulamalar yapar. Bu doğrulamalar, ürün verilerinin eksik veya hatalı şekilde sisteme eklenmesini engellemek için uygulanır.
 
 
-#### :arrow\_forward:Import sonrası kontrol adımları
 
-_<mark style="color:$info;">Veriyi Kontrol Et</mark>_ adımında sistem Excel dosyasındaki verileri kontrol eder. Eğer dosyada hata varsa işlem tamamlanmaz ve aşağıdaki uyarı görüntülenir:
+* **Excel Yükleme Aşamasında Karşılaşılabilecek Hatalar**
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure></div>
+Excel dosyası yüklenirken sistem _<mark style="color:$info;">Veriyi Kontrol Et</mark>_ adımında dosyadaki verileri kontrol eder. Eğer Excel dosyasında hata bulunursa işlem tamamlanmaz ve uyarılar görüntülenir.
+
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (89).png" alt="Aktarım Tamamlanamadı Uyarısı" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 **İçe aktarım tamamlanamadı!**\
 Excel ile içeri veri aktarımı tamamlanamadı. Lütfen Excel dökümanını kontrol ederek tekrar deneyiniz.
 {% endhint %}
 
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Lidia kodu alanının doldurulması**\
+Lidia Kodu alanı sistem tarafından otomatik oluşturulur. Bu alanın kullanıcı tarafından doldurulması yükleme işlemi sırasında hataya neden olur.\
+**Çözüm:** Excel dosyasındaki _<mark style="color:$info;">Lidia Kodu</mark>_ alanını boş bırakın.
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Zorunlu alanların doldurulmaması**\
+Veri şemasında zorunlu olarak tanımlanan alanların boş bırakılması ürün yükleme sırasında hataya neden olur.\
+**Çözüm:** Excel dosyasında _<mark style="color:$info;">kırmızı ile işaretlenmiş zorunlu alanların tamamını</mark>_ doldurun.
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Ürün görselinin eksik olması**\
+Ürün görselleri tanımlanmadan ürünler yayınlama aşamasına geçemez.\
+**Çözüm:** Ürüne ait görselleri sisteme yükleyin ve ilgili _<mark style="color:$info;">resim kodu</mark>_ ile ürün kaydıyla eşleştirin.&#x20;
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Excel dışında bir dosya formatı yüklenmesi**\
+Ürün yükleme işlemi yalnızca **.xlsx formatındaki Excel dosyaları** ile yapılabilir.\
+**Çözüm:** Dosyanın _<mark style="color:$info;">Excel formatında (.xlsx)</mark>_ olduğundan emin olun.
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Boş Excel dosyası yüklenmesi**\
+Excel dosyasındaki ürün satırlarının doldurulmadan yüklenmesi işlemin başarısız olmasına neden olur.\
+**Çözüm:** Doldurulmamış, _<mark style="color:$info;">boş Excel dosyası yüklemediğinizden</mark>_ emin olun.
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Ürün durumunun aktif olmaması**\
+Excel dolduruken ürün durumu Aktif (1) olarak ayarlanmadığında ürünler havuza yüklenir ancak yayınlanamaz.\
+**Çözüm:** Excel dosyasında _<mark style="color:$info;">Ürün Durumu alanını 1 (Aktif)</mark>_ olarak güncelleyin ve ürünleri tekrar yayınlamayı deneyin.
+
+<i class="fa-circle-exclamation">:circle-exclamation:</i> **Havuz durumunun aktif olmaması**\
+Havuz Durumu Aktif (1) olarak ayarlanmadığında ürünler havuza yüklenemez.\
+**Çözüm:** Excel dosyasında _<mark style="color:$info;">Havuz Durumu alanını 1 (Aktif)</mark>_ olarak güncelleyin ve dosyayı tekrar yükleyin.
 
 
 
+* **Ürün Yayınlama Aşamasında Karşılaşılabilecek Durumlar**
+
+Ürünler havuza yüklendikten sonra yayınlama işlemi sırasında sistem ek doğrulamalar gerçekleştirir. Bu doğrulamalar sonucunda yayınlama işlemi tam başarılı, kısmi başarılı veya başarısız olabilir.\
+Doğrulama sonucuna göre sistem üç farklı senaryo gösterebilir: tüm ürünlerin yayınlanabildiği durum, kısmi yayınlama durumu veya hiçbir ürünün yayınlanamadığı durum.
+
+**1.Kısmi Yayınlama**
+
+{% columns %}
+{% column width="50%" %}
+Bazı ürünler yayınlama gereksinimlerini karşılamıyorsa sistem Kısmi Yayınlama uyarısı gösterir. Bu ekranda:
+
+* Yayınlanabilecek ürün sayısı
+* Yayınlanamayacak ürün sayısı
+
+ayrı ayrı gösterilir.
+
+Yayınlanamayan ürünler için nedenler de listelenir. Örneğin:
+
+* Ürün durumu aktif değildir
+* Zorunlu içerik alanları eksiktir
+* Zorunlu özellikler tanımlanmamıştır
+{% endcolumn %}
+
+{% column width="50%" %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (102).png" alt="" width="233"><figcaption></figcaption></figure></div>
+
+&#x20;                 **Kısmi Yayınlama**
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+**2.Hiçbir Ürün Yayınlanamaz**
+
+{% columns %}
+{% column %}
+Eğer seçilen ürünlerin hiçbiri yayınlama gereksinimlerini karşılamıyorsa yayınlama işlemi engellenir.
+
+Bu durumda sistem doğrulama sonuçlarını gösterir ve aşağıdaki aksiyonları önerir:
+
+* Eksik ürün bilgilerini tamamlayın
+* Ürün durumunu Aktif olarak güncelleyin
+* Gerekli alanları doldurduktan sonra yayınlama işlemini tekrar deneyin
+
+İlgili ürünleri incelemek için Ürünleri İncele seçeneğini kullanabilirsiniz.
+{% endcolumn %}
+
+{% column %}
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (103).png" alt="" width="235"><figcaption></figcaption></figure></div>
+
+&#x20;     **Hiçbir Ürün Yayınlanamaz**
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+#### :arrow\_forward:<mark style="color:$info;">Import sonrası kontrol adımları</mark>
+
+Ürün yükleme işlemi tamamlandıktan sonra ürünlerin havuza doğru şekilde eklendiğini ve başarıyla yayınlandığını kontrol etmeniz önerilir. Bu kontrol, ürünlerin sistemde doğru şekilde oluşturulduğunu doğrulamanıza yardımcı olur.
+
+Yayınlama tamamlandıktan sonra ürünler havuz detay sayfasındaki hen _<mark style="color:$info;">Tümü</mark>_ hem _<mark style="color:$info;">Yayındakiler</mark>_ sekmesi altında listelenir. Excel dosyasında yer alan alan başlıkları, bu listeleme sayfasında da aynı şekilde görüntülenir.
+
+* [x] Yayınlanan ürünler ayrıca PIM sol menüsünde yer alan **Katalog > Ürünler** ve **Katalog > Varyantlar** sayfalarında listelenmeye başlar. Buradan ürünlerinizi görüntüleyebilir ve yönetebilirsiniz.
+
+
+
+#### :arrow\_forward: <mark style="color:$info;">Örnek Senaryo: Televizyon Ürünü Yayınlama</mark>
+
+Önceki adımlarda televizyon ürünleri için bir [veri şeması oluşturduk,](quick-start-guide.md#ornek-senaryo-televizyon-urunu-icin-veri-semasi-olusturma) gerekli [özellik ve seçenekleri tanımladık,](page-1.md#ornek-kullanim-senaryosu-televizyon) bu alanları veri şemasına ekledik ve **televizyon kategorisine bağlı bir havuz oluşturduk**.
+
+Şimdi bu veri modelini kullanarak televizyon ürünlerini **Excel ile havuza yükleyip yayınlama sürecini** inceleyelim.
+
+{% stepper %}
+{% step %}
+###
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
@@ -319,12 +439,6 @@ havuzda yayınlanmayı bekliyo
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 
-
-
-
-
-
-m
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
