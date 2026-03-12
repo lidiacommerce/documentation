@@ -201,7 +201,7 @@ Bu alana yalnızca Excel formatında (.xlsx) dosya yükleyebilirsiniz.
 
 Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:purple;background-color:purple;">Yeni Excel Dokümanı Yükle → Veriyi Kontrol Et → Tamamlandı.</mark>_
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="210"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="210"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -406,47 +406,105 @@ Yayınlama tamamlandıktan sonra ürünler havuz detay sayfasındaki hen _<mark 
 {% endstep %}
 
 {% step %}
-###
-
-
+**Televizyon havuzunu bulun ve&#x20;**<mark style="background-color:purple;">**Ürünleri Yönet**</mark>**&#x20;butonuna tıklayın.**
 {% endstep %}
 
 {% step %}
-###
-
-
+**Havuz detay sayfasında&#x20;**<mark style="background-color:purple;">**Veriyi İçe Aktar**</mark>**&#x20;butonuna tıklayın.**
 {% endstep %}
-{% endstepper %}
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Taslak Excel Şeması**</mark>**&#x20;seçeneğini tıklayarak Excel dosyasını indirin.**
+{% endstep %}
 
+{% step %}
+**Excel dosyasını doldurun.**
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+> Excel dosyasındaki alanları televizyon ürününe ait bilgilerle doldurun. Özellik ve seçenek alanlarında, daha önce tanımladığınız değerler <mark style="background-color:purple;">seçim listesi (dropdown)</mark> olarak görünür ve yalnızca bu değerler seçilebilir.
+{% endstep %}
 
+{% step %}
+**Excel dosyasını havuza yükleyin.**
 
+Hazırladığınız Excel dosyasını kaydedin. Ardından tekrar havuz detay sayfasında <mark style="background-color:purple;">Veriyi İçe Aktar</mark> butonuna tıklayın ve bu kez hazırladığınız dolu Excel dosyasını seçin.
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (92).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+**Veriyi kontrol edin.**
 
+Dosya yüklendikten sonra sistem verileri kontrol eder. Eğer dosyada hata yoksa ürünler listelenir ve işlem tamamlanmaya hazır hale gelir.
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (93).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+**Kontrol adımı tamamlandıktan sonra&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
 
+{% step %}
+**Açılan modalda** <mark style="background-color:purple;">**"İçe aktarımı onaylıyorum"**</mark>**&#x20;butonuna tıklayın.**
 
-havuzda yayınlanmayı bekliyo
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (107).png" alt="" width="155"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+**Havuza ürün aktarımı tamamlandınız.**
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (95).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+**Havuz detay sayfasında&#x20;**<mark style="background-color:purple;">**Tümü sekmesinde**</mark>**&#x20;yayınlamak istediğiniz ürünleri veya tüm&#x20;**<mark style="background-color:purple;">**ürünleri seçin.**</mark>
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (96).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Ürünleri Yayınla**</mark>**&#x20;butonuna tıklayın.**
+
+Açılan pencerede aşağıdaki seçeneklerden birini seçin:
+
+* **Yalnızca seçilen ürünleri yayınla**
+* **Tüm ürün havuzunu yayınla**
+
+<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (108).png" alt="" width="234"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Açılan doğrulama penceresinde&#x20;**<mark style="background-color:purple;">**Tüm Ürünler Yayınlanabilir kontrolü**</mark>**&#x20;yapılır.**\
+**Kontrol tamamlandıktan sonra&#x20;**<mark style="background-color:purple;">**Devam Et**</mark>**&#x20;butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (109).png" alt="" width="233"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Yayınlamadan önce ürünleri inceleyerek kontrol edin.**
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+> <mark style="background-color:purple;">İlk kez yüklenen ürünler</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Yeni Ürünler**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">ve</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Yeni Varyantlar**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">altında görünür.</mark> Mevcut ürünlerde yapılan değişiklikler ise Güncellenen Ürünler ve Güncellenen Varyantlar başlıklarında gösterilir. Değiştirilen alanlar sarı renkle işaretlenir.
 
+<mark style="background-color:purple;">**Onayla ve Yayına Al**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
 
+{% step %}
+**Açılan pencerede&#x20;**<mark style="background-color:purple;">**Yayınla**</mark>**&#x20;butonuna tıklayın**<mark style="background-color:purple;">**.**</mark>
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (110).png" alt="" width="237"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-
+{% step %}
+:tada:**Tebrikler, ilk ürününüzü PIM’e yüklediniz ve yayınladınız.**
+{% endstep %}
+{% endstepper %}
 
 
 
