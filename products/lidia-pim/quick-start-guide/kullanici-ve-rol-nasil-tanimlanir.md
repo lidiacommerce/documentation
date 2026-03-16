@@ -37,3 +37,5 @@ Lidia PIM içerisinde sistem tarafından tanımlı bazı <mark style="background
 
 * [x] Rol bazında hangi modüllerin görüntülenebileceği ve hangi alanların düzenlenebileceği ayrı ayrı belirlenebilir. Gerekli durumlarda, daha yüksek yetkilere sahip kullanıcılar bu rol yetkilerini konfigüre ederek erişim kapsamını güncelleyebilir.
 
+#### :arrow\_forward:<mark style="color:$info;">Rol bazlı yetkiler nelerdir?</mark>
+
