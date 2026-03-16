@@ -8,7 +8,7 @@ icon: list-radio
 
 # Havuz nedir, nasıl yönetilir?
 
-## :rocket:<mark style="color:$primary;background-color:purple;">Havuz'ları Anlayın ve Yönetin</mark>
+### :rocket:<mark style="color:$primary;background-color:purple;">Havuz'ları Anlayın ve Yönetin</mark>
 
 Önceki sayfalarda ürün [veri şemasını](https://docs.lidiacommerce.com/products/lidia-pim/quick-start-guide/veri-semasi-nasil-olusturulur) oluşturduk ve ürün modelimizi [özellikler ile seçenekleri](https://docs.lidiacommerce.com/products/lidia-pim/quick-start-guide/ozellik-ve-secenek-nasil-tanimlanir) tanımlayarak hazırladık. Şimdi bu veri modelini kullanarak ürünleri yöneteceğimiz yapıyı inceleyelim.
 

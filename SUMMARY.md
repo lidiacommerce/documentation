@@ -51,6 +51,7 @@
     * [Özellik ve Seçenek nasıl tanımlanır?](products/lidia-pim/quick-start-guide/page-1.md)
     * [Havuz nedir, nasıl yönetilir?](products/lidia-pim/quick-start-guide/page-2.md)
     * [PIM'e ürün nasıl eklenir?](products/lidia-pim/quick-start-guide/pime-urun-nasil-eklenir.md)
+    * [Kullanıcı ve Rol nasıl tanımlanır?](products/lidia-pim/quick-start-guide/kullanici-ve-rol-nasil-tanimlanir.md)
   * [PIM User Guide](products/lidia-pim/user-guide/README.md)
     * [Getting Started](products/lidia-pim/pim-user-guide/getting-started.md)
     * [Settings](products/lidia-pim/pim-user-guide/settings.md)

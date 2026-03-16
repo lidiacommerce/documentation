@@ -8,7 +8,7 @@ icon: list-radio
 
 # PIM'e ürün nasıl eklenir?
 
-## :rocket:<mark style="color:$primary;background-color:purple;">Ürünlerinizi PIM'e Yükleyin</mark>
+### :rocket:<mark style="color:$primary;background-color:purple;">Ürünlerinizi PIM'e Yükleyin</mark>
 
 Ürün yükleme süreci, hazırladığınız veri modeline göre çalışır ve ürün bilgileri bu yapı üzerinden sisteme aktarılır. Excel şablonu, <mark style="background-color:purple;">veri şemasında tanımlanan alanlara göre</mark> oluşturulur ve yüklenen ürünler bu alanlara uygun şekilde sisteme işlenir. Bu sayede ürün verisi standart bir yapı içinde ilerler ve sistem tarafından doğru şekilde yönetilir.
 

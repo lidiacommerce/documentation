@@ -23,7 +23,7 @@ En sorunsuz deneyim için adımları sırayla tamamlamanız önerilir.
 Gerekli kullanıcı yetkilerine sahip olduğunuzdan emin olun.
 {% endhint %}
 
-## :rocket:<mark style="color:$primary;background-color:purple;">Veri modelinizi inşa edin</mark>
+### :rocket:<mark style="color:$primary;background-color:purple;">Veri modelinizi inşa edin</mark>
 
 Lidia PIM’de ürünlerinizi sorunsuz yönetebilmek için ilk ve en kritik adım veri şemasını doğru şekilde kurgulamaktır. Doğru yapılandırılmış bir veri şeması, benzer ürünleri düzenli bir yapı altında toplar ve ürün verisinin kategori bazında kontrollü ve sürdürülebilir şekilde ilerlemesini sağlar.
 
