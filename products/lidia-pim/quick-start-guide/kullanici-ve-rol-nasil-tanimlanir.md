@@ -39,3 +39,58 @@ Lidia PIM içerisinde sistem tarafından tanımlı bazı <mark style="background
 
 #### :arrow\_forward:<mark style="color:$info;">Rol bazlı yetkiler nelerdir?</mark>
 
+Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım için <mark style="color:purple;">Görüntüle</mark> ve <mark style="color:purple;">Düzenle</mark> yetkileri ayrı ayrı tanımlanabilir.
+
+**System:** Tüm yetki yapısının en üst kırılımıdır.
+
+* **Settings:** Sistem ayarlarının yönetildiği ana alandır.
+  * **Authorization:** Kullanıcı ve rol yetkilerinin yönetildiği alandır.
+    * **Authorized Users:** Sistem kullanıcılarının yönetildiği alandır.
+    * **Roles:** Roller ve rol yetkilerinin tanımlandığı alandır.
+  * **Contacts:** İletişim kayıtlarının yönetildiği alandır.
+  * **Catalog:** Ürün veri yapısına ait tanımların yönetildiği alandır.
+    * **Data Schemas:** Veri şemalarının oluşturulduğu ve yönetildiği alandır.
+    * **Collections:** Koleksiyonların yönetildiği alandır.
+    * **Data Locks:** Veri kilitleme işlemlerinin yönetildiği alandır.
+    * **Product Relations:** Ürün ilişkilerinin tanımlandığı alandır.
+    * **Category Dimensions:** Kategori kırılımlarının yönetildiği alandır.
+    * **Channels:** Kanal yapılarının tanımlandığı alandır.
+    * **MetaData Tags:** Metadata etiketlerinin yönetildiği alandır.
+    * **Properties:** Özelliklerin tanımlandığı ve yönetildiği alandır.
+    * **Options:** Seçenek yapılarının yönetildiği alandır.
+      * **Properties:** Seçeneklerle ilişkili özelliklerin yönetildiği alandır.
+      * **Property Groups:** Özellik gruplarının yönetildiği alandır.
+      * **Options:** Seçeneklerin tanımlandığı alandır.
+      * **Option Groups:** Seçenek gruplarının yönetildiği alandır.
+      * **Option Values:** Seçenek değerlerinin tanımlandığı alandır.
+      * **Option Value Groups:** Seçenek değer gruplarının yönetildiği alandır.
+  * **Localization:** Lokalizasyon ayarlarının yönetildiği alandır.
+    * **Languages:** Sistem dillerinin tanımlandığı alandır.
+    * **Currencies:** Para birimlerinin yönetildiği alandır.
+    * **Measurement Units:** Ölçü birimlerinin tanımlandığı alandır.
+  * **Configurations:** Sistem konfigürasyonlarının yönetildiği alandır.
+* **Notification Center:** Bildirim merkezi yönetim alanıdır.
+  * **Notifications:** Sistem bildirimlerinin görüntülendiği alandır.
+  * **Settings:** Bildirim ayarlarının yapılandırıldığı alandır.
+* **My Organization:** Organizasyon ayarlarının yönetildiği alandır.
+  * **Details:** Organizasyon bilgilerinin görüntülendiği alandır.
+  * **Subscriptions:** Abonelik bilgilerinin yönetildiği alandır.
+  * **Applications:** Organizasyona bağlı uygulamaların yönetildiği alandır.
+* **Catalog:** Organizasyon bazlı katalog yönetim alanıdır.
+  * **Data Pools:** Veri havuzlarının yönetildiği alandır.
+  * **Categories:** Kategori yapısının yönetildiği alandır.
+  * **Trademarks:** Marka bilgilerinin yönetildiği alandır.
+  * **Custom Lists:** Özel listelerin yönetildiği alandır.
+  * **Products:** Ürünlerin yönetildiği alandır.
+  * **Variants:** Varyantların yönetildiği alandır.
+* **Inventory:** Envanter ve fiyat yapılarının yönetildiği alandır.
+  * **Price Lists:** Fiyat listelerinin yönetildiği alandır.
+* **Media Management:** Medya içeriklerinin yönetildiği alandır.
+  * **Documents:** Dokümanların yönetildiği alandır.
+  * **Images:** Görsellerin yönetildiği alandır.
+  * **Files:** Dosyaların yönetildiği alandır.
+  * **Videos:** Videoların yönetildiği alandır.
+* **Services:** Servis ve entegrasyon alanıdır.
+  * **Feeds:** Veri akışlarının yönetildiği alandır.
+* **Reports:** Raporlama ve kayıt izleme alanıdır.
+  * **Audit Logs:** Sistem işlem kayıtlarının görüntülendiği alandır.
