@@ -224,13 +224,19 @@ Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde
 * [x] _Alan türü <mark style="background-color:purple;">**Referanslar**</mark>_ _olarak seçildiğinde;_\
   Aynı pencerede yer alan eşleştirme bilgileri alanlarının doldurulması gerekir. Bu alanlar, girilen verinin ürün üzerinde hangi alana yazılacağını belirlemek için kullanılır.
 
-Bu bölümde:
+&#x20;          Bu bölümde:\
+&#x20;          **Alan**: Referans verinin hangi yapıdan alınacağını belirler (meta\
+&#x20;          verileri)\
+&#x20;          **Veri Tipi**: Değerin ürün bazında mı yoksa varyant bazında mı\
+&#x20;          yönetileceğini belirler. Ürün seviyesinde sabit kalacak alanlar\
+&#x20;          için <mark style="color:$info;">Ürün</mark>, varyantlara göre değişecek alanlar için <mark style="color:$info;">**Varyant**</mark>\
+&#x20;            seçilmelidir.\
+&#x20;          **Nesne Alanı**: Girilen değerin ürün üzerinde hangi alanı\
+&#x20;          dolduracağını belirler. Örneğin kısa açıklama için\
+&#x20;          <mark style="color:$info;">ShortDescription</mark>, uzun açıklama için <mark style="color:$info;">LongDescription</mark>, vergi \
+&#x20;          oranı için <mark style="color:$info;">TaxRate</mark> seçilir.
 
-* **Alan**: Referans verinin hangi yapıdan alınacağını belirler (meta verileri)
-* **Veri Tipi**: Değerin ürün bazında mı yoksa varyant bazında mı yönetileceğini belirler. Ürün seviyesinde sabit kalacak alanlar için <mark style="color:$info;">Ürün</mark>, varyantlara göre değişecek alanlar için <mark style="color:$info;">**Varyant**</mark> seçilmelidir.
-* **Nesne Alanı**: Girilen değerin ürün üzerinde hangi alanı dolduracağını belirler. Örneğin kısa açıklama için <mark style="color:$info;">ShortDescription</mark>, uzun açıklama için <mark style="color:$info;">LongDescription</mark>, vergi oranı için <mark style="color:$info;">TaxRate</mark> seçilir.
-
-{% hint style="info" %}
+{% hint style="success" %}
 Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde işlenmesi için önemlidir.
 {% endhint %}
 
