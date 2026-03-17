@@ -136,3 +136,32 @@ Rol oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
 >
 > &#x20;
 
+#### :arrow\_forward:<mark style="color:$info;">Yeni kullanıcı nasıl oluşturulur?</mark>
+
+{% stepper %}
+{% step %}
+<mark style="background-color:purple;">**Ayarlar > Yetkilendirme > Kullanıcılar**</mark> **sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Yeni Kullanıcı Ekle**</mark>**&#x20;butonuna tıklayın.**
+
+Açılan modalda:
+
+* **E-posta**, **Cep Telefonu** ve **Doğum Tarihi** alanlarını doldurun _(zorunludur)_
+*
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (114).png" alt="" width="237"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+:tada:**Yeni kullanıcı oluşturdunuz.**
+{% endstep %}
+{% endstepper %}
+
+> **Kullanıcı detayında neler yapılır?**
+>
+> Kullanıcı oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
+>
+> > * _<mark style="color:$info;">Temel Bilgiler</mark>_ sekmesinden ad soyad, cep telefonu, doğum tarihi ve kimlik bilgisi gibi kullanıcı bilgilerini görüntüleyebilir ve kontrol edebilirsiniz. Gerekli durumlarda <mark style="background-color:purple;">**Şifre sıfırlama isteği gönder**</mark> aksiyonu ile kullanıcı için şifre yenileme süreci başlatabilirsiniz.
+> > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde kullanıcıya ekstra rol atayabilirsiniz. Bir kullanıcıya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri bu roller üzerinden belirlenir.
