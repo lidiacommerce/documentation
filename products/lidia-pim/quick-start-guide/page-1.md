@@ -38,7 +38,7 @@ Veri tipi olarak **Tekli Seçim** veya **Çoklu Seçim** seçildiğinde, özelli
 > * **Tanımlanan Değerler:** A, B, C, D, E, F
 > *
 >
->     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="131"><figcaption></figcaption></figure></div>
+>     <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="131"><figcaption></figcaption></figure></div>
 >
 > Bu sayede ürün oluşturma sırasında kullanıcı yalnızca tanımladığınız değerler arasından seçim yapabilir. Yeni değer girilemez; yalnızca mevcut seçenekler kullanılabilir.
 
@@ -90,7 +90,7 @@ Seçenek değer grubu oluşturmak için:
 3. Açılan pencerede **Seçenek Değer Grubu Adı** , **Görüntülenecek Ad** ve **Değer Grubu Kodu** alanlarını doldurun, kaydedin.
 4.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="117"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="117"><figcaption></figcaption></figure></div>
 5. Seçenek değerlerini oluşturduktan sonra ilgili değerin **detay sayfası**na gidin ve bu değeri oluşturduğunuz **seçenek değer grubuna** bağlayın.
 
 Bu sayede benzer seçenek değerlerini aynı grup altında düzenleyebilirsiniz.
@@ -110,7 +110,7 @@ Seçenek değer grubu oluşturmak için:
 3. Açılan pencerede **Seçenek Grubu Adı, Görüntülenecek Ad** ve **Grubu Kodu** alanlarını doldurun, kaydedin.
 4.
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="116"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="116"><figcaption></figcaption></figure></div>
 5. Seçenek grubu oluşturduktan sonra, ilgili seçeneğin detay sayfasına gidin ve **Seçenek Grubu** alanından oluşturduğunuz grubu seçerek seçeneği bu gruba bağlayın.
 
 Bu şekilde televizyon ürününe ait varyant seçeneklerini düzenli bir yapı içinde yönetebilirsiniz.
@@ -240,7 +240,7 @@ Bir televizyon ürünü için ürün modelimizi oluştururken hem **özellikleri
    * **Özellik Kodu:** GRNT
    *
 
-       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="233"><figcaption></figcaption></figure></div>
+       <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure></div>
 4. **Devam Et** butonuna tıklayın.
 
 Özellik oluşturulduktan sonra detay sayfasına yönlendirilirsiniz.

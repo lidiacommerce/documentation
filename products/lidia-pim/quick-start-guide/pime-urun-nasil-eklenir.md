@@ -201,7 +201,7 @@ Bu alana yalnızca Excel formatında (.xlsx) dosya yükleyebilirsiniz.
 
 Excel dosyasını yükleme işlemi üç adımda ilerler: _<mark style="color:purple;background-color:purple;">Yeni Excel Dokümanı Yükle → Veriyi Kontrol Et → Tamamlandı.</mark>_
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="210"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="210"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -420,9 +420,9 @@ Yayınlama tamamlandıktan sonra ürünler havuz detay sayfasındaki hen _<mark 
 {% step %}
 **Excel dosyasını doldurun.**
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 > Excel dosyasındaki alanları televizyon ürününe ait bilgilerle doldurun. Özellik ve seçenek alanlarında, daha önce tanımladığınız değerler <mark style="background-color:purple;">seçim listesi (dropdown)</mark> olarak görünür ve yalnızca bu değerler seçilebilir.
 {% endstep %}
