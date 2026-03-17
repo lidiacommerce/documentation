@@ -94,3 +94,45 @@ Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım 
   * **Feeds:** Veri akışlarının yönetildiği alandır.
 * **Reports:** Raporlama ve kayıt izleme alanıdır.
   * **Audit Logs:** Sistem işlem kayıtlarının görüntülendiği alandır.
+
+#### :arrow\_forward:<mark style="color:$info;">Rol nasıl oluşturulur?</mark>
+
+{% hint style="info" %}
+**Önemli**&#x20;
+
+Rol oluşturma ve yetki tanımlama işlemleri, kullanıcının sahip olduğu role bağlıdır. Örneğin, Guest rolüne sahip bir kullanıcı rol oluşturma veya yetki tanımlama işlemlerini gerçekleştiremez.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+<mark style="background-color:purple;">**Ayarlar > Yetkilendirme > Roller**</mark>**&#x20;sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Yeni Rol Ekle**</mark> **aksiyonunu seçin.**
+
+Açılan modalda:
+
+* **Rol adı** alanını doldurun _(zorunlu)_
+* **Kullanıcılar** alanı isteğe bağlıdır, daha sonra eklenebilir
+*
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="234"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+:tada:**Yeni rol tanımlandı.**
+
+Rol oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
+{% endstep %}
+{% endstepper %}
+
+> **Rol detayında neler yapılır?**
+>
+> Rol oluşturulduktan sonra rol detay sayfası üzerinden yönetim yapılır.
+>
+> > * _<mark style="color:$info;">Kullanıcılar</mark>_ sekmesinde bu role bağlı kullanıcılar görüntülenebilir ve <mark style="background-color:purple;">**Kullanıcılara rol tanımla**</mark> aksiyonu ile yeni kullanıcılar bu role eklenebilir.&#x20;
+> > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde ise rolün sistemde hangi alanlara erişebileceği belirlenir; her modül için görüntüleme ve düzenleme yetkileri ayrı ayrı tanımlanabilir veya kaldırılabilir. Bu sayede rol bazlı erişim kapsamı merkezi ve kontrollü şekilde yönetilir.
+>
+> &#x20;
+

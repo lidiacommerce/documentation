@@ -422,7 +422,7 @@ Yayınlama tamamlandıktan sonra ürünler havuz detay sayfasındaki hen _<mark 
 
 <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 > Excel dosyasındaki alanları televizyon ürününe ait bilgilerle doldurun. Özellik ve seçenek alanlarında, daha önce tanımladığınız değerler <mark style="background-color:purple;">seçim listesi (dropdown)</mark> olarak görünür ve yalnızca bu değerler seçilebilir.
 {% endstep %}
