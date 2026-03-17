@@ -160,6 +160,8 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 {% endcolumn %}
 
 {% column %}
+
+
 #### <mark style="background-color:purple;">2. Validasyon Bilgileri</mark>
 
 * **Veri Tipi Eşleşsin**\
@@ -215,10 +217,27 @@ Veri şemasına alan eklerken seçilen **Alan Türü**, ilgili bilginin sistemde
 
 <table><thead><tr><th width="160.55560302734375">Alan Türü</th><th>Açıklama</th></tr></thead><tbody><tr><td><strong>Özellik</strong></td><td>Fiyat veya stok değişimine neden olmayan ürün niteliklerini tutar. </td></tr><tr><td><strong>Seçenek</strong></td><td>Fiyat veya stokta farklılık yaratan varyant bilgilerini tutar. </td></tr><tr><td><strong>Kategori</strong></td><td>Ürünün kategori yapısı ile ilişkilendirilmesini sağlar.</td></tr><tr><td><strong>Marka</strong></td><td>Ürünün marka bilgisi ile eşleşmesini sağlar.</td></tr><tr><td><strong>Referanslar</strong></td><td>Ürünün diğer kayıtlarla ilişkilendirilmesini sağlar.</td></tr></tbody></table>
 
-**Özellik** veya **Seçenek** için önceden tanımlanan değerler, **Alan Değeri** alanında aşağıdaki veri tiplerini destekler: _<mark style="color:purple;">Metin, Tam Sayı, Ondalık Sayı, Ölçü, Tekil Kod, Tek Satır Metin, Uzun Metin, Zengin Metin, Tekli Seçim, Çoklu Seçim, Liste, Var/Yok, Tarih, E-posta, Tel No, URL, Fiyat, Yüzde, Süre</mark>_. Bu sayede alan yapısını ihtiyaçlarınıza göre esnek şekilde özelleştirebilirsiniz.
+* [x] _Alan türü olarak <mark style="background-color:purple;">**Özellik**</mark> veya <mark style="background-color:purple;">**Seçenek**</mark> seçildiğinde;_\
+  Yeni alan ekleme penceresinde <mark style="color:$info;">Alan Değeri</mark> alanı aktif hale gelir. Bu alanda, daha önce tanımladığınız özellik veya seçenek değerleri arasından seçim yapmanız gerekir.
+* [x] _Alan türü <mark style="background-color:purple;">**Kategori**</mark>_ _veya <mark style="background-color:purple;">**Marka**</mark>_ _olarak seçildiğinde;_\
+  Bu alanlar için ayrıca bir alan değeri seçimi yapılmaz. Bu bilgiler ürün yükleme sırasında Excel dosyasında, sistemde tanımlı tüm kategori ve marka değerleri arasından seçilerek girilir.
+* [x] _Alan türü <mark style="background-color:purple;">**Referanslar**</mark>_ _olarak seçildiğinde;_\
+  Aynı pencerede yer alan eşleştirme bilgileri alanlarının doldurulması gerekir. Bu alanlar, girilen verinin ürün üzerinde hangi alana yazılacağını belirlemek için kullanılır.
+
+Bu bölümde:
+
+* **Alan**: Referans verinin hangi yapıdan alınacağını belirler (meta verileri)
+* **Veri Tipi**: Değerin ürün bazında mı yoksa varyant bazında mı yönetileceğini belirler. Ürün seviyesinde sabit kalacak alanlar için <mark style="color:$info;">Ürün</mark>, varyantlara göre değişecek alanlar için <mark style="color:$info;">**Varyant**</mark> seçilmelidir.
+* **Nesne Alanı**: Girilen değerin ürün üzerinde hangi alanı dolduracağını belirler. Örneğin kısa açıklama için <mark style="color:$info;">ShortDescription</mark>, uzun açıklama için <mark style="color:$info;">LongDescription</mark>, vergi oranı için <mark style="color:$info;">TaxRate</mark> seçilir.
 
 {% hint style="info" %}
 Doğru alan türünü seçmek, ürün verisinin sistem içinde doğru şekilde işlenmesi için önemlidir.
+{% endhint %}
+
+{% hint style="info" %}
+:star:**Ekstra**
+
+Özellik veya Seçenek için önceden tanımlanan değerler, Alan Değeri alanında aşağıdaki veri tiplerini destekler: _<mark style="color:purple;">Metin, Tam Sayı, Ondalık Sayı, Ölçü, Tekil Kod, Tek Satır Metin, Uzun Metin, Zengin Metin, Tekli Seçim, Çoklu Seçim, Liste, Var/Yok, Tarih, E-posta, Tel No, URL, Fiyat, Yüzde, Süre</mark>_. Bu sayede alan yapısını ihtiyaçlarınıza göre esnek şekilde özelleştirebilirsiniz.
 {% endhint %}
 
 #### :arrow\_forward: <mark style="color:$info;">Minimum önerilen alanlar nelerdir?</mark>
