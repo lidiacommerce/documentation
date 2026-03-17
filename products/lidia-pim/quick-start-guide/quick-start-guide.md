@@ -135,7 +135,7 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 * **Alan Türü** _(Zorunlu)_\
   Alanının sistemde nasıl davranacağını belirler.\
   Alan türü değerleri:\
-  ![](<../../../.gitbook/assets/image (53).png>)
+  ![](<../../../.gitbook/assets/image (111).png>)
 * **Alan Değeri** _(Koşullu – Zorunlu)_\
   Yalnızca Alan Türü = Özellik veya Seçenek olduğunda görüntülenir.\
   Bu alan, alanın hangi değer setiyle çalışacağını belirler.
@@ -150,15 +150,12 @@ Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını v
 * **Sıralama** _(Opsiyonel)_\
   Alanların ürün ekranında hangi sırayla gösterileceğini belirler.\
   Sayısal bir değer alır. Küçük değerler üstte gösterilir.
-{% endcolumn %}
-
-{% column %}
-
-
 * **Stil** _(Opsiyonel)_\
   Alan için ön yüzde veya arayüzde uygulanacak özel stil bilgisidir.\
   Gelişmiş kullanım senaryoları için opsiyoneldir.
+{% endcolumn %}
 
+{% column %}
 #### <mark style="background-color:purple;">2. Validasyon Bilgileri</mark>
 
 * **Veri Tipi Eşleşsin**\
