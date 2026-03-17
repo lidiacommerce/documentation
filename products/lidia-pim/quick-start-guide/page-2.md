@@ -55,6 +55,45 @@ Bu ilişki sayesinde ürünler doğru veri modeli ile oluşturulur.
 Eğer henüz bir veri şeması oluşturmadıysanız, [**Veri Şeması Nasıl Oluşturulur?**](https://docs.lidiacommerce.com/products/lidia-pim/quick-start-guide/veri-semasi-nasil-olusturulur) sayfasındaki adımları takip edebilirsiniz.
 {% endhint %}
 
+***
+
+{% hint style="info" icon="delete-right" %}
+Kategori oluşturma adımına geçmeden önce, kategori yapısı için gerekli olan **kategori boyutunun** ne olduğunu ve nasıl tanımlandığını öğrenmeniz gerekir.
+{% endhint %}
+
+#### :arrow\_forward:<mark style="color:$info;">Kategori Boyutu Nedir?</mark>
+
+Kategori boyutu, kategori yapınızı belirli bir amaca göre organize etmenizi sağlar. Aynı sistem içinde birden fazla kategori yapısı oluşturabilir ve bu yapıları farklı ihtiyaçlara göre ayrı ayrı yönetebilirsiniz.
+
+Kategori boyutu oluşturmak için aşağıdaki adımları izleyin:
+
+{% stepper %}
+{% step %}
+<mark style="background-color:purple;">**Ayarlar > Katalog > Kategori Boyutları**</mark> **sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Yeni Boyut Ekle**</mark>**&#x20;butonuna tıklayın.**
+
+Açılan pencerede aşağıdaki alanları doldurun:
+
+* **Ad (Zorunlu)**
+* **Kod (Zorunlu)**
+* **Entegrasyon Kodu (Zorunlu)**
+*
+
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (112).png" alt="" width="237"><figcaption></figcaption></figure></div>
+
+
+{% endstep %}
+
+{% step %}
+<mark style="background-color:purple;">**Kaydet**</mark>**&#x20;butonuna tıklayın.**
+{% endstep %}
+{% endstepper %}
+
+Kategori boyutu oluşturulduktan sonra kategori tanımlama adımına geçebilirsiniz.
+
 #### :arrow\_forward:<mark style="color:$info;">Kategori Nasıl Oluşturulur?</mark>
 
 Kategori oluşturmak için aşağıdaki adımları izleyin:
@@ -70,7 +109,7 @@ Kategori oluşturmak için aşağıdaki adımları izleyin:
 Açılan pencerede aşağıdaki alanları doldurun:
 
 * **İsim (Zorunlu)**
-* **Boyut**&#x20;
+* **Boyut (Zorunlu)**
 * **Veri Şeması**&#x20;
 * **Üst Kategori**
 * **Kod (Zorunlu)**
@@ -79,7 +118,7 @@ Açılan pencerede aşağıdaki alanları doldurun:
 
 > :warning:Aynı pencerede <mark style="background-color:purple;">**Veri Şeması**</mark> alanı da yer alır. Bu alan seçilmeden kategori kaydedilebilir ve kategori oluşturulabilir. Ancak bu durumda kategori _<mark style="background-color:purple;">**taslak**</mark>_ statüsünde oluşturulur.
 >
-> ![](<../../../.gitbook/assets/image (91).png>)
+> ![](<../../../.gitbook/assets/image (113).png>)
 >
 > Yeni bir kategori oluştururken veri şeması seçmeniz önerilir. Bu sayede kategori doğrudan ilgili veri modeli ile ilişkilendirilmiş olur. \
 > Eğer veri şeması seçmeden taslak bir kategori oluşturduysanız, <mark style="background-color:purple;">kategori detay sayfasına</mark> giderek daha sonra **veri şeması** bağlayabilirsiniz.
@@ -98,7 +137,7 @@ Yeni bir havuz oluşturmak için aşağıdaki adımları izleyin:
 
 {% stepper %}
 {% step %}
-<mark style="background-color:purple;">**Ayarlar > Katalog > Havuzlar**</mark>**&#x20;sayfasına gidin.**
+<mark style="background-color:purple;">**Katalog > Havuzlar**</mark>**&#x20;sayfasına gidin.**
 {% endstep %}
 
 {% step %}
