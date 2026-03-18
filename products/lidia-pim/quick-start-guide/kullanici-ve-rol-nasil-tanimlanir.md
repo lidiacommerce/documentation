@@ -39,7 +39,7 @@ Lidia PIM içerisinde sistem tarafından tanımlı bazı <mark style="background
 
 #### :arrow\_forward:<mark style="color:$info;">Rol bazlı yetkiler nelerdir?</mark>
 
-Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım için <mark style="color:purple;">Görüntüle</mark> ve <mark style="color:purple;">Düzenle</mark> yetkileri ayrı ayrı tanımlanabilir.
+Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım için <mark style="color:purple;">Görüntüle</mark> ve <mark style="color:purple;">Düzenle</mark> yetkileri ayrı ayrı tanımlanabilir. Aşağıdaki yer alan alanlar için görüntülüme yada düzenleme yetkisi rol bazında konfigüre edilebilir.&#x20;
 
 **System** → Tüm yetki yapısının en üst kırılımıdır.\
 │\
