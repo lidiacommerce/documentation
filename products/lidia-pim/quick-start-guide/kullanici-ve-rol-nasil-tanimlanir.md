@@ -165,3 +165,12 @@ Açılan modalda:
 >
 > > * _<mark style="color:$info;">Temel Bilgiler</mark>_ sekmesinden ad soyad, cep telefonu, doğum tarihi ve kimlik bilgisi gibi kullanıcı bilgilerini görüntüleyebilir ve kontrol edebilirsiniz. Gerekli durumlarda <mark style="background-color:purple;">**Şifre sıfırlama isteği gönder**</mark> aksiyonu ile kullanıcı için şifre yenileme süreci başlatabilirsiniz.
 > > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde kullanıcıya ekstra rol atayabilirsiniz. Bir kullanıcıya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri bu roller üzerinden belirlenir.
+
+#### :arrow\_forward:<mark style="color:$info;">Kullanıcıya rol nasıl atanır?</mark>
+
+Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
+
+* **Kullanıcı üzerinden:** <mark style="background-color:purple;">Kullanıcı oluşturma sırasında</mark> veya kullanıcı detay sayfasındaki _<mark style="color:$info;background-color:purple;">Yetkiler</mark>_ sekmesinden rol atanabilir.
+* **Rol üzerinden:** <mark style="background-color:purple;">Rol oluşturma sırasında</mark> veya rol detay sayfasındaki _<mark style="color:$info;background-color:purple;">Kullanıcılar</mark>_ sekmesinden kullanıcıya rol atanabilir.
+
+:bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
