@@ -104,12 +104,6 @@ Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım 
 
 #### :arrow\_forward:<mark style="color:$info;">Rol nasıl oluşturulur?</mark>
 
-{% hint style="info" %}
-**Önemli**&#x20;
-
-Rol oluşturma ve yetki tanımlama işlemleri, kullanıcının sahip olduğu role bağlıdır. Örneğin, Guest rolüne sahip bir kullanıcı rol oluşturma veya yetki tanımlama işlemlerini gerçekleştiremez.
-{% endhint %}
-
 {% stepper %}
 {% step %}
 <mark style="background-color:purple;">**Ayarlar > Yetkilendirme > Roller**</mark>**&#x20;sayfasına gidin.**
@@ -133,6 +127,12 @@ Açılan modalda:
 Rol oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+**Önemli**&#x20;
+
+Rol oluşturma ve yetki tanımlama işlemleri, kullanıcının sahip olduğu role bağlıdır. Örneğin, Guest rolüne sahip bir kullanıcı rol oluşturma veya yetki tanımlama işlemlerini gerçekleştiremez.
+{% endhint %}
 
 > **Rol detayında neler yapılır?**
 >
