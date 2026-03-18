@@ -180,4 +180,6 @@ Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
 * **Kullanıcı üzerinden:** <mark style="background-color:purple;">Kullanıcı oluşturma sırasında</mark> veya kullanıcı detay sayfasındaki _<mark style="color:$info;background-color:purple;">Yetkiler</mark>_ sekmesinden rol atanabilir.
 * **Rol üzerinden:** <mark style="background-color:purple;">Rol oluşturma sırasında</mark> veya rol detay sayfasındaki _<mark style="color:$info;background-color:purple;">Kullanıcılar</mark>_ sekmesinden kullanıcıya rol atanabilir.
 
+{% hint style="warning" %}
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
+{% endhint %}
