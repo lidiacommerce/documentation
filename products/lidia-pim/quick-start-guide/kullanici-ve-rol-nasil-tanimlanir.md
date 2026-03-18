@@ -41,6 +41,67 @@ Lidia PIM içerisinde sistem tarafından tanımlı bazı <mark style="background
 
 Yetkiler, Sistem altında hiyerarşik olarak yapılandırılır. Her kırılım için <mark style="color:purple;">Görüntüle</mark> ve <mark style="color:purple;">Düzenle</mark> yetkileri ayrı ayrı tanımlanabilir.
 
+**System** → Tüm yetki yapısının en üst kırılımıdır.\
+│\
+├─**Settings** → Sistem ayarlarının yönetildiği ana alandır.\
+│    ├─ **Authorization** → Kullanıcı ve rol yetkilerinin yönetildiği alandır.\
+│    │     ├─ <mark style="color:$info;">**Authorized Users**</mark> → Sistem kullanıcılarının yönetildiği alandır.\
+│    │     └─ <mark style="color:$info;">**Roles**</mark> → Roller ve rol yetkilerinin tanımlandığı alandır.\
+│    ├─ **Contacts** → İletişim kayıtlarının yönetildiği alandır.\
+│    ├─ **Catalog** → Ürün veri yapısına ait tanımların yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Data Schemas**</mark> → Veri şemalarının oluşturulduğu ve yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Collections**</mark> → Koleksiyonların yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Data Locks**</mark> → Veri kilitleme işlemlerinin yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Product Relations**</mark> → Ürün ilişkilerinin tanımlandığı alandır.\
+│    │      ├─ <mark style="color:$info;">**Category Dimensions**</mark> → Kategori kırılımlarının yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Channels**</mark> → Kanal yapılarının tanımlandığı alandır.\
+│    │      ├─ <mark style="color:$info;">**MetaData Tags**</mark> → Metadata etiketlerinin yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Properties**</mark> → Özelliklerin tanımlandığı ve yönetildiği alandır.\
+│    │      └─ <mark style="color:$info;">**Options**</mark> → Seçenek yapılarının yönetildiği alandır.\
+│    │            ├─ Properties → Seçeneklerle ilişkili özelliklerin yönetildiği alandır.\
+│    │            ├─ Property Groups → Özellik gruplarının yönetildiği alandır.\
+│    │            ├─ Options → Seçeneklerin tanımlandığı alandır.\
+│    │            ├─ Option Groups → Seçenek gruplarının yönetildiği alandır.\
+│    │            ├─ Option Values → Seçenek değerlerinin tanımlandığı alandır.\
+│    │            └─ Option Value Groups → Seçenek değer gruplarının yönetildiği alandır.\
+│    ├─  **Localization** → Lokalizasyon ayarlarının yönetildiği alandır.\
+│    │      ├─ <mark style="color:$info;">**Languages**</mark> → Sistem dillerinin tanımlandığı alandır.\
+│    │      ├─ <mark style="color:$info;">**Currencies**</mark> → Para birimlerinin yönetildiği alandır.\
+│    │      └─ <mark style="color:$info;">**Measurement Units**</mark> → Ölçü birimlerinin tanımlandığı alandır.\
+│    └─ **Configurations** → Sistem konfigürasyonlarının yönetildiği alandır.\
+│\
+├─**Notification Center** → Bildirim merkezi yönetim alanıdır.\
+│    ├─ **Notifications** → Sistem bildirimlerinin görüntülendiği alandır.\
+│    └─ **Settings** → Bildirim ayarlarının yapılandırıldığı alandır.\
+│\
+├─**My Organization** → Organizasyon ayarlarının yönetildiği alandır.\
+│    ├─ **Details** → Organizasyon bilgilerinin görüntülendiği alandır.\
+│    ├─ **Subscriptions** → Abonelik bilgilerinin yönetildiği alandır.\
+│    └─ **Applications** → Organizasyona bağlı uygulamaların yönetildiği alandır.\
+│\
+├─**Catalog** → Organizasyon bazlı katalog yönetim alanıdır.\
+│    ├─ **Data Pools** → Veri havuzlarının yönetildiği alandır.\
+│    ├─ **Categories** → Kategori yapısının yönetildiği alandır.\
+│    ├─ **Trademarks** → Marka bilgilerinin yönetildiği alandır.\
+│    ├─ **Custom Lists** → Özel listelerin yönetildiği alandır.\
+│    ├─ **Products** → Ürünlerin yönetildiği alandır.\
+&#x20;     └─ **Variants** → Varyantların yönetildiği alandır.\
+│\
+├─ **Inventory** → Envanter ve fiyat yapılarının yönetildiği alandır.\
+│    └─ **Price Lists** → Fiyat listelerinin yönetildiği alandır.\
+│\
+├ ─**Media Management** → Medya içeriklerinin yönetildiği alandır.\
+│    ├─**Documents** → Dokümanların yönetildiği alandır.\
+│    ├─ **Images** → Görsellerin yönetildiği alandır.\
+│    ├─ **Files** → Dosyaların yönetildiği alandır.\
+│    └─ **Videos** → Videoların yönetildiği alandır.\
+│&#x20;\
+├─ **Services** → Servis ve entegrasyon alanıdır.\
+│     └─ **Feeds** → Veri akışlarının yönetildiği alandır.\
+│&#x20;\
+└─ **Reports** → Raporlama ve kayıt izleme alanıdır.\
+&#x20;      └─  **Audit Logs** → Sistem işlem kayıtlarının görüntülendiği alandır.
+
 **System:** Tüm yetki yapısının en üst kırılımıdır.
 
 * **Settings:** Sistem ayarlarının yönetildiği ana alandır.
