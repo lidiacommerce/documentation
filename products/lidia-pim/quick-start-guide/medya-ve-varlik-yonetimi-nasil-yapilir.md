@@ -172,7 +172,7 @@ Son aşama olan **Tamamlandı** ekranına yönlendirilirsiniz.
 {% endstep %}
 {% endstepper %}
 
-#### :arrow\_forward:<mark style="color:$info;">Toplu Medya Listesi Ne İşe Yarar?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Medya Listesi Ne İşe Yarar?</mark>
 
 Medya listesi, Lidia PIM’e yüklenen tüm medya varlıklarını merkezi olarak görüntüleyebileceğiniz ve yönetebileceğiniz alandır.
 
