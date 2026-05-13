@@ -6,7 +6,7 @@ description: >-
 icon: list-radio
 ---
 
-# PIM'e ürün nasıl eklenir?
+# Ürün nasıl eklenir?
 
 ### :rocket:<mark style="color:$primary;background-color:purple;">Ürünlerinizi PIM'e Yükleyin</mark>
 
@@ -112,7 +112,7 @@ Zorunlu alanlar **kırmızı renkle işaretlenir**.
 Bu alanlar boş bırakılırsa ürün yükleme işlemi sırasında hata oluşur.
 {% endhint %}
 
-<i class="fa-arrow-turn-down-right">:arrow-turn-down-right:</i> **Sistem Tarafından Eklenen Alanlar**
+<i class="fa-arrow-turn-down-right" style="color:yellow;">:arrow-turn-down-right:</i> **Sistem Tarafından Eklenen Alanlar**
 
 Excel dosyasında bazı alanlar <mark style="background-color:purple;">sistem tarafından otomatik</mark> olarak oluşturulur. Bu alanlar her havuz için standart olarak bulunur ve ürün yönetimi sürecinin doğru şekilde ilerlemesi için kullanılır.
 
@@ -296,31 +296,31 @@ Excel dosyası yüklenirken sistem _<mark style="color:$info;">Veriyi Kontrol Et
 Excel ile içeri veri aktarımı tamamlanamadı. Lütfen Excel dökümanını kontrol ederek tekrar deneyiniz.
 {% endhint %}
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Lidia kodu alanının doldurulması**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Lidia kodu alanının doldurulması**\
 Lidia Kodu alanı sistem tarafından otomatik oluşturulur. Bu alanın kullanıcı tarafından doldurulması yükleme işlemi sırasında hataya neden olur.\
 **Çözüm:** Excel dosyasındaki _<mark style="color:$info;">Lidia Kodu</mark>_ alanını boş bırakın.
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Zorunlu alanların doldurulmaması**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Zorunlu alanların doldurulmaması**\
 Veri şemasında zorunlu olarak tanımlanan alanların boş bırakılması ürün yükleme sırasında hataya neden olur.\
 **Çözüm:** Excel dosyasında _<mark style="color:$info;">kırmızı ile işaretlenmiş zorunlu alanların tamamını</mark>_ doldurun.
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Ürün görselinin eksik olması**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Ürün görselinin eksik olması**\
 Ürün görselleri tanımlanmadan ürünler yayınlama aşamasına geçemez.\
 **Çözüm:** Ürüne ait görselleri sisteme yükleyin ve ilgili _<mark style="color:$info;">resim kodu</mark>_ ile ürün kaydıyla eşleştirin.&#x20;
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Excel dışında bir dosya formatı yüklenmesi**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Excel dışında bir dosya formatı yüklenmesi**\
 Ürün yükleme işlemi yalnızca **.xlsx formatındaki Excel dosyaları** ile yapılabilir.\
 **Çözüm:** Dosyanın _<mark style="color:$info;">Excel formatında (.xlsx)</mark>_ olduğundan emin olun.
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Boş Excel dosyası yüklenmesi**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Boş Excel dosyası yüklenmesi**\
 Excel dosyasındaki ürün satırlarının doldurulmadan yüklenmesi işlemin başarısız olmasına neden olur.\
 **Çözüm:** Doldurulmamış, _<mark style="color:$info;">boş Excel dosyası yüklemediğinizden</mark>_ emin olun.
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Ürün durumunun aktif olmaması**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Ürün durumunun aktif olmaması**\
 Excel dolduruken ürün durumu Aktif (1) olarak ayarlanmadığında ürünler havuza yüklenir ancak yayınlanamaz.\
 **Çözüm:** Excel dosyasında _<mark style="color:$info;">Ürün Durumu alanını 1 (Aktif)</mark>_ olarak güncelleyin ve ürünleri tekrar yayınlamayı deneyin.
 
-<i class="fa-circle-exclamation">:circle-exclamation:</i> **Havuz durumunun aktif olmaması**\
+<i class="fa-circle-exclamation" style="color:$danger;">:circle-exclamation:</i> **Havuz durumunun aktif olmaması**\
 Havuz Durumu Aktif (1) olarak ayarlanmadığında ürünler havuza yüklenemez.\
 **Çözüm:** Excel dosyasında _<mark style="color:$info;">Havuz Durumu alanını 1 (Aktif)</mark>_ olarak güncelleyin ve dosyayı tekrar yükleyin.
 
