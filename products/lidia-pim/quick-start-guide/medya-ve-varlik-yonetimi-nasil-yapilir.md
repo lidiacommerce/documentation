@@ -31,8 +31,6 @@ Bu alanlar sayesinde medya varlıklarını görüntüleyebilir, yeni medya yükl
 
 Medya yönetimi özellikle ürün görsellerini düzenli tutmak, ürün kartlarını zenginleştirmek ve doğru medya varlığının doğru kayıtla eşleşmesini sağlamak için kullanılır.
 
-
-
 #### :arrow\_forward:<mark style="color:$info;">Lidia PIM’e Görsel, Dosya ve Video Nasıl Yüklenir?</mark>
 
 Medya yükleme işlemlerini medya türlerine göre (görsel, dosya, video) ayrılmış dosya gezgini alanlarından gerçekleştirebilir veya toplu medya yükleme ekranını kullanabilirsiniz.
@@ -79,7 +77,7 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 
 
 
-* [x] <mark style="color:$info;">**Görsel Nasıl Yüklenir?**</mark><br>
+* [x] <mark style="color:$info;">**Görsel Nasıl Yüklenir?**</mark>
 
 {% stepper %}
 {% step %}
@@ -113,7 +111,7 @@ Seçilen dosyalar dosya gezgini alanına yüklenmiş olur.
 {% endstep %}
 {% endstepper %}
 
-> Medya yükleme adımları Dosyalar ve Videolar alanları için de birebir aynı şekilde çalışır.
+> **Not:** Medya yükleme adımları Dosyalar ve Videolar alanları için de birebir aynı şekilde çalışır.
 
 {% hint style="info" %}
 Görseller dosya gezginine yüklenen medya varlıkları **ürün, kategori ve marka** kayıtlarında kullanılabilir.
@@ -123,8 +121,262 @@ Görseller dosya gezginine yüklenen medya varlıkları **ürün, kategori ve ma
 
 Birden fazla medya varlığını aynı anda yüklemek için toplu medya yükleme özelliğini kullanabilirsiniz.
 
+{% stepper %}
+{% step %}
+**Medya Yönetimi > Toplu Medya Yükle sayfasına gidin.**
+{% endstep %}
 
+{% step %}
+**Açılan ekranda aşağıdaki medya türlerinden birini seçin:**
 
+* Kategori Görseli
+* Marka Görseli
+* Ürün Görseli
+* Doküman
 
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (131).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Medya türünü seçtikten sonra ekranda açılan yükleme alanına dosyalarınızı sürükleyin veya bilgisayarınızdan seçin.**
+
+Yüklenen dosyaların ekranda listelendiğini göreceksiniz.
+
+![](<../../../.gitbook/assets/image (135).png>)
+{% endstep %}
+
+{% step %}
+**Devam Et butonuna tıklayın.**
+
+Bu işlem sonrasında ilk aşama olan Doküman Yükle adımı tamamlanır ve sistem sizi **Veriyi Kontrol Et** adımına yönlendirir.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure></div>
+
+Bu aşamada sistem medya boyutlarını ve yükleme kurallarını kontrol eder. Eğer görseller uygun boyutlarda değilse veya yükleme kurallarına uygun değilse işlem hata verir ve ilgili medya kayıtları içeri alınmaz.
+
+{% hint style="info" %}
+Hatalı medya kayıtları için aynı ekranda yer alan **Yeni Görsel Yükle** butonunu kullanarak tekrar yükleme yapabilirsiniz.
+
+<img src="../../../.gitbook/assets/image (137).png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Validasyon işlemi başarılıysa Devam Et butonuna tıklayın.**
+
+Son aşama olan **Tamamlandı** ekranına yönlendirilirsiniz.
+{% endstep %}
+
+{% step %}
+**Medya Yönetimi butonuna tıklayarak dosya gezgini ekranına geri dönebilir ve yüklenen medya kayıtlarını kontrol edebilirsiniz.**
+{% endstep %}
+{% endstepper %}
 
 #### :arrow\_forward:<mark style="color:$info;">Toplu Medya Listesi Ne İşe Yarar?</mark>
+
+Medya listesi, Lidia PIM’e yüklenen tüm medya varlıklarını merkezi olarak görüntüleyebileceğiniz ve yönetebileceğiniz alandır.
+
+Bu ekranda medya kayıtlarına ait isim, dosya türü, dosya uzantısı, etiket, kullanım alanı, oluşturulma tarihi ve durum  bilgileri görüntülenir. Aynı ekran üzerinden medya kayıtlarını filtreleyebilir, detaylarını inceleyebilir, düzenleyebilir veya silebilirsiniz.
+
+Medya listesi ekranında yer alan **Toplu Güncellemeler** butonu ile seçilen medya kayıtları üzerinde toplu işlemler gerçekleştirebilirsiniz.
+
+Bu alan altında:
+
+* **Durum Güncelle, Etiket Ekle, Dokümanları Eşleştir**
+
+işlemleri yer alır.
+
+Durum Güncelle işlemi ile seçilen medya kayıtlarının durum bilgileri toplu olarak güncellenebilir. Etiket Ekle işlemi medya kayıtlarını etiketlemek ve daha kolay filtrelemek için kullanılır. Dokümanları Eşleştir işlemi ise medya varlıklarını ilgili kayıtlarla ilişkilendirmek için kullanılır.
+
+#### :arrow\_forward:<mark style="color:$info;">Yüklenen Varlıklar Ürünlerle Nasıl Eşleştirilir?</mark>
+
+Medya eşleştirme işlemi, yüklenen medya varlıklarının ürün kayıtlarıyla ilişkilendirilmesini sağlar.
+
+Bu işlem iki farklı şekilde gerçekleştirilebilir:<br>
+
+:small\_orange\_diamond:**Resim Kodu ile Otomatik Eşleştirme**
+
+Ürün oluştururken veya ürün bilgilerini düzenlerken yer alan **Görsel Kodu** alanına girilen değer ile sisteme yüklenen görsel adı aynıysa sistem ilgili görseli ürünle otomatik olarak eşleştirir.
+
+**Örneğin** ürün üzerinde yer alan Resim Kodu değeri:
+
+* TV\_RESIM
+
+ise, sisteme yüklenen görsel adı da aynı şekilde TV\_RESIM olduğunda eşleştirme otomatik yapılır.
+
+{% hint style="info" %}
+Aynı ürüne birden fazla görsel eklemek istiyorsanız görsellerinizi Resim Kodu değerinin türev isimleriyle yükleyebilirsiniz. Örneğin: TV\_RESIM\_1, TV\_RESIM\_2...
+{% endhint %}
+
+:small\_orange\_diamond:**Medya Listesi Üzerinden Manuel Eşleştirme**
+
+Medya listesi ekranı üzerinden de manuel eşleştirme yapılabilir.
+
+1. **Medya Yönetimi > Medya Listesi** sayfasına gidin.
+2. Eşleştirmek istediğiniz medya kayıtlarını seçin.
+3. **Toplu Güncellemeler** butonuna tıklayın.
+4. Açılan seçenekler içerisinden **Dokümanları Eşleştir** işlemini seçin.
+5. Açılan kontrol penceresinde işlemi inceleyin.
+6. **Onayla** butonuna tıklayarak eşleştirme işlemini tamamlayın.
+
+> **Not:** Toplu Güncellemeler butonu yalnızca medya kaydı seçildiğinde aktif hale gelir.
+
+
+
+#### :arrow\_forward:<mark style="color:$info;">Kategori, Marka ve Ürün Medyası Detay Sayfasından Nasıl Yüklenir?</mark>
+
+Medya varlıkları ürün, kategori ve marka kayıtlarının detay sayfaları üzerinden yönetilebilir.
+
+:small\_orange\_diamond:<mark style="color:$info;">**Kategori Medyası Nasıl Eklenir?**</mark>
+
+{% stepper %}
+{% step %}
+**Katalog > Kategoriler sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**İlgili kategori detay sayfasını açın.**
+
+Temel Bilgi sekmesi açık gelir.
+{% endstep %}
+
+{% step %}
+**Görseller alanında yer alan Görsel Seçin butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (138).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Açılan görsel dosya gezgini ekranından daha önce yüklediğiniz görseller arasından seçim yapın.**
+{% endstep %}
+
+{% step %}
+**Ekle butonuna tıklayın.**
+
+> İsterseniz aynı kategoriye birden fazla görsel ekleyebilirsiniz.
+
+{% hint style="info" %}
+Görseller eklendikten sonra ilgili görseli **Kapak Görseli** olarak işaretleyebilirsiniz. Kapak görseli, kategori için varsayılan ve öncelikli görüntülenecek görseli belirlemek için kullanılır.
+
+<img src="../../../.gitbook/assets/image (139).png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Kaydet butonuna tıklayın.**
+
+> Dikkat! \
+> Kaydet butonuna basmadan sayfadan çıkarsanız görsel ekleme işlemi tamamlanmaz.
+{% endstep %}
+{% endstepper %}
+
+
+
+:small\_orange\_diamond:<mark style="color:$info;">**Marka Medyası Nasıl Eklenir?**</mark>
+
+Marka medya yönetimi de kategori medya yönetimi ile aynı şekilde çalışır.
+
+{% stepper %}
+{% step %}
+**Katalog > Markalar sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**İlgili marka detay sayfasını açın.**
+
+Temel Bilgi sekmesi açık gelir.
+{% endstep %}
+
+{% step %}
+**Resim alanında yer alan Görsel Seçin butonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (140).png" alt="" width="372"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Açılan görsel dosya gezgini ekranından daha önce yüklediğiniz görseller arasından seçim yapın.**
+{% endstep %}
+
+{% step %}
+**Ekle butonuna tıklayın.**
+
+> İsterseniz aynı markaya birden fazla görsel ekleyebilirsiniz.
+
+{% hint style="info" %}
+Görseller eklendikten sonra ilgili görseli **Kapak Görseli** olarak işaretleyebilirsiniz. Kapak görseli, marka için varsayılan ve öncelikli görüntülenecek görseli belirlemek için kullanılır.
+
+![](<../../../.gitbook/assets/image (141).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Kaydet butonuna tıklayın.**
+
+> Dikkat! \
+> Kaydet butonuna basmadan sayfadan çıkarsanız görsel ekleme işlemi tamamlanmaz.
+{% endstep %}
+{% endstepper %}
+
+
+
+:small\_orange\_diamond:<mark style="color:$info;">**Ürün Medyası Nasıl Eklenir?**</mark>
+
+Bu bölümde, ürün detay sayfası üzerinden görsel ve doküman yönetiminin nasıl yapılacağı anlatılmaktadır.
+
+{% stepper %}
+{% step %}
+**Katalog > Ürünler sayfasına gidin.**
+{% endstep %}
+
+{% step %}
+**İlgili ürün detay sayfasını açın.**
+{% endstep %}
+
+{% step %}
+**Medya Yönetimi sekmesine gidin.**
+
+Bu alanda Görseller ve Dokümanlar olmak üzere iki ayrı medya alanı yer alır. Ürün yükleme sırasında eklediğiniz görselleri ve dokümanları bu ekran üzerinden görüntüleyebilirsiniz.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Yeni Görsel Ekle butonuna tıklayın.**
+{% endstep %}
+
+{% step %}
+**Açılan görsel dosya gezgini ekranından daha önce yüklediğiniz görseller arasından seçim yapın.**
+{% endstep %}
+
+{% step %}
+**Ekle butonuna tıklayın.**
+
+Gerekirse ilgili görseli kapak görseli olarak işaretleyin.
+{% endstep %}
+
+{% step %}
+**Kaydet butonuna tıklayın.**
+{% endstep %}
+{% endstepper %}
+
+> Ürüne doküman eklemek için **Yeni Doküman Ekle** butonuna tıklayın. Açılan dosyalar dosya gezgini ekranından daha önce yüklediğiniz dokümanları seçin, Ekle butonuna tıklayın ve işlemi tamamlamak için **Kaydet** butonunu kullanın.
+
+#### :arrow\_forward:<mark style="color:$info;">Silinen Kayıtlar Nerede Tutulur ve Nasıl Yönetilir?</mark>
+
+Silinen medya kayıtları doğrudan kalıcı olarak silinmez. Silinen kayıtlar, belirli bir süre boyunca **Silinen Kayıtlar** alanında tutulur.
+
+Bu alandan silinen medya kayıtlarını görüntüleyebilir, geri yükleyebilir veya kalıcı olarak silebilirsiniz.
+
+Silinen kayıtları yönetmek için:
+
+1. **Medya Yönetimi > Silinen Kayıtlar** sayfasına gidin.
+2. Silinen medya kaydını bulun.
+3. Gerekirse **Geri Yükle** seçeneğini kullanın.
+4. Kaydı tamamen kaldırmak istiyorsanız **Kalıcı Olarak Sil** işlemini seçin.
+
+{% hint style="info" %}
+**Dikkat!**
+
+Silinen medya kayıtları 14 gün boyunca geri yüklenebilir. Süre dolduktan sonra kayıtlar sistem tarafından kalıcı olarak silinir.
+{% endhint %}
+
