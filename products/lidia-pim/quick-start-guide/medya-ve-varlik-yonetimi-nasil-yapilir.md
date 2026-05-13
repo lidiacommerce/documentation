@@ -86,12 +86,12 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 
 {% step %}
 **Klasör oluşturma ikonuna tıklayın.**
-
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Klasör adını** **girin**.
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
