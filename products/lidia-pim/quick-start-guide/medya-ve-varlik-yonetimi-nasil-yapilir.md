@@ -182,7 +182,7 @@ Medya listesi ekranında yer alan **Toplu Güncellemeler** butonu ile seçilen m
 
 Bu alan altında:
 
-* **Durum Güncelle, Etiket Ekle, Dokümanları Eşleştir**
+* Durum Güncelle, Etiket Ekle, Dokümanları Eşleştir
 
 işlemleri yer alır.
 
