@@ -60,7 +60,7 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 * <img src="../../../.gitbook/assets/image (124).png" alt="" data-size="line"> Silme ikonu, dosya veya klasörleri silmek için kullanılır. Silinen medya kayıtları doğrudan kalıcı olarak silinmez ve Silinen Kayıtlar alanında 14 gün boyunca tutulur. İstenirse kullanıcı kayıtları bekletmeden kalıcı olarak da silebilir.\
   <img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original">
 * <img src="../../../.gitbook/assets/image (126).png" alt="" data-size="line"> Göz ikonu medya varlıklarını önizlemek için kullanılır. İsterseniz önizleme alanını tam ekran olarak da görüntüleyebilirsiniz.
-* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.&#x20;
+* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line">/<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.&#x20;
 
 {% columns %}
 {% column %}
@@ -72,27 +72,59 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 * <img src="../../../.gitbook/assets/image (128).png" alt="" data-size="line"> Sıralama ikonu ise kayıtları ada, boyuta, tarihe, türe veya izin bilgilerine göre sıralamanızı sağlar. Ayrıca yalnızca klasörleri görüntüleyebilir veya ağaç görünümü üzerinden yeni ana klasörler oluşturabilirsiniz.
+* <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede: Yeni sekmede aç, Bağlantıyı kopyala, İndir seçenekleri görüntülenir.\
+  \
+  ![](<../../../.gitbook/assets/image (3).png>)
 
-Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede:
 
-* Yeni sekmede aç
-* Bağlantıyı kopyala
-* İndir
 
-seçenekleri görüntülenir.
+* [x] <mark style="color:$info;">**Görsel Nasıl Yüklenir?**</mark><br>
 
-#### Görsel Nasıl Yüklenir?
+{% stepper %}
+{% step %}
+**Medya Yönetimi > Görseller** sayfasına gidin.
+{% endstep %}
 
-1. **Medya Yönetimi > Görseller** sayfasına gidin.
-2. Klasör oluşturma ikonuna tıklayın.
-3. Klasör adını girin.
-4. Oluşturulan klasöre tıklayarak klasörü açın.
-5. Dosya yükleme ikonuna tıklayın.
-6. Bilgisayarınızdan yüklemek istediğiniz dosyaları seçin.
+{% step %}
+**Klasör oluşturma ikonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Klasör adını** **girin**.
+{% endstep %}
+
+{% step %}
+**Oluşturulan klasöre tıklayarak klasörü açın.**
+{% endstep %}
+
+{% step %}
+**Dosya yükleme ikonuna tıklayın.**
+
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+**Bilgisayarınızdan yüklemek istediğiniz dosyaları seçin.**
 
 Seçilen dosyalar dosya gezgini alanına yüklenmiş olur.
+{% endstep %}
+{% endstepper %}
 
-> **Info:** Aynı yükleme işlemi Dosyalar ve Videolar alanları için de aynı şekilde çalışır.
+> Medya yükleme adımları Dosyalar ve Videolar alanları için de birebir aynı şekilde çalışır.
+
+{% hint style="info" %}
+Görseller dosya gezginine yüklenen medya varlıkları **ürün, kategori ve marka** kayıtlarında kullanılabilir.
+{% endhint %}
+
+#### :arrow\_forward:<mark style="color:$info;">Toplu Medya Yükleme İşlemi Nasıl Yapılır?</mark>
+
+Birden fazla medya varlığını aynı anda yüklemek için toplu medya yükleme özelliğini kullanabilirsiniz.
+
+
+
+
+
+#### :arrow\_forward:<mark style="color:$info;">Toplu Medya Listesi Ne İşe Yarar?</mark>

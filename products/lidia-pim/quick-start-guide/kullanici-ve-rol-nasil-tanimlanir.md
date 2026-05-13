@@ -118,7 +118,7 @@ Açılan modalda:
 * **Kullanıcılar** alanı isteğe bağlıdır, daha sonra eklenebilir
 *
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="234"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="234"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

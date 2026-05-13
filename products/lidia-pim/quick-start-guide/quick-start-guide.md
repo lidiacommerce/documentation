@@ -74,7 +74,7 @@ Açılan pencerede:
 * <mark style="background-color:purple;">**Şema Adı**</mark> alanını doldurun
 * <mark style="background-color:purple;">**Eşleştirme Anahtarı**</mark> alanını doldurun
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="235"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="235"><figcaption></figcaption></figure></div>
 
 Kaydet butonuna tıklayın.\
 Sonuç: Veri şeması oluşturulur ve detay sayfasına yönlendirilirsiniz.
@@ -98,7 +98,7 @@ Veri şeması alanları, ürün kartında hangi bilgilerin toplanacağını beli
 {% step %}
 <mark style="background-color:purple;">**Veri Şeması Alanları**</mark>**&#x20;sekmesine gidin.**
 
-<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -128,7 +128,7 @@ Yeni Alan Ekle butonuna tıkladığınızda açılan pencerede yer alan alanlar 
 
 Bu ekran, ürün ve varyant verilerinin PIM içerisinde nasıl tutulacağını ve yayına nasıl taşınacağını belirleyen alanların tanımlandığı ekrandır.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="background-color:purple;">1. Temel Bilgiler</mark>
 
@@ -271,7 +271,7 @@ Bir alanı zorunlu yapmak için:
 
 Alan zorunlu olarak işaretlendiğinde, bu bilgi girilmeden ürün kaydedilemez veya import edilemez.
 
-<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="223"><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="223"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 &#x20;Çok fazla alanı zorunlu yapmak, ürün yükleme sürecini zorlaştırabilir. Zorunlu alanları **minimum** seviyede tutmanız önerilir.

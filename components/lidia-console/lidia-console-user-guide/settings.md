@@ -91,7 +91,7 @@ When adding a new payment channel, you may either select from the known provider
     \
     Using the **Import Data** button located in the upper-right corner of the listing page, new payment option lists can be added to the system. During this process, the table should be prepared using the Excel template provided by the Lidia Console and uploaded accordingly. With the **Export Data** button in the same area, either selected fields from the list or the entire dataset can be exported in Excel format.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 *   ### **BIN Codes**
 
