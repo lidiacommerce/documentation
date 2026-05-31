@@ -8,11 +8,11 @@ icon: list-radio
 
 # Medya ve Varlık yönetimi nasıl yapılır?
 
-### :rocket:<mark style="color:$primary;background-color:purple;">Ürünlerinizi Medya Varlıkları ile Zenginleştirin</mark>
+### Ürünlerinizi medya varlıkları ile zenginleştirin
 
 Medya yönetimi, ürün, kategori ve marka kayıtlarında kullanılacak görsel, dosya ve video varlıklarının merkezi olarak yönetilmesini sağlar. Doğru yapılandırıldığında içerikler daha düzenli ilerler, medya yönetimi kolaylaşır ve medya eşleştirmeleri daha kontrollü şekilde yapılır.
 
-#### :arrow\_forward:<mark style="color:$info;">Medya Yönetimi Nedir?</mark>
+#### Medya yönetimi nedir?
 
 Medya yönetimi, ürün, kategori ve marka kayıtlarında kullanılacak görsel, dosya ve videoları PIM içerisinde merkezi olarak yönetmenizi sağlar.
 
@@ -31,7 +31,7 @@ Bu alanlar sayesinde medya varlıklarını görüntüleyebilir, yeni medya yükl
 
 Medya yönetimi özellikle ürün görsellerini düzenli tutmak, ürün kartlarını zenginleştirmek ve doğru medya varlığının doğru kayıtla eşleşmesini sağlamak için kullanılır.
 
-#### :arrow\_forward:<mark style="color:$info;">Lidia PIM’e Görsel, Dosya ve Video Nasıl Yüklenir?</mark>
+#### Lidia PIM’e görsel, dosya ve video nasıl yüklenir?
 
 Medya yükleme işlemlerini medya türlerine göre (görsel, dosya, video) ayrılmış dosya gezgini alanlarından gerçekleştirebilir veya toplu medya yükleme ekranını kullanabilirsiniz.
 
@@ -58,7 +58,7 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 * <img src="../../../.gitbook/assets/image (124).png" alt="" data-size="line"> Silme ikonu, dosya veya klasörleri silmek için kullanılır. Silinen medya kayıtları doğrudan kalıcı olarak silinmez ve Silinen Kayıtlar alanında 14 gün boyunca tutulur. İstenirse kullanıcı kayıtları bekletmeden kalıcı olarak da silebilir.\
   <img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original">
 * <img src="../../../.gitbook/assets/image (126).png" alt="" data-size="line"> Göz ikonu medya varlıklarını önizlemek için kullanılır. İsterseniz önizleme alanını tam ekran olarak da görüntüleyebilirsiniz.
-* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line">/<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.&#x20;
+* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line">/<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.
 
 {% columns %}
 {% column %}
@@ -70,13 +70,10 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 {% endcolumn %}
 {% endcolumns %}
 
-* <img src="../../../.gitbook/assets/image (128).png" alt="" data-size="line"> Sıralama ikonu ise kayıtları ada, boyuta, tarihe, türe veya izin bilgilerine göre sıralamanızı sağlar. Ayrıca yalnızca klasörleri görüntüleyebilir veya ağaç görünümü üzerinden yeni ana klasörler oluşturabilirsiniz.
-* <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede: Yeni sekmede aç, Bağlantıyı kopyala, İndir seçenekleri görüntülenir.\
+* [ ] <img src="../../../.gitbook/assets/image (128).png" alt="" data-size="line"> Sıralama ikonu ise kayıtları ada, boyuta, tarihe, türe veya izin bilgilerine göre sıralamanızı sağlar. Ayrıca yalnızca klasörleri görüntüleyebilir veya ağaç görünümü üzerinden yeni ana klasörler oluşturabilirsiniz.
+* [ ] <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede: Yeni sekmede aç, Bağlantıyı kopyala, İndir seçenekleri görüntülenir.\
   \
   ![](<../../../.gitbook/assets/image (3).png>)
-
-
-
 * [x] <mark style="color:$info;">**Görsel Nasıl Yüklenir?**</mark>
 
 {% stepper %}
@@ -117,7 +114,7 @@ Seçilen dosyalar dosya gezgini alanına yüklenmiş olur.
 Görseller dosya gezginine yüklenen medya varlıkları **ürün, kategori ve marka** kayıtlarında kullanılabilir.
 {% endhint %}
 
-#### :arrow\_forward:<mark style="color:$info;">Toplu Medya Yükleme İşlemi Nasıl Yapılır?</mark>
+#### Toplu medya yükleme işlemi nasıl yapılır?
 
 Birden fazla medya varlığını aynı anda yüklemek için toplu medya yükleme özelliğini kullanabilirsiniz.
 
@@ -172,11 +169,11 @@ Son aşama olan **Tamamlandı** ekranına yönlendirilirsiniz.
 {% endstep %}
 {% endstepper %}
 
-#### :arrow\_forward:<mark style="color:$info;">Medya Listesi Ne İşe Yarar?</mark>
+#### Medya listesi ne işe yarar?
 
 Medya listesi, Lidia PIM’e yüklenen tüm medya varlıklarını merkezi olarak görüntüleyebileceğiniz ve yönetebileceğiniz alandır.
 
-Bu ekranda medya kayıtlarına ait isim, dosya türü, dosya uzantısı, etiket, kullanım alanı, oluşturulma tarihi ve durum  bilgileri görüntülenir. Aynı ekran üzerinden medya kayıtlarını filtreleyebilir, detaylarını inceleyebilir, düzenleyebilir veya silebilirsiniz.
+Bu ekranda medya kayıtlarına ait isim, dosya türü, dosya uzantısı, etiket, kullanım alanı, oluşturulma tarihi ve durum bilgileri görüntülenir. Aynı ekran üzerinden medya kayıtlarını filtreleyebilir, detaylarını inceleyebilir, düzenleyebilir veya silebilirsiniz.
 
 Medya listesi ekranında yer alan **Toplu Güncellemeler** butonu ile seçilen medya kayıtları üzerinde toplu işlemler gerçekleştirebilirsiniz.
 
@@ -188,7 +185,7 @@ işlemleri yer alır.
 
 Durum Güncelle işlemi ile seçilen medya kayıtlarının durum bilgileri toplu olarak güncellenebilir. Etiket Ekle işlemi medya kayıtlarını etiketlemek ve daha kolay filtrelemek için kullanılır. Dokümanları Eşleştir işlemi ise medya varlıklarını ilgili kayıtlarla ilişkilendirmek için kullanılır.
 
-#### :arrow\_forward:<mark style="color:$info;">Yüklenen Varlıklar Ürünlerle Nasıl Eşleştirilir?</mark>
+#### Yüklenen varlıklar ürünlerle nasıl eşleştirilir?
 
 Medya eşleştirme işlemi, yüklenen medya varlıklarının ürün kayıtlarıyla ilişkilendirilmesini sağlar.
 
@@ -221,9 +218,7 @@ Medya listesi ekranı üzerinden de manuel eşleştirme yapılabilir.
 
 > **Not:** Toplu Güncellemeler butonu yalnızca medya kaydı seçildiğinde aktif hale gelir.
 
-
-
-#### :arrow\_forward:<mark style="color:$info;">Kategori, Marka ve Ürün Medyası Detay Sayfasından Nasıl Yüklenir?</mark>
+#### Kategori, marka ve ürün medyası detay sayfasından nasıl yüklenir?
 
 Medya varlıkları ürün, kategori ve marka kayıtlarının detay sayfaları üzerinden yönetilebilir.
 
@@ -265,12 +260,10 @@ Görseller eklendikten sonra ilgili görseli **Kapak Görseli** olarak işaretle
 {% step %}
 **Kaydet butonuna tıklayın.**
 
-> Dikkat! \
+> Dikkat!\
 > Kaydet butonuna basmadan sayfadan çıkarsanız görsel ekleme işlemi tamamlanmaz.
 {% endstep %}
 {% endstepper %}
-
-
 
 :small\_orange\_diamond:<mark style="color:$info;">**Marka Medyası Nasıl Eklenir?**</mark>
 
@@ -305,19 +298,17 @@ Temel Bilgi sekmesi açık gelir.
 {% hint style="info" %}
 Görseller eklendikten sonra ilgili görseli **Kapak Görseli** olarak işaretleyebilirsiniz. Kapak görseli, marka için varsayılan ve öncelikli görüntülenecek görseli belirlemek için kullanılır.
 
-![](<../../../.gitbook/assets/image (141).png>)
+<img src="../../../.gitbook/assets/image (141).png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 **Kaydet butonuna tıklayın.**
 
-> Dikkat! \
+> Dikkat!\
 > Kaydet butonuna basmadan sayfadan çıkarsanız görsel ekleme işlemi tamamlanmaz.
 {% endstep %}
 {% endstepper %}
-
-
 
 :small\_orange\_diamond:<mark style="color:$info;">**Ürün Medyası Nasıl Eklenir?**</mark>
 
@@ -361,7 +352,7 @@ Gerekirse ilgili görseli kapak görseli olarak işaretleyin.
 
 > Ürüne doküman eklemek için **Yeni Doküman Ekle** butonuna tıklayın. Açılan dosyalar dosya gezgini ekranından daha önce yüklediğiniz dokümanları seçin, Ekle butonuna tıklayın ve işlemi tamamlamak için **Kaydet** butonunu kullanın.
 
-#### :arrow\_forward:<mark style="color:$info;">Silinen Kayıtlar Nerede Tutulur ve Nasıl Yönetilir?</mark>
+#### Silinen kayıtlar nerede tutulur ve nasıl yönetilir?
 
 Silinen medya kayıtları doğrudan kalıcı olarak silinmez. Silinen kayıtlar, belirli bir süre boyunca **Silinen Kayıtlar** alanında tutulur.
 
@@ -379,4 +370,3 @@ Silinen kayıtları yönetmek için:
 
 Silinen medya kayıtları 14 gün boyunca geri yüklenebilir. Süre dolduktan sonra kayıtlar sistem tarafından kalıcı olarak silinir.
 {% endhint %}
-

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Feeds
 
 The **Feeds module** in Lidia PIM enables businesses to **distribute product data** to **third-party platforms** by creating **customizable data feeds**. Feeds act as a **bridge** between the PIM system and external systems such as **marketplaces, e-commerce platforms, ERP systems, and marketing tools**.

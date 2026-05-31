@@ -4,6 +4,27 @@ description: >-
   the functionality and user experience across the Lidia platform.
 cover: ../../../../.gitbook/assets/October.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Lidia 1.10.x release notes
@@ -44,9 +65,7 @@ These codes help you track the specific areas of improvement across the platform
 
 ### 📑 Invoice Management
 
-*   <mark style="color:blue;">**LC-102401-03-**</mark> **Uploaded Invoice Details:** The information for uploaded invoices in order details has been updated to include invoice type, invoice number, and order reference number, instead of relying on limited address and tax ID fields.<br>
-
-    ***
+* <mark style="color:blue;">**LC-102401-03-**</mark> **Uploaded Invoice Details:** The information for uploaded invoices in order details has been updated to include invoice type, invoice number, and order reference number, instead of relying on limited address and tax ID fields.<br>
 
 ### 📁 Catalog Mangement Enchancements
 

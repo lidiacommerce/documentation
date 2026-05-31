@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Getting Started
 
 Getting Started
@@ -39,8 +60,7 @@ The left menu contains sections for managing the PIM system.
   Manage organization details, user roles, and active subscriptions.
 * [**Catalog**](catalog.md)\
   Browse and manage product data, categories, and attributes.
-* [**Inventory Management**\
-  ](inventory.md)Monitor and control stock levels, warehouse details, and product availability.
+* [**Inventory Management**<br>](inventory.md)Monitor and control stock levels, warehouse details, and product availability.
 * [**Media Management**](digital-asset-management-dam.md)\
   Upload, organize, and manage product images, videos, and digital assets.
 * [**Services**](feeds.md)\
