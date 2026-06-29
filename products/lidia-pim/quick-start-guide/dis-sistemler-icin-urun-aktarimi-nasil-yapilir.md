@@ -113,33 +113,19 @@ Oluşturulan her akış için erişim yetkileri **Erişim Kontrolü** üzerinden
 
 #### :arrow\_forward:<mark style="color:$info;">Feed Ayarları Nasıl Yapılır?</mark>
 
-{% stepper %}
-{% step %}
-<mark style="background-color:purple;">**Ayarlar > Yetkilendirme > Kullanıcılar**</mark> **sayfasına gidin.**
-{% endstep %}
+Akış oluşturulduktan sonra temel bilgilerde değişiklik yapmak isterseniz, akış detay sayfasında yer alan **Temel Bilgiler** sekmesini kullanabilirsiniz.
 
-{% step %}
-<mark style="background-color:purple;">**Yeni Kullanıcı Ekle**</mark>**&#x20;butonuna tıklayın.**
+Bu bölümde **Bilgileri Güncelle** butonuna tıklayarak aşağıdaki bilgileri düzenleyebilirsiniz:
 
-Açılan modalda:
+* Akış Adı, Akış Kodu, Akış Formatı, Erişim Kontrolü Durumu, Akış Durumu (Aktif / Pasif)
 
-* **E-posta**, **Cep Telefonu** ve **Doğum Tarihi** alanlarını doldurun _(zorunludur)_
-*
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (157).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (114).png" alt="" width="237"><figcaption></figcaption></figure></div>
-{% endstep %}
+Aynı ekranda yer alan **Yeni Erişim Anahtarı Ekle** butonu ile akış bağlantısına erişim için kullanılacak anahtar değerler oluşturabilirsiniz. Erişim anahtarı, akış URL’inin yetkili sistemler tarafından güvenli şekilde kullanılmasını sağlar.
 
-{% step %}
-:tada:**Yeni kullanıcı oluşturdunuz.**
-{% endstep %}
-{% endstepper %}
+Bir akış için birden fazla erişim anahtarı tanımlayabilirsiniz. Böylece farklı dış sistemler veya iş ortakları için ayrı anahtarlar oluşturabilir, erişimleri birbirinden bağımsız şekilde yönetebilirsiniz.
 
-> **Kullanıcı detayında neler yapılır?**
->
-> Kullanıcı oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
->
-> > * _<mark style="color:$info;">Temel Bilgiler</mark>_ sekmesinden ad soyad, cep telefonu, doğum tarihi ve kimlik bilgisi gibi kullanıcı bilgilerini görüntüleyebilir ve kontrol edebilirsiniz. Gerekli durumlarda <mark style="background-color:purple;">**Şifre sıfırlama isteği gönder**</mark> aksiyonu ile kullanıcı için şifre yenileme süreci başlatabilirsiniz.
-> > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde kullanıcıya ekstra rol atayabilirsiniz. Bir kullanıcıya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri bu roller üzerinden belirlenir.
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (158).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### :arrow\_forward:<mark style="color:$info;">Ürün Alanları Feed Alanları ile Nasıl Eşleştirilir?</mark>
 
