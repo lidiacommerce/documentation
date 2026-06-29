@@ -136,19 +136,33 @@ Bu bölümde oluşturulacak akış dosyasının nasıl üretileceği belirlenir.
 
 {% tabs %}
 {% tab title="GZIP Sıkıştırma" %}
-**GZIP** Sıkıştırma seçeneği etkinleştirildiğinde oluşturulan çıktı dosyası GZIP algoritması kullanılarak sıkıştırılır. Büyük veri setlerinin daha **küçük boyutta** paylaşılması gerektiğinde bu seçenek kullanılabilir.
+**GZIP** Sıkıştırma seçeneği etkinleştirildiğinde oluşturulan çıktı dosyası GZIP algoritması kullanılarak sıkıştırılır.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (162).png" alt="" width="309"><figcaption></figcaption></figure></div>
+
+Büyük veri setlerinin daha **küçük boyutta** paylaşılması gerektiğinde bu seçenek kullanılabilir.
 {% endtab %}
 
 {% tab title="Boş Alan Yönetimi" %}
-Bu bölüm, boş veya **null** değerlerin akış çıktısında nasıl işleneceğini belirler. **Boş Değerleri Hariç Tut** seçeneği etkinleştirildiğinde boş veya null değer içeren alanlar oluşturulan akış çıktısına dahil edilmez.
+Bu bölüm, boş veya **null** değerlerin akış çıktısında nasıl işleneceğini belirler.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (161).png" alt="" width="313"><figcaption></figcaption></figure></div>
+
+**Boş Değerleri Hariç Tut** seçeneği etkinleştirildiğinde boş veya null değer içeren alanlar oluşturulan akış çıktısına dahil edilmez.
 {% endtab %}
 
 {% tab title="Boşluk Karakteri Yönetimi" %}
-Bu bölüm, metin alanlarında bulunan gereksiz boşlukların otomatik olarak temizlenmesini sağlar. **Boşlukları Temizle** seçeneği etkinleştirildiğinde tüm metin değerlerinin başındaki ve sonundaki gereksiz boşluk karakterleri kaldırılır.
+Bu bölüm, metin alanlarında bulunan gereksiz boşlukların otomatik olarak temizlenmesini sağlar.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (160).png" alt="" width="364"><figcaption></figcaption></figure></div>
+
+&#x20;**Boşlukları Temizle** seçeneği etkinleştirildiğinde tüm metin değerlerinin başındaki ve sonundaki gereksiz boşluk karakterleri kaldırılır.
 {% endtab %}
 
 {% tab title="Durum Bazlı Filtreleme" %}
 Bu bölümde akışa dahil edilecek ürün ve varyant durumları belirlenir.
+
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (159).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Ürün Durumları** ve **Varyant Durumları** için ayrı ayrı durum filtreleme uygulanabilir. Durum filtreleme kapalı olduğunda ilgili tüm durumlar akışa dahil edilir.
 
