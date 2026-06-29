@@ -213,5 +213,19 @@ Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
 {% endhint %}
 
-#### :arrow\_forward:<mark style="color:$info;">Feed Nasıl Çalıştırılır ve Dış Sistemlerle Nasıl Paylaşılır?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Akış Nasıl Çalıştırılır ve Dış Sistemlerle Nasıl Paylaşılır?</mark>
+
+Akış ayarları ve alan eşleştirme işlemleri tamamlandıktan sonra akışınızı kullanabilirsiniz.
+
+Akış çalıştırıldığında sistem, seçilen ürün verilerini belirlenen formatta hazırlar. Oluşturulan akış çıktısı bağlantı üzerinden dış sistemlerle paylaşılabilir.
+
+Örnek bağlantı:
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure></div>
+
+Feed bağlantısını kopyalayarak ilgili platforma ekleyebilir veya entegrasyon süreçlerinde kullanabilirsiniz.
+
+Örnek çıktı:
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/pim-api-techie-tt-tr.lidiacommerce.net_api_v2.0_feeds_1023_1020_Emre%20Test2_xml (3).png" alt=""><figcaption></figcaption></figure></div>
 
