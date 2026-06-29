@@ -479,7 +479,7 @@ Her alt grup belirli bir veri tipini temsil eder. Böylece ürün bilgileri, var
 
 6. <mark style="background-color:blue;">**Ürün Marka Listesi Alanları**</mark>
 
-n
+Ürüne ait marka bilgilerini akışa dahil etmek için **Ürün Marka Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak marka alanlarını seçebilirsiniz.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -487,23 +487,68 @@ n
 
 {% columns %}
 {% column %}
-
+* Marka ID
+* Marka Adı
+* Marka Kodu
+* Marka Entegrasyon Kodu
 {% endcolumn %}
 
 {% column %}
-
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
 {% endcolumn %}
 {% endcolumns %}
 
 
 
-7. O
+7. <mark style="background-color:blue;">**Ürün Özellik Listesi Alanları**</mark>
 
-O
+Ürüne ait özellik bilgilerini akışa dahil etmek için **Ürün Özellik Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak özellik alanlarını seçebilirsiniz.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure></div>
 
+**Ürün Özellik Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
 
+{% columns %}
+{% column %}
+* Anahtar
+* Ad
+* Değer
+{% endcolumn %}
+
+{% column %}
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+8. <mark style="background-color:blue;">**Ürün Seçenek Listesi Alanları**</mark>
+
+Ürüne ait seçenek bilgilerini akışa dahil etmek için **Ürün Seçenek Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak seçenek alanlarını seçebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+
+**Ürün Seçenek Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+* Seçenek ID
+* Seçenek Adı
+* Seçenek Görünen Adı
+* Seçenek Kodu
+{% endcolumn %}
+
+{% column %}
+* Seçenek Entegrasyon Kodu
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
+{% endcolumn %}
+{% endcolumns %}
 
 #### :arrow\_forward:<mark style="color:$info;">Akış Nasıl Çalıştırılır ve Dış Sistemlerle Nasıl Paylaşılır?</mark>
 
