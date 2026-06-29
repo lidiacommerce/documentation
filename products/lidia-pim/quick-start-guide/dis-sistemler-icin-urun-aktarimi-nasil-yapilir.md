@@ -212,24 +212,50 @@ Alan eşleştirme işlemleri **Formatlar ve Önizleme** sekmesinde gerçekleşti
 
 #### :star: Alan eşleştirme işlemleri **Mapping Alanı** üzerinden gerçekleştirilir.
 
+Mapping alanı; akışın hiyerarşik yapısını oluşturmak, dış sisteme aktarılacak veri alanlarını belirlemek ve bu alanları Lidia PIM'deki sistem alanlarıyla eşleştirmek için kullanılır.
+
 #### Grup ve Alt Grup Yapısı
 
-Akış yapısı, grup ve alt grup hiyerarşisi kullanılarak oluşturulur. İlk olarak bir **Grup** oluşturulur. Daha sonra bu grubun altında akışta yer alacak veri yapısını temsil eden alt gruplar tanımlanır.
+* [x] Akış yapısı, grup ve alt grup hiyerarşisi kullanılarak oluşturulur. Grup, akışın temel yapısını oluşturan en üst seviyedeki bileşendir. Akışta yer alacak veri yapısı gruplar altında oluşturulur ve dış sisteme aktarılacak bilgiler bu yapı üzerinden organize edilir.
 
-> ![](../../../.gitbook/assets/image.png) **Grup Ekle** butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Oluşturulan grubun adını ihtiyacınıza göre değiştirebilir ve grubun çalışma şeklini belirleyebilirsiniz.
+{% hint style="info" %}
+Bir akış içerisinde ihtiyaca göre birden fazla grup oluşturabilirsiniz.
+{% endhint %}
 
-Her grup için aşağıdaki seçeneklerden biri tercih edilir:
+{% stepper %}
+{% step %}
+![](../../../.gitbook/assets/image.png) **Grup Ekle** butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Oluşturulan grubun adını ihtiyacınıza göre değiştirebilir ve grubun çalışma şeklini belirleyebilirsiniz.
+{% endstep %}
+{% endstepper %}
 
-* **Tekrarlanmayan:** Grup yalnızca bir kez oluşturulur. Genellikle akışın genel bilgilerini içeren alanlar (örneğin `rss` veya `channel`) için kullanılır.)
+Grup oluştururken, grubun akış içerisinde nasıl davranacağını belirleyen bir grup türü seçmeniz gerekir. Her grup için aşağıdaki seçeneklerden biri tercih edilir:
+
+* **Tekrarlanmayan:** Grup yalnızca bir kez oluşturulur. Genellikle akışın genel bilgilerini içeren alanlar (örneğin `rss` veya `channel`) için kullanılır.
 * **Ürün Listesi:** Grup, akışa dahil edilen **her ürün için** bir kez oluşturulur. Örneğin akışta 100 ürün varsa bu grup 100 kez tekrarlanır ve her ürünün bilgileri ayrı ayrı yazılır.
 * **Varyant Listesi:** Grup, akışa dahil edilen **her ürün varyantı için** oluşturulur. Örneğin bir tişörtün S, M ve L olmak üzere 3 varyantı varsa, varyant grubunda bu üç varyant ayrı ayrı listelenir.
 
-> **Grup aksiyonları**, akış çıktısının yapısını düzenlemek için kullanılır. Hazır şablon kullanıyorsanız bu alanlar çoğunlukla sistem tarafından önceden oluşturulmuş gelir. Kullanıcı olarak yalnızca ihtiyaç duyduğunuz alanları düzenleyebilir, yeni alan ekleyebilir veya gereksiz alanları kaldırabilirsiniz.
->
-> Manuel yapılandırma kullanıyorsanız bu butonlarla akışın yapısını sıfırdan oluşturursunuz.\
-> &#x20;<img src="../../../.gitbook/assets/image (167).png" alt="" data-size="line">**Alan Ekle** ile gruba yeni veri alanı ekleyebilir, <img src="../../../.gitbook/assets/image (168).png" alt="" data-size="line">**Alt Grup Ekle** ile iç içe grup yapısı oluşturabilir, <img src="../../../.gitbook/assets/image (169).png" alt="" data-size="line">**Öznitelikler ve Varsayılan Değerleri Yönet** alanından sabit değer veya XML özniteliği tanımlayabilir, <img src="../../../.gitbook/assets/image (170).png" alt="" data-size="line"> **Sil** butonu ile kullanmak istemediğiniz grupları kaldırabilirsiniz.
+{% hint style="info" %}
+**Grup oluşturduktan sonra iki farklı şekilde ilerleyebilirsiniz:**
 
-:arrow\_right: Eğer oluşturulan grup **Tekrarlanmayan** türündeyse, bu grubun altına eklenecek alt gruplar için aşağıdaki türlerden biri seçilebilir:
+* **Alan Ekle** butonu ile doğrudan alan tanımlayabilirsiniz.
+* **Alt Grup Ekle** butonu ile akış yapısını genişleterek farklı veri tiplerini hiyerarşik olarak ekleyebilirsiniz.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+![](<../../../.gitbook/assets/image (177).png>)**Grup aksiyonları**, akış çıktısının yapısını düzenlemek için kullanılır. Hazır şablon kullanıyorsanız bu alanlar çoğunlukla sistem tarafından önceden oluşturulmuş gelir. Kullanıcı olarak yalnızca ihtiyaç duyduğunuz alanları düzenleyebilir, yeni alan ekleyebilir veya gereksiz alanları kaldırabilirsiniz.
+
+Manuel yapılandırma kullanıyorsanız bu butonlarla akışın yapısını sıfırdan oluşturursunuz.\
+&#x20;<img src="../../../.gitbook/assets/image (167).png" alt="" data-size="line">**Alan Ekle** ile gruba yeni veri alanı ekleyebilir,\
+&#x20;<img src="../../../.gitbook/assets/image (168).png" alt="" data-size="line">**Alt Grup Ekle** ile iç içe grup yapısı oluşturabilir,\
+&#x20;<img src="../../../.gitbook/assets/image (169).png" alt="" data-size="line">**Öznitelikler ve Varsayılan Değerleri Yönet** alanından sabit değer veya XML özniteliği tanımlayabilir,\
+&#x20;<img src="../../../.gitbook/assets/image (170).png" alt="" data-size="line"> **Sil** butonu ile kullanmak istemediğiniz grupları kaldırabilirsiniz.
+{% endstep %}
+{% endstepper %}
+
+* [x] **Alt grup**, bir grubun altında farklı veri tiplerini hiyerarşik olarak organize etmek için kullanılır. Böylece ürün, varyant, kategori, marka, görsel veya doküman gibi ilişkili veriler aynı akış içerisinde düzenli bir yapıda oluşturulabilir.<br>
+
+:arrow\_right: Eğer oluşturulan grup **Tekrarlanmayan** türündeyse, bu grubun altına eklenecek **alt gruplar için** aşağıdaki türlerden biri seçilebilir:
 
 * Tekrarlanmayan
 * Ürün Listesi
@@ -237,11 +263,7 @@ Her grup için aşağıdaki seçeneklerden biri tercih edilir:
 
 <figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olarak tanımlanır. Böylece akışta yer alacak her ürün için bir kayıt oluşturulur ve ürün bilgileri bu grup altında yapılandırılır.
-{% endhint %}
-
-:arrow\_right: Eğer oluşturulan grup **Ürün Listesi**  türündeyse bu alt gruplar için aşağıdaki türlerden biri seçilebilir:
+:arrow\_right: Eğer oluşturulan grup **Ürün Listesi**  türündeyse bu grubun altına eklenecek **alt gruplar için** aşağıdaki türlerden biri seçilebilir:
 
 * Tekrarlanmayan
 * Ürün Doküman Listesi
@@ -254,7 +276,7 @@ Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olara
 
 <figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-:arrow\_right:  Eğer oluşturulan grup **Varyant Listesi**  türündeyse bu alt gruplar için aşağıdaki türlerden biri seçilebilir:
+:arrow\_right:  Eğer oluşturulan grup **Varyant Listesi**  türündeyse bu grubun altına eklenecek **alt gruplar için** aşağıdaki türlerden biri seçilebilir:
 
 * Tekrarlanmayan
 * Ürün Doküman Listesi
@@ -267,22 +289,77 @@ Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olara
 * Varyant Özellik Listesi
 * Varyant Seçenek Değeri Listesi
 
-Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olarak tanımlanır. Böylece akışta yer alacak her ürün için bir kayıt oluşturulur ve ürün bilgileri bu grup altında yapılandırılır.
+<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="success" %}
+Genellikle ana grup **Tekrarlanmayan**, ilk alt grup ise **Ürün Listesi** olarak tanımlanır. Böylece genel akış yapısı bir kez oluşturulur, ürün bilgileri ise her ürün için ayrı kayıt olarak üretilir.
+{% endhint %}
+
+
+
+* [x] Grup ve alt grup yapısını oluşturduktan sonra, dış sisteme aktarılacak verileri belirlemek için ilgili grup veya alt grup içerisine alanlar eklenir.\
+  \
+  **Alan Ekle** butonuna tıklayarak yeni bir alan oluşturabilirsiniz. Açılan pencerede, sol tarafta Lidia PIM'deki sistem alanı, sağ tarafta ise bu alanın akış çıktısında kullanılacak adı tanımlanır. \
+  \
+  Ekleyebileceğiniz sistem alanları, alanın eklendiği grup türüne göre değişiklik gösterir. Örneğin Ürün Listesi altında ürün alanları, Varyant Listesi altında varyant alanları, Kategori Listesi altında ise kategori alanları görüntülenir.
+
+
+
+1. <mark style="background-color:blue;">**Ürün Listesi Alanları**</mark>
+
+Ürün Listesi türündeki bir gruba alan eklemek için Alan Ekle butonuna tıklayın. Açılan pencerede sol taraftan Lidia PIM'deki sistem alanını seçin, sağ tarafta ise bu alanın akış çıktısında kullanılacak adını belirleyin.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure></div>
 
 **Ürün Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
 
+{% columns %}
+{% column %}
 * Ürün ID
 * Ürün Adı
 * Ürün Kodu
 * Ürün Entegrasyon Kodu
 * Ürün Kısa Açıklama
 * Ürün Uzun Açıklama
+* Ürün Ana Görsel Yolu
+* Ürün Vergi Oranı
+* Ürün Birimi
+* Ürün Tipi
+* Ürün Bağlantısı
+* Ürün Güncellenme Tarihi
+* Ürün Oluşturulma Tarihi
+* Ürün Durumu
+{% endcolumn %}
 
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+{% column width="33.33333333333333%" %}
+* Ürün > Kategori > Kategori ID
+* Ürün > Kategori > Adı
+* Ürün > Kategori > Kategori Tam Adı
+* Ürün > Kategori > Kodu
+* Ürün > Kategori > Entegrasyon Kodu
+* Ürün > Kategori > Güncellenme Tarihi
+* Ürün > Kategori > Oluşturulma Tarihi
+* Ürün > Kategori > Durum
+* Ürün > Marka > Marka ID
+{% endcolumn %}
 
-{% hint style="warning" %}
-:bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
-{% endhint %}
+{% column width="33.33333333333333%" %}
+* Ürün > Marka > Adı
+* Ürün > Marka > Kodu
+* Ürün > Marka > Entegrasyon Kodu
+* Ürün > Marka > Güncellenme Tarihi
+* Ürün > Marka > Oluşturulma Tarihi
+* Ürün > Marka > Durum
+* Ürün > Envanter > Stok
+* Ürün > Envanter > Fiyat
+* Ürün > Envanter > Liste Fiyatı
+* Ürün > Özellik
+{% endcolumn %}
+{% endcolumns %}
+
+
 
 #### :arrow\_forward:<mark style="color:$info;">Akış Nasıl Çalıştırılır ve Dış Sistemlerle Nasıl Paylaşılır?</mark>
 
