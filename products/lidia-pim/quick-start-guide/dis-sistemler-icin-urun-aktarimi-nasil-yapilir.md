@@ -210,9 +210,13 @@ Alan eşleştirme işlemleri **Formatlar ve Önizleme** sekmesinde gerçekleşti
 
 
 
-:star: Alan eşleştirme işlemleri **Mapping Alanı** üzerinden gerçekleştirilir.
+#### :star: Alan eşleştirme işlemleri **Mapping Alanı** üzerinden gerçekleştirilir.
 
-![](../../../.gitbook/assets/image.png)İlk olarak **Grup Ekle** butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Oluşturulan grubun adını ihtiyacınıza göre değiştirebilir ve grubun çalışma şeklini belirleyebilirsiniz.
+#### Grup ve Alt Grup Yapısı
+
+Akış yapısı, grup ve alt grup hiyerarşisi kullanılarak oluşturulur. İlk olarak bir **Grup** oluşturulur. Daha sonra bu grubun altında akışta yer alacak veri yapısını temsil eden alt gruplar tanımlanır.
+
+> ![](../../../.gitbook/assets/image.png) **Grup Ekle** butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Oluşturulan grubun adını ihtiyacınıza göre değiştirebilir ve grubun çalışma şeklini belirleyebilirsiniz.
 
 Her grup için aşağıdaki seçeneklerden biri tercih edilir:
 
@@ -220,10 +224,61 @@ Her grup için aşağıdaki seçeneklerden biri tercih edilir:
 * **Ürün Listesi:** Grup, akışa dahil edilen **her ürün için** bir kez oluşturulur. Örneğin akışta 100 ürün varsa bu grup 100 kez tekrarlanır ve her ürünün bilgileri ayrı ayrı yazılır.
 * **Varyant Listesi:** Grup, akışa dahil edilen **her ürün varyantı için** oluşturulur. Örneğin bir tişörtün S, M ve L olmak üzere 3 varyantı varsa, varyant grubunda bu üç varyant ayrı ayrı listelenir.
 
-**Grup aksiyonları**, akış çıktısının yapısını düzenlemek için kullanılır. Hazır şablon kullanıyorsanız bu alanlar çoğunlukla sistem tarafından önceden oluşturulmuş gelir. Kullanıcı olarak yalnızca ihtiyaç duyduğunuz alanları düzenleyebilir, yeni alan ekleyebilir veya gereksiz alanları kaldırabilirsiniz.
+> **Grup aksiyonları**, akış çıktısının yapısını düzenlemek için kullanılır. Hazır şablon kullanıyorsanız bu alanlar çoğunlukla sistem tarafından önceden oluşturulmuş gelir. Kullanıcı olarak yalnızca ihtiyaç duyduğunuz alanları düzenleyebilir, yeni alan ekleyebilir veya gereksiz alanları kaldırabilirsiniz.
+>
+> Manuel yapılandırma kullanıyorsanız bu butonlarla akışın yapısını sıfırdan oluşturursunuz.\
+> &#x20;<img src="../../../.gitbook/assets/image (167).png" alt="" data-size="line">**Alan Ekle** ile gruba yeni veri alanı ekleyebilir, <img src="../../../.gitbook/assets/image (168).png" alt="" data-size="line">**Alt Grup Ekle** ile iç içe grup yapısı oluşturabilir, <img src="../../../.gitbook/assets/image (169).png" alt="" data-size="line">**Öznitelikler ve Varsayılan Değerleri Yönet** alanından sabit değer veya XML özniteliği tanımlayabilir, <img src="../../../.gitbook/assets/image (170).png" alt="" data-size="line"> **Sil** butonu ile kullanmak istemediğiniz grupları kaldırabilirsiniz.
 
-Manuel yapılandırma kullanıyorsanız bu butonlarla akışın yapısını sıfırdan oluşturursunuz.\
-&#x20;<img src="../../../.gitbook/assets/image (167).png" alt="" data-size="line">**Alan Ekle** ile gruba yeni veri alanı ekleyebilir, <img src="../../../.gitbook/assets/image (168).png" alt="" data-size="line">**Alt Grup Ekle** ile iç içe grup yapısı oluşturabilir, <img src="../../../.gitbook/assets/image (169).png" alt="" data-size="line">**Öznitelikler ve Varsayılan Değerleri Yönet** alanından sabit değer veya XML özniteliği tanımlayabilir, <img src="../../../.gitbook/assets/image (170).png" alt="" data-size="line"> **Sil** butonu ile kullanmak istemediğiniz grupları kaldırabilirsiniz.
+:arrow\_right: Eğer oluşturulan grup **Tekrarlanmayan** türündeyse, bu grubun altına eklenecek alt gruplar için aşağıdaki türlerden biri seçilebilir:
+
+* Tekrarlanmayan
+* Ürün Listesi
+* Varyant Listesi
+
+<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olarak tanımlanır. Böylece akışta yer alacak her ürün için bir kayıt oluşturulur ve ürün bilgileri bu grup altında yapılandırılır.
+{% endhint %}
+
+:arrow\_right: Eğer oluşturulan grup **Ürün Listesi**  türündeyse bu alt gruplar için aşağıdaki türlerden biri seçilebilir:
+
+* Tekrarlanmayan
+* Ürün Doküman Listesi
+* Ürün Görsel Listesi
+* Ürün Kategori Listesi
+* Ürün Marka Listesi
+* Ürün Özellik Listesi
+* Ürün Listesi
+* Varyant Listesi
+
+<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+
+:arrow\_right:  Eğer oluşturulan grup **Varyant Listesi**  türündeyse bu alt gruplar için aşağıdaki türlerden biri seçilebilir:
+
+* Tekrarlanmayan
+* Ürün Doküman Listesi
+* Ürün Görsel Listesi
+* Ürün Kategori Listesi
+* Ürün Marka Listesi
+* Ürün Özellik Listesi
+* Varyant Doküman Listesi
+* Varyant Görsel Listesi
+* Varyant Özellik Listesi
+* Varyant Seçenek Değeri Listesi
+
+Genellikle akış yapısı oluşturulurken ilk alt grup **Ürün Listesi** olarak tanımlanır. Böylece akışta yer alacak her ürün için bir kayıt oluşturulur ve ürün bilgileri bu grup altında yapılandırılır.
+
+**Ürün Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+* Ürün ID
+* Ürün Adı
+* Ürün Kodu
+* Ürün Entegrasyon Kodu
+* Ürün Kısa Açıklama
+* Ürün Uzun Açıklama
+
+<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
