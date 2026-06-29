@@ -52,6 +52,7 @@
     * [Medya ve Varlık yönetimi nasıl yapılır?](products/lidia-pim/quick-start-guide/medya-ve-varlik-yonetimi-nasil-yapilir.md)
     * [Ürün nasıl eklenir?](products/lidia-pim/quick-start-guide/urun-nasil-eklenir.md)
     * [Kullanıcı ve Rol nasıl tanımlanır?](products/lidia-pim/quick-start-guide/kullanici-ve-rol-nasil-tanimlanir.md)
+    * [Dış sistemler için ürün aktarımı nasıl yapılır?](products/lidia-pim/quick-start-guide/dis-sistemler-icin-urun-aktarimi-nasil-yapilir.md)
   * [PIM User Guide](products/lidia-pim/user-guide/README.md)
     * [Getting Started](products/lidia-pim/pim-user-guide/getting-started.md)
     * [Settings](products/lidia-pim/pim-user-guide/settings.md)
