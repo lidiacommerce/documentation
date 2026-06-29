@@ -113,11 +113,10 @@ Oluşturulan her akış için erişim yetkileri **Erişim Kontrolü** üzerinden
 
 #### :arrow\_forward:<mark style="color:$info;">Feed Ayarları Nasıl Yapılır?</mark>
 
-Akış oluşturulduktan sonra temel bilgilerde değişiklik yapmak isterseniz, akış detay sayfasında yer alan **Temel Bilgiler** sekmesini kullanabilirsiniz.
+* Akış oluşturulduktan sonra temel bilgilerde değişiklik yapmak isterseniz, akış detay sayfasında yer alan **Temel Bilgiler** sekmesini kullanabilirsiniz.
 
-Bu bölümde **Bilgileri Güncelle** butonuna tıklayarak aşağıdaki bilgileri düzenleyebilirsiniz:
-
-* Akış Adı, Akış Kodu, Akış Formatı, Erişim Kontrolü Durumu, Akış Durumu (Aktif / Pasif)
+Bu bölümde **Bilgileri Güncelle** butonuna tıklayarak aşağıdaki bilgileri düzenleyebilirsiniz:\
+&#x20;    Akış Adı, Akış Kodu, Akış Formatı, Erişim Kontrolü Durumu, Akış Durumu (Aktif / Pasif)
 
 <div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (157).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -126,6 +125,36 @@ Aynı ekranda yer alan **Yeni Erişim Anahtarı Ekle** butonu ile akış bağlan
 Bir akış için birden fazla erişim anahtarı tanımlayabilirsiniz. Böylece farklı dış sistemler veya iş ortakları için ayrı anahtarlar oluşturabilir, erişimleri birbirinden bağımsız şekilde yönetebilirsiniz.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (158).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+
+
+* **Akış Ayarları** sekmesinde, oluşturduğunuz akışın çıktı biçimi, veri işleme kuralları, filtreleme seçenekleri ve akışa dahil edilecek veri paketleri yapılandırılır.
+
+<mark style="background-color:blue;">**-Çıktı Ayarları**</mark>
+
+Bu bölümde oluşturulacak akış dosyasının nasıl üretileceği belirlenir.
+
+{% tabs %}
+{% tab title="GZIP Sıkıştırma" %}
+**GZIP** Sıkıştırma seçeneği etkinleştirildiğinde oluşturulan çıktı dosyası GZIP algoritması kullanılarak sıkıştırılır. Büyük veri setlerinin daha **küçük boyutta** paylaşılması gerektiğinde bu seçenek kullanılabilir.
+{% endtab %}
+
+{% tab title="Boş Alan Yönetimi" %}
+Bu bölüm, boş veya **null** değerlerin akış çıktısında nasıl işleneceğini belirler. **Boş Değerleri Hariç Tut** seçeneği etkinleştirildiğinde boş veya null değer içeren alanlar oluşturulan akış çıktısına dahil edilmez.
+{% endtab %}
+
+{% tab title="Boşluk Karakteri Yönetimi" %}
+Bu bölüm, metin alanlarında bulunan gereksiz boşlukların otomatik olarak temizlenmesini sağlar. **Boşlukları Temizle** seçeneği etkinleştirildiğinde tüm metin değerlerinin başındaki ve sonundaki gereksiz boşluk karakterleri kaldırılır.
+{% endtab %}
+
+{% tab title="Durum Bazlı Filtreleme" %}
+Bu bölümde akışa dahil edilecek ürün ve varyant durumları belirlenir.
+
+**Ürün Durumları** ve **Varyant Durumları** için ayrı ayrı durum filtreleme uygulanabilir. Durum filtreleme kapalı olduğunda ilgili tüm durumlar akışa dahil edilir.
+
+Durum filtreleme etkinleştirildiğinde **Dahil Edilecek Durumlar** alanı aktif olur ve akışta yer almasını istediğiniz durumları seçmeniz gerekir. Yalnızca seçilen durumlara sahip ürün veya varyantlar akış çıktısına dahil edilir.
+{% endtab %}
+{% endtabs %}
 
 #### :arrow\_forward:<mark style="color:$info;">Ürün Alanları Feed Alanları ile Nasıl Eşleştirilir?</mark>
 
