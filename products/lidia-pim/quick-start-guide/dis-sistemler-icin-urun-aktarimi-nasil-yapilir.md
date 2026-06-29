@@ -81,44 +81,37 @@ Ekranın sağ tarafında bulunan **Önizleme** alanı, yaptığınız alan eşle
 
 {% stepper %}
 {% step %}
-<mark style="background-color:purple;">**Ayarlar > Yetkilendirme > Roller**</mark>**&#x20;sayfasına gidin.**
+<mark style="background-color:purple;">**Servisler > Akışlar**</mark>**&#x20;sayfasına gidin.**
 {% endstep %}
 
 {% step %}
-<mark style="background-color:purple;">**Yeni Rol Ekle**</mark> **aksiyonunu seçin.**
+<mark style="background-color:purple;">**Yeni Akış Ekle**</mark>**&#x20;butonuna tıklayın.**
 
 Açılan modalda:
 
-* **Rol adı** alanını doldurun _(zorunlu)_
-* **Kullanıcılar** alanı isteğe bağlıdır, daha sonra eklenebilir
+* **Akış Adı (Zorunlu)**
+* **Akış Kodu (Zorunlu)**
+* **Akış Formatı (Zorunlu)** — Lidia PIM veya Google Shopping formatlarından birini seçin.
 *
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="234"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="147"><figcaption></figcaption></figure></div>
+* **Devam Et** butonuna tıklayın.
 {% endstep %}
 
 {% step %}
-:tada:**Yeni rol tanımlandı.**
+:tada:**Yeni akış oluşturuldu.**
 
-Rol oluşturulduktan sonra detay sayfası üzerinden yönetilebilir.
+Akış oluşturulduktan sonra sistem sizi akış detay sayfasına yönlendirir. Bu sayfada akış ayarlarını yapılandırabilir ve alan eşleştirme işlemlerini tamamlayabilirsiniz.
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
 **Önemli**&#x20;
 
-Rol oluşturma ve yetki tanımlama işlemleri, kullanıcının sahip olduğu role bağlıdır. Örneğin, Guest rolüne sahip bir kullanıcı rol oluşturma veya yetki tanımlama işlemlerini gerçekleştiremez.
+Oluşturulan her akış için erişim yetkileri **Erişim Kontrolü** üzerinden yönetilebilir. Böylece akış bağlantısını yalnızca erişim izni bulunan kullanıcılar veya sistemler kullanabilir.
 {% endhint %}
 
-> **Rol detayında neler yapılır?**
->
-> Rol oluşturulduktan sonra rol detay sayfası üzerinden yönetim yapılır.
->
-> > * _<mark style="color:$info;">Kullanıcılar</mark>_ sekmesinde bu role bağlı kullanıcılar görüntülenebilir ve <mark style="background-color:purple;">**Kullanıcılara rol tanımla**</mark> aksiyonu ile yeni kullanıcılar bu role eklenebilir.&#x20;
-> > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde ise rolün sistemde hangi alanlara erişebileceği belirlenir; her modül için görüntüleme ve düzenleme yetkileri ayrı ayrı tanımlanabilir veya kaldırılabilir. Bu sayede rol bazlı erişim kapsamı merkezi ve kontrollü şekilde yönetilir.
->
-> &#x20;
-
-#### :arrow\_forward:<mark style="color:$info;">Yeni kullanıcı nasıl oluşturulur?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Feed Ayarları Nasıl Yapılır?</mark>
 
 {% stepper %}
 {% step %}
@@ -148,7 +141,7 @@ Açılan modalda:
 > > * _<mark style="color:$info;">Temel Bilgiler</mark>_ sekmesinden ad soyad, cep telefonu, doğum tarihi ve kimlik bilgisi gibi kullanıcı bilgilerini görüntüleyebilir ve kontrol edebilirsiniz. Gerekli durumlarda <mark style="background-color:purple;">**Şifre sıfırlama isteği gönder**</mark> aksiyonu ile kullanıcı için şifre yenileme süreci başlatabilirsiniz.
 > > * _<mark style="color:$info;">Yetkiler</mark>_ sekmesinde kullanıcıya ekstra rol atayabilirsiniz. Bir kullanıcıya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri bu roller üzerinden belirlenir.
 
-#### :arrow\_forward:<mark style="color:$info;">Kullanıcıya rol nasıl atanır?</mark>
+#### :arrow\_forward:<mark style="color:$info;">Ürün Alanları Feed Alanları ile Nasıl Eşleştirilir?</mark>
 
 Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
 
@@ -158,3 +151,6 @@ Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
 {% hint style="warning" %}
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
 {% endhint %}
+
+#### :arrow\_forward:<mark style="color:$info;">Feed Nasıl Çalıştırılır ve Dış Sistemlerle Nasıl Paylaşılır?</mark>
+

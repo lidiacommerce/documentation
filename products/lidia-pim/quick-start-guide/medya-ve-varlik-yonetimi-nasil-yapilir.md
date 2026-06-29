@@ -58,7 +58,7 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 * <img src="../../../.gitbook/assets/image (124).png" alt="" data-size="line"> Silme ikonu, dosya veya klasörleri silmek için kullanılır. Silinen medya kayıtları doğrudan kalıcı olarak silinmez ve Silinen Kayıtlar alanında 14 gün boyunca tutulur. İstenirse kullanıcı kayıtları bekletmeden kalıcı olarak da silebilir.\
   <img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original">
 * <img src="../../../.gitbook/assets/image (126).png" alt="" data-size="line"> Göz ikonu medya varlıklarını önizlemek için kullanılır. İsterseniz önizleme alanını tam ekran olarak da görüntüleyebilirsiniz.
-* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line">/<img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.
+* <img src="../../../.gitbook/assets/image (127).png" alt="" data-size="line">/<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Listeleme ikonu ile medya kayıtlarını simge görünümü veya liste görünümü şeklinde görüntüleyebilirsiniz.
 
 {% columns %}
 {% column %}
@@ -71,7 +71,7 @@ Sağ taraftaki listeleme alanında medya kayıtlarına ait isim, yetki bilgisi, 
 {% endcolumns %}
 
 * [ ] <img src="../../../.gitbook/assets/image (128).png" alt="" data-size="line"> Sıralama ikonu ise kayıtları ada, boyuta, tarihe, türe veya izin bilgilerine göre sıralamanızı sağlar. Ayrıca yalnızca klasörleri görüntüleyebilir veya ağaç görünümü üzerinden yeni ana klasörler oluşturabilirsiniz.
-* [ ] <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede: Yeni sekmede aç, Bağlantıyı kopyala, İndir seçenekleri görüntülenir.\
+* [ ] <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> Ev ikonu yalnızca bir dosya veya klasör seçildiğinde aktif olur. Bu butona tıklandığında açılan pencerede: Yeni sekmede aç, Bağlantıyı kopyala, İndir seçenekleri görüntülenir.\
   \
   ![](<../../../.gitbook/assets/image (3).png>)
 * [x] <mark style="color:$info;">**Görsel Nasıl Yüklenir?**</mark>
