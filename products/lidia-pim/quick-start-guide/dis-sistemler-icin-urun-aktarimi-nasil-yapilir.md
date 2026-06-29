@@ -75,7 +75,7 @@ Ekranın sağ tarafında bulunan **Önizleme** alanı, yaptığınız alan eşle
 
     Bu seçenek, hazır şablonlar yerine tamamen özelleştirilmiş bir akış oluşturmak isteyen kullanıcılar için uygundur.
 
-
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div>
 
 #### :arrow\_forward:<mark style="color:$info;">Yeni Akış Nasıl Oluşturulur?</mark>
 
