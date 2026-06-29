@@ -311,7 +311,7 @@ Genellikle ana grup **Tekrarlanmayan**, ilk alt grup ise **Ürün Listesi** olar
 
 Ürün Listesi türündeki bir gruba alan eklemek için Alan Ekle butonuna tıklayın. Açılan pencerede sol taraftan Lidia PIM'deki sistem alanını seçin, sağ tarafta ise bu alanın akış çıktısında kullanılacak adını belirleyin.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure></div>
 
 **Ürün Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
 
@@ -358,6 +358,150 @@ Genellikle ana grup **Tekrarlanmayan**, ilk alt grup ise **Ürün Listesi** olar
 * Ürün > Özellik
 {% endcolumn %}
 {% endcolumns %}
+
+
+
+Ürün alanlarını tanımladıktan sonra, ihtiyaç duyduğunuz ilişkili verileri akışa dahil etmek için ilgili grubun içerisine yeni alt gruplar ekleyebilirsiniz.
+
+Her alt grup belirli bir veri tipini temsil eder. Böylece ürün bilgileri, varyantlar, görseller, dokümanlar, kategoriler, markalar ve özellikler kendi yapıları içerisinde düzenli şekilde oluşturulur. Bu yaklaşım, akış çıktısının dış sistemlerin beklediği hiyerarşik yapıya uygun olmasını sağlar.
+
+{% hint style="info" %}
+Ürüne bağlı veriler, ayrı alt gruplar altında yapılandırılır. Bu sayede her veri tipi kendi alanlarıyla birlikte dış sisteme düzenli ve hiyerarşik olarak aktarılır.
+{% endhint %}
+
+
+
+2. <mark style="background-color:blue;">**Varyant Listesi Alanları**</mark>
+
+Ürüne ait varyant bilgilerini akışa dahil etmek için Varyant Listesi alt grubunu oluşturun. Ardından Alan Ekle butonuna tıklayarak varyanta ait sistem alanlarını seçebilirsiniz.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure></div>
+
+**Varyant Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+* Varyant ID
+* Varyant Adı
+* Varyant Kodu
+* Varyant Entegrasyon Kodu
+* Varyant Kısa Açıklama
+* Varyant Uzun Açıklama
+{% endcolumn %}
+
+{% column %}
+* Varyant Ana Görsel Yolu
+* Varyant Güncellenme Tarihi
+* Varyant Oluşturulma Tarihi
+* Varyant Durumu
+* Varyant Seçenek Değeri
+* Varyant Özelliği
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+3. <mark style="background-color:blue;">**Ürün Doküman Listesi Alanları**</mark>
+
+Ürüne ait doküman bilgilerini akışa dahil etmek için **Ürün Doküman Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak doküman alanlarını seçebilirsiniz.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure></div>
+
+**Ürün Doküman Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+* Doküman Yolu
+* Doküman Adı
+* Doküman Formatı
+{% endcolumn %}
+
+{% column %}
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+4. <mark style="background-color:blue;">**Ürün Görsel Listesi Alanları**</mark>
+
+Ürüne ait görsel bilgilerini akışa dahil etmek için **Ürün Görsel Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak görsel alanlarını seçebilirsiniz.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure></div>
+
+**Ürün Görsel Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+* Görsel Yolu
+* Görsel Formatı
+* Görsel Adı
+* Kapak Görseli mi
+{% endcolumn %}
+
+{% column %}
+* Alt Bilgisi (Alt Text)
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+5. <mark style="background-color:blue;">**Ürün Kategori Listesi Alanları**</mark>
+
+Ürüne ait kategori bilgilerini akışa dahil etmek için **Ürün Kategori Listesi** alt grubunu oluşturun. Ardından **Alan Ekle** butonuna tıklayarak kategori alanlarını seçebilirsiniz.
+
+<figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+
+**Ürün Kategori Listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+* Kategori ID
+* Kategori Adı
+* Kategori Tam Adı
+* Kategori Kodu
+{% endcolumn %}
+
+{% column %}
+* Kategori Entegrasyon Kodu
+* Güncellenme Tarihi
+* Oluşturulma Tarihi
+* Durum
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+6. <mark style="background-color:blue;">**Ürün Marka Listesi Alanları**</mark>
+
+n
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure></div>
+
+**Ürün marka listesi** seçildiğinde **Alan Ekle** butonu ile aşağıdaki ürün alanları akışa eklenebilir:
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+7. O
+
+O
+
+
 
 
 
