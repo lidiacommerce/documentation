@@ -170,6 +170,38 @@ Durum filtreleme etkinleştirildiğinde **Dahil Edilecek Durumlar** alanı aktif
 {% endtab %}
 {% endtabs %}
 
+<mark style="background-color:blue;">**-Filtreler**</mark>
+
+Filtreler bölümü, akışa dahil edilecek verileri belirli kriterlere göre sınırlandırmanızı sağlar. Bu sayede yalnızca istediğiniz ürünler akışta yer alır.
+
+Bu bölümde aşağıdaki filtreler kullanılabilir:
+
+* Kategoriler
+* Hariç Kategoriler
+* Markalar
+* Hariç Markalar
+* Özel Listeler
+* Ürün Özellikleri
+* Varyant Özellikleri
+* Seçenek Değerleri
+* Ürün Etiketleri
+* Hariç Ürün Etiketleri
+* Varyant Etiketleri
+* Hariç Varyant Etiketleri
+
+Seçilen filtreler birlikte değerlendirilir ve yalnızca belirlenen kriterlere uyan kayıtlar akışa dahil edilir.
+
+<mark style="background-color:blue;">**-Veri Paketi**</mark>
+
+Veri Paketi bölümü, akışta hangi veri paketlerinin yer alacağını belirlemek için kullanılır.
+
+Bu bölümde aşağıdaki alanlar yapılandırılabilir:
+
+* Koleksiyonlar
+* Kategori Boyutları
+
+Seçilen veri paketleri, oluşturulan akış çıktısına dahil edilir.
+
 #### :arrow\_forward:<mark style="color:$info;">Ürün Alanları Feed Alanları ile Nasıl Eşleştirilir?</mark>
 
 Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
