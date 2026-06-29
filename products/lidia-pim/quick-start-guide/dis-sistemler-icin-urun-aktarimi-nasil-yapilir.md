@@ -94,7 +94,7 @@ Açılan modalda:
 * **Akış Formatı (Zorunlu)** — Lidia PIM veya Google Shopping formatlarından birini seçin.
 *
 
-    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="147"><figcaption></figcaption></figure></div>
+    <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="147"><figcaption></figcaption></figure></div>
 * **Devam Et** butonuna tıklayın.
 {% endstep %}
 
@@ -207,6 +207,23 @@ Seçilen veri paketleri, oluşturulan akış çıktısına dahil edilir.
 Alan eşleştirme işlemleri **Formatlar ve Önizleme** sekmesinde gerçekleştirilir. Sayfanın üst kısmında yer alan **Kullanım Kuralları ve İpuçları** bölümü ise eşleştirme işlemi sırasında dikkat edilmesi gereken kurallar hakkında yönlendirici bilgiler sunar.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+:star: Alan eşleştirme işlemleri **Mapping Alanı** üzerinden gerçekleştirilir.
+
+![](../../../.gitbook/assets/image.png)İlk olarak **Grup Ekle** butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Oluşturulan grubun adını ihtiyacınıza göre değiştirebilir ve grubun çalışma şeklini belirleyebilirsiniz.
+
+Her grup için aşağıdaki seçeneklerden biri tercih edilir:
+
+* **Tekrarlanmayan:** Grup yalnızca bir kez oluşturulur. Genellikle akışın genel bilgilerini içeren alanlar (örneğin `rss` veya `channel`) için kullanılır.)
+* **Ürün Listesi:** Grup, akışa dahil edilen **her ürün için** bir kez oluşturulur. Örneğin akışta 100 ürün varsa bu grup 100 kez tekrarlanır ve her ürünün bilgileri ayrı ayrı yazılır.
+* **Varyant Listesi:** Grup, akışa dahil edilen **her ürün varyantı için** oluşturulur. Örneğin bir tişörtün S, M ve L olmak üzere 3 varyantı varsa, varyant grubunda bu üç varyant ayrı ayrı listelenir.
+
+**Grup aksiyonları**, akış çıktısının yapısını düzenlemek için kullanılır. Hazır şablon kullanıyorsanız bu alanlar çoğunlukla sistem tarafından önceden oluşturulmuş gelir. Kullanıcı olarak yalnızca ihtiyaç duyduğunuz alanları düzenleyebilir, yeni alan ekleyebilir veya gereksiz alanları kaldırabilirsiniz.
+
+Manuel yapılandırma kullanıyorsanız bu butonlarla akışın yapısını sıfırdan oluşturursunuz.\
+&#x20;<img src="../../../.gitbook/assets/image (167).png" alt="" data-size="line">**Alan Ekle** ile gruba yeni veri alanı ekleyebilir, <img src="../../../.gitbook/assets/image (168).png" alt="" data-size="line">**Alt Grup Ekle** ile iç içe grup yapısı oluşturabilir, <img src="../../../.gitbook/assets/image (169).png" alt="" data-size="line">**Öznitelikler ve Varsayılan Değerleri Yönet** alanından sabit değer veya XML özniteliği tanımlayabilir, <img src="../../../.gitbook/assets/image (170).png" alt="" data-size="line"> **Sil** butonu ile kullanmak istemediğiniz grupları kaldırabilirsiniz.
 
 {% hint style="warning" %}
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
