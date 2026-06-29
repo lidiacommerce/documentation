@@ -75,7 +75,7 @@ Ekranın sağ tarafında bulunan **Önizleme** alanı, yaptığınız alan eşle
 
     Bu seçenek, hazır şablonlar yerine tamamen özelleştirilmiş bir akış oluşturmak isteyen kullanıcılar için uygundur.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 #### :arrow\_forward:<mark style="color:$info;">Yeni Akış Nasıl Oluşturulur?</mark>
 
@@ -204,10 +204,9 @@ Seçilen veri paketleri, oluşturulan akış çıktısına dahil edilir.
 
 #### :arrow\_forward:<mark style="color:$info;">Ürün Alanları Feed Alanları ile Nasıl Eşleştirilir?</mark>
 
-Kullanıcıya rol atama işlemi birden fazla noktadan yapılabilir:
+Alan eşleştirme işlemleri **Formatlar ve Önizleme** sekmesinde gerçekleştirilir. Sayfanın üst kısmında yer alan **Kullanım Kuralları ve İpuçları** bölümü ise eşleştirme işlemi sırasında dikkat edilmesi gereken kurallar hakkında yönlendirici bilgiler sunar.
 
-* **Kullanıcı üzerinden:** <mark style="background-color:purple;">Kullanıcı oluşturma sırasında</mark> veya kullanıcı detay sayfasındaki _<mark style="color:$info;background-color:purple;">Yetkiler</mark>_ sekmesinden rol atanabilir.
-* **Rol üzerinden:** <mark style="background-color:purple;">Rol oluşturma sırasında</mark> veya rol detay sayfasındaki _<mark style="color:$info;background-color:purple;">Kullanıcılar</mark>_ sekmesinden kullanıcıya rol atanabilir.
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 :bangbang:Tüm bu yöntemlerde kullanıcıya bir veya birden fazla rol tanımlanabilir ve kullanıcının sistemdeki erişim yetkileri, atanmış rollerin birleşimi ile belirlenir.
